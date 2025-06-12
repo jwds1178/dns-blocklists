@@ -28,7 +28,6 @@ jobs:
             "controld/meta-tracker-allow-folder.json"
             "controld/microsoft-allow-folder.json"
             "controld/referral-allow-folder.json"
-            "controld/spam-idns-folder.json"
             "controld/spam-tlds-combined-folder.json"
             "controld/ultimate-known_issues-allow-folder.json"
           )
