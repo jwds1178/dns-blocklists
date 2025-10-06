@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Oct 2025 10:13 UTC
-# Version: 2025.1005.1013.38
+# Last modified: 06 Oct 2025 10:14 UTC
+# Version: 2025.1006.1014.57
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2443
+# Number of entries: 2444
 #
 l.1mp.ru
 t.1und1.de
@@ -906,6 +906,7 @@ sites.hscoscdn-eu1.net
 24974645.sites.hscoscdn-eu1.net
 25077430.sites.hscoscdn-eu1.net
 25149585.sites.hscoscdn-eu1.net
+25168988.sites.hscoscdn-eu1.net
 25218657.sites.hscoscdn-eu1.net
 25262657.sites.hscoscdn-eu1.net
 25276355.sites.hscoscdn-eu1.net
