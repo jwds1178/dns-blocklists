@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 10:30 UTC
-# Version: 2025.1006.1030.00
+# Last modified: 06 Oct 2025 22:27 UTC
+# Version: 2025.1006.2227.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7202
+# Number of entries: 7207
 #
 local=/0.gp/
 local=/00m.in/
@@ -1443,6 +1443,7 @@ local=/csnode.com/
 local=/cstu.io/
 local=/kutt.csweb.cloud/
 local=/ct.rocks/
+local=/ctahire.com/
 local=/ctbc.tw/
 local=/cte.li/
 local=/ctfl.io/
@@ -1600,6 +1601,7 @@ local=/dell.to/
 local=/deloi.tt/
 local=/delta.live/
 local=/dems.me/
+local=/deshtvbd.com/
 local=/desin.me/
 local=/wwww.destockdrive.com/
 local=/detonnot.com/
@@ -2183,6 +2185,7 @@ local=/getshort.in/
 local=/getshorter.com/
 local=/getsmallurl.com/
 local=/getthot.com/
+local=/gettolink.net/
 local=/gettr.im/
 local=/getus.at/
 local=/gf.to/
@@ -2349,6 +2352,7 @@ local=/grouprai.se/
 local=/lnk.growflow.com/
 local=/grr.sh/
 local=/gruntwork.io/
+local=/gscc.pro/
 local=/gskvn.live/
 local=/gsms.jp/
 local=/gst.bz/
@@ -3446,6 +3450,7 @@ local=/d.looks.wang/
 local=/looktiny.com/
 local=/loom.ly/
 local=/loopt.us/
+local=/lorem.is/
 local=/lou.ly/
 local=/on.louisvuitton.com/
 local=/loveer.win/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 11:41 UTC
-# Version: 2025.1006.1141.25
+# Last modified: 06 Oct 2025 23:38 UTC
+# Version: 2025.1006.2338.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8337
+# Number of entries: 8339
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -130,6 +130,7 @@ local=/xjpdns.354688.xyz/
 local=/doh.360.cn/
 local=/dot.360.cn/
 local=/dns.3dcapitaltrust.net/
+local=/3dcosas.xyz/
 local=/3dns.eu/
 local=/3jjxxl.tech/
 local=/adg.3k.work/
@@ -7560,6 +7561,7 @@ local=/turbossh.com/
 local=/turbovpn.co/
 local=/turbovpn.com/
 local=/turmericrecipes.com/
+local=/tuskythehusky.tech/
 local=/tuvpn.com/
 local=/nat64.tuxis.nl/
 local=/tuxlervpn.com/

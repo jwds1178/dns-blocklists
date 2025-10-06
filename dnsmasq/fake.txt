@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 10:27 UTC
-# Version: 2025.1006.1027.55
+# Last modified: 06 Oct 2025 22:25 UTC
+# Version: 2025.1006.2225.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13719
+# Number of entries: 13721
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -6231,6 +6231,7 @@ local=/inov-8suomi.com/
 local=/insideinvest.pro/
 local=/insiderlx.com/
 local=/insightfulyou.net/
+local=/insolesgeeks.com/
 local=/inspectionk.com/
 local=/inspectiony.com/
 local=/inspirelf.com/
@@ -11194,6 +11195,7 @@ local=/solarszellen.de/
 local=/solarwind-shop.com/
 local=/solauthentic.com/
 local=/solden-hotels.com/
+local=/soldessacsparis.com/
 local=/solidarity-finanzierung.com/
 local=/solidinvest.co/
 local=/solobit.co/

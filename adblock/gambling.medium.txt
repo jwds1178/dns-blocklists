@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Oct 2025 11:31 UTC
-! Version: 2025.1006.1131.17
+! Last modified: 06 Oct 2025 23:28 UTC
+! Version: 2025.1006.2328.47
 ! Syntax: AdBlock
-! Number of entries: 100376
+! Number of entries: 100359
 !
 ||0-bdmbet.com^
 ||0-casino.info^
@@ -971,7 +971,6 @@
 ||12merryph.vip^
 ||12paffiliates.com^
 ||12pkcasino.com^
-||12play.website^
 ||12play15.com^
 ||12play28.com^
 ||12q888.com^
@@ -5788,7 +5787,6 @@
 ||1xbets.bet^
 ||1xbets.biz^
 ||1xbets.cloud^
-||1xbets.website^
 ||1xbets247.com^
 ||1xbets247.in^
 ||1xbetsa.info^
@@ -6546,7 +6544,6 @@
 ||22betin.com^
 ||22betluck.com^
 ||22betpartners.com^
-||22bets.site^
 ||22bets1.com^
 ||22bets11.com^
 ||22bets777.com^
@@ -10032,10 +10029,7 @@
 ||72599v.com^
 ||725betcasino.com^
 ||727351.com^
-||7276d.xyz^
-||7276m.xyz^
 ||7276q.xyz^
-||7276s.xyz^
 ||7276t.xyz^
 ||72770.com^
 ||72812827.com^
@@ -20501,7 +20495,6 @@
 ||betsafesuomi.com^
 ||betsafesverige.com^
 ||betsafezone.com^
-||betsagaprozone.com^
 ||betsaio.com^
 ||betsakura.xyz^
 ||betsala.com^
@@ -21071,7 +21064,6 @@
 ||betson.store^
 ||betsonho777.com^
 ||betsonic.xyz^
-||betsonline.site^
 ||betsonlineguide.com^
 ||betsonmobi.com^
 ||betsoonbet.com^
@@ -35464,6 +35456,7 @@
 ||clubplayercasino-fr.com^
 ||clubpoker.bio^
 ||clubpoker.net^
+||clubrbet.com^
 ||clubriches.com^
 ||clubslotsalamanca.com^
 ||clubspoker.club^
@@ -38432,6 +38425,7 @@
 ||cryptoreels.com^
 ||cryptorino.io^
 ||cryptoroulette.casino^
+||cryptorush.com^
 ||cryptoskull.com^
 ||cryptoslots.com^
 ||cryptoslotse.com^
@@ -46625,7 +46619,6 @@
 ||geminicasino.net^
 ||geminicasino.us^
 ||gemler.com^
-||gemoy88naik.com^
 ||gempoker.org^
 ||gemslots1.com^
 ||gemspg.bet^
@@ -61367,7 +61360,6 @@
 ||luckywincasinot.com^
 ||luckywins.com^
 ||luckywins.io^
-||luckywinscasino.app^
 ||luckywinscasino.com^
 ||luckywinscasino-au.net^
 ||luckywinscasinoaustralia.org^
@@ -63627,7 +63619,6 @@
 ||melbetpartners.com^
 ||melbetreview.com^
 ||melbetru.com^
-||melbets.site^
 ||melbets.website^
 ||melbetsaffiliates.com^
 ||melbetsenegal.net^
@@ -64296,7 +64287,6 @@
 ||mineslots.xyz^
 ||minesslotslot.xyz^
 ||minggu111.com^
-||mini1221.xyz^
 ||minibets.xyz^
 ||minigamesonline.org^
 ||minikuehlschranktest.net^
@@ -66935,7 +66925,6 @@
 ||newcasinosbonus.xyz^
 ||newcasinosgr.com^
 ||newcasinosnz.com^
-||newcasinosweb.com^
 ||newcasinou.com^
 ||newcasinouk.com^
 ||newcastle-insurance.com^
@@ -67055,7 +67044,6 @@
 ||nexusbets.xyz^
 ||nexuscasino.cc^
 ||nexuscasino.uk^
-||nexusnestcasino.com^
 ||neyinecasino.com^
 ||neymar-casino.com^
 ||neypg-slots.com^
@@ -74787,7 +74775,6 @@
 ||poker.by^
 ||poker.com^
 ||poker.dk^
-||poker.email^
 ||poker.energy^
 ||poker.fr^
 ||poker.hamburg^
@@ -78735,7 +78722,6 @@
 ||raffi777casino.lol^
 ||raffi777poker.buzz^
 ||raffi777vvip.click^
-||raffi88mania.net^
 ||raffi88pusat.com^
 ||raffleslots.us^
 ||rafi168okegas.xyz^
@@ -87204,7 +87190,6 @@
 ||sportsbetcasino.be^
 ||sportsbetcasinoreview.com^
 ||sportsbets.lifestyle^
-||sportsbets.website^
 ||sportsbetsonchain.com^
 ||sportsbetting.ag^
 ||sportsbetting24.com^
@@ -91906,7 +91891,6 @@
 ||turistua.com^
 ||turkcasinositeleri.net^
 ||turkcecasino.net^
-||turkdoktor.pro^
 ||turkeycasino.casa^
 ||turkiyebestcasino.com^
 ||turkiyemfood.de^
@@ -96911,7 +96895,6 @@
 ||webmulaibola.store^
 ||webofcasinos.shop^
 ||webook88.com^
-||webor.org^
 ||webpartners.co^
 ||webpokerdesign.xyz^
 ||webranz.com^

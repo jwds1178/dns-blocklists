@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Oct 2025 11:40 UTC
-! Version: 2025.1006.1140.59
+! Last modified: 06 Oct 2025 23:38 UTC
+! Version: 2025.1006.2338.13
 ! Syntax: AdBlock
-! Number of entries: 3350
+! Number of entries: 3352
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -78,6 +78,7 @@
 ||doh.360.cn^
 ||dot.360.cn^
 ||dns.3dcapitaltrust.net^
+||3dcosas.xyz^
 ||3dns.eu^
 ||3jjxxl.tech^
 ||adg.3k.work^
@@ -3076,6 +3077,7 @@
 ||dns.tuankhaiit.com^
 ||tuantran.cloud^
 ||tujenasnaszato.xyz^
+||tuskythehusky.tech^
 ||nat64.tuxis.nl^
 ||dns.twnic.tw^
 ||adguard.twotigers.xyz^

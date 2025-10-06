@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Oct 2025 10:30 UTC
-! Version: 2025.1006.1030.00
+! Last modified: 06 Oct 2025 22:27 UTC
+! Version: 2025.1006.2227.24
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1389,6 +1389,7 @@
 @@||cstu.io^
 @@||kutt.csweb.cloud^
 @@||ct.rocks^
+@@||ctahire.com^
 @@||ctbc.tw^
 @@||cte.li^
 @@||ctfl.io^
@@ -1538,6 +1539,7 @@
 @@||deloi.tt^
 @@||delta.live^
 @@||dems.me^
+@@||deshtvbd.com^
 @@||desin.me^
 @@||wwww.destockdrive.com^
 @@||detonnot.com^
@@ -2108,6 +2110,7 @@
 @@||getshorter.com^
 @@||getsmallurl.com^
 @@||getthot.com^
+@@||gettolink.net^
 @@||gettr.im^
 @@||getus.at^
 @@||gf.to^
@@ -2265,6 +2268,7 @@
 @@||lnk.growflow.com^
 @@||grr.sh^
 @@||gruntwork.io^
+@@||gscc.pro^
 @@||gskvn.live^
 @@||gsms.jp^
 @@||gst.bz^
@@ -3320,6 +3324,7 @@
 @@||looktiny.com^
 @@||loom.ly^
 @@||loopt.us^
+@@||lorem.is^
 @@||lou.ly^
 @@||on.louisvuitton.com^
 @@||loveer.win^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759746600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759789620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Oct 2025 10:30 UTC
-; Version: 2025.1006.1030.00
+; Last modified: 06 Oct 2025 22:27 UTC
+; Version: 2025.1006.2227.24
 ; Syntax: RPZ
-; Number of entries: 14404
+; Number of entries: 14414
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2761,6 +2761,8 @@ crypsante.com CNAME .
 *.crypsante.com CNAME .
 csnode.com CNAME .
 *.csnode.com CNAME .
+ctahire.com CNAME .
+*.ctahire.com CNAME .
 ctse-registry.com CNAME .
 *.ctse-registry.com CNAME .
 cukbaray.com CNAME .
@@ -2821,6 +2823,8 @@ defigodirect.com CNAME .
 *.defigodirect.com CNAME .
 delivr.com CNAME .
 *.delivr.com CNAME .
+deshtvbd.com CNAME .
+*.deshtvbd.com CNAME .
 wwww.destockdrive.com CNAME .
 *.wwww.destockdrive.com CNAME .
 detonnot.com CNAME .
@@ -7911,6 +7915,8 @@ linky.is CNAME .
 *.linky.is CNAME .
 lnq.is CNAME .
 *.lnq.is CNAME .
+lorem.is CNAME .
+*.lorem.is CNAME .
 nnn.is CNAME .
 *.nnn.is CNAME .
 go.nowth.is CNAME .
@@ -10797,6 +10803,8 @@ geralink.net CNAME .
 *.geralink.net CNAME .
 getpcp.net CNAME .
 *.getpcp.net CNAME .
+gettolink.net CNAME .
+*.gettolink.net CNAME .
 go-links.net CNAME .
 *.go-links.net CNAME .
 go777.net CNAME .
@@ -11849,6 +11857,8 @@ go2ct.pro CNAME .
 *.go2ct.pro CNAME .
 goo2.pro CNAME .
 *.goo2.pro CNAME .
+gscc.pro CNAME .
+*.gscc.pro CNAME .
 hier.pro CNAME .
 *.hier.pro CNAME .
 jktc.pro CNAME .

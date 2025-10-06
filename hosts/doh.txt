@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 11:40 UTC
-# Version: 2025.1006.1140.59
+# Last modified: 06 Oct 2025 23:38 UTC
+# Version: 2025.1006.2338.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3822
+# Number of entries: 3824
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -85,6 +85,7 @@
 0.0.0.0 doh.360.cn
 0.0.0.0 dot.360.cn
 0.0.0.0 dns.3dcapitaltrust.net
+0.0.0.0 3dcosas.xyz
 0.0.0.0 3dns.eu
 0.0.0.0 3jjxxl.tech
 0.0.0.0 adg.3k.work
@@ -3503,6 +3504,7 @@
 0.0.0.0 dns.tuankhaiit.com
 0.0.0.0 tuantran.cloud
 0.0.0.0 tujenasnaszato.xyz
+0.0.0.0 tuskythehusky.tech
 0.0.0.0 nat64.tuxis.nl
 0.0.0.0 dns.twnic.tw
 0.0.0.0 adguard.twotigers.xyz
