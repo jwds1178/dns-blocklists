@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Oct 2025 11:38 UTC
-# Version: 2025.1007.1138.51
+# Last modified: 07 Oct 2025 23:38 UTC
+# Version: 2025.1007.2338.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3831
+# Number of entries: 3834
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -442,6 +442,7 @@
 0.0.0.0 berd.moe
 0.0.0.0 dns.bermeitinger.eu
 0.0.0.0 domburg.beruys.com
+0.0.0.0 bestwon203.com
 0.0.0.0 dns.bgeneto.com
 0.0.0.0 dns.bibitos.cc
 0.0.0.0 httpdns.bilivideo.com
@@ -530,6 +531,7 @@
 0.0.0.0 sabine.bruno2000.link
 0.0.0.0 adguard.bse4792.site
 0.0.0.0 doh.bt.com
+0.0.0.0 bubblex2.top
 0.0.0.0 goose.buckyfan.net
 0.0.0.0 doh.bugdns.com
 0.0.0.0 stratus.bugz.fr
@@ -1706,6 +1708,7 @@
 0.0.0.0 dns.hahnjo.de
 0.0.0.0 dns.haka.se
 0.0.0.0 dns.hakim.one
+0.0.0.0 dns.hakutakucn.com
 0.0.0.0 dns.hanahira.dev
 0.0.0.0 adguard.haneulo.com
 0.0.0.0 dns.hanmey.de

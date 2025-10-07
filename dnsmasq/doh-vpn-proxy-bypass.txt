@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Oct 2025 11:39 UTC
-# Version: 2025.1007.1139.16
+# Last modified: 07 Oct 2025 23:39 UTC
+# Version: 2025.1007.2339.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8342
+# Number of entries: 8351
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -596,6 +596,7 @@ local=/openvpnpptp.bese.info/
 local=/openvpnpptpserver.bese.info/
 local=/bestaitool.news/
 local=/bestfreevpn.com/
+local=/bestproxy.xyz/
 local=/bestssh.net/
 local=/bestukvpn.com/
 local=/bestvideoproxy.com/
@@ -604,6 +605,7 @@ local=/bestvpnprovider.info/
 local=/bestvpnrating.com/
 local=/bestvpnserver.com/
 local=/bestvpnssh.com/
+local=/bestwon203.com/
 local=/bestyouproxytube.com/
 local=/bestyoutubeproxy.info/
 local=/www-proxy.bettercallghaith.wiki/
@@ -749,6 +751,7 @@ local=/doh.bt.com/
 local=/btguard.com/
 local=/btunnel.in/
 local=/bubbleset.com/
+local=/bubblex2.top/
 local=/goose.buckyfan.net/
 local=/buffered.com/
 local=/doh.bugdns.com/
@@ -868,6 +871,7 @@ local=/dns.circl.lu/
 local=/circumitor.de/
 local=/circumvent.it/
 local=/mus.cisco.com/
+local=/ciscossh.com/
 local=/citizenvpn.com/
 local=/dns.citrahost.com/
 local=/dns.citystars.cn/
@@ -2399,6 +2403,7 @@ local=/ns2.hadan-dns.de/
 local=/dns.hahnjo.de/
 local=/dns.haka.se/
 local=/dns.hakim.one/
+local=/dns.hakutakucn.com/
 local=/dns.hanahira.dev/
 local=/adguard.haneulo.com/
 local=/dns.hanmey.de/
@@ -2680,7 +2685,11 @@ local=/immadnez7.ru/
 local=/dns.immanuelschaffer.de/
 local=/doh.immerda.ch/
 local=/imnotaproxy.com/
+local=/dns-fra.imo.im/
+local=/dns-sgp.imo.im/
+local=/dns-sjc.imo.im/
 local=/http-dns.imoim.net/
+local=/http-dns.imostatic.com/
 local=/imperio.top/
 local=/hk.imtsui.com/
 local=/host8.248.cloudhost.in.th/

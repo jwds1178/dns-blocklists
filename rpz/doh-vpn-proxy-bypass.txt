@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759837140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759880340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Oct 2025 11:39 UTC
-; Version: 2025.1007.1139.16
+; Last modified: 07 Oct 2025 23:39 UTC
+; Version: 2025.1007.2339.27
 ; Syntax: RPZ
-; Number of entries: 16684
+; Number of entries: 16702
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1381,6 +1381,8 @@ bestvpnserver.com CNAME .
 *.bestvpnserver.com CNAME .
 bestvpnssh.com CNAME .
 *.bestvpnssh.com CNAME .
+bestwon203.com CNAME .
+*.bestwon203.com CNAME .
 bestyouproxytube.com CNAME .
 *.bestyouproxytube.com CNAME .
 bettervpn.com CNAME .
@@ -1589,6 +1591,8 @@ doh.cippapp.com CNAME .
 *.doh.cippapp.com CNAME .
 mus.cisco.com CNAME .
 *.mus.cisco.com CNAME .
+ciscossh.com CNAME .
+*.ciscossh.com CNAME .
 citizenvpn.com CNAME .
 *.citizenvpn.com CNAME .
 dns.citrahost.com CNAME .
@@ -2295,6 +2299,8 @@ adguard.h4nt3r.com CNAME .
 *.adguard.h4nt3r.com CNAME .
 furnandoistrans.hackquest.com CNAME .
 *.furnandoistrans.hackquest.com CNAME .
+dns.hakutakucn.com CNAME .
+*.dns.hakutakucn.com CNAME .
 adguard.haneulo.com CNAME .
 *.adguard.haneulo.com CNAME .
 dns.hannielzhang.com CNAME .
@@ -2479,6 +2485,8 @@ dns1.imkvq.com CNAME .
 *.dns1.imkvq.com CNAME .
 imnotaproxy.com CNAME .
 *.imnotaproxy.com CNAME .
+http-dns.imostatic.com CNAME .
+*.http-dns.imostatic.com CNAME .
 hk.imtsui.com CNAME .
 *.hk.imtsui.com CNAME .
 in-disguise.com CNAME .
@@ -10545,6 +10553,12 @@ doh.angry.im CNAME .
 *.doh.angry.im CNAME .
 fastvpn.im CNAME .
 *.fastvpn.im CNAME .
+dns-fra.imo.im CNAME .
+*.dns-fra.imo.im CNAME .
+dns-sgp.imo.im CNAME .
+*.dns-sgp.imo.im CNAME .
+dns-sjc.imo.im CNAME .
+*.dns-sjc.imo.im CNAME .
 doh.killtw.im CNAME .
 *.doh.killtw.im CNAME .
 1a.ns.ozer.im CNAME .
@@ -15585,6 +15599,8 @@ adh.51st.top CNAME .
 *.adh.51st.top CNAME .
 adfreedns.top CNAME .
 *.adfreedns.top CNAME .
+bubblex2.top CNAME .
+*.bubblex2.top CNAME .
 catchen121299.top CNAME .
 *.catchen121299.top CNAME .
 alidns.cb1999.top CNAME .
@@ -16431,6 +16447,8 @@ vps01.bbhc.xyz CNAME .
 *.vps01.bbhc.xyz CNAME .
 beecomf.xyz CNAME .
 *.beecomf.xyz CNAME .
+bestproxy.xyz CNAME .
+*.bestproxy.xyz CNAME .
 bluedns.xyz CNAME .
 *.bluedns.xyz CNAME .
 adguard.chanhome.xyz CNAME .
