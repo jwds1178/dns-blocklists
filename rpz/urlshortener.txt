@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759789620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759832880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Oct 2025 22:27 UTC
-; Version: 2025.1006.2227.24
+; Last modified: 07 Oct 2025 10:28 UTC
+; Version: 2025.1007.1028.39
 ; Syntax: RPZ
-; Number of entries: 14414
+; Number of entries: 14422
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1077,6 +1077,8 @@ small.cat CNAME .
 *.4url.cc CNAME .
 5or.cc CNAME .
 *.5or.cc CNAME .
+7fth.cc CNAME .
+*.7fth.cc CNAME .
 88nb.cc CNAME .
 *.88nb.cc CNAME .
 89bet69.cc CNAME .
@@ -7777,6 +7779,8 @@ zubbit.io CNAME .
 *.1ea.ir CNAME .
 1o2.ir CNAME .
 *.1o2.ir CNAME .
+2wo.ir CNAME .
+*.2wo.ir CNAME .
 4eq.ir CNAME .
 *.4eq.ir CNAME .
 4md.ir CNAME .
@@ -9717,6 +9721,8 @@ wb.md CNAME .
 *.2vu.me CNAME .
 2ww.me CNAME .
 *.2ww.me CNAME .
+88link.me CNAME .
+*.88link.me CNAME .
 9lick.me CNAME .
 *.9lick.me CNAME .
 a2a.me CNAME .
@@ -13667,6 +13673,8 @@ purdue.university CNAME .
 *.purdue.university CNAME .
 1ll.us CNAME .
 *.1ll.us CNAME .
+1tk.us CNAME .
+*.1tk.us CNAME .
 2pl.us CNAME .
 *.2pl.us CNAME .
 6nmd.us CNAME .

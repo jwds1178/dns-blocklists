@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Oct 2025 23:30 UTC
-# Version: 2025.1005.2330.56
+# Last modified: 07 Oct 2025 11:31 UTC
+# Version: 2025.1007.1131.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10990
+# Number of entries: 10994
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -49,6 +49,7 @@ local=/10drives.com/
 local=/10kol.tv/
 local=/10mbit.com/
 local=/atrack-asia-s1.114913.xyz/
+local=/chihaya-heroku.120181311.xyz/
 local=/123-hd.com/
 local=/123-movies.com/
 local=/123-movies.rs/
@@ -190,6 +191,7 @@ local=/supaflix-series.1mt.top/
 local=/1nd.hu/
 local=/1progs.ru/
 local=/1soft.space/
+local=/1stream.top/
 local=/1street.ru/
 local=/1tamilblasters.how/
 local=/1tamilmv.pet/
@@ -203,6 +205,8 @@ local=/1zib.xyz/
 local=/2-lib.org/
 local=/20090910.xyz/
 local=/20links.com/
+local=/t.213891.xyz/
+local=/t-backup.213891.xyz/
 local=/22-hd.com/
 local=/tracker.23794.top/
 local=/2381280.xyz/

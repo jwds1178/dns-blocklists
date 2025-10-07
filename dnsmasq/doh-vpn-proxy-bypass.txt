@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 23:38 UTC
-# Version: 2025.1006.2338.37
+# Last modified: 07 Oct 2025 11:39 UTC
+# Version: 2025.1007.1139.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8339
+# Number of entries: 8342
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -98,6 +98,7 @@ local=/233py.com/
 local=/t2c.240130034.xyz/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
+local=/educational-site.24x7.hk/
 local=/bbcincheecks.26252526.xyz/
 local=/lucasisbritsh.26252526.xyz/
 local=/mrfstudyguild.26252526.xyz/
@@ -114,6 +115,7 @@ local=/doh.2kil.com/
 local=/dns.2poi.com/
 local=/2proxy.de/
 local=/2proxyweb.com/
+local=/2r34.com/
 local=/lvpn.2rdp.ru/
 local=/dns.2t9.de/
 local=/2ub.top/
@@ -154,6 +156,7 @@ local=/adh.51st.top/
 local=/alidns.51top.info/
 local=/520ily.cn/
 local=/dns.52306.org/
+local=/www-vpn.52oupa.com/
 local=/adguard2.546413.xyz/
 local=/bwg.559299366.xyz/
 local=/dc39.559299366.xyz/

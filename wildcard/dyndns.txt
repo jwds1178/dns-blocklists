@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Oct 2025 11:51 UTC
-# Version: 2025.1004.1151.15
+# Last modified: 07 Oct 2025 11:38 UTC
+# Version: 2025.1007.1138.26
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1468
+# Number of entries: 1469
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -26,6 +26,7 @@
 *.25u.com
 *.2fine.de
 *.2mydns.net
+*.2p.fm
 *.2waky.com
 *.3-a.net
 *.32-b.it

@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Oct 2025 10:14 UTC
-! Version: 2025.1006.1014.57
+! Last modified: 07 Oct 2025 10:14 UTC
+! Version: 2025.1007.1014.07
 ! Syntax: AdBlock
-! Number of entries: 1977
+! Number of entries: 1979
 !
 @@||l.1mp.ru^
 @@||t.1und1.de^
@@ -351,6 +351,7 @@
 @@||suite17-cf.emarsys.net^
 @@||suite18.emarsys.net^
 @@||suite2.emarsys.net^
+@@||suite20.emarsys.net^
 @@||suite22.emarsys.net^
 @@||suite24.emarsys.net^
 @@||suite25.emarsys.net^
@@ -463,6 +464,7 @@
 @@||click.e.usa.experian.com^
 @@||amway-cdn.exponea.com^
 @@||cdn.exponea.com^
+@@||dgl-cdn.exponea.com^
 @@||cdn.eu1.exponea.com^
 @@||cdn.ftspecialist.exponea.com^
 @@||lner-cdn.exponea.com^

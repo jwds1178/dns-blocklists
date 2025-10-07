@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 22:25 UTC
-# Version: 2025.1006.2225.22
+# Last modified: 07 Oct 2025 10:26 UTC
+# Version: 2025.1007.1026.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13721
+# Number of entries: 13728
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2291,6 +2291,7 @@ local=/climbinglimit.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
+local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -3023,6 +3024,7 @@ local=/deregresoalafuente.com/
 local=/derekoutlet.de/
 local=/derfairmieter.de/
 local=/derimoservices.com/
+local=/derivainasm.com/
 local=/derkaminofenhandel.de/
 local=/derkatzenshop.de/
 local=/dermao.com/
@@ -4013,6 +4015,7 @@ local=/fabrika-musik.de/
 local=/fabtechfire.com/
 local=/fabulaberlin.com/
 local=/facepets.es/
+local=/factearn.com/
 local=/factory-glasses.com/
 local=/factory2021.ru/
 local=/factorystore24.com/
@@ -6190,6 +6193,7 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
+local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -8390,7 +8394,6 @@ local=/munitax-group.com/
 local=/munitionsladen.de/
 local=/munster-mode.de/
 local=/muscleshall.com/
-local=/museopradotickets.com/
 local=/music-musik.de/
 local=/musicgearfashion.com/
 local=/musichotsale.com/
@@ -8578,7 +8581,6 @@ local=/nativediscount.com/
 local=/natur-held.de/
 local=/naturaevo.com/
 local=/naturalcosmeticssales.com/
-local=/naturallyh.com/
 local=/naturallyk.com/
 local=/naturalzuda.de/
 local=/naturcontact.de/
@@ -9865,6 +9867,7 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
+local=/providedes.com/
 local=/provise24.com/
 local=/proximitye.com/
 local=/proximityi.com/
@@ -11275,6 +11278,7 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
+local=/specializeg.com/
 local=/specialmenswear.com/
 local=/specialpurchasepoint.com/
 local=/specialselling.com/
@@ -11304,6 +11308,7 @@ local=/spielzeug-ente.com/
 local=/spielzeug-traum.com/
 local=/spielzeug-wunderwelt.com/
 local=/spielzeugeneu.de/
+local=/spielzeugopapop.shop/
 local=/spielzeugschmie.com/
 local=/spielzeugsde.com/
 local=/spielzeugsport.com/
@@ -11601,6 +11606,7 @@ local=/style-lighting.com/
 local=/stylearena.store/
 local=/stylebewusst.de/
 local=/styleettendances.com/
+local=/stylefamous.com/
 local=/stylefatface.com/
 local=/stylerose.de/
 local=/stylessunny.com/
@@ -12265,6 +12271,7 @@ local=/topoffice24.de/
 local=/toponlinepharmacies.com/
 local=/topoutdoorsport.com/
 local=/topoutdoorstore.com/
+local=/toppillsstore.com/
 local=/toppreis24.com/
 local=/topreinigungsmittel.com/
 local=/toprolexes.com/
@@ -13132,7 +13139,6 @@ local=/wanderrucksackede.com/
 local=/wandleuchtende.com/
 local=/wanduhru.de/
 local=/wanfangmaier.com/
-local=/wannounce.com/
 local=/wanster.shop/
 local=/wantclothes.com/
 local=/wapo-shop.de/
@@ -13144,6 +13150,7 @@ local=/warenwelt-eu.com/
 local=/warevo.de/
 local=/warmeholzhaus.com/
 local=/klarrl.warmexw.buzz/
+local=/warmood.ch/
 local=/warmsettle.com/
 local=/warmtepompe.com/
 local=/warmwinkelen.com/

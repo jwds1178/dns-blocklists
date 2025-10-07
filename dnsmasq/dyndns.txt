@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Oct 2025 11:51 UTC
-# Version: 2025.1004.1151.15
+# Last modified: 07 Oct 2025 11:38 UTC
+# Version: 2025.1007.1138.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1468
+# Number of entries: 1469
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -26,6 +26,7 @@ local=/24-7.ro/
 local=/25u.com/
 local=/2fine.de/
 local=/2mydns.net/
+local=/2p.fm/
 local=/2waky.com/
 local=/3-a.net/
 local=/32-b.it/

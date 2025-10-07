@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759793880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759837140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 06 Oct 2025 23:38 UTC
-; Version: 2025.1006.2338.37
+; Last modified: 07 Oct 2025 11:39 UTC
+; Version: 2025.1007.1139.16
 ; Syntax: RPZ
-; Number of entries: 16678
+; Number of entries: 16684
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1055,10 +1055,14 @@ dns.2poi.com CNAME .
 *.dns.2poi.com CNAME .
 2proxyweb.com CNAME .
 *.2proxyweb.com CNAME .
+2r34.com CNAME .
+*.2r34.com CNAME .
 4everproxy.com CNAME .
 *.4everproxy.com CNAME .
 4youproxyweb.com CNAME .
 *.4youproxyweb.com CNAME .
+www-vpn.52oupa.com CNAME .
+*.www-vpn.52oupa.com CNAME .
 57824.com CNAME .
 *.57824.com CNAME .
 dns.58jdl.com CNAME .
@@ -10351,6 +10355,8 @@ unblocked.help CNAME .
 *.unblocked.help CNAME .
 uproxy.help CNAME .
 *.uproxy.help CNAME .
+educational-site.24x7.hk CNAME .
+*.educational-site.24x7.hk CNAME .
 adguard.yare.hk CNAME .
 *.adguard.yare.hk CNAME .
 adguard01.colocity.host CNAME .

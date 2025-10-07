@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 22:27 UTC
-# Version: 2025.1006.2227.24
+# Last modified: 07 Oct 2025 10:28 UTC
+# Version: 2025.1007.1028.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7207
+# Number of entries: 7211
 #
 local=/0.gp/
 local=/00m.in/
@@ -107,6 +107,7 @@ local=/1short.io/
 local=/1shortlink.com/
 local=/1stgop.co/
 local=/1sturl.com/
+local=/1tk.us/
 local=/1to3.link/
 local=/1ty.me/
 local=/1un.fr/
@@ -168,6 +169,7 @@ local=/2u.lc/
 local=/2u.pw/
 local=/2ur.jp/
 local=/2vu.me/
+local=/2wo.ir/
 local=/2wsb.tv/
 local=/2ww.me/
 local=/2x0.net/
@@ -288,6 +290,7 @@ local=/74i.de/
 local=/7894.xyz/
 local=/7a.ink/
 local=/7c34.com/
+local=/7fth.cc/
 local=/7g7.ir/
 local=/7i.nu/
 local=/7i.se/
@@ -307,6 +310,7 @@ local=/7vd.cn/
 local=/8.ly/
 local=/8591.tw/
 local=/888df.com/
+local=/88link.me/
 local=/88nb.cc/
 local=/88win.link/
 local=/89bet69.cc/

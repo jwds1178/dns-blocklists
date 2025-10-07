@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Oct 2025 23:38 UTC
-# Version: 2025.1006.2338.13
+# Last modified: 07 Oct 2025 11:38 UTC
+# Version: 2025.1007.1138.51
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3824
+# Number of entries: 3831
 #
 ss.0001.xyz
 003153.xyz
@@ -64,6 +64,13 @@ www.20010114.xyz
 adhome.2011101.xyz
 220913.xyz
 233py.com
+dns.233py.com
+doh.233py.com
+edns.233py.com
+i.233py.com
+ndns.233py.com
+sdns.233py.com
+wdns.233py.com
 t2c.240130034.xyz
 dns.240527.xyz
 doh003.280blocker.net

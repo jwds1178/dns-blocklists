@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Oct 2025 22:25 UTC
-! Version: 2025.1006.2225.22
+! Last modified: 07 Oct 2025 10:26 UTC
+! Version: 2025.1007.1026.30
 ! Syntax: AdBlock
-! Number of entries: 13721
+! Number of entries: 13728
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2292,6 +2292,7 @@
 ||cliniqueloccitane.com^
 ||clisicerity.com^
 ||clivechristianuk.com^
+||cllusatoam.com^
 ||clockwisek.com^
 ||clorislife.com^
 ||clotha-boutique.de^
@@ -3024,6 +3025,7 @@
 ||derekoutlet.de^
 ||derfairmieter.de^
 ||derimoservices.com^
+||derivainasm.com^
 ||derkaminofenhandel.de^
 ||derkatzenshop.de^
 ||dermao.com^
@@ -4014,6 +4016,7 @@
 ||fabtechfire.com^
 ||fabulaberlin.com^
 ||facepets.es^
+||factearn.com^
 ||factory-glasses.com^
 ||factory2021.ru^
 ||factorystore24.com^
@@ -6191,6 +6194,7 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
+||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -8391,7 +8395,6 @@
 ||munitionsladen.de^
 ||munster-mode.de^
 ||muscleshall.com^
-||museopradotickets.com^
 ||music-musik.de^
 ||musicgearfashion.com^
 ||musichotsale.com^
@@ -8579,7 +8582,6 @@
 ||natur-held.de^
 ||naturaevo.com^
 ||naturalcosmeticssales.com^
-||naturallyh.com^
 ||naturallyk.com^
 ||naturalzuda.de^
 ||naturcontact.de^
@@ -9866,6 +9868,7 @@
 ||proupwholesale.com^
 ||provenxperts.com^
 ||proveri.de^
+||providedes.com^
 ||provise24.com^
 ||proximitye.com^
 ||proximityi.com^
@@ -11276,6 +11279,7 @@
 ||sparprime.com^
 ||sparwahnsinn24.de^
 ||spd-mossautal.de^
+||specializeg.com^
 ||specialmenswear.com^
 ||specialpurchasepoint.com^
 ||specialselling.com^
@@ -11305,6 +11309,7 @@
 ||spielzeug-traum.com^
 ||spielzeug-wunderwelt.com^
 ||spielzeugeneu.de^
+||spielzeugopapop.shop^
 ||spielzeugschmie.com^
 ||spielzeugsde.com^
 ||spielzeugsport.com^
@@ -11602,6 +11607,7 @@
 ||stylearena.store^
 ||stylebewusst.de^
 ||styleettendances.com^
+||stylefamous.com^
 ||stylefatface.com^
 ||stylerose.de^
 ||stylessunny.com^
@@ -12266,6 +12272,7 @@
 ||toponlinepharmacies.com^
 ||topoutdoorsport.com^
 ||topoutdoorstore.com^
+||toppillsstore.com^
 ||toppreis24.com^
 ||topreinigungsmittel.com^
 ||toprolexes.com^
@@ -13133,7 +13140,6 @@
 ||wandleuchtende.com^
 ||wanduhru.de^
 ||wanfangmaier.com^
-||wannounce.com^
 ||wanster.shop^
 ||wantclothes.com^
 ||wapo-shop.de^
@@ -13145,6 +13151,7 @@
 ||warevo.de^
 ||warmeholzhaus.com^
 ||klarrl.warmexw.buzz^
+||warmood.ch^
 ||warmsettle.com^
 ||warmtepompe.com^
 ||warmwinkelen.com^

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Oct 2025 22:27 UTC
-! Version: 2025.1006.2227.24
+! Last modified: 07 Oct 2025 10:28 UTC
+! Version: 2025.1007.1028.39
 ! Syntax: AdBlock
-! Number of entries: 7207
+! Number of entries: 7211
 !
 ||0.gp^
 ||00m.in^
@@ -108,6 +108,7 @@
 ||1shortlink.com^
 ||1stgop.co^
 ||1sturl.com^
+||1tk.us^
 ||1to3.link^
 ||1ty.me^
 ||1un.fr^
@@ -169,6 +170,7 @@
 ||2u.pw^
 ||2ur.jp^
 ||2vu.me^
+||2wo.ir^
 ||2wsb.tv^
 ||2ww.me^
 ||2x0.net^
@@ -289,6 +291,7 @@
 ||7894.xyz^
 ||7a.ink^
 ||7c34.com^
+||7fth.cc^
 ||7g7.ir^
 ||7i.nu^
 ||7i.se^
@@ -308,6 +311,7 @@
 ||8.ly^
 ||8591.tw^
 ||888df.com^
+||88link.me^
 ||88nb.cc^
 ||88win.link^
 ||89bet69.cc^
