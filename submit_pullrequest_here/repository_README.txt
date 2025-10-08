@@ -396,7 +396,7 @@ Two variants are available:
 > - OpenSquat: nrdo_status - nrdo_update / nrdo_count domains                
 > - Stamus Labs: nrd_status - nrd_update / nrd_count domains                
                    
-#### :new: **NRDs:** Include all newly registered domains.     
+#### :new: **NRDs:** Include all newly registered domains     
 
 | Time<br>period | Entries | Format<br>AdBlock | Format<br>Domains |         
 |:--------------:|:--------|:-----------------:|:-----------------:|

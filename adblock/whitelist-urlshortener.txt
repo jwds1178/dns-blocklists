@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Oct 2025 22:27 UTC
-! Version: 2025.1007.2227.59
+! Last modified: 08 Oct 2025 10:27 UTC
+! Version: 2025.1008.1027.54
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -1385,6 +1385,7 @@
 @@||shortener.entrade.com.vn^
 @@||brochure.wp.exo.com.ar^
 @@||farmacrm.com.br^
+@@||fastlinks.com.tr^
 @@||link.inexxus.com.br^
 @@||linkboard.com.br^
 @@||links.luckreceptivo.com.br^
@@ -1393,6 +1394,7 @@
 @@||salesadvisor.nazriproton.com.my^
 @@||short.com.vn^
 @@||shortlink.com.au^
+@@||shortlinks.com.tr^
 @@||tim.com.vc^
 @@||used.com.ph^
 @@||useek.com.au^
@@ -1408,6 +1410,7 @@
 @@||convertcase.org^
 @@||converterpanda.com^
 @@||convertloom.com^
+@@||conviva.live^
 @@||cookcenter.info^
 @@||coop.uk^
 @@||coopurl.com^
@@ -1484,6 +1487,7 @@
 @@||curlm.in^
 @@||curlmin.com^
 @@||cus.bio^
+@@||customurlshortener.com^
 @@||cut.by^
 @@||cut.gl^
 @@||cut.live^
@@ -1513,6 +1517,7 @@
 @@||cutmyurl.com^
 @@||cutqr.com^
 @@||cutt.al^
+@@||cutt.eu^
 @@||cutt.lol^
 @@||cutt.ly^
 @@||cutt.us^
@@ -1548,12 +1553,14 @@
 @@||cybr.fr^
 @@||cybr.rocks^
 @@||cyonix.to^
+@@||cyte.in^
 @@||cyver.se^
 @@||d.pr^
 @@||d.to^
 @@||d-sh.io^
 @@||d0.mk^
 @@||d138.link^
+@@||d13links.online^
 @@||d2eak.link^
 @@||d2ks.one^
 @@||da.gd^
@@ -1692,10 +1699,12 @@
 @@||dn303.online^
 @@||dna360.tw^
 @@||dnt.st^
+@@||dntl.me^
 @@||do.co^
 @@||do.my^
 @@||doburl.com^
 @@||dockr.ly^
+@@||docremedio.xyz^
 @@||dogelexusin.store^
 @@||doiop.com^
 @@||domi.link^
@@ -1714,6 +1723,7 @@
 @@||dow.la^
 @@||ppt.dpanda.in^
 @@||dpb.fm^
+@@||dpb.link^
 @@||dpba2404.com^
 @@||dpessm.com^
 @@||dpmd.ai^
@@ -1891,6 +1901,7 @@
 @@||entm.ag^
 @@||enlaces.entrelasgestiones.com^
 @@||link.entrust4.org^
+@@||entryurl.com^
 @@||eohelp.link^
 @@||epicureanrecipevault.one^
 @@||epmlnk.io^
@@ -1954,6 +1965,7 @@
 @@||ezlc.net^
 @@||ezlinkcloaker.com^
 @@||ezstat.ru^
+@@||ezurl.cc^
 @@||ezurl.co^
 @@||ezyurl.co^
 @@||f-ast.me^
@@ -1968,6 +1980,7 @@
 @@||f5i.org^
 @@||f5url.com^
 @@||f5yo.com^
+@@||f6x.cn^
 @@||fa.by^
 @@||fa-st.co^
 @@||fadurl.com^
@@ -2708,6 +2721,7 @@
 @@||iny.me^
 @@||ionos.ly^
 @@||t.iotex.me^
+@@||ipdc.link^
 @@||ipgrab.org^
 @@||ipgrabber.ru^
 @@||ipgraber.ru^
@@ -3190,6 +3204,7 @@
 @@||linkasd.com^
 @@||linkasli.pro^
 @@||linkb.ee^
+@@||linkbag.co^
 @@||linkbear.me^
 @@||linkbee.me^
 @@||linkbeton.com^

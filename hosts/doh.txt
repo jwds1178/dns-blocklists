@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Oct 2025 23:38 UTC
-# Version: 2025.1007.2338.59
+# Last modified: 08 Oct 2025 11:46 UTC
+# Version: 2025.1008.1146.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3834
+# Number of entries: 3882
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -26,6 +26,7 @@
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 1.0rz.space
 0.0.0.0 2.0rz.space
+0.0.0.0 adguardhome.0x4min.xyz
 0.0.0.0 dns.0x55.net
 0.0.0.0 dns-revers.1-au.net
 0.0.0.0 hk.100992.xyz
@@ -40,6 +41,7 @@
 0.0.0.0 usxui.13142233.xyz
 0.0.0.0 dns.13evl.com
 0.0.0.0 dns1.13evl.com
+0.0.0.0 dns.141664.xyz
 0.0.0.0 hk-nnss.150076.xyz
 0.0.0.0 httpdns.c.163.com
 0.0.0.0 lofter.httpdns.c.163.com
@@ -130,6 +132,7 @@
 0.0.0.0 ad.800801.xyz
 0.0.0.0 dns.853852.xyz
 0.0.0.0 dns19.854000.xyz
+0.0.0.0 dns.866865.xyz
 0.0.0.0 adguard.876542.xyz
 0.0.0.0 tyo.883933770.xyz
 0.0.0.0 dns.886886886.xyz
@@ -310,6 +313,7 @@
 0.0.0.0 git.andrewnw.xyz
 0.0.0.0 mail.andrewnw.xyz
 0.0.0.0 www.andrewnw.xyz
+0.0.0.0 andrey93rus.ru
 0.0.0.0 dns.andreykiv.com
 0.0.0.0 doh.angry.im
 0.0.0.0 angrysky.ru
@@ -459,6 +463,7 @@
 0.0.0.0 adguard.bitteeinbyte.de
 0.0.0.0 dns.bitup.de
 0.0.0.0 dns-tls.bitwiseshift.net
+0.0.0.0 woc.beelstb.biz.id
 0.0.0.0 gate.blackboxdynamics.io
 0.0.0.0 dns1.blackrandcrf.ru
 0.0.0.0 fennec.blackyfox.net
@@ -792,6 +797,7 @@
 0.0.0.0 mk.skynetinternet.com.br
 0.0.0.0 speedtest.skynetinternet.com.br
 0.0.0.0 www.skynetinternet.com.br
+0.0.0.0 dns.snaketech.com.br
 0.0.0.0 adg.spacework.com.mx
 0.0.0.0 doh.viatech.com.tw
 0.0.0.0 dns.comeonjames.club
@@ -960,6 +966,7 @@
 0.0.0.0 dns.demon-inc.tw
 0.0.0.0 doh.denypradana.com
 0.0.0.0 adguard.depieri.net
+0.0.0.0 adguard.dervart.ru
 0.0.0.0 adguard.lege.despagne.net
 0.0.0.0 adguard.rennes.despagne.net
 0.0.0.0 adguard.dessoi.cloud
@@ -1331,22 +1338,48 @@
 0.0.0.0 www.dstruis.nl
 0.0.0.0 dns.dualhosting.eu
 0.0.0.0 yukito.duanzx.top
+0.0.0.0 ad1guard.duckdns.org
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
+0.0.0.0 aduma15.duckdns.org
 0.0.0.0 andryk111.duckdns.org
+0.0.0.0 armm.duckdns.org
 0.0.0.0 blamb.duckdns.org
+0.0.0.0 cdzopi.duckdns.org
+0.0.0.0 derekcastle.duckdns.org
+0.0.0.0 dorkanddoodle.duckdns.org
+0.0.0.0 eweyo.duckdns.org
 0.0.0.0 gcpddns.duckdns.org
+0.0.0.0 genielee.duckdns.org
+0.0.0.0 homejerem.duckdns.org
+0.0.0.0 jfeoks.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
+0.0.0.0 kalwat.duckdns.org
 0.0.0.0 kiwifunke.duckdns.org
+0.0.0.0 kolobok2.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
+0.0.0.0 ldaman.duckdns.org
+0.0.0.0 leoadguard.duckdns.org
 0.0.0.0 morgenegg.duckdns.org
+0.0.0.0 nas1403.duckdns.org
 0.0.0.0 nikamurs.duckdns.org
+0.0.0.0 nqh-dns.duckdns.org
+0.0.0.0 o--o.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
+0.0.0.0 quanmeme.duckdns.org
+0.0.0.0 rcpc2.duckdns.org
+0.0.0.0 salvadoserver.duckdns.org
+0.0.0.0 site-2.duckdns.org
 0.0.0.0 site-3.duckdns.org
+0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
 0.0.0.0 vpich.duckdns.org
+0.0.0.0 wisehomeguard.duckdns.org
+0.0.0.0 workcavestl.duckdns.org
+0.0.0.0 x-o-x.duckdns.org
+0.0.0.0 x861g.duckdns.org
 0.0.0.0 test.zkwg.duckdns.org
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
@@ -1368,6 +1401,7 @@
 0.0.0.0 oostelbos.dynu.com
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1385,6 +1419,7 @@
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
 0.0.0.0 dns.efficientdocuments.com
+0.0.0.0 egorovna.su
 0.0.0.0 vpn.egorrko.ru
 0.0.0.0 doh.eieidns.com
 0.0.0.0 adguard.eischmann.cz
@@ -1522,6 +1557,7 @@
 0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 filipinoray.com
+0.0.0.0 vm3421302.firstbyte.club
 0.0.0.0 adg.fiyaajans.com
 0.0.0.0 dns.fizz.studio
 0.0.0.0 resolve.fknw.de
@@ -1747,6 +1783,7 @@
 0.0.0.0 www.hgrps.eu
 0.0.0.0 dns.sgp.hicn.site
 0.0.0.0 adg.meviusberry.hidns.co
+0.0.0.0 mail.hilton-groups.com
 0.0.0.0 himedns.com
 0.0.0.0 dns.hinet.net
 0.0.0.0 dns-01.hir.app
@@ -1758,6 +1795,7 @@
 0.0.0.0 ns2.hjk.kr
 0.0.0.0 ns2.hjk.me
 0.0.0.0 jpdns.hker.me
+0.0.0.0 dd.hlm.ovh
 0.0.0.0 dns.ho.al
 0.0.0.0 adguard.hoangcongchuc.com
 0.0.0.0 pihole1.hoerli.net
@@ -1781,6 +1819,7 @@
 0.0.0.0 moidns.hopto.org
 0.0.0.0 mypihole.hopto.org
 0.0.0.0 stroveer.hopto.org
+0.0.0.0 voyagerz.hopto.org
 0.0.0.0 dns.horcrux.vip
 0.0.0.0 horus-team.com
 0.0.0.0 dns.horus-team.com
@@ -2132,6 +2171,7 @@
 0.0.0.0 blog.kimiblock.top
 0.0.0.0 noad.kipp.cool
 0.0.0.0 nimeserver.kirjakast.eu
+0.0.0.0 dns.kisnet.id
 0.0.0.0 adguard.kitakitsune.xyz
 0.0.0.0 kjmserwis.pl
 0.0.0.0 dns.kjmserwis.pl
@@ -2251,6 +2291,7 @@
 0.0.0.0 s2.littlebr.link
 0.0.0.0 blade.lixd.club
 0.0.0.0 dns.lmir.info
+0.0.0.0 xm.ln7371.top
 0.0.0.0 loadlow.me
 0.0.0.0 dns.lobbygod.com
 0.0.0.0 flat.loisy.it
@@ -2327,6 +2368,7 @@
 0.0.0.0 vps.marteskutil.cz
 0.0.0.0 ddns.martinmore.online
 0.0.0.0 n10.martkotur.ru
+0.0.0.0 n50.martkotur.ru
 0.0.0.0 adguard.marto.si
 0.0.0.0 www.adguard.marto.si
 0.0.0.0 extra.mask.ad
@@ -2421,6 +2463,7 @@
 0.0.0.0 dns.moondip.net
 0.0.0.0 dns.moonssif.com
 0.0.0.0 dns.moonwx.net
+0.0.0.0 akunamatata8888.mooo.com
 0.0.0.0 alexj123.mooo.com
 0.0.0.0 disinformer.mooo.com
 0.0.0.0 e23a.mooo.com
@@ -2825,6 +2868,7 @@
 0.0.0.0 wg.pastorov.ru
 0.0.0.0 nas.patrick-antoine.fr
 0.0.0.0 dns.paxavemedia.com
+0.0.0.0 loan.paymdm.xyz
 0.0.0.0 vps-ovh.pb2004.pl
 0.0.0.0 dns.pccoach.nl
 0.0.0.0 pcgo.fun
@@ -3221,6 +3265,7 @@
 0.0.0.0 shalenkov.cc
 0.0.0.0 shalenkov.dev
 0.0.0.0 purpose.shamanlanding.org
+0.0.0.0 shanghainese.uk
 0.0.0.0 dns.shareworx.net
 0.0.0.0 dns.shecan.ir
 0.0.0.0 free.shecan.ir
@@ -3331,6 +3376,7 @@
 0.0.0.0 strangerandomdomain1.space
 0.0.0.0 strassmair.org
 0.0.0.0 dns.strassmair.org
+0.0.0.0 media.streamfusion.online
 0.0.0.0 adguard.streamlas.fr
 0.0.0.0 dns.streamsmoke.com
 0.0.0.0 dns.streamvine.app
@@ -3416,6 +3462,7 @@
 0.0.0.0 family.dns.teknoholistik.com
 0.0.0.0 dns.teknologiku.com
 0.0.0.0 dns.telekom.de
+0.0.0.0 d51538618.access.telenet.be
 0.0.0.0 ab.teleportbot.org
 0.0.0.0 guard.telesterion.de
 0.0.0.0 telex.app
@@ -3720,6 +3767,7 @@
 0.0.0.0 adb-home.xaoimoon.fr
 0.0.0.0 adb-wan.xaoimoon.fr
 0.0.0.0 dns.xcapenet.ru
+0.0.0.0 dns2.xcapenet.ru
 0.0.0.0 doh.xcom.pro
 0.0.0.0 xenergy.cc
 0.0.0.0 vsrv15195.customer.xenway.de

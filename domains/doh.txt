@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Oct 2025 23:38 UTC
-# Version: 2025.1007.2338.59
+# Last modified: 08 Oct 2025 11:46 UTC
+# Version: 2025.1008.1146.35
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3834
+# Number of entries: 3882
 #
 ss.0001.xyz
 003153.xyz
@@ -26,6 +26,7 @@ cdn.0ms.dev
 dns.0ooo.icu
 1.0rz.space
 2.0rz.space
+adguardhome.0x4min.xyz
 dns.0x55.net
 dns-revers.1-au.net
 hk.100992.xyz
@@ -40,6 +41,7 @@ d1.12342345.xyz
 usxui.13142233.xyz
 dns.13evl.com
 dns1.13evl.com
+dns.141664.xyz
 hk-nnss.150076.xyz
 httpdns.c.163.com
 lofter.httpdns.c.163.com
@@ -130,6 +132,7 @@ dns.7vpn.com
 ad.800801.xyz
 dns.853852.xyz
 dns19.854000.xyz
+dns.866865.xyz
 adguard.876542.xyz
 tyo.883933770.xyz
 dns.886886886.xyz
@@ -310,6 +313,7 @@ dns.andrewnw.xyz
 git.andrewnw.xyz
 mail.andrewnw.xyz
 www.andrewnw.xyz
+andrey93rus.ru
 dns.andreykiv.com
 doh.angry.im
 angrysky.ru
@@ -459,6 +463,7 @@ dns.bitservices.io
 adguard.bitteeinbyte.de
 dns.bitup.de
 dns-tls.bitwiseshift.net
+woc.beelstb.biz.id
 gate.blackboxdynamics.io
 dns1.blackrandcrf.ru
 fennec.blackyfox.net
@@ -792,6 +797,7 @@ skynetinternet.com.br
 mk.skynetinternet.com.br
 speedtest.skynetinternet.com.br
 www.skynetinternet.com.br
+dns.snaketech.com.br
 adg.spacework.com.mx
 doh.viatech.com.tw
 dns.comeonjames.club
@@ -960,6 +966,7 @@ vm.delfini.online
 dns.demon-inc.tw
 doh.denypradana.com
 adguard.depieri.net
+adguard.dervart.ru
 adguard.lege.despagne.net
 adguard.rennes.despagne.net
 adguard.dessoi.cloud
@@ -1331,22 +1338,48 @@ dstruis.nl
 www.dstruis.nl
 dns.dualhosting.eu
 yukito.duanzx.top
+ad1guard.duckdns.org
 adgrm.duckdns.org
 adguardpi.duckdns.org
+aduma15.duckdns.org
 andryk111.duckdns.org
+armm.duckdns.org
 blamb.duckdns.org
+cdzopi.duckdns.org
+derekcastle.duckdns.org
+dorkanddoodle.duckdns.org
+eweyo.duckdns.org
 gcpddns.duckdns.org
+genielee.duckdns.org
+homejerem.duckdns.org
+jfeoks.duckdns.org
 jurre-home.duckdns.org
+kalwat.duckdns.org
 kiwifunke.duckdns.org
+kolobok2.duckdns.org
 krtekvpn.duckdns.org
+ldaman.duckdns.org
+leoadguard.duckdns.org
 morgenegg.duckdns.org
+nas1403.duckdns.org
 nikamurs.duckdns.org
+nqh-dns.duckdns.org
+o--o.duckdns.org
 osefcorp.duckdns.org
 punono.duckdns.org
+quanmeme.duckdns.org
+rcpc2.duckdns.org
+salvadoserver.duckdns.org
+site-2.duckdns.org
 site-3.duckdns.org
+tuandns.duckdns.org
 tungdnsne.duckdns.org
 unixfox.duckdns.org
 vpich.duckdns.org
+wisehomeguard.duckdns.org
+workcavestl.duckdns.org
+x-o-x.duckdns.org
+x861g.duckdns.org
 test.zkwg.duckdns.org
 duii.de
 dukun.de
@@ -1368,6 +1401,7 @@ flyloadguard.dynu.net
 oostelbos.dynu.com
 quangdo92.dynu.net
 saomai.dynu.com
+gustamadh.dynv6.net
 dns.dynx.pro
 adg.dz.ax
 az.dz4fun.top
@@ -1385,6 +1419,7 @@ agh.amber.edu.vn
 dns.tuna.tsinghua.edu.cn
 adguard.ef67daisuki.club
 dns.efficientdocuments.com
+egorovna.su
 vpn.egorrko.ru
 doh.eieidns.com
 adguard.eischmann.cz
@@ -1522,6 +1557,7 @@ fidelius.top
 dns.fifux.be
 dns.filipccz.eu
 filipinoray.com
+vm3421302.firstbyte.club
 adg.fiyaajans.com
 dns.fizz.studio
 resolve.fknw.de
@@ -1747,6 +1783,7 @@ hgrps.eu
 www.hgrps.eu
 dns.sgp.hicn.site
 adg.meviusberry.hidns.co
+mail.hilton-groups.com
 himedns.com
 dns.hinet.net
 dns-01.hir.app
@@ -1758,6 +1795,7 @@ ns1.hjk.me
 ns2.hjk.kr
 ns2.hjk.me
 jpdns.hker.me
+dd.hlm.ovh
 dns.ho.al
 adguard.hoangcongchuc.com
 pihole1.hoerli.net
@@ -1781,6 +1819,7 @@ keithchunguat.hopto.org
 moidns.hopto.org
 mypihole.hopto.org
 stroveer.hopto.org
+voyagerz.hopto.org
 dns.horcrux.vip
 horus-team.com
 dns.horus-team.com
@@ -2132,6 +2171,7 @@ doh.killtw.im
 blog.kimiblock.top
 noad.kipp.cool
 nimeserver.kirjakast.eu
+dns.kisnet.id
 adguard.kitakitsune.xyz
 kjmserwis.pl
 dns.kjmserwis.pl
@@ -2251,6 +2291,7 @@ dns.litong.dev
 s2.littlebr.link
 blade.lixd.club
 dns.lmir.info
+xm.ln7371.top
 loadlow.me
 dns.lobbygod.com
 flat.loisy.it
@@ -2327,6 +2368,7 @@ test.marss.pro
 vps.marteskutil.cz
 ddns.martinmore.online
 n10.martkotur.ru
+n50.martkotur.ru
 adguard.marto.si
 www.adguard.marto.si
 extra.mask.ad
@@ -2421,6 +2463,7 @@ dns.mooncheng.top
 dns.moondip.net
 dns.moonssif.com
 dns.moonwx.net
+akunamatata8888.mooo.com
 alexj123.mooo.com
 disinformer.mooo.com
 e23a.mooo.com
@@ -2825,6 +2868,7 @@ dns.pastorov.ru
 wg.pastorov.ru
 nas.patrick-antoine.fr
 dns.paxavemedia.com
+loan.paymdm.xyz
 vps-ovh.pb2004.pl
 dns.pccoach.nl
 pcgo.fun
@@ -3221,6 +3265,7 @@ shakdns.cc
 shalenkov.cc
 shalenkov.dev
 purpose.shamanlanding.org
+shanghainese.uk
 dns.shareworx.net
 dns.shecan.ir
 free.shecan.ir
@@ -3331,6 +3376,7 @@ adguard.strafer.dk
 strangerandomdomain1.space
 strassmair.org
 dns.strassmair.org
+media.streamfusion.online
 adguard.streamlas.fr
 dns.streamsmoke.com
 dns.streamvine.app
@@ -3416,6 +3462,7 @@ dns.tefuir0829.cn
 family.dns.teknoholistik.com
 dns.teknologiku.com
 dns.telekom.de
+d51538618.access.telenet.be
 ab.teleportbot.org
 guard.telesterion.de
 telex.app
@@ -3720,6 +3767,7 @@ adguard.xandersalarie.com
 adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
 dns.xcapenet.ru
+dns2.xcapenet.ru
 doh.xcom.pro
 xenergy.cc
 vsrv15195.customer.xenway.de

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759876020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759919220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Oct 2025 22:27 UTC
-; Version: 2025.1007.2227.59
+; Last modified: 08 Oct 2025 10:27 UTC
+; Version: 2025.1008.1027.54
 ; Syntax: RPZ
-; Number of entries: 15026
+; Number of entries: 15056
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1209,6 +1209,8 @@ dl100.cc CNAME .
 *.dl100.cc CNAME .
 ez1.cc CNAME .
 *.ez1.cc CNAME .
+ezurl.cc CNAME .
+*.ezurl.cc CNAME .
 famu.cc CNAME .
 *.famu.cc CNAME .
 fbook.cc CNAME .
@@ -1671,6 +1673,8 @@ datayi.cn CNAME .
 *.datayi.cn CNAME .
 dwz3.cn CNAME .
 *.dwz3.cn CNAME .
+f6x.cn CNAME .
+*.f6x.cn CNAME .
 fal.cn CNAME .
 *.fal.cn CNAME .
 g-url.cn CNAME .
@@ -2021,6 +2025,8 @@ lc-s.co CNAME .
 *.lc-s.co CNAME .
 lincat.co CNAME .
 *.lincat.co CNAME .
+linkbag.co CNAME .
+*.linkbag.co CNAME .
 linkbio.co CNAME .
 *.linkbio.co CNAME .
 linkbiscuit.co CNAME .
@@ -2929,6 +2935,8 @@ cukbaray.com CNAME .
 *.cukbaray.com CNAME .
 curlmin.com CNAME .
 *.curlmin.com CNAME .
+customurlshortener.com CNAME .
+*.customurlshortener.com CNAME .
 cut-ly.com CNAME .
 *.cut-ly.com CNAME .
 cuteurl.com CNAME .
@@ -3091,6 +3099,8 @@ el32.com CNAME .
 *.el32.com CNAME .
 enlaces.entrelasgestiones.com CNAME .
 *.enlaces.entrelasgestiones.com CNAME .
+entryurl.com CNAME .
+*.entryurl.com CNAME .
 erannis.com CNAME .
 *.erannis.com CNAME .
 eru2earn.com CNAME .
@@ -5889,6 +5899,8 @@ ambienttechnology.eu CNAME .
 *.ambienttechnology.eu CNAME .
 by1.eu CNAME .
 *.by1.eu CNAME .
+cutt.eu CNAME .
+*.cutt.eu CNAME .
 dalinksavad.eu CNAME .
 *.dalinksavad.eu CNAME .
 e37.eu CNAME .
@@ -6929,6 +6941,8 @@ curlm.in CNAME .
 *.curlm.in CNAME .
 cutts.in CNAME .
 *.cutts.in CNAME .
+cyte.in CNAME .
+*.cyte.in CNAME .
 dainik-b.in CNAME .
 *.dainik-b.in CNAME .
 deepcore.in CNAME .
@@ -9121,6 +9135,8 @@ dl-protect.link CNAME .
 *.dl-protect.link CNAME .
 domi.link CNAME .
 *.domi.link CNAME .
+dpb.link CNAME .
+*.dpb.link CNAME .
 drafthound.link CNAME .
 *.drafthound.link CNAME .
 dub.link CNAME .
@@ -9225,6 +9241,8 @@ inicio.link CNAME .
 *.inicio.link CNAME .
 inshort.link CNAME .
 *.inshort.link CNAME .
+ipdc.link CNAME .
+*.ipdc.link CNAME .
 iplog.link CNAME .
 *.iplog.link CNAME .
 iwr.link CNAME .
@@ -9605,6 +9623,8 @@ casashort.live CNAME .
 *.casashort.live CNAME .
 clotplaynews.live CNAME .
 *.clotplaynews.live CNAME .
+conviva.live CNAME .
+*.conviva.live CNAME .
 cut.live CNAME .
 *.cut.live CNAME .
 daftarhoki.live CNAME .
@@ -10269,6 +10289,8 @@ dkly.me CNAME .
 *.dkly.me CNAME .
 dlink.me CNAME .
 *.dlink.me CNAME .
+dntl.me CNAME .
+*.dntl.me CNAME .
 drinks.me CNAME .
 *.drinks.me CNAME .
 dsre.me CNAME .
@@ -11801,6 +11823,8 @@ carnalflicks.online CNAME .
 *.carnalflicks.online CNAME .
 cheap-bitcoin.online CNAME .
 *.cheap-bitcoin.online CNAME .
+d13links.online CNAME .
+*.d13links.online CNAME .
 dn303.online CNAME .
 *.dn303.online CNAME .
 jagoan-hosting.online CNAME .
@@ -13997,6 +14021,10 @@ xurl302.top CNAME .
 *.xurl302.top CNAME .
 mdl.town CNAME .
 *.mdl.town CNAME .
+fastlinks.com.tr CNAME .
+*.fastlinks.com.tr CNAME .
+shortlinks.com.tr CNAME .
+*.shortlinks.com.tr CNAME .
 invest.tr CNAME .
 *.invest.tr CNAME .
 mdpl.tr CNAME .
@@ -14897,6 +14925,8 @@ cuterurlha.xyz CNAME .
 *.cuterurlha.xyz CNAME .
 cutturl.xyz CNAME .
 *.cutturl.xyz CNAME .
+docremedio.xyz CNAME .
+*.docremedio.xyz CNAME .
 editricity.xyz CNAME .
 *.editricity.xyz CNAME .
 esgr.xyz CNAME .
