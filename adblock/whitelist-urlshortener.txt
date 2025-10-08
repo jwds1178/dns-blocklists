@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Oct 2025 10:27 UTC
-! Version: 2025.1008.1027.54
+! Last modified: 08 Oct 2025 22:27 UTC
+! Version: 2025.1008.2227.46
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2612,6 +2612,7 @@
 @@||amirhossein.id.ir^
 @@||go.id.me^
 @@||idek.net^
+@@||idfk.lol^
 @@||w.idg.de^
 @@||idm.in^
 @@||idmail.me^
@@ -2751,12 +2752,14 @@
 @@||isols.co^
 @@||istel.co^
 @@||isterratrk.com^
+@@||istubby.com^
 @@||isurl.cc^
 @@||isw.pub^
 @@||iszify.com^
 @@||go.itanea.fr^
 @@||kutt.itarian.com^
 @@||itdad.info^
+@@||itdmusic.top^
 @@||iterasi.net^
 @@||iti.bz^
 @@||itly.in^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Oct 2025 11:47 UTC
-# Version: 2025.1008.1147.11
+# Last modified: 08 Oct 2025 23:45 UTC
+# Version: 2025.1008.2345.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8401
+# Number of entries: 8419
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1762,7 +1762,6 @@ local=/o--o.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/quanmeme.duckdns.org/
-local=/rcpc2.duckdns.org/
 local=/salvadoserver.duckdns.org/
 local=/site-2.duckdns.org/
 local=/site-3.duckdns.org/
@@ -2057,6 +2056,7 @@ local=/fpn.firefox.com/
 local=/testpilot.firefox.com/
 local=/fireprox.net/
 local=/vm3421302.firstbyte.club/
+local=/firstcontact.site/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
@@ -2202,6 +2202,7 @@ local=/freewebproxy.eu/
 local=/freexite.com/
 local=/freeyouproxytube.com/
 local=/freeyoutube.net/
+local=/french-vpn.com/
 local=/dns.freopc.fr/
 local=/dns.freyja.pw/
 local=/frkn.frkn.cloud/
@@ -2233,6 +2234,7 @@ local=/gabstorm.com/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
+local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
 local=/gamers-nor.com/
 local=/d.gametechnet.com/
@@ -2334,6 +2336,7 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
+local=/dns.glorydns.com/
 local=/dns.glsoft.ai/
 local=/glype.com/
 local=/vpn.gmalov.ru/
@@ -2361,6 +2364,7 @@ local=/goodssh.com/
 local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
+local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/goosevpn.com/
 local=/goproxy.asia/
@@ -2384,6 +2388,7 @@ local=/cloud.graphicpoint.pl/
 local=/gratisproxy.nl/
 local=/gratisvpn.com/
 local=/graveofhope.ru/
+local=/greatestfreeproxy.com/
 local=/dns.green-ping.lol/
 local=/adguard.green1052.com/
 local=/greenproxy.net/
@@ -2460,6 +2465,7 @@ local=/resolver.haringstad.com/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
 local=/cn-dns.hashtable.io/
+local=/hauxcore.de/
 local=/hayadns.online/
 local=/hayadns.site/
 local=/gw1.dns.haynetwork.id/
@@ -2620,6 +2626,10 @@ local=/hotspotshield.com/
 local=/hotspotvpn.com/
 local=/dns.hotta.page/
 local=/doh.hottis.de/
+local=/hotunixispeak.hotunix.com/
+local=/rmerheadonionlink.hotunix.com/
+local=/schoology.hotunix.com/
+local=/somuchpeakk.hotunix.com/
 local=/dns.housedenolf.be/
 local=/howdy.id/
 local=/hoxx.com/
@@ -2678,6 +2688,11 @@ local=/beepboopbop.iamadeveloper.dev/
 local=/dns.iamanuragh.in/
 local=/dns.iamninja.ru/
 local=/sec.iamninja.ru/
+local=/link-five.ibewlocalzero.com/
+local=/link-four.ibewlocalzero.com/
+local=/link-one.ibewlocalzero.com/
+local=/link-three.ibewlocalzero.com/
+local=/link-two.ibewlocalzero.com/
 local=/dns.iblockads.net/
 local=/dns-us.ibmcloud.top/
 local=/ibvpn.com/
@@ -2771,6 +2786,7 @@ local=/instant-vpn.com/
 local=/instantunblock.com/
 local=/intego.com/
 local=/dns.interhub.cc/
+local=/interncloud.info/
 local=/internetbypass.com/
 local=/internetcloak.com/
 local=/interssh.com/
@@ -2912,6 +2928,7 @@ local=/vps2.jnraptor.net/
 local=/home.jobytan.com/
 local=/dns.joey01245.nl/
 local=/vpn.jogjacloud.com/
+local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
 local=/johneldenring.lol/
 local=/adguard.johnnypatras.org/
@@ -4891,6 +4908,7 @@ local=/sshagan.net/
 local=/sshdropbear.net/
 local=/sshkit.com/
 local=/sshmax.net/
+local=/sshmyanmar.com/
 local=/sshocean.com/
 local=/sshssl.com/
 local=/sshstores.net/

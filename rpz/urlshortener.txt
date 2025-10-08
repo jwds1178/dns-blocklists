@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759919220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759962420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Oct 2025 10:27 UTC
-; Version: 2025.1008.1027.54
+; Last modified: 08 Oct 2025 22:27 UTC
+; Version: 2025.1008.2227.46
 ; Syntax: RPZ
-; Number of entries: 15056
+; Number of entries: 15062
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3429,6 +3429,8 @@ isinstance.com CNAME .
 *.isinstance.com CNAME .
 isterratrk.com CNAME .
 *.isterratrk.com CNAME .
+istubby.com CNAME .
+*.istubby.com CNAME .
 iszify.com CNAME .
 *.iszify.com CNAME .
 kutt.itarian.com CNAME .
@@ -9819,6 +9821,8 @@ fvglvsex.lol CNAME .
 *.fvglvsex.lol CNAME .
 ice.lol CNAME .
 *.ice.lol CNAME .
+idfk.lol CNAME .
+*.idfk.lol CNAME .
 indahnyaberbagi.lol CNAME .
 *.indahnyaberbagi.lol CNAME .
 kingplate.lol CNAME .
@@ -13951,6 +13955,8 @@ cutlnk.top CNAME .
 *.cutlnk.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
+itdmusic.top CNAME .
+*.itdmusic.top CNAME .
 jmal.top CNAME .
 *.jmal.top CNAME .
 klik.top CNAME .

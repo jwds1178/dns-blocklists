@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Oct 2025 11:46 UTC
-# Version: 2025.1008.1146.35
+# Last modified: 08 Oct 2025 23:44 UTC
+# Version: 2025.1008.2344.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3403
+# Number of entries: 3405
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1145,7 +1145,6 @@ local=/o--o.duckdns.org/
 local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/quanmeme.duckdns.org/
-local=/rcpc2.duckdns.org/
 local=/salvadoserver.duckdns.org/
 local=/site-2.duckdns.org/
 local=/site-3.duckdns.org/
@@ -1397,6 +1396,7 @@ local=/sm5q237c0.g666gle.me/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
+local=/adguard.gambini.org/
 local=/d.gametechnet.com/
 local=/gammesfeld.eu/
 local=/dns.api.gandi.net/
@@ -1436,6 +1436,7 @@ local=/dns.api.sandbox.globuscs.info/
 local=/dns.api.staging.globuscs.info/
 local=/dns.api.test.globuscs.info/
 local=/agh.gloom.nexus/
+local=/dns.glorydns.com/
 local=/dns.glsoft.ai/
 local=/vpn.gmalov.ru/
 local=/dns.gnb09.id/
@@ -1774,6 +1775,7 @@ local=/layer1.jnraptor.net/
 local=/pi4.jnraptor.net/
 local=/home.jobytan.com/
 local=/dns.joey01245.nl/
+local=/adguard.johanliebert.top/
 local=/dns.johndave.me/
 local=/johneldenring.lol/
 local=/adguard.johnnypatras.org/

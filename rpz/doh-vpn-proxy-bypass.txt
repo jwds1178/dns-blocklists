@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759924020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1759967100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Oct 2025 11:47 UTC
-; Version: 2025.1008.1147.11
+; Last modified: 08 Oct 2025 23:45 UTC
+; Version: 2025.1008.2345.11
 ; Syntax: RPZ
-; Number of entries: 16802
+; Number of entries: 16838
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2143,6 +2143,8 @@ freexite.com CNAME .
 *.freexite.com CNAME .
 freeyouproxytube.com CNAME .
 *.freeyouproxytube.com CNAME .
+french-vpn.com CNAME .
+*.french-vpn.com CNAME .
 frootvpn.com CNAME .
 *.frootvpn.com CNAME .
 funknetwork.com CNAME .
@@ -2229,6 +2231,8 @@ globalchatinc.com CNAME .
 *.globalchatinc.com CNAME .
 globaltrx.com CNAME .
 *.globaltrx.com CNAME .
+dns.glorydns.com CNAME .
+*.dns.glorydns.com CNAME .
 glype.com CNAME .
 *.glype.com CNAME .
 go2proxy.com CNAME .
@@ -2269,6 +2273,8 @@ adguard.grantbruneau.com CNAME .
 *.adguard.grantbruneau.com CNAME .
 gratisvpn.com CNAME .
 *.gratisvpn.com CNAME .
+greatestfreeproxy.com CNAME .
+*.greatestfreeproxy.com CNAME .
 adguard.green1052.com CNAME .
 *.adguard.green1052.com CNAME .
 greenssh.com CNAME .
@@ -2435,6 +2441,14 @@ hotspotshield.com CNAME .
 *.hotspotshield.com CNAME .
 hotspotvpn.com CNAME .
 *.hotspotvpn.com CNAME .
+hotunixispeak.hotunix.com CNAME .
+*.hotunixispeak.hotunix.com CNAME .
+rmerheadonionlink.hotunix.com CNAME .
+*.rmerheadonionlink.hotunix.com CNAME .
+schoology.hotunix.com CNAME .
+*.schoology.hotunix.com CNAME .
+somuchpeakk.hotunix.com CNAME .
+*.somuchpeakk.hotunix.com CNAME .
 hoxx.com CNAME .
 *.hoxx.com CNAME .
 hsselite.com CNAME .
@@ -2451,6 +2465,16 @@ dns.huyizhou.com CNAME .
 *.dns.huyizhou.com CNAME .
 dns.hyas.com CNAME .
 *.dns.hyas.com CNAME .
+link-five.ibewlocalzero.com CNAME .
+*.link-five.ibewlocalzero.com CNAME .
+link-four.ibewlocalzero.com CNAME .
+*.link-four.ibewlocalzero.com CNAME .
+link-one.ibewlocalzero.com CNAME .
+*.link-one.ibewlocalzero.com CNAME .
+link-three.ibewlocalzero.com CNAME .
+*.link-three.ibewlocalzero.com CNAME .
+link-two.ibewlocalzero.com CNAME .
+*.link-two.ibewlocalzero.com CNAME .
 ibvpn.com CNAME .
 *.ibvpn.com CNAME .
 icitek.com CNAME .
@@ -3805,6 +3829,8 @@ ssh-free.com CNAME .
 *.ssh-free.com CNAME .
 sshkit.com CNAME .
 *.sshkit.com CNAME .
+sshmyanmar.com CNAME .
+*.sshmyanmar.com CNAME .
 sshocean.com CNAME .
 *.sshocean.com CNAME .
 sshssl.com CNAME .
@@ -9487,6 +9513,8 @@ dns.hahnjo.de CNAME .
 *.dns.hahnjo.de CNAME .
 dns.hanmey.de CNAME .
 *.dns.hanmey.de CNAME .
+hauxcore.de CNAME .
+*.hauxcore.de CNAME .
 mq.hd440.de CNAME .
 *.mq.hd440.de CNAME .
 s.hd440.de CNAME .
@@ -10801,6 +10829,8 @@ httpdserver.info CNAME .
 *.httpdserver.info CNAME .
 hellotaka.iiiii.info CNAME .
 *.hellotaka.iiiii.info CNAME .
+interncloud.info CNAME .
+*.interncloud.info CNAME .
 iweb365.info CNAME .
 *.iweb365.info CNAME .
 doh.kekew.info CNAME .
@@ -12515,6 +12545,8 @@ globalssh.net CNAME .
 *.globalssh.net CNAME .
 dns.gokgoz.net CNAME .
 *.dns.gokgoz.net CNAME .
+dns-tunnel-check.googlezip.net CNAME .
+*.dns-tunnel-check.googlezip.net CNAME .
 tunnel.googlezip.net CNAME .
 *.tunnel.googlezip.net CNAME .
 greenproxy.net CNAME .
@@ -13827,8 +13859,6 @@ punono.duckdns.org CNAME .
 *.punono.duckdns.org CNAME .
 quanmeme.duckdns.org CNAME .
 *.quanmeme.duckdns.org CNAME .
-rcpc2.duckdns.org CNAME .
-*.rcpc2.duckdns.org CNAME .
 salvadoserver.duckdns.org CNAME .
 *.salvadoserver.duckdns.org CNAME .
 site-2.duckdns.org CNAME .
@@ -13961,6 +13991,8 @@ freevpn.org CNAME .
 *.freevpn.org CNAME .
 freevpnapp.org CNAME .
 *.freevpnapp.org CNAME .
+adguard.gambini.org CNAME .
+*.adguard.gambini.org CNAME .
 gatcha.org CNAME .
 *.gatcha.org CNAME .
 getfoxyproxy.org CNAME .
@@ -15403,6 +15435,8 @@ dns88.site CNAME .
 *.dns88.site CNAME .
 agh.doubleatech.site CNAME .
 *.agh.doubleatech.site CNAME .
+firstcontact.site CNAME .
+*.firstcontact.site CNAME .
 fptdns.site CNAME .
 *.fptdns.site CNAME .
 frlolyt.site CNAME .
@@ -15743,6 +15777,8 @@ hk.jason666.top CNAME .
 *.hk.jason666.top CNAME .
 jimmyshjj.top CNAME .
 *.jimmyshjj.top CNAME .
+adguard.johanliebert.top CNAME .
+*.adguard.johanliebert.top CNAME .
 blog.kimiblock.top CNAME .
 *.blog.kimiblock.top CNAME .
 2024.laijy.top CNAME .
