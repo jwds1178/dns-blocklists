@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759908000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760009580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Oct 2025 07:20 UTC
-; Version: 2025.1008.0720.21
+; Last modified: 09 Oct 2025 11:33 UTC
+; Version: 2025.1009.1133.58
 ; Syntax: RPZ
 ; Number of entries: 2776
 ;
@@ -1392,8 +1392,6 @@ blogspot.fr CNAME .
 *.blogspot.fr CNAME .
 eklablog.fr CNAME .
 *.eklablog.fr CNAME .
-free.fr CNAME .
-*.free.fr CNAME .
 jeun.fr CNAME .
 *.jeun.fr CNAME .
 livehost.fr CNAME .
@@ -1618,6 +1616,8 @@ hupont.hu CNAME .
 *.hupont.hu CNAME .
 pe.hu CNAME .
 *.pe.hu CNAME .
+mediafirex.icu CNAME .
+*.mediafirex.icu CNAME .
 blogspot.co.id CNAME .
 *.blogspot.co.id CNAME .
 blogspot.ie CNAME .

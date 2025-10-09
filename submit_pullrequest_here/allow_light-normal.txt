@@ -1,5 +1,9 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/6664
+# https://github.com/hagezi/dns-blocklists/issues/7579
+fscdn.eppo.cloud
+
 # https://github.com/hagezi/dns-blocklists/issues/7392
 *.i.posthog.com
 internal-*.posthog.com

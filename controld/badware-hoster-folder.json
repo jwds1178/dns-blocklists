@@ -4313,13 +4313,6 @@
       }
     },
     {
-      "PK": "free.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "free.lc",
       "action": {
         "do": 0,
@@ -6204,6 +6197,13 @@
     },
     {
       "PK": "me.ly",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mediafirex.icu",
       "action": {
         "do": 0,
         "status": 1

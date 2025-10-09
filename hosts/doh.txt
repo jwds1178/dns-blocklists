@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Oct 2025 23:44 UTC
-# Version: 2025.1008.2344.46
+# Last modified: 09 Oct 2025 11:49 UTC
+# Version: 2025.1009.1149.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3884
+# Number of entries: 3886
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2624,6 +2624,7 @@
 0.0.0.0 dns.ndo.dev
 0.0.0.0 tk2-404-43267.vs.sakura.ne.jp
 0.0.0.0 dns.neeb.it
+0.0.0.0 dns.nefret.net
 0.0.0.0 dns.nekofish.cc
 0.0.0.0 nelsonleung.org
 0.0.0.0 adguard.neotix.net
@@ -2750,6 +2751,7 @@
 0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
+0.0.0.0 ns3.link
 0.0.0.0 dnscache0.ns71.net
 0.0.0.0 nsown.com
 0.0.0.0 dns.ntcrz.ru

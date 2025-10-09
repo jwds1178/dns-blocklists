@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Oct 2025 22:27 UTC
-! Version: 2025.1008.2227.46
+! Last modified: 09 Oct 2025 10:30 UTC
+! Version: 2025.1009.1030.16
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3119,12 +3119,14 @@
 @@||lib.cx^
 @@||libero.it^
 @@||t.libren.ms^
+@@||lick.my^
 @@||liebg.at^
 @@||lien.li^
 @@||lienket.vn^
 @@||liens.ovh^
 @@||lifeandtime.charity^
 @@||liga.win^
+@@||ligacash88.live^
 @@||lightbee.io^
 @@||lighthouse-scholarship.com^
 @@||lign.it^
@@ -3201,6 +3203,7 @@
 @@||linkaff.com^
 @@||linkai.in^
 @@||linkaku.homes^
+@@||linkaku.pro^
 @@||linkallstar.com^
 @@||linkalp.com^
 @@||linkapp.click^
@@ -3248,8 +3251,10 @@
 @@||linkfuly.com^
 @@||linkfusion.in^
 @@||linkgacor33.info^
+@@||linkgacortexas.org^
 @@||linkgizmo.com^
 @@||linkgol88.com^
+@@||linkgqq.org^
 @@||linkhebat.com^
 @@||linki.run^
 @@||linkia.co^
@@ -3345,6 +3350,7 @@
 @@||linkshorteners.com^
 @@||linkshortify.com^
 @@||linkshortner.net^
+@@||linkshortner.online^
 @@||linkshrink.net^
 @@||linkshrink.org^
 @@||linksimple.io^
@@ -3375,12 +3381,14 @@
 @@||linkverified.net^
 @@||linkvp.com^
 @@||linkwizz.com^
+@@||linky.cc^
 @@||linky.is^
 @@||linky31.com^
 @@||linkye.net^
 @@||linkz.tn^
 @@||linkzap.in^
 @@||linkzone.live^
+@@||linp.ir^
 @@||linqup.in^
 @@||lintlink.com^
 @@||linux.mom^
@@ -3954,6 +3962,7 @@
 @@||n.pr^
 @@||n2l.me^
 @@||n66d.com^
+@@||n7i.cn^
 @@||n9.cl^
 @@||n9x.co^
 @@||na2.com^
@@ -4007,6 +4016,7 @@
 @@||netizen303.org^
 @@||nev.lt^
 @@||neweden.live^
+@@||newhotlink.com^
 @@||newpro.io^
 @@||newquote.au^
 @@||newss.info^
@@ -4258,6 +4268,7 @@
 @@||outschooler.me^
 @@||ouuo.link^
 @@||ouvaton.link^
+@@||ov9.cn^
 @@||ovh.to^
 @@||ovmro.uk^
 @@||ovo99sports.life^
@@ -4291,6 +4302,7 @@
 @@||pag.la^
 @@||page.link^
 @@||pairedinparadise.live^
+@@||paisakamalo.in^
 @@||paksa.click^
 @@||pamethelabel.info^
 @@||panaceainc.co^
@@ -5310,9 +5322,21 @@
 @@||shrinkify.com^
 @@||shrinkin.xyz^
 @@||shrinkly.co^
+@@||shrinkme.app^
+@@||shrinkme.cc^
+@@||shrinkme.click^
+@@||shrinkme.dev^
 @@||shrinkme.in^
+@@||shrinkme.info^
 @@||shrinkme.ink^
 @@||shrinkme.io^
+@@||shrinkme.link^
+@@||shrinkme.org^
+@@||shrinkme.pro^
+@@||shrinkme.site^
+@@||shrinkme.space^
+@@||shrinkme.us^
+@@||shrinkme.vip^
 @@||shrinkr.io^
 @@||shrinkster.com^
 @@||shrinkurl.us^

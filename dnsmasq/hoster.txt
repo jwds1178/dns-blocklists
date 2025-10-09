@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Oct 2025 07:20 UTC
-# Version: 2025.1008.0720.21
+# Last modified: 09 Oct 2025 11:33 UTC
+# Version: 2025.1009.1133.58
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1388
 #
@@ -635,7 +635,6 @@ local=/fr.nf/
 local=/framer.app/
 local=/framer.website/
 local=/free.cr/
-local=/free.fr/
 local=/free.lc/
 local=/free.nf/
 local=/freeasphost.net/
@@ -902,6 +901,7 @@ local=/mashstaffing.com/
 local=/mdtwo.top/
 local=/me.gp/
 local=/me.ly/
+local=/mediafirex.icu/
 local=/medianewsonline.com/
 local=/megabyet.net/
 local=/merchats.com/

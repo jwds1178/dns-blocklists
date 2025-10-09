@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1759962420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760005800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Oct 2025 22:27 UTC
-; Version: 2025.1008.2227.46
+; Last modified: 09 Oct 2025 10:30 UTC
+; Version: 2025.1009.1030.16
 ; Syntax: RPZ
-; Number of entries: 15062
+; Number of entries: 15112
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -345,6 +345,8 @@ shortshare.app CNAME .
 *.shortshare.app CNAME .
 shortthis.app CNAME .
 *.shortthis.app CNAME .
+shrinkme.app CNAME .
+*.shrinkme.app CNAME .
 shrtn.app CNAME .
 *.shrtn.app CNAME .
 smkt.app CNAME .
@@ -1259,6 +1261,8 @@ link.cc CNAME .
 *.link.cc CNAME .
 linkim.cc CNAME .
 *.linkim.cc CNAME .
+linky.cc CNAME .
+*.linky.cc CNAME .
 litl.cc CNAME .
 *.litl.cc CNAME .
 lkgw.cc CNAME .
@@ -1313,6 +1317,8 @@ shortly.cc CNAME .
 *.shortly.cc CNAME .
 shortner.cc CNAME .
 *.shortner.cc CNAME .
+shrinkme.cc CNAME .
+*.shrinkme.cc CNAME .
 shrtr.cc CNAME .
 *.shrtr.cc CNAME .
 skyurl.cc CNAME .
@@ -1559,6 +1565,8 @@ shortly.click CNAME .
 *.shortly.click CNAME .
 shorturl.click CNAME .
 *.shorturl.click CNAME .
+shrinkme.click CNAME .
+*.shrinkme.click CNAME .
 shrtlk.click CNAME .
 *.shrtlk.click CNAME .
 t77reg.click CNAME .
@@ -1689,10 +1697,14 @@ kfurl.cn CNAME .
 *.kfurl.cn CNAME .
 liurl.cn CNAME .
 *.liurl.cn CNAME .
+n7i.cn CNAME .
+*.n7i.cn CNAME .
 ock.cn CNAME .
 *.ock.cn CNAME .
 ooa.cn CNAME .
 *.ooa.cn CNAME .
+ov9.cn CNAME .
+*.ov9.cn CNAME .
 shortio.cn CNAME .
 *.shortio.cn CNAME .
 so0o.cn CNAME .
@@ -3923,6 +3935,8 @@ neonslug.com CNAME .
 *.neonslug.com CNAME .
 nerdleveltech.com CNAME .
 *.nerdleveltech.com CNAME .
+newhotlink.com CNAME .
+*.newhotlink.com CNAME .
 nextworm.com CNAME .
 *.nextworm.com CNAME .
 nfgn.com CNAME .
@@ -5663,6 +5677,8 @@ shortengine.dev CNAME .
 *.shortengine.dev CNAME .
 shorturl.dev CNAME .
 *.shorturl.dev CNAME .
+shrinkme.dev CNAME .
+*.shrinkme.dev CNAME .
 snipp.dev CNAME .
 *.snipp.dev CNAME .
 tinyurl.dev CNAME .
@@ -7125,6 +7141,8 @@ p2z.in CNAME .
 *.p2z.in CNAME .
 p4k.in CNAME .
 *.p4k.in CNAME .
+paisakamalo.in CNAME .
+*.paisakamalo.in CNAME .
 pgrs.in CNAME .
 *.pgrs.in CNAME .
 phst.in CNAME .
@@ -7431,6 +7449,8 @@ roderurl.info CNAME .
 *.roderurl.info CNAME .
 shortl.info CNAME .
 *.shortl.info CNAME .
+shrinkme.info CNAME .
+*.shrinkme.info CNAME .
 sidework-click.info CNAME .
 *.sidework-click.info CNAME .
 soumtrack.info CNAME .
@@ -8167,6 +8187,8 @@ l2o.ir CNAME .
 *.l2o.ir CNAME .
 go.liara.ir CNAME .
 *.go.liara.ir CNAME .
+linp.ir CNAME .
+*.linp.ir CNAME .
 ln24.ir CNAME .
 *.ln24.ir CNAME .
 lt5.ir CNAME .
@@ -9427,6 +9449,8 @@ shortino.link CNAME .
 *.shortino.link CNAME .
 shortq.link CNAME .
 *.shortq.link CNAME .
+shrinkme.link CNAME .
+*.shrinkme.link CNAME .
 shrtme.link CNAME .
 *.shrtme.link CNAME .
 shrtq.link CNAME .
@@ -9667,6 +9691,8 @@ jamesastaten.live CNAME .
 *.jamesastaten.live CNAME .
 jxxl.live CNAME .
 *.jxxl.live CNAME .
+ligacash88.live CNAME .
+*.ligacash88.live CNAME .
 lilyfreeonlyfans.live CNAME .
 *.lilyfreeonlyfans.live CNAME .
 limiteds.live CNAME .
@@ -11081,6 +11107,8 @@ ksni.my CNAME .
 *.ksni.my CNAME .
 latingram.my CNAME .
 *.latingram.my CNAME .
+lick.my CNAME .
+*.lick.my CNAME .
 linkcepat.my CNAME .
 *.linkcepat.my CNAME .
 ly.my CNAME .
@@ -11839,6 +11867,8 @@ kmcpwe.online CNAME .
 *.kmcpwe.online CNAME .
 linkburst.online CNAME .
 *.linkburst.online CNAME .
+linkshortner.online CNAME .
+*.linkshortner.online CNAME .
 megapay.online CNAME .
 *.megapay.online CNAME .
 mjp88.online CNAME .
@@ -11997,6 +12027,10 @@ kmr1.org CNAME .
 *.kmr1.org CNAME .
 kp.org CNAME .
 *.kp.org CNAME .
+linkgacortexas.org CNAME .
+*.linkgacortexas.org CNAME .
+linkgqq.org CNAME .
+*.linkgqq.org CNAME .
 linkjoy.org CNAME .
 *.linkjoy.org CNAME .
 linkjp.org CNAME .
@@ -12119,6 +12153,8 @@ shoturl.org CNAME .
 *.shoturl.org CNAME .
 shrink-your-link.org CNAME .
 *.shrink-your-link.org CNAME .
+shrinkme.org CNAME .
+*.shrinkme.org CNAME .
 shrinkz.org CNAME .
 *.shrinkz.org CNAME .
 sm4rtvoice.org CNAME .
@@ -12415,6 +12451,8 @@ kisa.pro CNAME .
 *.kisa.pro CNAME .
 lihi.pro CNAME .
 *.lihi.pro CNAME .
+linkaku.pro CNAME .
+*.linkaku.pro CNAME .
 linkasli.pro CNAME .
 *.linkasli.pro CNAME .
 linkinbio.pro CNAME .
@@ -12463,6 +12501,8 @@ shortify.pro CNAME .
 *.shortify.pro CNAME .
 shortsy.pro CNAME .
 *.shortsy.pro CNAME .
+shrinkme.pro CNAME .
+*.shrinkme.pro CNAME .
 shrinky.pro CNAME .
 *.shrinky.pro CNAME .
 shrtct.pro CNAME .
@@ -13197,6 +13237,8 @@ secreet.site CNAME .
 *.secreet.site CNAME .
 shortenn.site CNAME .
 *.shortenn.site CNAME .
+shrinkme.site CNAME .
+*.shrinkme.site CNAME .
 shrturl.site CNAME .
 *.shrturl.site CNAME .
 shrtyo.site CNAME .
@@ -13317,6 +13359,8 @@ link.space CNAME .
 *.link.space CNAME .
 onlyads.space CNAME .
 *.onlyads.space CNAME .
+shrinkme.space CNAME .
+*.shrinkme.space CNAME .
 mou.sr CNAME .
 *.mou.sr CNAME .
 spn.sr CNAME .
@@ -13995,6 +14039,8 @@ selink.top CNAME .
 *.selink.top CNAME .
 shortclient.top CNAME .
 *.shortclient.top CNAME .
+shrinkme.top CNAME .
+*.shrinkme.top CNAME .
 skrbtfb.top CNAME .
 *.skrbtfb.top CNAME .
 skrfabu.top CNAME .
@@ -14461,6 +14507,8 @@ shortner.us CNAME .
 *.shortner.us CNAME .
 shoturl.us CNAME .
 *.shoturl.us CNAME .
+shrinkme.us CNAME .
+*.shrinkme.us CNAME .
 shrinkurl.us CNAME .
 *.shrinkurl.us CNAME .
 shrten.us CNAME .
@@ -14655,6 +14703,8 @@ petir.vip CNAME .
 *.petir.vip CNAME .
 redly.vip CNAME .
 *.redly.vip CNAME .
+shrinkme.vip CNAME .
+*.shrinkme.vip CNAME .
 shrt.vip CNAME .
 *.shrt.vip CNAME .
 thesocial.vip CNAME .

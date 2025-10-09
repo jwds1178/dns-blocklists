@@ -5,13 +5,16 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 23:15 UTC
-# Version: 2025.1003.2315.30
+# Last modified: 09 Oct 2025 09:17 UTC
+# Version: 2025.1009.0917.55
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 237
+# Number of entries: 240
 #
 vhs.wwstat.com.eo.unicomcdn.com.cn
+adxlog-adnet.vivo.com.cn
 az.appstore.vivo.com.cn
+dsplog-adnet.vivo.com.cn
+tracking-adnet.vivo.com.cn
 vhs.wwstat.com.ctdns.cn
 vhs.wwstat.com.eo.dnse0.com
 asia-abeacdataonrt-stsdk.vivoglobal.com
