@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 11:49 UTC
-# Version: 2025.1009.1149.30
+# Last modified: 09 Oct 2025 23:46 UTC
+# Version: 2025.1009.2346.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 9158
+# Number of entries: 9159
 #
 ss.0001.xyz
 003153.xyz
@@ -3951,6 +3951,7 @@ adguard.pangerl.it
 pango-paas.co
 pankvyh.xyz
 panmill.xyz
+panskeet.xyz
 dns.panszelescik.pl
 dns-ovh.panszelescik.pl
 pantavv.xyz

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 11:49 UTC
-# Version: 2025.1009.1149.30
+# Last modified: 09 Oct 2025 23:46 UTC
+# Version: 2025.1009.2346.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9158
+# Number of entries: 9159
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3951,6 +3951,7 @@ local=/adguard.pangerl.it/
 local=/pango-paas.co/
 local=/pankvyh.xyz/
 local=/panmill.xyz/
+local=/panskeet.xyz/
 local=/dns.panszelescik.pl/
 local=/dns-ovh.panszelescik.pl/
 local=/pantavv.xyz/

@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Sep 2025 19:21 UTC
-# Version: 2025.0919.1921.17
+# Last modified: 09 Oct 2025 20:04 UTC
+# Version: 2025.1009.2004.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 463
+# Number of entries: 465
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -54,6 +55,7 @@ tnc-sg.capcutapi.com
 tnc-va.capcutapi.com
 tnc-va-us-looki.capcutapi.com
 tnc16-normal-us-ttp.capcutapi.us
+mon-boot.tiktokv.com.edgekey.net
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 abtest-ch.snssdk.com
 analytics.snssdk.com
@@ -254,6 +256,7 @@ mcs-va.tiktokv.com
 mcs-va-useast2a.tiktokv.com
 mon.tiktokv.com
 mon.tiktokv.eu
+mon-boot.tiktokv.com
 mon-i18n.tiktokv.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com

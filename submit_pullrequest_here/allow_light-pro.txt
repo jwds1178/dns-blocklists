@@ -1,5 +1,13 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/7309
+cn.find.api.micloud.xiaomi.net
+eu.find.api.micloud.xiaomi.net
+in.find.api.micloud.xiaomi.net
+us.find.api.micloud.xiaomi.net
+us2.find.api.micloud.xiaomi.net
+*.find.api.micloud.xiaomi.net
+
 # There are reports that the SSO (AD) login of various Microsoft apps does not work on Android - could not be reproduced and confirmed so far: https://github.com/hagezi/dns-blocklists/issues/5118
 mobile.events.data.microsoft.com
 au-mobile.events.data.microsoft.com
