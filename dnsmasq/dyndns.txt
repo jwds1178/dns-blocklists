@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Oct 2025 11:46 UTC
-# Version: 2025.1008.1146.10
+# Last modified: 10 Oct 2025 11:49 UTC
+# Version: 2025.1010.1149.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1471
+# Number of entries: 1472
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1403,6 +1403,7 @@ local=/ve3.info/
 local=/venez.fr/
 local=/venez.net/
 local=/verymad.net/
+local=/vicinanza.org/
 local=/viewdns.net/
 local=/viiic.net/
 local=/vincomlimited.com/

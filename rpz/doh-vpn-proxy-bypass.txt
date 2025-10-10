@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760053560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760097000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Oct 2025 23:46 UTC
-; Version: 2025.1009.2346.41
+; Last modified: 10 Oct 2025 11:50 UTC
+; Version: 2025.1010.1150.24
 ; Syntax: RPZ
-; Number of entries: 18318
+; Number of entries: 18354
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -327,6 +327,8 @@ unblockedsite.biz CNAME .
 *.unblockedsite.biz CNAME .
 unblocksite.biz CNAME .
 *.unblocksite.biz CNAME .
+unblockweb.biz CNAME .
+*.unblockweb.biz CNAME .
 uproxy2.biz CNAME .
 *.uproxy2.biz CNAME .
 unblocked.black CNAME .
@@ -587,6 +589,8 @@ alst.ynbbs.cc CNAME .
 *.alst.ynbbs.cc CNAME .
 hk.yoosoo.cc CNAME .
 *.hk.yoosoo.cc CNAME .
+dns.yuzia.cc CNAME .
+*.dns.yuzia.cc CNAME .
 dns140.zhhz.cc CNAME .
 *.dns140.zhhz.cc CNAME .
 dns168.zhhz.cc CNAME .
@@ -2313,6 +2317,8 @@ adguard.h4nt3r.com CNAME .
 *.adguard.h4nt3r.com CNAME .
 furnandoistrans.hackquest.com CNAME .
 *.furnandoistrans.hackquest.com CNAME .
+secure.hafnova.com CNAME .
+*.secure.hafnova.com CNAME .
 dns.hakutakucn.com CNAME .
 *.dns.hakutakucn.com CNAME .
 adguard.haneulo.com CNAME .
@@ -10277,6 +10283,8 @@ unblocked5.com CNAME .
 *.unblocked5.com CNAME .
 unblockedbay.com CNAME .
 *.unblockedbay.com CNAME .
+unblockedbrowser.com CNAME .
+*.unblockedbrowser.com CNAME .
 unblockedme.com CNAME .
 *.unblockedme.com CNAME .
 unblockedscene.com CNAME .
@@ -10507,6 +10515,8 @@ vpnunlimitedapp.com CNAME .
 *.vpnunlimitedapp.com CNAME .
 vpnuse.com CNAME .
 *.vpnuse.com CNAME .
+vpnv6.com CNAME .
+*.vpnv6.com CNAME .
 vpnvip.com CNAME .
 *.vpnvip.com CNAME .
 antispam.vpnvps.com CNAME .
@@ -13253,6 +13263,8 @@ doh.thio.me CNAME .
 *.doh.thio.me CNAME .
 dns.timboeh.me CNAME .
 *.dns.timboeh.me CNAME .
+timetohide.me CNAME .
+*.timetohide.me CNAME .
 adguard.treexhd.me CNAME .
 *.adguard.treexhd.me CNAME .
 adguard.trevorpease.me CNAME .
@@ -13287,6 +13299,8 @@ weproxy.me CNAME .
 *.weproxy.me CNAME .
 dns.xydustc.me CNAME .
 *.dns.xydustc.me CNAME .
+unblockit.meme CNAME .
+*.unblockit.meme CNAME .
 adultproxy.men CNAME .
 *.adultproxy.men CNAME .
 br.servers.legat.ml CNAME .
@@ -13505,6 +13519,8 @@ bestssh.net CNAME .
 *.bestssh.net CNAME .
 betterproxy.net CNAME .
 *.betterproxy.net CNAME .
+dns.bibica.net CNAME .
+*.dns.bibica.net CNAME .
 dns.bitdefender.net CNAME .
 *.dns.bitdefender.net CNAME .
 fra-dns.bitdefender.net CNAME .
@@ -13987,6 +14003,22 @@ dns.flux24.net CNAME .
 *.dns.flux24.net CNAME .
 for-privacy.net CNAME .
 *.for-privacy.net CNAME .
+de-d2.foxyfy.net CNAME .
+*.de-d2.foxyfy.net CNAME .
+de-f1.foxyfy.net CNAME .
+*.de-f1.foxyfy.net CNAME .
+dns.foxyfy.net CNAME .
+*.dns.foxyfy.net CNAME .
+es-ma.foxyfy.net CNAME .
+*.es-ma.foxyfy.net CNAME .
+jp-to.foxyfy.net CNAME .
+*.jp-to.foxyfy.net CNAME .
+ro-bu.foxyfy.net CNAME .
+*.ro-bu.foxyfy.net CNAME .
+us-ny.foxyfy.net CNAME .
+*.us-ny.foxyfy.net CNAME .
+us-sj.foxyfy.net CNAME .
+*.us-sj.foxyfy.net CNAME .
 free-proxy-list.net CNAME .
 *.free-proxy-list.net CNAME .
 freedome-vpn.net CNAME .
@@ -15051,6 +15083,8 @@ asheranztwitch.online CNAME .
 *.asheranztwitch.online CNAME .
 vm.delfini.online CNAME .
 *.vm.delfini.online CNAME .
+dns4eu.online CNAME .
+*.dns4eu.online CNAME .
 my.englishpapers.online CNAME .
 *.my.englishpapers.online CNAME .
 reading.englishpapers.online CNAME .
@@ -16971,6 +17005,8 @@ dns.srijan.site CNAME .
 *.dns.srijan.site CNAME .
 starrynight.site CNAME .
 *.starrynight.site CNAME .
+tecdrive.site CNAME .
+*.tecdrive.site CNAME .
 top-proxy.site CNAME .
 *.top-proxy.site CNAME .
 unblock2.site CNAME .

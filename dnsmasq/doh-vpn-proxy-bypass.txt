@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 23:46 UTC
-# Version: 2025.1009.2346.41
+# Last modified: 10 Oct 2025 11:50 UTC
+# Version: 2025.1010.1150.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9159
+# Number of entries: 9177
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -618,6 +618,7 @@ local=/betterproxy.net/
 local=/bettervpn.com/
 local=/dns.bgeneto.com/
 local=/bgvpn.com/
+local=/dns.bibica.net/
 local=/dns.bibitos.cc/
 local=/bigma.org/
 local=/httpdns.bilivideo.com/
@@ -1475,6 +1476,7 @@ local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/doq.dns4all.eu/
 local=/doq64.dns4all.eu/
+local=/dns4eu.online/
 local=/dns4me.net/
 local=/adguard-koe.dns64.de/
 local=/aroeuyo.dns64.de/
@@ -2106,6 +2108,14 @@ local=/sena-and-jacob-yap-too-much.foxgateway.com/
 local=/small-kids.foxgateway.com/
 local=/stop-it-now-stop-it-now.foxgateway.com/
 local=/we-need-more.foxgateway.com/
+local=/de-d2.foxyfy.net/
+local=/de-f1.foxyfy.net/
+local=/dns.foxyfy.net/
+local=/es-ma.foxyfy.net/
+local=/jp-to.foxyfy.net/
+local=/ro-bu.foxyfy.net/
+local=/us-ny.foxyfy.net/
+local=/us-sj.foxyfy.net/
 local=/fptdns.site/
 local=/dns.family.fraiss.at/
 local=/v7.frame-one.cc/
@@ -2443,6 +2453,7 @@ local=/furnandoistrans.hackquest.com/
 local=/clean.hadan-dns.de/
 local=/ns1.hadan-dns.de/
 local=/ns2.hadan-dns.de/
+local=/secure.hafnova.com/
 local=/dns.hahnjo.de/
 local=/dns.haka.se/
 local=/dns.hakim.one/
@@ -8153,6 +8164,7 @@ local=/adguard.tcpu.io/
 local=/tcpvpn.com/
 local=/dns.teaminfo.fr/
 local=/dns-br.leonardo.tec.br/
+local=/tecdrive.site/
 local=/dns.techcpu.net/
 local=/dns1.techeasy.org/
 local=/adguard.techlike.in/
@@ -8269,6 +8281,7 @@ local=/tildenderek.store/
 local=/dns.timboeh.me/
 local=/timedns.net/
 local=/ad.timefine.org/
+local=/timetohide.me/
 local=/dns.timkevin.us/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
@@ -8491,6 +8504,7 @@ local=/unblocked4.com/
 local=/unblocked4.me/
 local=/unblocked5.com/
 local=/unblockedbay.com/
+local=/unblockedbrowser.com/
 local=/unblockedme.com/
 local=/unblockedonline.net/
 local=/unblockedproxy.info/
@@ -8519,6 +8533,7 @@ local=/unblockit.app/
 local=/unblockit.club/
 local=/unblockit.foo/
 local=/unblockit.ltd/
+local=/unblockit.meme/
 local=/unblockit.one/
 local=/unblockit.onl/
 local=/unblockit.pro/
@@ -8545,6 +8560,7 @@ local=/unblocksites.org/
 local=/unblockvid.com/
 local=/unblockvideos.com/
 local=/unblockvpn.com/
+local=/unblockweb.biz/
 local=/unblockweb.co/
 local=/unblockweb.one/
 local=/unblockweb.org/
@@ -8819,6 +8835,7 @@ local=/vpnumbrella.com/
 local=/vpnunlimited.com/
 local=/vpnunlimitedapp.com/
 local=/vpnuse.com/
+local=/vpnv6.com/
 local=/vpnvip.com/
 local=/antispam.vpnvps.com/
 local=/vpnwebsite.com/
@@ -9097,6 +9114,7 @@ local=/dns.yuu-g.net/
 local=/yuvelirtut.website/
 local=/yuyuproxy.com/
 local=/dns.yuyz.net/
+local=/dns.yuzia.cc/
 local=/yxorproxy.com/
 local=/httpdns.gslb.yy.com/
 local=/dns.yyaan.com/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 11:49 UTC
-# Version: 2025.1009.1149.06
+# Last modified: 10 Oct 2025 11:49 UTC
+# Version: 2025.1010.1149.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3886
+# Number of entries: 3899
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -448,6 +448,7 @@
 0.0.0.0 domburg.beruys.com
 0.0.0.0 bestwon203.com
 0.0.0.0 dns.bgeneto.com
+0.0.0.0 dns.bibica.net
 0.0.0.0 dns.bibitos.cc
 0.0.0.0 httpdns.bilivideo.com
 0.0.0.0 goga7777777.bissnes.org
@@ -1040,6 +1041,7 @@
 0.0.0.0 doh.dns4all.eu
 0.0.0.0 doq.dns4all.eu
 0.0.0.0 doq64.dns4all.eu
+0.0.0.0 dns4eu.online
 0.0.0.0 dns4me.net
 0.0.0.0 au01.dns4me.net
 0.0.0.0 au02.dns4me.net
@@ -1580,6 +1582,14 @@
 0.0.0.0 jp193.flyzhouyc.win
 0.0.0.0 st.flyzhouyc.win
 0.0.0.0 gateway.fomichev.cloud
+0.0.0.0 de-d2.foxyfy.net
+0.0.0.0 de-f1.foxyfy.net
+0.0.0.0 dns.foxyfy.net
+0.0.0.0 es-ma.foxyfy.net
+0.0.0.0 jp-to.foxyfy.net
+0.0.0.0 ro-bu.foxyfy.net
+0.0.0.0 us-ny.foxyfy.net
+0.0.0.0 us-sj.foxyfy.net
 0.0.0.0 fptdns.site
 0.0.0.0 dns.family.fraiss.at
 0.0.0.0 v7.frame-one.cc
@@ -1742,6 +1752,7 @@
 0.0.0.0 clean.hadan-dns.de
 0.0.0.0 ns1.hadan-dns.de
 0.0.0.0 ns2.hadan-dns.de
+0.0.0.0 secure.hafnova.com
 0.0.0.0 dns.hahnjo.de
 0.0.0.0 dns.haka.se
 0.0.0.0 dns.hakim.one
@@ -3450,6 +3461,7 @@
 0.0.0.0 adguard.tcpu.io
 0.0.0.0 dns.teaminfo.fr
 0.0.0.0 dns-br.leonardo.tec.br
+0.0.0.0 tecdrive.site
 0.0.0.0 dns.techcpu.net
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 adguard.techlike.in
@@ -3849,6 +3861,7 @@
 0.0.0.0 dns.yuu-g.net
 0.0.0.0 yuvelirtut.website
 0.0.0.0 dns.yuyz.net
+0.0.0.0 dns.yuzia.cc
 0.0.0.0 httpdns.gslb.yy.com
 0.0.0.0 dns.yyaan.com
 0.0.0.0 dns.yyaan.top

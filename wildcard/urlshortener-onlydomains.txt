@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 22:29 UTC
-# Version: 2025.1009.2229.28
+# Last modified: 10 Oct 2025 10:29 UTC
+# Version: 2025.1010.1029.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 7728
+# Number of entries: 7732
 #
 0.gp
 00m.in
@@ -447,7 +447,6 @@ adfly.be
 adflydsp.com
 adflyfly.com
 adfoc.us
-buy.adhitan.com
 adialerts.com
 adil.win
 adjh.pt
@@ -881,7 +880,6 @@ bfol.me
 bfpne.ws
 bfy.tw
 bg4.me
-bgtbl.blue
 bhpho.to
 bhrt.io
 bhx.one
@@ -1099,7 +1097,6 @@ brk.to
 brlinks.me
 brndly.net
 brook.gs
-broquests.com
 browsen.de
 browser.to
 brst.link
@@ -1456,7 +1453,6 @@ w.webicon.co.za
 wowly.co.in
 xx.co.nz
 yop.co.za
-coachstudio.org
 s.coccoc.com
 cockroa.ch
 cocn.in
@@ -3501,7 +3497,6 @@ linklada.com
 linklift.in
 linkloom.link
 linklyhq.com
-jjtaylor.linkmakeashorterlink.com
 linkme.lol
 linkmeow.com
 linkmngr.com
@@ -6108,6 +6103,7 @@ t2mio.com
 t2mm.bio
 t77reg.click
 ta.co
+ta.gd
 taap.it
 tabsoft.co
 tabzi.com
@@ -6165,8 +6161,8 @@ tecn.in
 teeny.in
 teenyfy.com
 teeplantage.de
+teil.cc
 tek.io
-tekan.live
 teknut.com
 telega.io
 teleko.me
@@ -6224,6 +6220,7 @@ thenews24h.tech
 theorist.media
 theposhed.com
 jitlinks.therichonline.com
+thesa.us
 theshortener.com
 thesne.ws
 thesocial.vip
@@ -6255,6 +6252,7 @@ tidd.ly
 tiddly.io
 tidyur.link
 tidyurl.link
+tiger388.life
 tiger77.monster
 tigerlink.me
 tighturl.com
@@ -6329,6 +6327,7 @@ tinyurl.mobi
 tinyurl.ph
 tinyurl.rocks
 tinyurl.se
+tinyurl.win
 tinyurls.io
 tinyurlshortener.com
 tinyurlwebsite.com
@@ -6476,6 +6475,7 @@ tri.ps
 trib.al
 trib.in
 tribn.ir
+trick.ly
 trieuview.life
 trim.cx
 trim.one
@@ -6528,6 +6528,7 @@ tsta.rs
 tsz4.me
 tt.gt
 tt.vg
+tt5k.site
 ttad.me
 ttbad.com
 ttc.is
@@ -6758,6 +6759,7 @@ urlc.net
 urlcentre.com
 urlcort.com
 urlcover.com
+urlcrop.com
 urlcut.at
 urlcut.ch
 urlcut.com
@@ -7104,6 +7106,7 @@ at.vibe.com
 vibegaming.online
 ink.vibez.band
 vid.lu
+videopro.live
 videyx.fun
 vig.fit
 vigilink.com
@@ -7192,6 +7195,7 @@ vvd.im
 vvnt.co
 vvt.am
 vxn.link
+vypij.bar
 vz.to
 w.wiki
 w0o.de

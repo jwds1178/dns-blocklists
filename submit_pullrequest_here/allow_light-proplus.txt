@@ -3,6 +3,11 @@
 # https://github.com/hagezi/dns-blocklists/issues/2569
 a-fds.youborafds01.com
 
+# Blocking this domain has led to devices spamming the DNS resolver with requests 
+# every few seconds, which can disrupt normal streaming device functions 
+# or cause buffering issues for some services.
+*.youboranqs01.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7389
 ipwho.is
 

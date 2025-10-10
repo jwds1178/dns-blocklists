@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 11:49 UTC
-# Version: 2025.1009.1149.06
+# Last modified: 10 Oct 2025 11:49 UTC
+# Version: 2025.1010.1149.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3407
+# Number of entries: 3420
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -381,6 +381,7 @@ local=/dns.bermeitinger.eu/
 local=/domburg.beruys.com/
 local=/bestwon203.com/
 local=/dns.bgeneto.com/
+local=/dns.bibica.net/
 local=/dns.bibitos.cc/
 local=/httpdns.bilivideo.com/
 local=/goga7777777.bissnes.org/
@@ -876,6 +877,7 @@ local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/doq.dns4all.eu/
 local=/doq64.dns4all.eu/
+local=/dns4eu.online/
 local=/dns4me.net/
 local=/adguard-koe.dns64.de/
 local=/dns8.org/
@@ -1348,6 +1350,14 @@ local=/hk154.flyzhouyc.win/
 local=/jp193.flyzhouyc.win/
 local=/st.flyzhouyc.win/
 local=/gateway.fomichev.cloud/
+local=/de-d2.foxyfy.net/
+local=/de-f1.foxyfy.net/
+local=/dns.foxyfy.net/
+local=/es-ma.foxyfy.net/
+local=/jp-to.foxyfy.net/
+local=/ro-bu.foxyfy.net/
+local=/us-ny.foxyfy.net/
+local=/us-sj.foxyfy.net/
 local=/fptdns.site/
 local=/dns.family.fraiss.at/
 local=/v7.frame-one.cc/
@@ -1500,6 +1510,7 @@ local=/adguard.h4nt3r.com/
 local=/clean.hadan-dns.de/
 local=/ns1.hadan-dns.de/
 local=/ns2.hadan-dns.de/
+local=/secure.hafnova.com/
 local=/dns.hahnjo.de/
 local=/dns.haka.se/
 local=/dns.hakim.one/
@@ -3021,6 +3032,7 @@ local=/dns.tbs6920.sbs/
 local=/adguard.tcpu.io/
 local=/dns.teaminfo.fr/
 local=/dns-br.leonardo.tec.br/
+local=/tecdrive.site/
 local=/dns.techcpu.net/
 local=/dns1.techeasy.org/
 local=/adguard.techlike.in/
@@ -3371,6 +3383,7 @@ local=/httpdns.yunxindns.com/
 local=/dns.yuu-g.net/
 local=/yuvelirtut.website/
 local=/dns.yuyz.net/
+local=/dns.yuzia.cc/
 local=/httpdns.gslb.yy.com/
 local=/dns.yyaan.com/
 local=/dns.yyaan.top/

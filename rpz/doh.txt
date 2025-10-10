@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760010540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760096940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Oct 2025 11:49 UTC
-; Version: 2025.1009.1149.06
+; Last modified: 10 Oct 2025 11:49 UTC
+; Version: 2025.1010.1149.56
 ; Syntax: RPZ
-; Number of entries: 6814
+; Number of entries: 6840
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -323,6 +323,8 @@ xenergy.cc CNAME .
 *.xenergy.cc CNAME .
 hk.yoosoo.cc CNAME .
 *.hk.yoosoo.cc CNAME .
+dns.yuzia.cc CNAME .
+*.dns.yuzia.cc CNAME .
 dns140.zhhz.cc CNAME .
 *.dns140.zhhz.cc CNAME .
 dns168.zhhz.cc CNAME .
@@ -1187,6 +1189,8 @@ adg-swe.h4nt3r.com CNAME .
 *.adg-swe.h4nt3r.com CNAME .
 adguard.h4nt3r.com CNAME .
 *.adguard.h4nt3r.com CNAME .
+secure.hafnova.com CNAME .
+*.secure.hafnova.com CNAME .
 dns.hakutakucn.com CNAME .
 *.dns.hakutakucn.com CNAME .
 adguard.haneulo.com CNAME .
@@ -3781,6 +3785,8 @@ doh1.b-cdn.net CNAME .
 *.doh1.b-cdn.net CNAME .
 doh2.b-cdn.net CNAME .
 *.doh2.b-cdn.net CNAME .
+dns.bibica.net CNAME .
+*.dns.bibica.net CNAME .
 dns.bitdefender.net CNAME .
 *.dns.bitdefender.net CNAME .
 fra-dns.bitdefender.net CNAME .
@@ -4017,6 +4023,22 @@ resolv.flokinet.net CNAME .
 *.resolv.flokinet.net CNAME .
 dns.flux24.net CNAME .
 *.dns.flux24.net CNAME .
+de-d2.foxyfy.net CNAME .
+*.de-d2.foxyfy.net CNAME .
+de-f1.foxyfy.net CNAME .
+*.de-f1.foxyfy.net CNAME .
+dns.foxyfy.net CNAME .
+*.dns.foxyfy.net CNAME .
+es-ma.foxyfy.net CNAME .
+*.es-ma.foxyfy.net CNAME .
+jp-to.foxyfy.net CNAME .
+*.jp-to.foxyfy.net CNAME .
+ro-bu.foxyfy.net CNAME .
+*.ro-bu.foxyfy.net CNAME .
+us-ny.foxyfy.net CNAME .
+*.us-ny.foxyfy.net CNAME .
+us-sj.foxyfy.net CNAME .
+*.us-sj.foxyfy.net CNAME .
 dns.api.gandi.net CNAME .
 *.dns.api.gandi.net CNAME .
 dns.beta.gandi.net CNAME .
@@ -4623,6 +4645,8 @@ dns-sehat.apigw.online CNAME .
 *.dns-sehat.apigw.online CNAME .
 vm.delfini.online CNAME .
 *.vm.delfini.online CNAME .
+dns4eu.online CNAME .
+*.dns4eu.online CNAME .
 hayadns.online CNAME .
 *.hayadns.online CNAME .
 herkes.online CNAME .
@@ -5949,6 +5973,8 @@ s1.s2.shahramv1.site CNAME .
 *.s1.s2.shahramv1.site CNAME .
 dns.srijan.site CNAME .
 *.dns.srijan.site CNAME .
+tecdrive.site CNAME .
+*.tecdrive.site CNAME .
 vtcuong.site CNAME .
 *.vtcuong.site CNAME .
 vuivn.site CNAME .

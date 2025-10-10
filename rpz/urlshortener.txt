@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760048940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760092140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Oct 2025 22:29 UTC
-; Version: 2025.1009.2229.28
+; Last modified: 10 Oct 2025 10:29 UTC
+; Version: 2025.1010.1029.44
 ; Syntax: RPZ
-; Number of entries: 15456
+; Number of entries: 15464
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -709,6 +709,8 @@ berde.bar CNAME .
 *.berde.bar CNAME .
 hqxxx.bar CNAME .
 *.hqxxx.bar CNAME .
+vypij.bar CNAME .
+*.vypij.bar CNAME .
 233.be CNAME .
 *.233.be CNAME .
 3ra.be CNAME .
@@ -913,8 +915,6 @@ weblink.biz CNAME .
 *.weblink.biz CNAME .
 suge.blog CNAME .
 *.suge.blog CNAME .
-bgtbl.blue CNAME .
-*.bgtbl.blue CNAME .
 brad.blue CNAME .
 *.brad.blue CNAME .
 urlshortener.bnpparibas CNAME .
@@ -1365,6 +1365,8 @@ swtt.cc CNAME .
 *.swtt.cc CNAME .
 taplink.cc CNAME .
 *.taplink.cc CNAME .
+teil.cc CNAME .
+*.teil.cc CNAME .
 texn.cc CNAME .
 *.texn.cc CNAME .
 tini.cc CNAME .
@@ -2595,8 +2597,6 @@ adflydsp.com CNAME .
 *.adflydsp.com CNAME .
 adflyfly.com CNAME .
 *.adflyfly.com CNAME .
-buy.adhitan.com CNAME .
-*.buy.adhitan.com CNAME .
 adialerts.com CNAME .
 *.adialerts.com CNAME .
 adjix.com CNAME .
@@ -2897,8 +2897,6 @@ brisktopia.com CNAME .
 *.brisktopia.com CNAME .
 briurl.com CNAME .
 *.briurl.com CNAME .
-broquests.com CNAME .
-*.broquests.com CNAME .
 bs303.com CNAME .
 *.bs303.com CNAME .
 track3.bsplegalmarketing.com CNAME .
@@ -3791,8 +3789,6 @@ linklada.com CNAME .
 *.linklada.com CNAME .
 linklyhq.com CNAME .
 *.linklyhq.com CNAME .
-jjtaylor.linkmakeashorterlink.com CNAME .
-*.jjtaylor.linkmakeashorterlink.com CNAME .
 linkmeow.com CNAME .
 *.linkmeow.com CNAME .
 linkmngr.com CNAME .
@@ -5157,6 +5153,8 @@ urlcort.com CNAME .
 *.urlcort.com CNAME .
 urlcover.com CNAME .
 *.urlcover.com CNAME .
+urlcrop.com CNAME .
+*.urlcrop.com CNAME .
 urlcut.com CNAME .
 *.urlcut.com CNAME .
 urlday.com CNAME .
@@ -6529,6 +6527,8 @@ ou.gd CNAME .
 *.ou.gd CNAME .
 pic.gd CNAME .
 *.pic.gd CNAME .
+ta.gd CNAME .
+*.ta.gd CNAME .
 tl.gd CNAME .
 *.tl.gd CNAME .
 v.gd CNAME .
@@ -9255,6 +9255,8 @@ tamthangnam.life CNAME .
 *.tamthangnam.life CNAME .
 taythi.life CNAME .
 *.taythi.life CNAME .
+tiger388.life CNAME .
+*.tiger388.life CNAME .
 topsubcvelens.life CNAME .
 *.topsubcvelens.life CNAME .
 trieuview.life CNAME .
@@ -10027,8 +10029,6 @@ slimeteam.live CNAME .
 *.slimeteam.live CNAME .
 tdv-adm.live CNAME .
 *.tdv-adm.live CNAME .
-tekan.live CNAME .
-*.tekan.live CNAME .
 tiniworkfennies.live CNAME .
 *.tiniworkfennies.live CNAME .
 top-sub-cve-len.live CNAME .
@@ -10043,6 +10043,8 @@ urlshortenerr.live CNAME .
 *.urlshortenerr.live CNAME .
 vendoagora.live CNAME .
 *.vendoagora.live CNAME .
+videopro.live CNAME .
+*.videopro.live CNAME .
 webprotech.live CNAME .
 *.webprotech.live CNAME .
 webyank4d.live CNAME .
@@ -10351,6 +10353,8 @@ tidd.ly CNAME .
 *.tidd.ly CNAME .
 to.ly CNAME .
 *.to.ly CNAME .
+trick.ly CNAME .
+*.trick.ly CNAME .
 usat.ly CNAME .
 *.usat.ly CNAME .
 wartsi.ly CNAME .
@@ -12233,8 +12237,6 @@ go.cemd.org CNAME .
 *.go.cemd.org CNAME .
 ch4matotal.org CNAME .
 *.ch4matotal.org CNAME .
-coachstudio.org CNAME .
-*.coachstudio.org CNAME .
 convertcase.org CNAME .
 *.convertcase.org CNAME .
 coreprob.coreprobation.org CNAME .
@@ -13559,6 +13561,8 @@ terasherelinks.site CNAME .
 *.terasherelinks.site CNAME .
 totopecah.site CNAME .
 *.totopecah.site CNAME .
+tt5k.site CNAME .
+*.tt5k.site CNAME .
 unshort.site CNAME .
 *.unshort.site CNAME .
 url2a.site CNAME .
@@ -14869,6 +14873,8 @@ tgov.us CNAME .
 *.tgov.us CNAME .
 th8.us CNAME .
 *.th8.us CNAME .
+thesa.us CNAME .
+*.thesa.us CNAME .
 tiny.us CNAME .
 *.tiny.us CNAME .
 u.tlht.us CNAME .
@@ -15155,6 +15161,8 @@ serius.win CNAME .
 *.serius.win CNAME .
 ss777.win CNAME .
 *.ss777.win CNAME .
+tinyurl.win CNAME .
+*.tinyurl.win CNAME .
 vpn2.win CNAME .
 *.vpn2.win CNAME .
 jetzt.work CNAME .
