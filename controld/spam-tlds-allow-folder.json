@@ -1317,13 +1317,6 @@
       }
     },
     {
-      "PK": "fastdl.icu",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "fastmail.help",
       "action": {
         "do": 1,
@@ -2871,6 +2864,13 @@
       }
     },
     {
+      "PK": "nitter.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nixos.wiki",
       "action": {
         "do": 1,
@@ -3215,6 +3215,13 @@
     },
     {
       "PK": "pixers.pics",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pixiv.help",
       "action": {
         "do": 1,
         "status": 1
@@ -3956,13 +3963,6 @@
       }
     },
     {
-      "PK": "spankbang.mov",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "spankbang.party",
       "action": {
         "do": 1,
@@ -4502,13 +4502,6 @@
       }
     },
     {
-      "PK": "vcloud.lol",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "vecchioamore.restaurant",
       "action": {
         "do": 1,
@@ -4895,6 +4888,13 @@
     },
     {
       "PK": "yoox.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "yts.monster",
       "action": {
         "do": 1,
         "status": 1

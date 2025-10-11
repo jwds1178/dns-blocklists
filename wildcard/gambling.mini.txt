@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 11:42 UTC
-# Version: 2025.1010.1142.43
+# Last modified: 10 Oct 2025 23:08 UTC
+# Version: 2025.1010.2308.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 39099
+# Number of entries: 39132
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -4692,7 +4692,6 @@
 *.astraku.me
 *.astreab04.online
 *.astro38.com
-*.astrologypoker.com
 *.astrologysupport.com
 *.astromaniacasino.com
 *.astromaniacasino.net
@@ -38612,6 +38611,7 @@
 *.xn----7sbkofbbj4akz.xn--80asehdb
 *.xn----7sbkofbbj4akz.xn--90ae
 *.xn--12c4blax3ar3b2a0bh3x.com
+*.xn--82c0aab0a9b4hneb5ef.com
 *.xn--casinoonlineespaa-uxb.es
 *.xn--casinopnett-38a.eu
 *.xn--mrr680bfyk.com
@@ -38639,6 +38639,7 @@
 *.xoso66.pics
 *.xoso88.tv
 *.xosochieunay.net
+*.xosodientoan.info
 *.xparibet.com
 *.xpbarscasino.com
 *.xpgames.bet
@@ -38647,10 +38648,13 @@
 *.xrp-casino.com
 *.xslots2025.online
 *.xslotsgamecz.club
+*.xsmthomnay.com
 *.xtip.de
 *.xtremecasinoclub.com
 *.xtrime.shop
 *.xuo7pokerdom.com
+*.xv711.com
+*.xv802.com
 *.xvgbets.xyz
 *.xvgcasino.xyz
 *.xvsbets.xyz
@@ -38663,6 +38667,8 @@
 *.xx777casino.com
 *.xxbrslots.com
 *.xxxbets.xyz
+*.y067.vip
+*.y2293.com
 *.y22a.vip
 *.cdn.y2cdn.com
 *.y38fy20p.com
@@ -38679,6 +38685,8 @@
 *.yabbycasino.live
 *.yabbycasinoau.com
 *.yabbycasinoy.com
+*.yabo318.com
+*.yabo669.com
 *.yabtcl.com
 *.yachting-casino.com
 *.yaguplay.com
@@ -38706,8 +38714,10 @@
 *.ybets.net
 *.ybntanjungpriok.id
 *.ybrcasinoandsportsbook.com
+*.yccjrjy.org
 *.yclemon.com
 *.ycyd123.com
+*.yd102.com
 *.ydcasino88.com
 *.ydr-dblivecasino.com
 *.ye7.asia
@@ -38754,8 +38764,13 @@
 *.yeu88.games
 *.yggbets.xyz
 *.yggcasino.xyz
+*.yh385.com
+*.yh88828.com
+*.yh9681.com
+*.yhc668.com
 *.yhgamebr.net
 *.yhgamevip.com
+*.yhh112.com
 *.yhuxg.xyz
 *.yhysnak.com
 *.yinyangslots.com
@@ -38796,6 +38811,7 @@
 *.yonibet2.io
 *.yonibet3.io
 *.yonibetcasino.ch
+*.yonibetcasino.fr
 *.yono-567-slots.com
 *.yonorummy.live
 *.yonoslots567.club
@@ -38812,6 +38828,7 @@
 *.youcasinos.fr
 *.youhodler.com
 *.your1x2.com
+*.yourmediaservices.com
 *.yourpokercash.com
 *.yourtea.com
 *.youwager.lv
@@ -38834,6 +38851,7 @@
 *.ytkk.xyz
 *.yu777i.com
 *.yuancuan.xyz
+*.yubari-hankachi.com
 *.yug-sport.com
 *.yugibet.com
 *.yukar.in
@@ -38851,6 +38869,10 @@
 *.yuugado.com
 *.yuyu4dbeb.com
 *.yuyuku.xyz
+*.yy51234.com
+*.yy567948.com
+*.yy66975.com
+*.yy7699.com
 *.yy777.net
 *.yy77y33.com
 *.yylive.top
@@ -38914,6 +38936,7 @@
 *.zenbetting.com
 *.zencasino.com
 *.zencasino.win
+*.zengincasino.com
 *.zenit.win
 *.zenitbet.com
 *.zenobet.casino
@@ -38938,6 +38961,7 @@
 *.zeslots.com
 *.zet88.com
 *.zetbet.com
+*.zetcasino.click
 *.zetcasino.com
 *.zetcasino.one
 *.zetcasinoapp.fr
@@ -38950,6 +38974,7 @@
 *.zeturf.com
 *.zeturf.fr
 *.zeus-slots.cfd
+*.zeus88.info
 *.zeuscasino24.bet
 *.zeuscasinovip.com
 *.zeusfans.xyz
@@ -38957,6 +38982,7 @@
 *.zeusqq.store
 *.zeuswin88.top
 *.zeuswin88bet.click
+*.zeuswin88bet.xyz
 *.zeuswincasinos.com
 *.zghmnilmaa.xyz
 *.zh-cni-wendingcasino.com
@@ -38982,9 +39008,11 @@
 *.zinkra.com
 *.zinkra-casino.com
 *.zinkra-casino.nl
+*.zip-bbfs10digit.com
 *.zipangcasino.com
 *.zippycalc.com
 *.zirpp.org
+*.zithromaxpill.online
 *.zitobox.com
 *.zizezu.site
 *.zkcasino.xyz
@@ -39043,6 +39071,7 @@
 *.zoome6.casino
 *.zoomecasinoapp.com
 *.zoomecasinosau.com
+*.zoomerart.net
 *.zoomsenang.xyz
 *.zoomslots.tv
 *.zorbasmedia.com
@@ -39062,6 +39091,7 @@
 *.zukunftslotse.hamburg
 *.zulacasino.com
 *.zulacasinopromocode.top
+*.zunevideoconverters.com
 *.zupee.com
 *.zuumbets.top
 *.zuwacasino.com
@@ -39085,6 +39115,7 @@
 *.zyngapokeronline.com
 *.zyngatexasholdempokerfreechips.com
 *.zyngazyngapoker.com
+*.zyrtecgx.com
 *.zz66.com
 *.zz77.com
 *.zz777.bet
@@ -39095,6 +39126,8 @@
 *.zz777c.com
 *.zz777d.com
 *.zz778.com
+*.zz999.app
+*.zz999.org
 *.zzg2j7.com
 *.zzg3f5.com
 *.zzwin606.vip

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 23:17 UTC
-# Version: 2025.1003.2317.18
+# Last modified: 10 Oct 2025 23:16 UTC
+# Version: 2025.1010.2316.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 360
+# Number of entries: 359
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -261,8 +261,7 @@ local=/video.market.xiaomi.com/
 local=/wtradv.market.xiaomi.com/
 local=/resolver.mi.xiaomi.com/
 local=/mibi.xiaomi.com/
-local=/find.api.micloud.xiaomi.net/
-local=/us.api.micloud.xiaomi.net/
+local=/api.micloud.xiaomi.net/
 local=/findapi.micloud.xiaomi.net/
 local=/api.g.micloud.xiaomi.net/
 local=/statusapi.micloud.xiaomi.net/

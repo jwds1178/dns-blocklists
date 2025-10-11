@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Oct 2025 23:17 UTC
-# Version: 2025.1003.2317.18
+# Last modified: 10 Oct 2025 23:16 UTC
+# Version: 2025.1010.2316.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 360
+# Number of entries: 359
 #
 *.traffic-media.co.uk
 *.mistat.india.xiaomi.com.edgesuite.net
@@ -261,8 +261,7 @@
 *.wtradv.market.xiaomi.com
 *.resolver.mi.xiaomi.com
 *.mibi.xiaomi.com
-*.find.api.micloud.xiaomi.net
-*.us.api.micloud.xiaomi.net
+*.api.micloud.xiaomi.net
 *.findapi.micloud.xiaomi.net
 *.api.g.micloud.xiaomi.net
 *.statusapi.micloud.xiaomi.net

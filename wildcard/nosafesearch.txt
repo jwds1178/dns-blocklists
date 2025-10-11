@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 22:59 UTC
-# Version: 2025.0926.2259.10
+# Last modified: 10 Oct 2025 23:00 UTC
+# Version: 2025.1010.2300.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 179
+# Number of entries: 182
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -17,6 +17,7 @@
 *.haku.ahmia.fi
 *.search.ahwx.org
 *.search.albony.xyz
+*.searx.alec.ninja
 *.alltheinternet.com
 *.zoek.anchel.nl
 *.andisearch.com
@@ -57,6 +58,7 @@
 *.search.dojoro.de
 *.searx.doofpot.nl
 *.search.dr460nf1r3.org
+*.wgl.frail.duckdns.org
 *.dynabyte.ca
 *.searx.elukerio.org
 *.searx.ericaftereric.top
@@ -143,6 +145,7 @@
 *.search.rubberverse.xyz
 *.searche.org
 *.searchencrypt.com
+*.searx.bar
 *.searx.ch
 *.searx.info
 *.searx.ir

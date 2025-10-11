@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Sep 2025 22:59 UTC
-# Version: 2025.0926.2259.10
+# Last modified: 10 Oct 2025 23:00 UTC
+# Version: 2025.1010.2300.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 179
+# Number of entries: 182
 #
 local=/search.0xcb.dev/
 local=/search.0xgingi.com/
@@ -17,6 +17,7 @@ local=/search.activemail.de/
 local=/haku.ahmia.fi/
 local=/search.ahwx.org/
 local=/search.albony.xyz/
+local=/searx.alec.ninja/
 local=/alltheinternet.com/
 local=/zoek.anchel.nl/
 local=/andisearch.com/
@@ -57,6 +58,7 @@ local=/dogpile.com/
 local=/search.dojoro.de/
 local=/searx.doofpot.nl/
 local=/search.dr460nf1r3.org/
+local=/wgl.frail.duckdns.org/
 local=/dynabyte.ca/
 local=/searx.elukerio.org/
 local=/searx.ericaftereric.top/
@@ -143,6 +145,7 @@ local=/roteserver.de/
 local=/search.rubberverse.xyz/
 local=/searche.org/
 local=/searchencrypt.com/
+local=/searx.bar/
 local=/searx.ch/
 local=/searx.info/
 local=/searx.ir/

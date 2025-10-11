@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760092080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760138280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Oct 2025 10:28 UTC
-; Version: 2025.1010.1028.04
+; Last modified: 10 Oct 2025 23:18 UTC
+; Version: 2025.1010.2318.12
 ; Syntax: RPZ
-; Number of entries: 28340
+; Number of entries: 28358
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -17190,6 +17190,8 @@ xn--solovairmxico-jhb.com CNAME .
 *.xn--solovairmxico-jhb.com CNAME .
 xn--vejazrich-u9a.com CNAME .
 *.xn--vejazrich-u9a.com CNAME .
+xnvest.com CNAME .
+*.xnvest.com CNAME .
 xobeautysupply.com CNAME .
 *.xobeautysupply.com CNAME .
 xohapro.com CNAME .
@@ -17226,6 +17228,8 @@ xxgab.com CNAME .
 *.xxgab.com CNAME .
 xxl-store.com CNAME .
 *.xxl-store.com CNAME .
+xyiyi.com CNAME .
+*.xyiyi.com CNAME .
 de.xynapay.com CNAME .
 *.de.xynapay.com CNAME .
 y-stop.com CNAME .
@@ -17236,6 +17240,8 @@ yaberauto.com CNAME .
 *.yaberauto.com CNAME .
 yakshart.com CNAME .
 *.yakshart.com CNAME .
+yashigeoutlet.com CNAME .
+*.yashigeoutlet.com CNAME .
 ybcladmetal.com CNAME .
 *.ybcladmetal.com CNAME .
 ydconsultant.com CNAME .
@@ -17266,6 +17272,8 @@ youkukestylus.com CNAME .
 *.youkukestylus.com CNAME .
 youngbf.com CNAME .
 *.youngbf.com CNAME .
+youngla-danmark.com CNAME .
+*.youngla-danmark.com CNAME .
 yourgiftshopping.com CNAME .
 *.yourgiftshopping.com CNAME .
 yourmre.com CNAME .
@@ -17288,6 +17296,8 @@ yukomi.com CNAME .
 *.yukomi.com CNAME .
 yummycrystal.com CNAME .
 *.yummycrystal.com CNAME .
+yumreviewguide.com CNAME .
+*.yumreviewguide.com CNAME .
 yumven.com CNAME .
 *.yumven.com CNAME .
 wwujiao2w.x.yupoo.com CNAME .
@@ -17396,6 +17406,8 @@ zinskapital.com CNAME .
 *.zinskapital.com CNAME .
 zinsvermittler.com CNAME .
 *.zinsvermittler.com CNAME .
+zipgoat.com CNAME .
+*.zipgoat.com CNAME .
 zitysports.com CNAME .
 *.zitysports.com CNAME .
 zivyastore.com CNAME .
@@ -17422,6 +17434,8 @@ zubehorgeschaft.com CNAME .
 *.zubehorgeschaft.com CNAME .
 zuhausegutes.com CNAME .
 *.zuhausegutes.com CNAME .
+zuhauseunddekor.com CNAME .
+*.zuhauseunddekor.com CNAME .
 zuhiog.com CNAME .
 *.zuhiog.com CNAME .
 zukunftkredit.com CNAME .
@@ -23938,6 +23952,8 @@ yeezyadidas.de CNAME .
 *.yeezyadidas.de CNAME .
 yinga-vital.de CNAME .
 *.yinga-vital.de CNAME .
+yogaathleta.de CNAME .
+*.yogaathleta.de CNAME .
 yokee.de CNAME .
 *.yokee.de CNAME .
 yorkbootsshop.de CNAME .
@@ -23964,6 +23980,8 @@ zarofia.de CNAME .
 *.zarofia.de CNAME .
 zavando.de CNAME .
 *.zavando.de CNAME .
+zeigdeinbein.de CNAME .
+*.zeigdeinbein.de CNAME .
 zeitgeschenen.de CNAME .
 *.zeitgeschenen.de CNAME .
 zeitlosliebe.de CNAME .
@@ -23980,6 +23998,8 @@ zentiv.de CNAME .
 *.zentiv.de CNAME .
 zeroplay.de CNAME .
 *.zeroplay.de CNAME .
+zerova.de CNAME .
+*.zerova.de CNAME .
 zertifiziert.de CNAME .
 *.zertifiziert.de CNAME .
 zesavi-tech.de CNAME .
@@ -26694,8 +26714,6 @@ kraftholz.shop CNAME .
 *.kraftholz.shop CNAME .
 kraftholz-pellet.shop CNAME .
 *.kraftholz-pellet.shop CNAME .
-krueger-dirndl-outlet.shop CNAME .
-*.krueger-dirndl-outlet.shop CNAME .
 kruemelchen-kuchen.shop CNAME .
 *.kruemelchen-kuchen.shop CNAME .
 krugerdirndlssale.shop CNAME .

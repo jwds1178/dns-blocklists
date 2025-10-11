@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Oct 2025 23:11 UTC
-! Version: 2025.1003.2311.04
+! Last modified: 10 Oct 2025 23:10 UTC
+! Version: 2025.1010.2310.14
 ! Syntax: AdBlock
-! Number of entries: 415
+! Number of entries: 414
 !
 ||c-bingapis-com.dual-a-0034.a-msedge.net^
 ||measure.office.com.akamaized.net^
@@ -354,7 +354,6 @@
 ||partnerfraudevents.trafficmanager.net^
 ||pixel-sync.trafficmanager.net^
 ||primeevents.trafficmanager.net^
-||rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net^
 ||sconsentit9.trafficmanager.net^
 ||self-events-data.trafficmanager.net^
 ||ssp-prod-eastus-nonmutt.trafficmanager.net^

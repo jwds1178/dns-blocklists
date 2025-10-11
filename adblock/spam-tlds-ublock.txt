@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Oct 2025 23:40 UTC
-! Version: 2025.1007.2340.08
+! Last modified: 10 Oct 2025 22:48 UTC
+! Version: 2025.1010.2248.34
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -137,12 +137,12 @@
 ||haus^$doc
 ||health^$doc,domain=~sca.health
 ||healthcare^$doc,domain=~severance.healthcare
-||help^$doc,domain=~fastmail.help|~gorgias.help|~kustomer.help
+||help^$doc,domain=~fastmail.help|~gorgias.help|~kustomer.help|~pixiv.help
 ||homes^$doc,domain=~stremio.homes
 ||hot^$doc
 ||house^$doc,domain=~nature.house
 ||how^$doc,domain=~mond.how
-||icu^$doc,domain=~fastdl.icu|~lunar.icu|~mon.icu
+||icu^$doc,domain=~lunar.icu|~mon.icu
 ||ink^$doc,domain=~filepress.ink|~ishortn.ink|~mez.ink|~next.ink|~rdl.ink|~shrinkme.ink|~sumerian.ink|~work.ink
 ||international^$doc
 ||irish^$doc
@@ -159,7 +159,7 @@
 ||loan^$doc
 ||loans^$doc
 ||locker^$doc
-||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~techaro.lol|~vcloud.lol|~weblog.lol|~wpp.lol
+||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~techaro.lol|~weblog.lol|~wpp.lol
 ||london^$doc
 ||love^$doc
 ||ltd^$doc,domain=~homebrew.ltd|~picsee.ltd|~swizzin.ltd
@@ -177,9 +177,9 @@
 ||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~uma.moe
 ||mom^$doc
 ||money^$doc,domain=~flowyour.money|~unstoppable.money|~usual.money|~vivid.money
-||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster
+||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
 ||motorcycles^$doc
-||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov|~spankbang.mov
+||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov
 ||name^$doc,domain=~chris.boyle.name|~davidwalsh.name|~keenetic.name|~stefvanbuuren.name|~vlo.name
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
@@ -244,7 +244,7 @@
 ||skin^$doc
 ||solar^$doc,domain=~forecast.solar|~optimizer.solar
 ||soy^$doc
-||space^$doc,domain=~dragonscave.space|~drgns.space|~embed-player.space|~filesafe.space|~hf.space|~httpjames.space|~hullseals.space|~hyper.space|~infosec.space|~ippen.space|~keyboard-test.space|~latent.space|~link.space|~mapstodon.space|~melmac.space|~mempool.space|~metahub.space|~momonster.space|~monitorburz.space|~ocr.space|~oldbytes.space|~qwik.space|~roguecorp.space|~scurra.space|~searx.space|~slashtw.space|~snapapi.space|~takeb1nzyto.space|~telegram.space|~truepeople.space|~uexcorp.space
+||space^$doc,domain=~dragonscave.space|~drgns.space|~embed-player.space|~filesafe.space|~hf.space|~httpjames.space|~hullseals.space|~hyper.space|~infosec.space|~ippen.space|~keyboard-test.space|~latent.space|~link.space|~mapstodon.space|~melmac.space|~mempool.space|~metahub.space|~momonster.space|~monitorburz.space|~nitter.space|~ocr.space|~oldbytes.space|~qwik.space|~roguecorp.space|~scurra.space|~searx.space|~slashtw.space|~snapapi.space|~takeb1nzyto.space|~telegram.space|~truepeople.space|~uexcorp.space
 ||sport^$doc,domain=~dyn.sport
 ||srl^$doc
 ||store^$doc,domain=~adidashardware.store|~beyondagency.store|~bigtimerush.store|~bigtimerushuk.store|~cleanmasters.store|~ettoresoftware.store|~g-h.store|~glitchproductions.store|~hacksmith.store|~heavysaurus.store|~iqunix.store|~pbshop.store|~peugeot.store|~roble.store|~rokomari.store|~shoplazza.store|~stan.store|~tatemcraeeu.store|~tatemcrae.store|~timberjacks.store

@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Oct 2025 10:29 UTC
-! Version: 2025.1010.1029.44
+! Last modified: 10 Oct 2025 23:02 UTC
+! Version: 2025.1010.2302.07
 ! Syntax: AdBlock
-! Number of entries: 7732
+! Number of entries: 7734
 !
 ||0.gp^
 ||00m.in^
@@ -546,6 +546,7 @@
 ||link.alfamonkey.com^
 ||ali.onl^
 ||alias.live^
+||alicedeals.com^
 ||alie.kr^
 ||alien-traffic.com^
 ||alientraffic.com^
@@ -2776,6 +2777,7 @@
 ||w.idg.de^
 ||idm.in^
 ||idmail.me^
+||idr108.link^
 ||idvip.us^
 ||idz-do.pl^
 ||iea.li^

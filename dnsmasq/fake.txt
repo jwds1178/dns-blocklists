@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 10:28 UTC
-# Version: 2025.1010.1028.04
+# Last modified: 10 Oct 2025 23:18 UTC
+# Version: 2025.1010.2318.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14170
+# Number of entries: 14179
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -7176,7 +7176,6 @@ local=/kronbergwien.at/
 local=/kronemarkt.com/
 local=/kronenstil.de/
 local=/kroomshop.com/
-local=/krueger-dirndl-outlet.shop/
 local=/kruegertracht.de/
 local=/kruemelchen-kuchen.shop/
 local=/kruger-design.de/
@@ -13974,6 +13973,7 @@ local=/xn--parfm-probe-whb.de/
 local=/xn--solovairmxico-jhb.com/
 local=/xn--vejazrich-u9a.com/
 local=/xnt-group.de/
+local=/xnvest.com/
 local=/xo-trier.de/
 local=/xobeautysupply.com/
 local=/xohapro.com/
@@ -13998,6 +13998,7 @@ local=/xupe.at/
 local=/xwiftlogistics.com/
 local=/xxgab.com/
 local=/xxl-store.com/
+local=/xyiyi.com/
 local=/de.xynapay.com/
 local=/xyrisa.de/
 local=/y-stop.com/
@@ -14008,6 +14009,7 @@ local=/yakshart.com/
 local=/yali24.de/
 local=/yangzhi.de/
 local=/yannelli.net/
+local=/yashigeoutlet.com/
 local=/ybcladmetal.com/
 local=/ydconsultant.com/
 local=/yearpilrim.com/
@@ -14023,6 +14025,7 @@ local=/yjcsundw.com/
 local=/ymking.com/
 local=/balkonzauber.ymwfdm.work/
 local=/yoga-go.io/
+local=/yogaathleta.de/
 local=/yogabaum.at/
 local=/yogastr.com/
 local=/yokee.de/
@@ -14033,6 +14036,7 @@ local=/yoocaa.com/
 local=/yorkbootsshop.de/
 local=/youkukestylus.com/
 local=/youngbf.com/
+local=/youngla-danmark.com/
 local=/yourgiftshopping.com/
 local=/yourmre.com/
 local=/yourzencoach.co/
@@ -14049,6 +14053,7 @@ local=/yuguz.com/
 local=/yukomi.com/
 local=/yummycrystal.com/
 local=/yumor.shop/
+local=/yumreviewguide.com/
 local=/yumven.com/
 local=/wwujiao2w.x.yupoo.com/
 local=/yuuerste.com/
@@ -14106,6 +14111,7 @@ local=/zebrainvest.com/
 local=/german.zeelool.com/
 local=/zeenity.com/
 local=/zeglo-finanz.com/
+local=/zeigdeinbein.de/
 local=/zeitgeschenen.de/
 local=/zeitlosliebe.de/
 local=/zelono.de/
@@ -14121,6 +14127,7 @@ local=/zeppeespadrillas.com/
 local=/zeradaoautopecas.com/
 local=/zeroceann.com/
 local=/zeroplay.de/
+local=/zerova.de/
 local=/zertifikate24.online/
 local=/zertifiziert.de/
 local=/zesavi-tech.de/
@@ -14143,6 +14150,7 @@ local=/zinsacm.com/
 local=/zinskapital.com/
 local=/zinsvermittler.com/
 local=/zinzendorf-mode.at/
+local=/zipgoat.com/
 local=/zitysports.com/
 local=/zivyastore.com/
 local=/ziyarafashion.shop/
@@ -14164,6 +14172,7 @@ local=/zubehorgeschaft.com/
 local=/zubehorobjektive.de/
 local=/zuedy.de/
 local=/zuhausegutes.com/
+local=/zuhauseunddekor.com/
 local=/zuhaushop.de/
 local=/zuhiog.com/
 local=/zukunftkredit.com/

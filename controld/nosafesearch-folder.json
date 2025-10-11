@@ -687,7 +687,21 @@
       }
     },
     {
+      "PK": "searx.alec.ninja",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "searx.baczek.me",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "searx.bar",
       "action": {
         "do": 0,
         "status": 1
@@ -1178,6 +1192,13 @@
     },
     {
       "PK": "websearch.excite.co.jp",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wgl.frail.duckdns.org",
       "action": {
         "do": 0,
         "status": 1

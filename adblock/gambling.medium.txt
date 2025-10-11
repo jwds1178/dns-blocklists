@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Oct 2025 11:40 UTC
-! Version: 2025.1010.1140.06
+! Last modified: 10 Oct 2025 23:05 UTC
+! Version: 2025.1010.2305.33
 ! Syntax: AdBlock
-! Number of entries: 102289
+! Number of entries: 102348
 !
 ||0-bdmbet.com^
 ||0-casino.info^
@@ -17094,7 +17094,6 @@
 ||astro38.com^
 ||astrobets.pro^
 ||astroboy777.com^
-||astrologypoker.com^
 ||astrologysupport.com^
 ||astromania.casino^
 ||astromaniacasino.com^
@@ -57156,7 +57155,6 @@
 ||kamubisa.xyz^
 ||kamupastibisa.xyz^
 ||kananbetsuper.com^
-||kandangemas77.store^
 ||kandiceg.com^
 ||kandreas.com^
 ||kaneohestore.com^
@@ -101064,7 +101062,9 @@
 ||xlcasino.club^
 ||xlive-sicherwetten.at^
 ||xlivebet.com^
+||xlklasikbet.xyz^
 ||xlmbets.xyz^
+||xlngopibet.xyz^
 ||xlxwin.com^
 ||xmg58.co^
 ||xmgou.net^
@@ -101072,9 +101072,11 @@
 ||xn-----9kcbqecndk0clinw1ae.xn--90ae^
 ||xn----7sbkofbbj4akz.xn--80asehdb^
 ||xn----7sbkofbbj4akz.xn--90ae^
+||xn--12c1byci5jc1c.art^
 ||xn--12c4blax3ar3b2a0bh3x.com^
 ||xn--12cf6coh2a0au5e9a9e.com^
 ||xn--72c3a7bhuny5c7dvd.xyz^
+||xn--82c0aab0a9b4hneb5ef.com^
 ||xn--88-6v2dsut08pekl.com^
 ||xn--99-bsi2e4b.com^
 ||xn--casinonrd-r8a.dk^
@@ -101089,6 +101091,7 @@
 ||xn--m2e9bc7i6ia9a.xn--tckwe^
 ||xn--mrr680bfyk.com^
 ||xn--ngtp-5nat87e.xn--tckwe^
+||xn--nqv946cjoe.xyz^
 ||xn--ntcasinot-v2a.net^
 ||xn--ntcasinoutanlicens-ltb.com^
 ||xn--o80bq93a9kfu7e7te.net^
@@ -101146,7 +101149,9 @@
 ||xoso9977.com^
 ||xoso9988.com^
 ||xosochieunay.net^
+||xosodientoan.info^
 ||xosoleo88.com^
+||xosowin.bet^
 ||xotogel7.org^
 ||xotto.de^
 ||xox232.com^
@@ -101161,6 +101166,7 @@
 ||xpoker.xyz^
 ||xpoker-th.com^
 ||xposedblackjack.club^
+||xpressmushies.store^
 ||xptreecasino.com^
 ||xqchess.com^
 ||xr7xmtj0.com^
@@ -101170,6 +101176,7 @@
 ||xrmykvl.com^
 ||xrp-casino.com^
 ||xrpbets.xyz^
+||xs109.com^
 ||xscasino.net^
 ||xsino-casino.com^
 ||xslots1x.ru^
@@ -101180,6 +101187,7 @@
 ||xslotsmikemirexg.pro^
 ||xslotswaetaiummp.pro^
 ||xslotswaremizik.info^
+||xsmthomnay.com^
 ||xsxt.info^
 ||xtesla-casino.com^
 ||xtick.ru^
@@ -101196,6 +101204,8 @@
 ||xuxa777.casino^
 ||xv555.com^
 ||xv694.com^
+||xv711.com^
+||xv802.com^
 ||xvgbets.xyz^
 ||xvgcasino.xyz^
 ||xvip21.win^
@@ -101257,8 +101267,11 @@
 ||xxzzxxzzxxpokerprolabsreview.club^
 ||xyz-forwin77.site^
 ||xyz388id.io^
+||xyzklub.site^
 ||xz-sindenpro.xyz^
 ||xz8gbet.com^
+||y067.vip^
+||y2293.com^
 ||y22a.vip^
 ||cdn.y2cdn.com^
 ||y2t9v.cc^
@@ -101268,8 +101281,10 @@
 ||y3u2.com^
 ||y4d.xyz^
 ||y6.com^
+||y61z1l.net^
 ||y6t3g7.com^
 ||y7222.vip^
+||y7688.com^
 ||y77win.com^
 ||y7y7bets.com^
 ||y813bet.com^
@@ -101294,6 +101309,9 @@
 ||yabbycasinoca.com^
 ||yabbycasinonodepositbonus.club^
 ||yabbycasinoy.com^
+||yabo318.com^
+||yabo412.com^
+||yabo669.com^
 ||yabos88vip1a.com^
 ||yabos88vip1c.com^
 ||yabtcl.com^
@@ -101360,6 +101378,7 @@
 ||yard.casino^
 ||yarisbetmax.xyz^
 ||yaristotoasli.xyz^
+||yasammekan.com^
 ||yatechsol.com^
 ||yatzyregler.com^
 ||yaya-casino.com^
@@ -101382,8 +101401,11 @@
 ||ybntanjungpriok.id^
 ||ybrcasinoandsportsbook.com^
 ||ycasino.site^
+||yccjrjy.org^
 ||yclemon.com^
 ||ycyd123.com^
+||yd102.com^
+||yd1962.com^
 ||yd30.bet^
 ||yd33.bet^
 ||yd34.bet^
@@ -101466,8 +101488,15 @@
 ||yggcasino.xyz^
 ||ygjogo.com^
 ||ygpentingjp.xyz^
+||yh3805.com^
+||yh385.com^
+||yh88828.com^
+||yh9681.com^
+||yhc668.com^
 ||yhgamebr.net^
 ||yhgamevip.com^
+||yhh112.com^
+||yhn188.com^
 ||yhsqlw.xyz^
 ||yhuxg.xyz^
 ||yhysnak.com^
@@ -101545,6 +101574,7 @@
 ||yonibet3.com^
 ||yonibet3.io^
 ||yonibetcasino.ch^
+||yonibetcasino.fr^
 ||yonkopower.click^
 ||yono-567-slots.club^
 ||yono-567-slots.com^
@@ -101618,6 +101648,7 @@
 ||yosports.es^
 ||yossyzakki.site^
 ||youcasinos.fr^
+||youflix.site^
 ||youhodler.com^
 ||youngbets.biz^
 ||youngtotologin.com^
@@ -101627,6 +101658,7 @@
 ||yourccleaner.shop^
 ||yourluckycasino.com^
 ||yourmanner.com^
+||yourmediaservices.com^
 ||yourmkitchen.com^
 ||youronlinecasino.xyz^
 ||youronlinepoker.xyz^
@@ -101661,8 +101693,11 @@
 ||yqgagshj.com^
 ||yqysolt.com^
 ||yrf-dblivecasino.com^
+||ys389.com^
+||ysb1029.com^
 ||ysbslots.digital^
 ||ysense.com^
+||yspro.cyou^
 ||yswin.com^
 ||yswin3.com^
 ||ytbet.com^
@@ -101681,6 +101716,7 @@
 ||yu777i.com^
 ||yu777slots.com^
 ||yuancuan.xyz^
+||yubari-hankachi.com^
 ||yuemphap.com^
 ||yug-sport.com^
 ||yugenedition.xyz^
@@ -101713,6 +101749,7 @@
 ||yuniforever.xyz^
 ||yunijaya.xyz^
 ||yunijitu.xyz^
+||yunimax.xyz^
 ||yunitop.com^
 ||yunitotojos.xyz^
 ||yupiunik.xyz^
@@ -101722,6 +101759,10 @@
 ||yuyuku.xyz^
 ||yy1998f.com^
 ||yy2jogo.com^
+||yy51234.com^
+||yy567948.com^
+||yy66975.com^
+||yy7699.com^
 ||yy77-casino.com^
 ||yy777.live^
 ||yy777.me^
@@ -101747,6 +101788,7 @@
 ||yyoobet.com^
 ||yyoobetslot.com^
 ||yypausmax.site^
+||yypetir3.com^
 ||yyqslot.com^
 ||yysbet.com^
 ||yyslot1.com^
@@ -101899,11 +101941,13 @@
 ||zencasino3.com^
 ||zencasino8.com^
 ||zencasino888.com^
+||zengincasino.com^
 ||zenit.win^
 ||zenitbet.com^
 ||zenithcasino.vip^
 ||zenix138.com^
 ||zenobet.casino^
+||zensushiasheville.com^
 ||zentrocasino.com^
 ||zeon-casino.shop^
 ||zeoncasino.com^
@@ -101958,9 +102002,11 @@
 ||zeslotscasino.org^
 ||zeslotscasino.uk^
 ||zet-casino.ch^
+||zet-casino.top^
 ||zet88.com^
 ||zetapoker.org^
 ||zetbet.com^
+||zetcasino.click^
 ||zetcasino.com^
 ||zetcasino.life^
 ||zetcasino.one^
@@ -101978,10 +102024,12 @@
 ||zetspins.com^
 ||zeturf.com^
 ||zeturf.fr^
+||zeus-casino.vip^
 ||zeus-slots.cfd^
 ||zeus-slots.site^
 ||zeus-slots.website^
 ||zeus4d.uno^
+||zeus88.info^
 ||zeusbets.xyz^
 ||zeusbingo.com^
 ||zeuscair9.click^
@@ -101996,6 +102044,7 @@
 ||zeuswin.com^
 ||zeuswin88.top^
 ||zeuswin88bet.click^
+||zeuswin88bet.xyz^
 ||zeuswincasinos.com^
 ||zghmnilmaa.xyz^
 ||zh-10betsports.com^
@@ -102041,6 +102090,7 @@
 ||zinkra.com^
 ||zinkra-casino.com^
 ||zinkra-casino.nl^
+||zip-bbfs10digit.com^
 ||zip-casino.bet^
 ||zipangcasino.com^
 ||zipcasino.club^
@@ -102048,6 +102098,7 @@
 ||zippycalc.com^
 ||zirpp.org^
 ||zirvebetcasino.com^
+||zithromaxpill.online^
 ||zitobox.com^
 ||zizezu.site^
 ||zjumapxjws.com^
@@ -102113,6 +102164,7 @@
 ||zonamaxwin.xyz^
 ||zonamejahokimain.blog^
 ||zonaplayslots88slot.yachts^
+||zonatarget.online^
 ||zonaunovegasmain.blog^
 ||zonder-crucks-casino.nl^
 ||zondercrukscasino.com^
@@ -102152,6 +102204,7 @@
 ||zoomagg.casino^
 ||zoomavz.casino^
 ||zoomcasinogiris.org^
+||zoomcymru.com^
 ||zoome.casino^
 ||zoome-ca.casino^
 ||zoome-casino.it^
@@ -102165,6 +102218,7 @@
 ||zoomecasinoapp.com^
 ||zoomecasinosau.com^
 ||zoomeecasino.com^
+||zoomerart.net^
 ||zoomerjordan.xyz^
 ||zoomerpakong.xyz^
 ||zoomsenang.xyz^
@@ -102173,6 +102227,7 @@
 ||zoomslots.net^
 ||zoomslots.tv^
 ||zoonka.com^
+||zoovolonter.info^
 ||zorabets.xyz^
 ||zoracasino.xyz^
 ||zorbasmedia.com^
@@ -102213,6 +102268,7 @@
 ||zumoslots.com^
 ||zumospincasinos.nl^
 ||zumospinscasino.nl^
+||zunevideoconverters.com^
 ||zungzangzungzezzzz.com^
 ||zupee.com^
 ||zuukcu.com^
@@ -102251,6 +102307,7 @@
 ||zyngapokert.com^
 ||zyngatexasholdempokerfreechips.com^
 ||zyngazyngapoker.com^
+||zyrtecgx.com^
 ||zz1998.com^
 ||zz66.com^
 ||zz77.com^
@@ -102263,7 +102320,9 @@
 ||zz777c.com^
 ||zz777d.com^
 ||zz778.com^
+||zz999.app^
 ||zz999.com^
+||zz999.org^
 ||zz999slots.com^
 ||zzbet01.com^
 ||zzbet02.com^

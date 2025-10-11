@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760096520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760137680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Oct 2025 11:42 UTC
-; Version: 2025.1010.1142.43
+; Last modified: 10 Oct 2025 23:08 UTC
+; Version: 2025.1010.2308.20
 ; Syntax: RPZ
-; Number of entries: 78198
+; Number of entries: 78264
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -520,6 +520,8 @@ xwin.app CNAME .
 *.xwin.app CNAME .
 yebo-casino-south-africa.app CNAME .
 *.yebo-casino-south-africa.app CNAME .
+zz999.app CNAME .
+*.zz999.app CNAME .
 bet365.bet.ar CNAME .
 *.bet365.bet.ar CNAME .
 betano.bet.ar CNAME .
@@ -7844,6 +7846,8 @@ wplaycasino.click CNAME .
 *.wplaycasino.click CNAME .
 yajuegocasino.click CNAME .
 *.yajuegocasino.click CNAME .
+zetcasino.click CNAME .
+*.zetcasino.click CNAME .
 zetcasinohu.click CNAME .
 *.zetcasinohu.click CNAME .
 zeuswin88bet.click CNAME .
@@ -14116,8 +14120,6 @@ aston55.com CNAME .
 *.aston55.com CNAME .
 astro38.com CNAME .
 *.astro38.com CNAME .
-astrologypoker.com CNAME .
-*.astrologypoker.com CNAME .
 astrologysupport.com CNAME .
 *.astrologysupport.com CNAME .
 astromaniacasino.com CNAME .
@@ -43336,6 +43338,8 @@ xmr-casino.com CNAME .
 *.xmr-casino.com CNAME .
 xn--12c4blax3ar3b2a0bh3x.com CNAME .
 *.xn--12c4blax3ar3b2a0bh3x.com CNAME .
+xn--82c0aab0a9b4hneb5ef.com CNAME .
+*.xn--82c0aab0a9b4hneb5ef.com CNAME .
 xn--mrr680bfyk.com CNAME .
 *.xn--mrr680bfyk.com CNAME .
 xn--ntcasinoutanlicens-ltb.com CNAME .
@@ -43364,10 +43368,16 @@ xqchess.com CNAME .
 *.xqchess.com CNAME .
 xrp-casino.com CNAME .
 *.xrp-casino.com CNAME .
+xsmthomnay.com CNAME .
+*.xsmthomnay.com CNAME .
 xtremecasinoclub.com CNAME .
 *.xtremecasinoclub.com CNAME .
 xuo7pokerdom.com CNAME .
 *.xuo7pokerdom.com CNAME .
+xv711.com CNAME .
+*.xv711.com CNAME .
+xv802.com CNAME .
+*.xv802.com CNAME .
 xwin.com CNAME .
 *.xwin.com CNAME .
 xwn-dblivecasino.com CNAME .
@@ -43376,6 +43386,8 @@ xx777casino.com CNAME .
 *.xx777casino.com CNAME .
 xxbrslots.com CNAME .
 *.xxbrslots.com CNAME .
+y2293.com CNAME .
+*.y2293.com CNAME .
 cdn.y2cdn.com CNAME .
 *.cdn.y2cdn.com CNAME .
 y38fy20p.com CNAME .
@@ -43396,6 +43408,10 @@ yabbycasinoau.com CNAME .
 *.yabbycasinoau.com CNAME .
 yabbycasinoy.com CNAME .
 *.yabbycasinoy.com CNAME .
+yabo318.com CNAME .
+*.yabo318.com CNAME .
+yabo669.com CNAME .
+*.yabo669.com CNAME .
 yabtcl.com CNAME .
 *.yabtcl.com CNAME .
 yachting-casino.com CNAME .
@@ -43432,6 +43448,8 @@ yclemon.com CNAME .
 *.yclemon.com CNAME .
 ycyd123.com CNAME .
 *.ycyd123.com CNAME .
+yd102.com CNAME .
+*.yd102.com CNAME .
 ydcasino88.com CNAME .
 *.ydcasino88.com CNAME .
 ydr-dblivecasino.com CNAME .
@@ -43462,8 +43480,18 @@ yeti878go.com CNAME .
 *.yeti878go.com CNAME .
 yeticasino.com CNAME .
 *.yeticasino.com CNAME .
+yh385.com CNAME .
+*.yh385.com CNAME .
+yh88828.com CNAME .
+*.yh88828.com CNAME .
+yh9681.com CNAME .
+*.yh9681.com CNAME .
+yhc668.com CNAME .
+*.yhc668.com CNAME .
 yhgamevip.com CNAME .
 *.yhgamevip.com CNAME .
+yhh112.com CNAME .
+*.yhh112.com CNAME .
 yhysnak.com CNAME .
 *.yhysnak.com CNAME .
 yinyangslots.com CNAME .
@@ -43506,6 +43534,8 @@ youhodler.com CNAME .
 *.youhodler.com CNAME .
 your1x2.com CNAME .
 *.your1x2.com CNAME .
+yourmediaservices.com CNAME .
+*.yourmediaservices.com CNAME .
 yourpokercash.com CNAME .
 *.yourpokercash.com CNAME .
 yourtea.com CNAME .
@@ -43540,6 +43570,8 @@ ytbetss.com CNAME .
 *.ytbetss.com CNAME .
 yu777i.com CNAME .
 *.yu777i.com CNAME .
+yubari-hankachi.com CNAME .
+*.yubari-hankachi.com CNAME .
 yug-sport.com CNAME .
 *.yug-sport.com CNAME .
 yugibet.com CNAME .
@@ -43554,6 +43586,14 @@ yuugado.com CNAME .
 *.yuugado.com CNAME .
 yuyu4dbeb.com CNAME .
 *.yuyu4dbeb.com CNAME .
+yy51234.com CNAME .
+*.yy51234.com CNAME .
+yy567948.com CNAME .
+*.yy567948.com CNAME .
+yy66975.com CNAME .
+*.yy66975.com CNAME .
+yy7699.com CNAME .
+*.yy7699.com CNAME .
 yy77y33.com CNAME .
 *.yy77y33.com CNAME .
 yyycasino1.com CNAME .
@@ -43620,6 +43660,8 @@ zenbetting.com CNAME .
 *.zenbetting.com CNAME .
 zencasino.com CNAME .
 *.zencasino.com CNAME .
+zengincasino.com CNAME .
+*.zengincasino.com CNAME .
 zenitbet.com CNAME .
 *.zenitbet.com CNAME .
 zeoncasino.com CNAME .
@@ -43680,6 +43722,8 @@ zinkra.com CNAME .
 *.zinkra.com CNAME .
 zinkra-casino.com CNAME .
 *.zinkra-casino.com CNAME .
+zip-bbfs10digit.com CNAME .
+*.zip-bbfs10digit.com CNAME .
 zipangcasino.com CNAME .
 *.zipangcasino.com CNAME .
 zippycalc.com CNAME .
@@ -43728,6 +43772,8 @@ zra3apoker.com CNAME .
 *.zra3apoker.com CNAME .
 zulacasino.com CNAME .
 *.zulacasino.com CNAME .
+zunevideoconverters.com CNAME .
+*.zunevideoconverters.com CNAME .
 zupee.com CNAME .
 *.zupee.com CNAME .
 zuwacasino.com CNAME .
@@ -43762,6 +43808,8 @@ zyngatexasholdempokerfreechips.com CNAME .
 *.zyngatexasholdempokerfreechips.com CNAME .
 zyngazyngapoker.com CNAME .
 *.zyngazyngapoker.com CNAME .
+zyrtecgx.com CNAME .
+*.zyrtecgx.com CNAME .
 zz66.com CNAME .
 *.zz66.com CNAME .
 zz77.com CNAME .
@@ -46034,6 +46082,8 @@ winamax.fr CNAME .
 *.winamax.fr CNAME .
 wpt.fr CNAME .
 *.wpt.fr CNAME .
+yonibetcasino.fr CNAME .
+*.yonibetcasino.fr CNAME .
 youcasinos.fr CNAME .
 *.youcasinos.fr CNAME .
 youyoga.fr CNAME .
@@ -48218,6 +48268,10 @@ xbetsoorykaloil.info CNAME .
 *.xbetsoorykaloil.info CNAME .
 xbetswaruzudxef.info CNAME .
 *.xbetswaruzudxef.info CNAME .
+xosodientoan.info CNAME .
+*.xosodientoan.info CNAME .
+zeus88.info CNAME .
+*.zeus88.info CNAME .
 7slots-2025tr.ink CNAME .
 *.7slots-2025tr.ink CNAME .
 akuratgacor.ink CNAME .
@@ -53536,6 +53590,8 @@ zodiac-casinos.net CNAME .
 *.zodiac-casinos.net CNAME .
 zolabets.net CNAME .
 *.zolabets.net CNAME .
+zoomerart.net CNAME .
+*.zoomerart.net CNAME .
 zorocasino.net CNAME .
 *.zorocasino.net CNAME .
 akspoker.network CNAME .
@@ -54954,6 +55010,8 @@ yesbet88.online CNAME .
 *.yesbet88.online CNAME .
 zamba55.online CNAME .
 *.zamba55.online CNAME .
+zithromaxpill.online CNAME .
+*.zithromaxpill.online CNAME .
 zoomacasino11.online CNAME .
 *.zoomacasino11.online CNAME .
 zoomacasino222.online CNAME .
@@ -57014,12 +57072,16 @@ worlddabeureka.org CNAME .
 *.worlddabeureka.org CNAME .
 wylcan-bet.org CNAME .
 *.wylcan-bet.org CNAME .
+yccjrjy.org CNAME .
+*.yccjrjy.org CNAME .
 yesonmd4.org CNAME .
 *.yesonmd4.org CNAME .
 zirpp.org CNAME .
 *.zirpp.org CNAME .
 zodiac-casino-online.org CNAME .
 *.zodiac-casino-online.org CNAME .
+zz999.org CNAME .
+*.zz999.org CNAME .
 betcris.pa CNAME .
 *.betcris.pa CNAME .
 betus.com.pa CNAME .
@@ -70342,6 +70404,8 @@ x3pg.vip CNAME .
 *.x3pg.vip CNAME .
 x5bets.vip CNAME .
 *.x5bets.vip CNAME .
+y067.vip CNAME .
+*.y067.vip CNAME .
 y22a.vip CNAME .
 *.y22a.vip CNAME .
 ylaro.vip CNAME .
@@ -78000,6 +78064,8 @@ zerkalo-leonbets-pfku0.xyz CNAME .
 *.zerkalo-leonbets-pfku0.xyz CNAME .
 zeusfans.xyz CNAME .
 *.zeusfans.xyz CNAME .
+zeuswin88bet.xyz CNAME .
+*.zeuswin88bet.xyz CNAME .
 zghmnilmaa.xyz CNAME .
 *.zghmnilmaa.xyz CNAME .
 zigzagrtp.xyz CNAME .
