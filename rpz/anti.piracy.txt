@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760137320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760182800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Oct 2025 23:02 UTC
-; Version: 2025.1010.2302.32
+; Last modified: 11 Oct 2025 11:40 UTC
+; Version: 2025.1011.1140.46
 ; Syntax: RPZ
 ; Number of entries: 22504
 ;
@@ -8326,8 +8326,6 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -12074,8 +12072,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -14856,6 +14852,8 @@ streamflix.one CNAME .
 *.streamflix.one CNAME .
 streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
+tracker.tnl.one CNAME .
+*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -16910,6 +16908,8 @@ tpb.party CNAME .
 *.tpb.party CNAME .
 vegamovies.party CNAME .
 *.vegamovies.party CNAME .
+tracker.guguan.000.pe CNAME .
+*.tracker.guguan.000.pe CNAME .
 putlocker.pe CNAME .
 *.putlocker.pe CNAME .
 soap2day.pe CNAME .

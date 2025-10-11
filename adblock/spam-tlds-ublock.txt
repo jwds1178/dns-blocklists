@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Oct 2025 22:48 UTC
-! Version: 2025.1010.2248.34
+! Last modified: 11 Oct 2025 11:28 UTC
+! Version: 2025.1011.1128.56
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -84,10 +84,10 @@
 ||delivery^$doc,domain=~push.delivery|~return-my.delivery
 ||dental^$doc
 ||desi^$doc,domain=~xhamster.desi
-||directory^$doc,domain=~2fa.directory|~cursor.directory|~fedi.directory|~passkeys.directory|~reactnative.directory
+||directory^$doc,domain=~2fa.directory|~cursor.directory|~fedi.directory|~ooh.directory|~passkeys.directory|~reactnative.directory
 ||discount^$doc,domain=~real.discount
 ||diy^$doc
-||dog^$doc,domain=~heika.dog|~misskey.dog|~telegram.dog
+||dog^$doc,domain=~chainsawman.dog|~heika.dog|~misskey.dog|~telegram.dog
 ||download^$doc,domain=~caido.download|~kali.download|~mkvtoolnix.download|~up4ever.download|~upfiles.download
 ||dpdns.org^$doc
 ||eco^$doc,domain=~elli.eco|~play.eco
@@ -159,7 +159,7 @@
 ||loan^$doc
 ||loans^$doc
 ||locker^$doc
-||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~social.lol|~status.lol|~techaro.lol|~weblog.lol|~wpp.lol
+||lol^$doc,domain=~adsb.lol|~ags.lol|~animevietsub.lol|~browser.lol|~dankmemer.lol|~fmhy.lol|~hubcloud.lol|~io.lol|~lemy.lol|~library.lol|~nexdrive.lol|~nos.lol|~noted.lol|~objection.lol|~omg.lol|~paste.lol|~proven.lol|~sibellavia.lol|~social.lol|~status.lol|~techaro.lol|~weblog.lol|~wpp.lol
 ||london^$doc
 ||love^$doc
 ||ltd^$doc,domain=~homebrew.ltd|~picsee.ltd|~swizzin.ltd
@@ -174,7 +174,7 @@
 ||miami^$doc
 ||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
 ||moda^$doc
-||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~uma.moe
+||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~trace.moe|~uma.moe
 ||mom^$doc
 ||money^$doc,domain=~flowyour.money|~unstoppable.money|~usual.money|~vivid.money
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
@@ -283,9 +283,9 @@
 ||voto^$doc
 ||wang^$doc
 ||webcam^$doc
-||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~thatsup.website|~tilde.website|~uphold.website
+||website^$doc,domain=~acro.website|~bestmotherfucking.website|~eddie.website|~noclip.website|~thatsup.website|~tilde.website|~uphold.website
 ||wedding^$doc
-||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~consumerrights.wiki|~cooked.wiki|~datei.wiki|~deltarune.wiki|~fallout.wiki|~getindie.wiki|~hacktricks.wiki|~hollowknight.wiki|~klingon.wiki|~kodi.wiki|~kometa.wiki|~libreelec.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~mtg.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~rs.wiki|~runescape.wiki|~severance.wiki|~survivors.wiki|~tajrobe.wiki|~tardis.wiki|~thehomelab.wiki|~umamusu.wiki|~undertale.wiki|~usermanual.wiki|~w.wiki|~zeldawiki.wiki|~zeppelin.wiki
+||wiki^$doc,domain=~bg3.wiki|~burnout.wiki|~chibi-robo.wiki|~consumerrights.wiki|~cooked.wiki|~datei.wiki|~deadlock.wiki|~deltarune.wiki|~dragalialost.wiki|~drawntolife.wiki|~fallout.wiki|~getindie.wiki|~hacktricks.wiki|~hollowknight.wiki|~hololive.wiki|~klingon.wiki|~kodi.wiki|~kometa.wiki|~libreelec.wiki|~manson.wiki|~mediaclients.wiki|~minecraft.wiki|~modding.wiki|~mtg.wiki|~namu.wiki|~nixos.wiki|~notifiarr.wiki|~osrs.wiki|~pizzatower.wiki|~rs.wiki|~runescape.wiki|~saintsrow.wiki|~severance.wiki|~survivors.wiki|~tajrobe.wiki|~tardis.wiki|~thehomelab.wiki|~twewy.wiki|~umamusu.wiki|~undertale.wiki|~usermanual.wiki|~w.wiki|~zeldawiki.wiki|~zeppelin.wiki
 ||win^$doc,domain=~activated.win|~communities.win|~patriots.win|~vaultcord.win
 ||wine^$doc,domain=~nostr.wine
 ||work^$doc,domain=~doesmycode.work|~elphago.work|~frame.work|~koding.work|~mirror.work

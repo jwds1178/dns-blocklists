@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 10:15 UTC
-# Version: 2025.1010.1015.12
+# Last modified: 11 Oct 2025 10:14 UTC
+# Version: 2025.1011.1014.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2448
+# Number of entries: 2449
 #
 l.1mp.ru
 t.1und1.de
@@ -745,6 +745,7 @@ webservice.s6.exacttarget.com
 s7.exacttarget.com
 bounce.s7.exacttarget.com
 click.s7.exacttarget.com
+click-sms.s7.exacttarget.com
 ftp.s7.exacttarget.com
 image.s7.exacttarget.com
 inbound.s7.exacttarget.com

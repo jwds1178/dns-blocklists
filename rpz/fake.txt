@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760138280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760178420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Oct 2025 23:18 UTC
-; Version: 2025.1010.2318.12
+; Last modified: 11 Oct 2025 10:27 UTC
+; Version: 2025.1011.1027.36
 ; Syntax: RPZ
-; Number of entries: 28358
+; Number of entries: 28376
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -26,6 +26,8 @@ quantwise.ai CNAME .
 *.quantwise.ai CNAME .
 investir-dans-l-or.site.sitekick.ai CNAME .
 *.investir-dans-l-or.site.sitekick.ai CNAME .
+smartsolve.ai CNAME .
+*.smartsolve.ai CNAME .
 thebitindex.ai CNAME .
 *.thebitindex.ai CNAME .
 bitcore-momentum.app CNAME .
@@ -4656,6 +4658,8 @@ correspondine.com CNAME .
 *.correspondine.com CNAME .
 correspondu.com CNAME .
 *.correspondu.com CNAME .
+cosmoscrisp.com CNAME .
+*.cosmoscrisp.com CNAME .
 cottline.com CNAME .
 *.cottline.com CNAME .
 cottonshoesshop.com CNAME .
@@ -4920,8 +4924,6 @@ dasrichtigeholz.com CNAME .
 *.dasrichtigeholz.com CNAME .
 daswirthshaus.com CNAME .
 *.daswirthshaus.com CNAME .
-datactively.com CNAME .
-*.datactively.com CNAME .
 davanu.com CNAME .
 *.davanu.com CNAME .
 daveintheshop.com CNAME .
@@ -5214,6 +5216,8 @@ dexonirax.com CNAME .
 *.dexonirax.com CNAME .
 dfeoq.com CNAME .
 *.dfeoq.com CNAME .
+dgeyone.com CNAME .
+*.dgeyone.com CNAME .
 dgtlfuture.com CNAME .
 *.dgtlfuture.com CNAME .
 dhbs-consulting.com CNAME .
@@ -5648,6 +5652,8 @@ economicq.com CNAME .
 *.economicq.com CNAME .
 econopartsmasy.com CNAME .
 *.econopartsmasy.com CNAME .
+econosavecenter.com CNAME .
+*.econosavecenter.com CNAME .
 ecoooc.com CNAME .
 *.ecoooc.com CNAME .
 ecosilkroad.com CNAME .
@@ -6676,6 +6682,8 @@ flavourg.com CNAME .
 *.flavourg.com CNAME .
 flawlessshoes.com CNAME .
 *.flawlessshoes.com CNAME .
+fleetcargodirect.com CNAME .
+*.fleetcargodirect.com CNAME .
 fleshjacket.com CNAME .
 *.fleshjacket.com CNAME .
 fleurops.com CNAME .
@@ -7596,8 +7604,6 @@ gourmandebusy.com CNAME .
 *.gourmandebusy.com CNAME .
 gourmetecke.com CNAME .
 *.gourmetecke.com CNAME .
-govern1.com CNAME .
-*.govern1.com CNAME .
 gpslocatorphone.com CNAME .
 *.gpslocatorphone.com CNAME .
 gpt-definity.com CNAME .
@@ -8410,8 +8416,6 @@ hot-shopping.com CNAME .
 *.hot-shopping.com CNAME .
 hotel-brand-promotion.com CNAME .
 *.hotel-brand-promotion.com CNAME .
-hotel-ds.com CNAME .
-*.hotel-ds.com CNAME .
 hotel-marketing-advertising.com CNAME .
 *.hotel-marketing-advertising.com CNAME .
 hotelectronicshop.com CNAME .
@@ -8912,6 +8916,8 @@ itrolexshop.com CNAME .
 *.itrolexshop.com CNAME .
 iuzero.com CNAME .
 *.iuzero.com CNAME .
+ivannd.com CNAME .
+*.ivannd.com CNAME .
 ivaramode.com CNAME .
 *.ivaramode.com CNAME .
 qfsn.ivebelting.com CNAME .
@@ -10118,6 +10124,8 @@ lowaoutdoor.com CNAME .
 *.lowaoutdoor.com CNAME .
 lowcostlode.com CNAME .
 *.lowcostlode.com CNAME .
+lowcostlustermart.com CNAME .
+*.lowcostlustermart.com CNAME .
 lowhikingboots.com CNAME .
 *.lowhikingboots.com CNAME .
 loxologyshop.com CNAME .
@@ -14044,6 +14052,8 @@ sharp-case.com CNAME .
 *.sharp-case.com CNAME .
 shauntapparel.com CNAME .
 *.shauntapparel.com CNAME .
+shavecan.com CNAME .
+*.shavecan.com CNAME .
 shcherma.com CNAME .
 *.shcherma.com CNAME .
 shebaike.com CNAME .
@@ -15158,6 +15168,8 @@ tailorwears.com CNAME .
 *.tailorwears.com CNAME .
 tajamom.com CNAME .
 *.tajamom.com CNAME .
+taktikinvestakademie.com CNAME .
+*.taktikinvestakademie.com CNAME .
 taktischewelt.com CNAME .
 *.taktischewelt.com CNAME .
 ins.talentloompro-at.com CNAME .
@@ -18510,6 +18522,8 @@ ondeutschland.com.de CNAME .
 *.ondeutschland.com.de CNAME .
 owala.com.de CNAME .
 *.owala.com.de CNAME .
+pokemoncenter.com.de CNAME .
+*.pokemoncenter.com.de CNAME .
 remington.com.de CNAME .
 *.remington.com.de CNAME .
 samsonite.com.de CNAME .
@@ -21630,6 +21644,8 @@ motorraderhelme.de CNAME .
 *.motorraderhelme.de CNAME .
 motorraders.de CNAME .
 *.motorraders.de CNAME .
+movolekt.de CNAME .
+*.movolekt.de CNAME .
 moxonline.de CNAME .
 *.moxonline.de CNAME .
 mrhaushalt.de CNAME .
@@ -24214,6 +24230,8 @@ world-coin.eu CNAME .
 *.world-coin.eu CNAME .
 xikixi.eu CNAME .
 *.xikixi.eu CNAME .
+clearstream.fashion CNAME .
+*.clearstream.fashion CNAME .
 cz-parts.fi CNAME .
 *.cz-parts.fi CNAME .
 gestion.finance CNAME .
@@ -24888,6 +24906,8 @@ frontrunningbot.net CNAME .
 *.frontrunningbot.net CNAME .
 fundgoxpro.net CNAME .
 *.fundgoxpro.net CNAME .
+futureftrader.net CNAME .
+*.futureftrader.net CNAME .
 fxlivecrypto-option.net CNAME .
 *.fxlivecrypto-option.net CNAME .
 fxwinning.net CNAME .
@@ -24982,12 +25002,8 @@ highlandshotels.net CNAME .
 *.highlandshotels.net CNAME .
 hilfsdienst.net CNAME .
 *.hilfsdienst.net CNAME .
-hotelinphuket.net CNAME .
-*.hotelinphuket.net CNAME .
 hotels-colorado.net CNAME .
 *.hotels-colorado.net CNAME .
-hotelsofnewyorkcity.net CNAME .
-*.hotelsofnewyorkcity.net CNAME .
 hqmed.net CNAME .
 *.hqmed.net CNAME .
 hunterbootsschweiz.net CNAME .
@@ -28266,6 +28282,8 @@ thermomix.world CNAME .
 *.thermomix.world CNAME .
 spotiifyprimesnova.ct.ws CNAME .
 *.spotiifyprimesnova.ct.ws CNAME .
+clearstream.xin CNAME .
+*.clearstream.xin CNAME .
 ahwui.xyz CNAME .
 *.ahwui.xyz CNAME .
 allcart.xyz CNAME .

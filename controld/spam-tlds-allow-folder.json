@@ -624,7 +624,21 @@
       }
     },
     {
+      "PK": "chainsawman.dog",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "chessvibes.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "chibi-robo.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -946,6 +960,13 @@
       }
     },
     {
+      "PK": "deadlock.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "dear.dad",
       "action": {
         "do": 1,
@@ -1086,6 +1107,13 @@
       }
     },
     {
+      "PK": "dragalialost.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "dragonscave.space",
       "action": {
         "do": 1,
@@ -1094,6 +1122,13 @@
     },
     {
       "PK": "drawing.new",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "drawntolife.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -1822,6 +1857,13 @@
     },
     {
       "PK": "hollowknight.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "hololive.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -2878,6 +2920,13 @@
       }
     },
     {
+      "PK": "noclip.website",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nocut.shop",
       "action": {
         "do": 1,
@@ -3012,6 +3061,13 @@
     },
     {
       "PK": "onrocket.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ooh.directory",
       "action": {
         "do": 1,
         "status": 1
@@ -3222,6 +3278,13 @@
     },
     {
       "PK": "pixiv.help",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pizzatower.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -3697,6 +3760,13 @@
       }
     },
     {
+      "PK": "saintsrow.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "saltwood.top",
       "action": {
         "do": 1,
@@ -3859,6 +3929,13 @@
     },
     {
       "PK": "shueisha.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "sibellavia.lol",
       "action": {
         "do": 1,
         "status": 1
@@ -4320,6 +4397,13 @@
       }
     },
     {
+      "PK": "trace.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "transfer.zip",
       "action": {
         "do": 1,
@@ -4342,6 +4426,13 @@
     },
     {
       "PK": "tux.pizza",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "twewy.wiki",
       "action": {
         "do": 1,
         "status": 1

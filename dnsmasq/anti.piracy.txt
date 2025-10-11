@@ -5,11 +5,12 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 23:02 UTC
-# Version: 2025.1010.2302.32
+# Last modified: 11 Oct 2025 11:40 UTC
+# Version: 2025.1011.1140.46
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11252
 #
+local=/tracker.guguan.000.pe/
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2363,7 +2364,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -8809,7 +8809,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/
@@ -9190,6 +9189,7 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
+local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/
