@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Oct 2025 10:27 UTC
-# Version: 2025.1011.1027.36
+# Last modified: 11 Oct 2025 22:26 UTC
+# Version: 2025.1011.2226.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14188
+# Number of entries: 14192
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1848,6 +1848,7 @@ local=/brennholzwittmann.com/
 local=/brennholzz.com/
 local=/brenniskaminholz.shop/
 local=/brennstoff-einfach.de/
+local=/brennstoffe-energy.de/
 local=/brennstoffe-wilke.de/
 local=/brennzgutes.com/
 local=/brenstoffe-versand.de/
@@ -2865,6 +2866,7 @@ local=/d-ticket.su/
 local=/d0ood.com/
 local=/daboisdechauff.com/
 local=/dach-remscheid.de/
+local=/dachdeko.com/
 local=/dackelwelpen.at/
 local=/daddeln.net/
 local=/m.daefox.com/
@@ -9295,6 +9297,7 @@ local=/oilparadies.de/
 local=/oilprofit.io/
 local=/oins.shop/
 local=/ojoro-tech.de/
+local=/okatode.com/
 local=/okbon.de/
 local=/okelektropooleur.shop/
 local=/okjordans.com/
@@ -9760,6 +9763,7 @@ local=/pegasus-invest.com/
 local=/pehkonenbrennholz.de/
 local=/pehl-gartenbau.de/
 local=/pelagiot.cc/
+local=/pellet-profi24.de/
 local=/pellethaus.shop/
 local=/pelletnaturale.com/
 local=/pelletopia.de/

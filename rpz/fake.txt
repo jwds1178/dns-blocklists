@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760178420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760221560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Oct 2025 10:27 UTC
-; Version: 2025.1011.1027.36
+; Last modified: 11 Oct 2025 22:26 UTC
+; Version: 2025.1011.2226.52
 ; Syntax: RPZ
-; Number of entries: 28376
+; Number of entries: 28384
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4868,6 +4868,8 @@ d0ood.com CNAME .
 *.d0ood.com CNAME .
 daboisdechauff.com CNAME .
 *.daboisdechauff.com CNAME .
+dachdeko.com CNAME .
+*.dachdeko.com CNAME .
 m.daefox.com CNAME .
 *.m.daefox.com CNAME .
 pc.daefox.com CNAME .
@@ -11834,6 +11836,8 @@ oil-profits.com CNAME .
 *.oil-profits.com CNAME .
 oilbold.com CNAME .
 *.oilbold.com CNAME .
+okatode.com CNAME .
+*.okatode.com CNAME .
 okjordans.com CNAME .
 *.okjordans.com CNAME .
 olakredit.com CNAME .
@@ -18290,6 +18294,8 @@ brennholzwerner.de CNAME .
 *.brennholzwerner.de CNAME .
 brennstoff-einfach.de CNAME .
 *.brennstoff-einfach.de CNAME .
+brennstoffe-energy.de CNAME .
+*.brennstoffe-energy.de CNAME .
 brennstoffe-wilke.de CNAME .
 *.brennstoffe-wilke.de CNAME .
 brenstoffe-versand.de CNAME .
@@ -22096,6 +22102,8 @@ pehkonenbrennholz.de CNAME .
 *.pehkonenbrennholz.de CNAME .
 pehl-gartenbau.de CNAME .
 *.pehl-gartenbau.de CNAME .
+pellet-profi24.de CNAME .
+*.pellet-profi24.de CNAME .
 pelletopia.de CNAME .
 *.pelletopia.de CNAME .
 perfect-booty.de CNAME .

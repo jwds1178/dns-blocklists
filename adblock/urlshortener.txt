@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Oct 2025 11:29 UTC
-! Version: 2025.1011.1129.37
+! Last modified: 11 Oct 2025 23:06 UTC
+! Version: 2025.1011.2306.36
 ! Syntax: AdBlock
-! Number of entries: 7735
+! Number of entries: 7755
 !
 ||0.gp^
 ||00m.in^
@@ -364,6 +364,7 @@
 ||a360.co^
 ||a368.co^
 ||a38.fr^
+||a3st.in^
 ||a4k.co^
 ||a4r.at^
 ||a8s.app^
@@ -375,6 +376,7 @@
 ||ab.co^
 ||abar.in^
 ||abbreurl.com^
+||abbriv.info^
 ||abbrr.com^
 ||abc.li^
 ||abc11.tv^
@@ -530,6 +532,7 @@
 ||akslot.io^
 ||aktfclick.com^
 ||akun.gg^
+||akunfix.com^
 ||akunjpvip.xyz^
 ||akunklik.com^
 ||akunnp.com^
@@ -1918,6 +1921,7 @@
 ||dy.fi^
 ||dy.si^
 ||dya.us^
+||dyler.co^
 ||dylink.me^
 ||dyo.gs^
 ||dyok.net^
@@ -2766,6 +2770,7 @@
 ||icit.fr^
 ||ick.li^
 ||icks.ro^
+||icshort.com^
 ||ictv.me^
 ||icutlink.com^
 ||icux.xyz^
@@ -3005,6 +3010,7 @@
 ||jif.li^
 ||jii.li^
 ||jijr.com^
+||jilitrick.live^
 ||jio.sh^
 ||jio.to^
 ||jiourl.com^
@@ -3088,6 +3094,7 @@
 ||kashly.net^
 ||kask.us^
 ||shortly.kata.ai^
+||sms.katapult.com^
 ||katespadesneakpeek.com^
 ||katzr.net^
 ||kaz.sk^
@@ -3212,6 +3219,7 @@
 ||kuik.li^
 ||kuku.lu^
 ||kulink.me^
+||kuoqnt.com^
 ||kurl.ru^
 ||kurly.it^
 ||kurv.gr^
@@ -4168,6 +4176,7 @@
 ||myppt.cc^
 ||myprivateproxies.org^
 ||myqrcode.mobi^
+||myrxbmember.info^
 ||mysexychat.live^
 ||myshortlink.info^
 ||myshorturl.link^
@@ -4677,6 +4686,7 @@
 ||pkv.li^
 ||placesunknown.art^
 ||pladollmo.com^
+||plahxt.com^
 ||plannery.app^
 ||platformtech.live^
 ||play-app.site^
@@ -4746,6 +4756,7 @@
 ||prbly.us^
 ||prdct.school^
 ||pre.la^
+||support.precisioncontent.com^
 ||prel.ink^
 ||premex.link^
 ||premierbet.live^
@@ -4965,6 +4976,7 @@
 ||rajamahjong.site^
 ||rajaolympus.pro^
 ||rajasurga.link^
+||rallytxt.com^
 ||qs.rams-app.com^
 ||rantenah.com^
 ||ranvz.co^
@@ -4977,6 +4989,7 @@
 ||rb.gy^
 ||rb-story.com^
 ||rb6.me^
+||rbit.vision^
 ||rbl.ms^
 ||rblx.co^
 ||links.rbsoft.org^
@@ -4989,6 +5002,7 @@
 ||rcld.io^
 ||rcsurvey.live^
 ||rd.gt^
+||rd-client.com^
 ||rdar.li^
 ||rdbl.co^
 ||rdcrss.org^
@@ -5675,6 +5689,7 @@
 ||shrten.io^
 ||shrten.us^
 ||shrtfly.com^
+||shrtlink.ai^
 ||shrtlk.click^
 ||shrtlnk.com^
 ||shrtly.net^
@@ -6159,6 +6174,7 @@
 ||shortener.tec.br^
 ||techigro.com^
 ||techind.co^
+||techshort.co^
 ||techuntangler.tools^
 ||techwizards.tech^
 ||tecn.in^
@@ -6230,6 +6246,7 @@
 ||thesocial.vip^
 ||thetim.es^
 ||thetinyurls.com^
+||theupconsult.com^
 ||theurl.to^
 ||thght.works^
 ||thinfi.com^
@@ -6416,9 +6433,11 @@
 ||link.tomalvarez.com^
 ||go.tomary.de^
 ||tomasz.top^
+||tomi-app.com^
 ||tomly.io^
 ||tonancos.com^
 ||tonyr.co^
+||toolboxdaily.com^
 ||toolkingo.com^
 ||toolsfox.com^
 ||toolspivot.com^
@@ -7200,6 +7219,7 @@
 ||vvt.am^
 ||vxn.link^
 ||vypij.bar^
+||vytext.com^
 ||vz.to^
 ||w.wiki^
 ||w0o.de^

@@ -3031,6 +3031,13 @@
       }
     },
     {
+      "PK": "jpg6.su",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "j.show",
       "action": {
         "do": 1,
