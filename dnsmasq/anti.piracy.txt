@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Oct 2025 11:39 UTC
-# Version: 2025.1012.1139.40
+# Last modified: 12 Oct 2025 23:40 UTC
+# Version: 2025.1012.2340.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11253
+# Number of entries: 11254
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1817,6 +1817,7 @@ local=/cgpeers.com/
 local=/ch3oh.ru/
 local=/changhong.life/
 local=/channelstream.es/
+local=/tracker.chaoz.li/
 local=/chayachobi.net/
 local=/chdbits.org/
 local=/tracker.chdbits.co/
@@ -2508,7 +2509,6 @@ local=/demonoid.ph/
 local=/demonoid.pw/
 local=/inferno.demonoid.me/
 local=/open.demonoid.ch/
-local=/open-tracker.demonoid.ch/
 local=/open-v6.demonoid.ch/
 local=/public.demonoid.ch/
 local=/demons-eye.me/
@@ -8810,6 +8810,7 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
+local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

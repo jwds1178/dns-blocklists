@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760269140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760312400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Oct 2025 11:39 UTC
-; Version: 2025.1012.1139.17
+; Last modified: 12 Oct 2025 23:40 UTC
+; Version: 2025.1012.2340.11
 ; Syntax: RPZ
-; Number of entries: 92664
+; Number of entries: 92616
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -37962,8 +37962,6 @@ neuecasinos24.com CNAME .
 *.neuecasinos24.com CNAME .
 neueonline-casinos.com CNAME .
 *.neueonline-casinos.com CNAME .
-nevadapokerreviews.com CNAME .
-*.nevadapokerreviews.com CNAME .
 new-1xbet.com CNAME .
 *.new-1xbet.com CNAME .
 new-online-casinos-australia-2025.com CNAME .
@@ -39474,8 +39472,6 @@ opbutik.com CNAME .
 *.opbutik.com CNAME .
 opdpoker.com CNAME .
 *.opdpoker.com CNAME .
-opechatka.com CNAME .
-*.opechatka.com CNAME .
 open-slots.com CNAME .
 *.open-slots.com CNAME .
 openpokersoftware.com CNAME .
@@ -44640,8 +44636,6 @@ slotstates.com CNAME .
 *.slotstates.com CNAME .
 slotstemple.com CNAME .
 *.slotstemple.com CNAME .
-slotsterms.com CNAME .
-*.slotsterms.com CNAME .
 slotstery.com CNAME .
 *.slotstery.com CNAME .
 slotstickgolf.com CNAME .
@@ -46104,8 +46098,6 @@ sweepstakescasino.com CNAME .
 *.sweepstakescasino.com CNAME .
 sweetbonanza-app.com CNAME .
 *.sweetbonanza-app.com CNAME .
-sweetbonanza-casino.com CNAME .
-*.sweetbonanza-casino.com CNAME .
 sweetsweeps.com CNAME .
 *.sweetsweeps.com CNAME .
 sweetywin.com CNAME .
@@ -46886,8 +46878,6 @@ theclubhousecasino-au.com CNAME .
 *.theclubhousecasino-au.com CNAME .
 theclubhousecasinonz.com CNAME .
 *.theclubhousecasinonz.com CNAME .
-thecollegefix.com CNAME .
-*.thecollegefix.com CNAME .
 thecompletebatrainer.com CNAME .
 *.thecompletebatrainer.com CNAME .
 thecosmeticschef.com CNAME .
@@ -46966,8 +46956,6 @@ thelittlebigblog.com CNAME .
 *.thelittlebigblog.com CNAME .
 thelittlesnapper.com CNAME .
 *.thelittlesnapper.com CNAME .
-thelongleafcommunity.com CNAME .
-*.thelongleafcommunity.com CNAME .
 thelott.com CNAME .
 *.thelott.com CNAME .
 thelotter.com CNAME .
@@ -55360,8 +55348,6 @@ novibet.ie CNAME .
 *.novibet.ie CNAME .
 oldbankcasino.ie CNAME .
 *.oldbankcasino.ie CNAME .
-one-casino.ie CNAME .
-*.one-casino.ie CNAME .
 paddypower.ie CNAME .
 *.paddypower.ie CNAME .
 topratedcasinos.ie CNAME .
@@ -55818,8 +55804,6 @@ casinosite777.info CNAME .
 *.casinosite777.info CNAME .
 casinoslotonline.info CNAME .
 *.casinoslotonline.info CNAME .
-casinospelletjes.info CNAME .
-*.casinospelletjes.info CNAME .
 casinospotz.info CNAME .
 *.casinospotz.info CNAME .
 casinotengribet.info CNAME .
@@ -60830,8 +60814,6 @@ gemwinclub.net CNAME .
 *.gemwinclub.net CNAME .
 gen22.net CNAME .
 *.gen22.net CNAME .
-geogames.net CNAME .
-*.geogames.net CNAME .
 germancasinoplay.net CNAME .
 *.germancasinoplay.net CNAME .
 getfreeware.net CNAME .
@@ -63198,8 +63180,6 @@ vegashero-casino.nz CNAME .
 *.vegashero-casino.nz CNAME .
 vegasherocasino.nz CNAME .
 *.vegasherocasino.nz CNAME .
-versuscasino.nz CNAME .
-*.versuscasino.nz CNAME .
 visacasinos.nz CNAME .
 *.visacasinos.nz CNAME .
 wagerlandcasino.nz CNAME .
@@ -68404,8 +68384,6 @@ topbet.rs CNAME .
 *.1xbetcasino66.ru CNAME .
 1xbetslots.ru CNAME .
 *.1xbetslots.ru CNAME .
-1xgamescasino.ru CNAME .
-*.1xgamescasino.ru CNAME .
 1xslots-casino-c2d.ru CNAME .
 *.1xslots-casino-c2d.ru CNAME .
 1xslots-casino-e5v.ru CNAME .
@@ -70674,18 +70652,12 @@ vodka-casino-f2m.ru CNAME .
 *.vodka-casino-f2m.ru CNAME .
 vodka-casino-g7z.ru CNAME .
 *.vodka-casino-g7z.ru CNAME .
-vodka-casino-games.ru CNAME .
-*.vodka-casino-games.ru CNAME .
-vodka-casino-gaming.ru CNAME .
-*.vodka-casino-gaming.ru CNAME .
 vodka-casino-go.ru CNAME .
 *.vodka-casino-go.ru CNAME .
 vodka-casino-h4o.ru CNAME .
 *.vodka-casino-h4o.ru CNAME .
 vodka-casino-h8y.ru CNAME .
 *.vodka-casino-h8y.ru CNAME .
-vodka-casino-i5p.ru CNAME .
-*.vodka-casino-i5p.ru CNAME .
 vodka-casino-i9x.ru CNAME .
 *.vodka-casino-i9x.ru CNAME .
 vodka-casino-info.ru CNAME .
@@ -70716,8 +70688,6 @@ vodka-casino-online.ru CNAME .
 *.vodka-casino-online.ru CNAME .
 vodka-casino-p6q.ru CNAME .
 *.vodka-casino-p6q.ru CNAME .
-vodka-casino-play.ru CNAME .
-*.vodka-casino-play.ru CNAME .
 vodka-casino-promo.ru CNAME .
 *.vodka-casino-promo.ru CNAME .
 vodka-casino-q7p.ru CNAME .
@@ -70726,8 +70696,6 @@ vodka-casino-top1.ru CNAME .
 *.vodka-casino-top1.ru CNAME .
 vodka-casino-v2e.ru CNAME .
 *.vodka-casino-v2e.ru CNAME .
-vodka-casino-vhod.ru CNAME .
-*.vodka-casino-vhod.ru CNAME .
 vodka-casino-vip.ru CNAME .
 *.vodka-casino-vip.ru CNAME .
 vodka-casino-y5b.ru CNAME .
@@ -70740,8 +70708,6 @@ vodka-casino2024.ru CNAME .
 *.vodka-casino2024.ru CNAME .
 vodka-casino2024amp.ru CNAME .
 *.vodka-casino2024amp.ru CNAME .
-vodka-casino2024new.ru CNAME .
-*.vodka-casino2024new.ru CNAME .
 vodka-casino24.ru CNAME .
 *.vodka-casino24.ru CNAME .
 vodka-casinoamp-2024.ru CNAME .
@@ -70754,22 +70720,14 @@ vodkabet-casino847.ru CNAME .
 *.vodkabet-casino847.ru CNAME .
 vodkabet-casinoz.ru CNAME .
 *.vodkabet-casinoz.ru CNAME .
-vodkabetcasino18.ru CNAME .
-*.vodkabetcasino18.ru CNAME .
 vodkabetcasino2.ru CNAME .
 *.vodkabetcasino2.ru CNAME .
-vodkabetcasino24.ru CNAME .
-*.vodkabetcasino24.ru CNAME .
 vodkabetcasino3.ru CNAME .
 *.vodkabetcasino3.ru CNAME .
-vodkabetcasino365.ru CNAME .
-*.vodkabetcasino365.ru CNAME .
 vodkabetcasino4.ru CNAME .
 *.vodkabetcasino4.ru CNAME .
 vodkabetcasinoa.ru CNAME .
 *.vodkabetcasinoa.ru CNAME .
-vodkabetcasinonew.ru CNAME .
-*.vodkabetcasinonew.ru CNAME .
 vodkabetcasinopro.ru CNAME .
 *.vodkabetcasinopro.ru CNAME .
 vodkabetcasinow.ru CNAME .
@@ -70828,10 +70786,6 @@ vodkacasinobetsite2104.ru CNAME .
 *.vodkacasinobetsite2104.ru CNAME .
 vodkacasinobetsite603.ru CNAME .
 *.vodkacasinobetsite603.ru CNAME .
-vodkacasinonew365.ru CNAME .
-*.vodkacasinonew365.ru CNAME .
-vodkacasinoonline.ru CNAME .
-*.vodkacasinoonline.ru CNAME .
 vodkacasinoplay.ru CNAME .
 *.vodkacasinoplay.ru CNAME .
 vodkacasinoplay1.ru CNAME .
@@ -89516,8 +89470,6 @@ gmsdeluxecasinoy4.xyz CNAME .
 *.gmsdeluxecasinoy4.xyz CNAME .
 gnraja.xyz CNAME .
 *.gnraja.xyz CNAME .
-gocbh4d.xyz CNAME .
-*.gocbh4d.xyz CNAME .
 gogorevo.xyz CNAME .
 *.gogorevo.xyz CNAME .
 goldis-casino.xyz CNAME .

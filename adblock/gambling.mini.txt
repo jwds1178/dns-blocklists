@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 12 Oct 2025 11:39 UTC
-! Version: 2025.1012.1139.17
+! Last modified: 12 Oct 2025 23:40 UTC
+! Version: 2025.1012.2340.11
 ! Syntax: AdBlock
-! Number of entries: 46332
+! Number of entries: 46308
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -1311,7 +1311,6 @@
 ||1xcasino-zerkalo-oficialnyy-sayt.kz^
 ||1xcinta.com^
 ||1xgames.online^
-||1xgamescasino.ru^
 ||1xlite-926519.top^
 ||1xlite-93399.world^
 ||1xmag.com^
@@ -14948,7 +14947,6 @@
 ||casinosophus.com^
 ||casinospay.xyz^
 ||casinospelletje.nl^
-||casinospelletjes.info^
 ||casinospesialisten.net^
 ||casinospesialistenj.com^
 ||casinospielen.de^
@@ -22018,7 +22016,6 @@
 ||geocraft.xyz^
 ||geoff-banks.com^
 ||geoffbanks.bet^
-||geogames.net^
 ||geolotto.casino^
 ||georgiagamblinghelp.org^
 ||geralbets.online^
@@ -22468,7 +22465,6 @@
 ||gobhai777.com^
 ||gobobei.net^
 ||gocasino-dk.com^
-||gocbh4d.xyz^
 ||god55.global^
 ||godavari247.com^
 ||godbunny.com^
@@ -31532,7 +31528,6 @@
 ||neuecasinos24.com^
 ||neueonline-casinos.com^
 ||nevadagambling.info^
-||nevadapokerreviews.com^
 ||nevadawincasinoreview.net^
 ||nevasport.ru^
 ||new-1xbet.com^
@@ -32516,7 +32511,6 @@
 ||oncasinosite.net^
 ||onchaincasino.xyz^
 ||ondel4drasa.com^
-||one-casino.ie^
 ||one-casino.nz^
 ||one-two-slim-kapli.ru^
 ||one1x888.com^
@@ -32894,7 +32888,6 @@
 ||opbutik.com^
 ||opcje-binarne4all.xyz^
 ||opdpoker.com^
-||opechatka.com^
 ||open-slots.com^
 ||opengambling.co^
 ||openpokersoftware.com^
@@ -39138,7 +39131,6 @@
 ||slotstates.com^
 ||slotsteem.xyz^
 ||slotstemple.com^
-||slotsterms.com^
 ||slotstery.com^
 ||slotstickgolf.com^
 ||slotstmx.xyz^
@@ -40693,7 +40685,6 @@
 ||sweet-rush-bonanza.casino^
 ||sweet-topslots.world^
 ||sweetbonanza-app.com^
-||sweetbonanza-casino.com^
 ||sweetslots-media.website^
 ||sweetsweeps.com^
 ||sweetywin.com^
@@ -41304,7 +41295,6 @@
 ||theclubhousecasino-au.com^
 ||theclubhousecasino-au.net^
 ||theclubhousecasinonz.com^
-||thecollegefix.com^
 ||thecolumbiapartnership.org^
 ||thecompletebatrainer.com^
 ||thecosmeticschef.com^
@@ -41352,7 +41342,6 @@
 ||thelandmarkbuilders.com^
 ||thelittlebigblog.com^
 ||thelittlesnapper.com^
-||thelongleafcommunity.com^
 ||thelott.com^
 ||thelotter.casino^
 ||thelotter.com^
@@ -43353,7 +43342,6 @@
 ||versuscasino.cz^
 ||versuscasino.fi^
 ||versuscasino.fr^
-||versuscasino.nz^
 ||versuscasino.pl^
 ||versuscasino.uk^
 ||vertbet.com^
@@ -43663,12 +43651,9 @@
 ||vodka-casino-eth.ru^
 ||vodka-casino-f2m.ru^
 ||vodka-casino-g7z.ru^
-||vodka-casino-games.ru^
-||vodka-casino-gaming.ru^
 ||vodka-casino-go.ru^
 ||vodka-casino-h4o.ru^
 ||vodka-casino-h8y.ru^
-||vodka-casino-i5p.ru^
 ||vodka-casino-i9x.ru^
 ||vodka-casino-info.ru^
 ||vodka-casino-j0w.ru^
@@ -43685,13 +43670,11 @@
 ||vodka-casino-online.ru^
 ||vodka-casino-onlinea.top^
 ||vodka-casino-p6q.ru^
-||vodka-casino-play.ru^
 ||vodka-casino-promo.ru^
 ||vodka-casino-promoa.top^
 ||vodka-casino-q7p.ru^
 ||vodka-casino-top1.ru^
 ||vodka-casino-v2e.ru^
-||vodka-casino-vhod.ru^
 ||vodka-casino-vip.ru^
 ||vodka-casino-y5b.ru^
 ||vodka-casino-z6a.ru^
@@ -43715,7 +43698,6 @@
 ||vodka-casino195.buzz^
 ||vodka-casino2024.ru^
 ||vodka-casino2024amp.ru^
-||vodka-casino2024new.ru^
 ||vodka-casino215.buzz^
 ||vodka-casino224.buzz^
 ||vodka-casino24.ru^
@@ -43919,15 +43901,11 @@
 ||vodkabet-casinoza.top^
 ||vodkabet-win.casino^
 ||vodkabet365.casino^
-||vodkabetcasino18.ru^
 ||vodkabetcasino2.ru^
-||vodkabetcasino24.ru^
 ||vodkabetcasino2a.top^
 ||vodkabetcasino3.ru^
-||vodkabetcasino365.ru^
 ||vodkabetcasino4.ru^
 ||vodkabetcasinoa.ru^
-||vodkabetcasinonew.ru^
 ||vodkabetcasinopro.ru^
 ||vodkabetcasinow.ru^
 ||vodkabetscasino.ru^
@@ -43968,8 +43946,6 @@
 ||vodkacasinobetsite2103.ru^
 ||vodkacasinobetsite2104.ru^
 ||vodkacasinobetsite603.ru^
-||vodkacasinonew365.ru^
-||vodkacasinoonline.ru^
 ||vodkacasinoplay.ru^
 ||vodkacasinoplay1.ru^
 ||vodkaez.casino^

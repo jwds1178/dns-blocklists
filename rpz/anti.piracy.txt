@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760269140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760312400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Oct 2025 11:39 UTC
-; Version: 2025.1012.1139.40
+; Last modified: 12 Oct 2025 23:40 UTC
+; Version: 2025.1012.2340.34
 ; Syntax: RPZ
-; Number of entries: 22506
+; Number of entries: 22508
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1620,8 +1620,6 @@ cpasbien.ch CNAME .
 *.cpasbien.ch CNAME .
 open.demonoid.ch CNAME .
 *.open.demonoid.ch CNAME .
-open-tracker.demonoid.ch CNAME .
-*.open-tracker.demonoid.ch CNAME .
 open-v6.demonoid.ch CNAME .
 *.open-v6.demonoid.ch CNAME .
 public.demonoid.ch CNAME .
@@ -10970,6 +10968,8 @@ audiobookbay.li CNAME .
 *.audiobookbay.li CNAME .
 cb01.li CNAME .
 *.cb01.li CNAME .
+tracker.chaoz.li CNAME .
+*.tracker.chaoz.li CNAME .
 crichd.li CNAME .
 *.crichd.li CNAME .
 dood.li CNAME .
@@ -12074,6 +12074,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
