@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760097000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760269620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Oct 2025 11:50 UTC
-; Version: 2025.1010.1150.24
+; Last modified: 12 Oct 2025 11:47 UTC
+; Version: 2025.1012.1147.02
 ; Syntax: RPZ
-; Number of entries: 18354
+; Number of entries: 18358
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4411,8 +4411,12 @@ eu3-browse.startpage.com CNAME .
 *.638b4f77d9568905cb2877ad1c13924bf1cb8205-m.proxy1.startpage.com CNAME .
 63c64d569ff722e8b165469caaf71acd6f67532e-m.proxy1.startpage.com CNAME .
 *.63c64d569ff722e8b165469caaf71acd6f67532e-m.proxy1.startpage.com CNAME .
+6449aad05f3657067d58409dc381b9f7a33e7d06-m.proxy1.startpage.com CNAME .
+*.6449aad05f3657067d58409dc381b9f7a33e7d06-m.proxy1.startpage.com CNAME .
 6450e02fd970dd27c6f69ed7365ecf9567ad0f5b-m.proxy1.startpage.com CNAME .
 *.6450e02fd970dd27c6f69ed7365ecf9567ad0f5b-m.proxy1.startpage.com CNAME .
+64ca72e383a34bcde74b9bb982def768b52f59b9-m.proxy1.startpage.com CNAME .
+*.64ca72e383a34bcde74b9bb982def768b52f59b9-m.proxy1.startpage.com CNAME .
 64fad6449038cc3f2ed0c2e08a887e349ba3c692-m.proxy1.startpage.com CNAME .
 *.64fad6449038cc3f2ed0c2e08a887e349ba3c692-m.proxy1.startpage.com CNAME .
 65e54fc1543d6e3edd120e5cc3cb1ae32f531181-m.proxy1.startpage.com CNAME .

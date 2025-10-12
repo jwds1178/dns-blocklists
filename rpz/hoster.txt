@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760009580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760267160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Oct 2025 11:33 UTC
-; Version: 2025.1009.1133.58
+; Last modified: 12 Oct 2025 11:06 UTC
+; Version: 2025.1012.1106.26
 ; Syntax: RPZ
-; Number of entries: 2776
+; Number of entries: 2772
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -40,8 +40,6 @@ qu.am CNAME .
 *.4everland.app CNAME .
 csb.app CNAME .
 *.csb.app CNAME .
-framer.app CNAME .
-*.framer.app CNAME .
 lovable.app CNAME .
 *.lovable.app CNAME .
 teleporthq.app CNAME .
@@ -720,8 +718,6 @@ janhost.com CNAME .
 *.janhost.com CNAME .
 jcmemoryscan.com CNAME .
 *.jcmemoryscan.com CNAME .
-jimdo.com CNAME .
-*.jimdo.com CNAME .
 jimdofree.com CNAME .
 *.jimdofree.com CNAME .
 jimdosite.com CNAME .

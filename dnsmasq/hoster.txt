@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 11:33 UTC
-# Version: 2025.1009.1133.58
+# Last modified: 12 Oct 2025 11:06 UTC
+# Version: 2025.1012.1106.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1388
+# Number of entries: 1386
 #
 local=/000a.de/
 local=/000space.com/
@@ -632,7 +632,6 @@ local=/forumotion.com/
 local=/fotos.lc/
 local=/fr.gp/
 local=/fr.nf/
-local=/framer.app/
 local=/framer.website/
 local=/free.cr/
 local=/free.lc/
@@ -822,7 +821,6 @@ local=/j55.eu/
 local=/janhost.com/
 local=/jcmemoryscan.com/
 local=/jeun.fr/
-local=/jimdo.com/
 local=/jimdofree.com/
 local=/jimdosite.com/
 local=/jixx.de/

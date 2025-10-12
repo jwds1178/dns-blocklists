@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Oct 2025 22:26 UTC
-! Version: 2025.1011.2226.52
+! Last modified: 12 Oct 2025 10:27 UTC
+! Version: 2025.1012.1027.41
 ! Syntax: AdBlock
-! Number of entries: 14192
+! Number of entries: 14203
 !
 ||01broker.com^
 ||01crypto.com^
@@ -954,7 +954,6 @@
 ||axilmbient.com^
 ||axiogenesis.com^
 ||axioswatches.com^
-||axismakup.com^
 ||axl-staking.de^
 ||axnam.com^
 ||axonrcparts.com^
@@ -2373,7 +2372,6 @@
 ||cliniqueloccitane.com^
 ||clisicerity.com^
 ||clivechristianuk.com^
-||cllusatoam.com^
 ||clockwisek.com^
 ||clorislife.com^
 ||clotha-boutique.de^
@@ -2703,7 +2701,6 @@
 ||corporationw.com^
 ||corralwestboot.com^
 ||correspondine.com^
-||correspondu.com^
 ||corsaircontrol.pro^
 ||corteiz.co^
 ||cosmetic-bulang.shop^
@@ -3025,6 +3022,7 @@
 ||degussa.tv^
 ||degussa.vip^
 ||degussa.website^
+||degussa--goldhandel-de.to^
 ||degussa-goldhandel.ac^
 ||degussa-goldhandel.tv^
 ||degussa-goldhandel-de.to^
@@ -3302,7 +3300,6 @@
 ||disruptiva-tech.de^
 ||distanceg.com^
 ||distant-lands.com^
-||distinguishm.com^
 ||distributem.com^
 ||distrilyy.net^
 ||ditac-tech.de^
@@ -3585,6 +3582,7 @@
 ||ecofuture-handel24.de^
 ||ecogisolaire.com^
 ||ecomaher.com^
+||econoechomart.com^
 ||econoessence.com^
 ||economicp.com^
 ||economicq.com^
@@ -5332,6 +5330,7 @@
 ||gotrixa.de^
 ||gourmandebusy.com^
 ||gourmetecke.com^
+||govern1.com^
 ||gp-photo.shop^
 ||gplate.de^
 ||gpslocatorphone.com^
@@ -5772,6 +5771,8 @@
 ||heizfreude.de^
 ||heizgenial.de^
 ||heizhaus-kohle.de^
+||heizigo.de^
+||heizino.de^
 ||heizinsel.de^
 ||heizkessel-sale.com^
 ||heizklar.de^
@@ -5827,12 +5828,15 @@
 ||heizoil-24.de^
 ||heizoil-vergleich.de^
 ||heizoil24.de^
+||heizomi.de^
 ||heizone.de^
+||heizora.de^
 ||heizparadies.de^
 ||heizpellets247.de^
 ||heizport.de^
 ||heizpro.com^
 ||heizstrahlerprada.de^
+||heizsy.de^
 ||heiztankstelle.de^
 ||heiztechnik-kundendienst.at^
 ||heizung-deutschland.org^
@@ -5845,6 +5849,7 @@
 ||heizungstechnik-online.de^
 ||heizungstore.com^
 ||heizup24.de^
+||heizzu.de^
 ||heldholz.com^
 ||helestyle.com^
 ||helganieblershop.com^
@@ -6408,7 +6413,6 @@
 ||inetzteil.de^
 ||inexpensivy.com^
 ||inferright.com^
-||inferutmati.com^
 ||infineink.com^
 ||infinitediamond.com^
 ||infinitrade.com^
@@ -8279,7 +8283,6 @@
 ||mercator.direct^
 ||mercedes-parts-and-more.de^
 ||mercimunich.de^
-||mergpath.com^
 ||meriaformation.com^
 ||meridianfinance.pro^
 ||meritdeteno.com^
@@ -9246,10 +9249,19 @@
 ||oelheizpunkt.de^
 ||oelheizung24.de^
 ||oelit.de^
+||oelity.de^
 ||oeljetzt.de^
+||oelman.de^
 ||oelonlineshop.de^
+||oelora.de^
 ||oelpreisfinder.de^
+||oeltix.de^
+||oeluno.de^
+||oeluu.de^
+||oelvio.de^
+||oelza.de^
 ||oelzone.de^
+||oelzy.de^
 ||oesterreichischeapotheke.com^
 ||ofendeutschland.com^
 ||ofenholzprofi.de^
@@ -10633,7 +10645,6 @@
 ||rheinwing.de^
 ||rhineritz.de^
 ||rhinowalk.com^
-||rhodeshotel24.com^
 ||ri-lieeoodu.com^
 ||ribeiraoautoparts.com^
 ||ricadihotelspage.com^
@@ -13358,7 +13369,6 @@
 ||vidxe.pro^
 ||vienna-modehaus.at^
 ||viennaapartments.org^
-||viennaaustrohotel.com^
 ||viennameerschaum.com^
 ||viennamodehaus.at^
 ||viennareps.com^
@@ -13429,6 +13439,7 @@
 ||viva-markets.com^
 ||vivagopro.com^
 ||vivaiabuty.pl^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^

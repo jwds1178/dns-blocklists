@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760221560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760264820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Oct 2025 22:26 UTC
-; Version: 2025.1011.2226.52
+; Last modified: 12 Oct 2025 10:27 UTC
+; Version: 2025.1012.1027.41
 ; Syntax: RPZ
-; Number of entries: 28384
+; Number of entries: 28406
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2696,8 +2696,6 @@ axiogenesis.com CNAME .
 *.axiogenesis.com CNAME .
 axioswatches.com CNAME .
 *.axioswatches.com CNAME .
-axismakup.com CNAME .
-*.axismakup.com CNAME .
 axnam.com CNAME .
 *.axnam.com CNAME .
 axonrcparts.com CNAME .
@@ -4402,8 +4400,6 @@ clisicerity.com CNAME .
 *.clisicerity.com CNAME .
 clivechristianuk.com CNAME .
 *.clivechristianuk.com CNAME .
-cllusatoam.com CNAME .
-*.cllusatoam.com CNAME .
 clockwisek.com CNAME .
 *.clockwisek.com CNAME .
 clorislife.com CNAME .
@@ -4656,8 +4652,6 @@ corralwestboot.com CNAME .
 *.corralwestboot.com CNAME .
 correspondine.com CNAME .
 *.correspondine.com CNAME .
-correspondu.com CNAME .
-*.correspondu.com CNAME .
 cosmoscrisp.com CNAME .
 *.cosmoscrisp.com CNAME .
 cottline.com CNAME .
@@ -5318,8 +5312,6 @@ distanceg.com CNAME .
 *.distanceg.com CNAME .
 distant-lands.com CNAME .
 *.distant-lands.com CNAME .
-distinguishm.com CNAME .
-*.distinguishm.com CNAME .
 distributem.com CNAME .
 *.distributem.com CNAME .
 dithclerk.com CNAME .
@@ -5646,6 +5638,8 @@ ecogisolaire.com CNAME .
 *.ecogisolaire.com CNAME .
 ecomaher.com CNAME .
 *.ecomaher.com CNAME .
+econoechomart.com CNAME .
+*.econoechomart.com CNAME .
 econoessence.com CNAME .
 *.econoessence.com CNAME .
 economicp.com CNAME .
@@ -7606,6 +7600,8 @@ gourmandebusy.com CNAME .
 *.gourmandebusy.com CNAME .
 gourmetecke.com CNAME .
 *.gourmetecke.com CNAME .
+govern1.com CNAME .
+*.govern1.com CNAME .
 gpslocatorphone.com CNAME .
 *.gpslocatorphone.com CNAME .
 gpt-definity.com CNAME .
@@ -8706,8 +8702,6 @@ inexpensivy.com CNAME .
 *.inexpensivy.com CNAME .
 inferright.com CNAME .
 *.inferright.com CNAME .
-inferutmati.com CNAME .
-*.inferutmati.com CNAME .
 infineink.com CNAME .
 *.infineink.com CNAME .
 infinitediamond.com CNAME .
@@ -10636,8 +10630,6 @@ mentione.com CNAME .
 *.mentione.com CNAME .
 mentoysonsale.com CNAME .
 *.mentoysonsale.com CNAME .
-mergpath.com CNAME .
-*.mergpath.com CNAME .
 meriaformation.com CNAME .
 *.meriaformation.com CNAME .
 meritdeteno.com CNAME .
@@ -13416,8 +13408,6 @@ rheinlandholz.com CNAME .
 *.rheinlandholz.com CNAME .
 rhinowalk.com CNAME .
 *.rhinowalk.com CNAME .
-rhodeshotel24.com CNAME .
-*.rhodeshotel24.com CNAME .
 ri-lieeoodu.com CNAME .
 *.ri-lieeoodu.com CNAME .
 ribeiraoautoparts.com CNAME .
@@ -16584,8 +16574,6 @@ videforex.com CNAME .
 *.videforex.com CNAME .
 vidmason.com CNAME .
 *.vidmason.com CNAME .
-viennaaustrohotel.com CNAME .
-*.viennaaustrohotel.com CNAME .
 viennameerschaum.com CNAME .
 *.viennameerschaum.com CNAME .
 viennareps.com CNAME .
@@ -16660,6 +16648,8 @@ viva-markets.com CNAME .
 *.viva-markets.com CNAME .
 vivagopro.com CNAME .
 *.vivagopro.com CNAME .
+vivaiacollection.com CNAME .
+*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -20124,6 +20114,10 @@ heizgenial.de CNAME .
 *.heizgenial.de CNAME .
 heizhaus-kohle.de CNAME .
 *.heizhaus-kohle.de CNAME .
+heizigo.de CNAME .
+*.heizigo.de CNAME .
+heizino.de CNAME .
+*.heizino.de CNAME .
 heizinsel.de CNAME .
 *.heizinsel.de CNAME .
 heizklar.de CNAME .
@@ -20208,8 +20202,12 @@ heizoil-vergleich.de CNAME .
 *.heizoil-vergleich.de CNAME .
 heizoil24.de CNAME .
 *.heizoil24.de CNAME .
+heizomi.de CNAME .
+*.heizomi.de CNAME .
 heizone.de CNAME .
 *.heizone.de CNAME .
+heizora.de CNAME .
+*.heizora.de CNAME .
 heizparadies.de CNAME .
 *.heizparadies.de CNAME .
 heizpellets247.de CNAME .
@@ -20218,6 +20216,8 @@ heizport.de CNAME .
 *.heizport.de CNAME .
 heizstrahlerprada.de CNAME .
 *.heizstrahlerprada.de CNAME .
+heizsy.de CNAME .
+*.heizsy.de CNAME .
 heiztankstelle.de CNAME .
 *.heiztankstelle.de CNAME .
 heizung-und-elektrotechnik.de CNAME .
@@ -20230,6 +20230,8 @@ heizungstechnik-online.de CNAME .
 *.heizungstechnik-online.de CNAME .
 heizup24.de CNAME .
 *.heizup24.de CNAME .
+heizzu.de CNAME .
+*.heizzu.de CNAME .
 hellersommer.de CNAME .
 *.hellersommer.de CNAME .
 hellertag.de CNAME .
@@ -21916,14 +21918,32 @@ oelheizung24.de CNAME .
 *.oelheizung24.de CNAME .
 oelit.de CNAME .
 *.oelit.de CNAME .
+oelity.de CNAME .
+*.oelity.de CNAME .
 oeljetzt.de CNAME .
 *.oeljetzt.de CNAME .
+oelman.de CNAME .
+*.oelman.de CNAME .
 oelonlineshop.de CNAME .
 *.oelonlineshop.de CNAME .
+oelora.de CNAME .
+*.oelora.de CNAME .
 oelpreisfinder.de CNAME .
 *.oelpreisfinder.de CNAME .
+oeltix.de CNAME .
+*.oeltix.de CNAME .
+oeluno.de CNAME .
+*.oeluno.de CNAME .
+oeluu.de CNAME .
+*.oeluu.de CNAME .
+oelvio.de CNAME .
+*.oelvio.de CNAME .
+oelza.de CNAME .
+*.oelza.de CNAME .
 oelzone.de CNAME .
 *.oelzone.de CNAME .
+oelzy.de CNAME .
+*.oelzy.de CNAME .
 ofenholzprofi.de CNAME .
 *.ofenholzprofi.de CNAME .
 oglus.de CNAME .
@@ -27922,6 +27942,8 @@ click-earn.to CNAME .
 *.click-earn.to CNAME .
 degussa.to CNAME .
 *.degussa.to CNAME .
+degussa--goldhandel-de.to CNAME .
+*.degussa--goldhandel-de.to CNAME .
 degussa-goldhandel-de.to CNAME .
 *.degussa-goldhandel-de.to CNAME .
 drugeo.to CNAME .

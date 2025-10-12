@@ -4292,13 +4292,6 @@
       }
     },
     {
-      "PK": "framer.app",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "framer.website",
       "action": {
         "do": 0,
@@ -5630,13 +5623,6 @@
     },
     {
       "PK": "jeun.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "jimdo.com",
       "action": {
         "do": 0,
         "status": 1
