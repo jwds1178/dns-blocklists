@@ -67,9 +67,12 @@ jobs:
           body: |
             The following monitored files have been updated in the DNS blocklists repository:
 
+
             ${{ steps.changed-files.outputs.files }}
+
 
             Repository: ${{ github.repository }}
             Commit: ${{ github.sha }}
+
 
             View changes: https://github.com/${{ github.repository }}/commit/${{ github.sha }}
