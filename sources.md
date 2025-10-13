@@ -201,6 +201,7 @@ https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin
 https://raw.githubusercontent.com/MikhailKasimov/validin-phish-feed/main/validin-phish-feed.txt
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 https://raw.githubusercontent.com/mtxadmin/ublock/master/hosts/_all_bets_are_off
+https://raw.githubusercontent.com/NullAngst/Domain-Blocklists/main/Domain-Blocklist
 https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/blocklist.json
 https://raw.githubusercontent.com/phishdestroy/destroylist/main/community/live_blocklist.json

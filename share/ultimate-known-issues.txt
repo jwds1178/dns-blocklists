@@ -73,3 +73,6 @@ us2.find.api.micloud.xiaomi.net
 # every few seconds, which can disrupt normal streaming device functions 
 # or cause buffering issues for some services.
 youboranqs01.com
+
+# dmax.de - consent
+www.googletagmanager.com

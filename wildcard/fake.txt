@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 17:04 UTC
-# Version: 2025.1013.1704.09
+# Last modified: 13 Oct 2025 22:29 UTC
+# Version: 2025.1013.2229.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14266
+# Number of entries: 14269
 #
 *.01broker.com
 *.01crypto.com
@@ -1034,6 +1034,7 @@
 *.backontrackus.com
 *.backpacksschritte.com
 *.badakzenteeu.shop
+*.badartikelsupply.com
 *.badduschkopf.com
 *.badeanzugtreff.de
 *.bademodeneu.com
@@ -4986,6 +4987,7 @@
 *.gartendekoprada.de
 *.gartendo.de
 *.gartenecke24.de
+*.gartenesstisch.com
 *.gartenflamme24.de
 *.gartenfreunde-murrhardt.de
 *.gartengeraete-shop.de
@@ -8387,6 +8389,7 @@
 *.mg-management.de
 *.mgmglobal.com
 *.mh63trans.de
+*.mhpa.net
 *.mhv-vertrieb.de
 *.mi-tische.de
 *.mialea.de

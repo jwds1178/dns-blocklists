@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 11:45 UTC
-# Version: 2025.1013.1145.50
+# Last modified: 13 Oct 2025 23:46 UTC
+# Version: 2025.1013.2346.16
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3913
+# Number of entries: 3914
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2906,6 +2906,7 @@
 0.0.0.0 pepetio.xyz
 0.0.0.0 dns.periactes.com
 0.0.0.0 dns0.permafrostmiami.com
+0.0.0.0 dns.pernika.net
 0.0.0.0 darya.persiannit.net
 0.0.0.0 personal-proj-by-me.eu
 0.0.0.0 dns.pesaventofilippo.com

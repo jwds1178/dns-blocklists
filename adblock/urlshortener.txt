@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Oct 2025 10:30 UTC
-! Version: 2025.1013.1030.15
+! Last modified: 13 Oct 2025 22:31 UTC
+! Version: 2025.1013.2231.08
 ! Syntax: AdBlock
-! Number of entries: 7756
+! Number of entries: 7760
 !
 ||0.gp^
 ||00m.in^
@@ -328,6 +328,7 @@
 ||89bet69.net^
 ||89q.sk^
 ||8cc7.com^
+||8dewaamp.xyz^
 ||8tm.net^
 ||8u.cz^
 ||8u.pw^
@@ -4602,6 +4603,7 @@
 ||to.pbs.org^
 ||pc-helper.xyz^
 ||pc24.app^
+||pca.so^
 ||pchome.link^
 ||pck.tv^
 ||pclosdebian.org^
@@ -5745,6 +5747,7 @@
 ||sikk.de^
 ||siklik.id^
 ||short.silex.me^
+||silvagiris.com^
 ||simgr.id^
 ||simp.ly^
 ||simpleurl.link^
@@ -6284,6 +6287,7 @@
 ||tiklagit.net^
 ||tilt.ltd^
 ||timewatch.info^
+||timxxx.ink^
 ||tin.li^
 ||go.tinder.com^
 ||tinderurl.com^

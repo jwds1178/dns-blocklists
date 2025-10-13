@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760375040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760394540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Oct 2025 17:04 UTC
-; Version: 2025.1013.1704.09
+; Last modified: 13 Oct 2025 22:29 UTC
+; Version: 2025.1013.2229.32
 ; Syntax: RPZ
-; Number of entries: 28532
+; Number of entries: 28538
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2814,6 +2814,8 @@ backontrackus.com CNAME .
 *.backontrackus.com CNAME .
 backpacksschritte.com CNAME .
 *.backpacksschritte.com CNAME .
+badartikelsupply.com CNAME .
+*.badartikelsupply.com CNAME .
 badduschkopf.com CNAME .
 *.badduschkopf.com CNAME .
 bademodeneu.com CNAME .
@@ -7188,6 +7190,8 @@ gartenbnke.com CNAME .
 *.gartenbnke.com CNAME .
 gartenboss.com CNAME .
 *.gartenboss.com CNAME .
+gartenesstisch.com CNAME .
+*.gartenesstisch.com CNAME .
 gartenil.com CNAME .
 *.gartenil.com CNAME .
 gartenira.com CNAME .
@@ -25212,6 +25216,8 @@ medicineronline.net CNAME .
 *.medicineronline.net CNAME .
 medirezept.net CNAME .
 *.medirezept.net CNAME .
+mhpa.net CNAME .
+*.mhpa.net CNAME .
 michaelkorssuisse.net CNAME .
 *.michaelkorssuisse.net CNAME .
 moonbootaustralia.net CNAME .

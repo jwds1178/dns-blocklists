@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 10:30 UTC
-# Version: 2025.1013.1030.15
+# Last modified: 13 Oct 2025 22:31 UTC
+# Version: 2025.1013.2231.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7756
+# Number of entries: 7760
 #
 local=/0.gp/
 local=/00m.in/
@@ -327,6 +327,7 @@ local=/89bet69.cc/
 local=/89bet69.net/
 local=/89q.sk/
 local=/8cc7.com/
+local=/8dewaamp.xyz/
 local=/8tm.net/
 local=/8u.cz/
 local=/8u.pw/
@@ -4601,6 +4602,7 @@ local=/pbs.ink/
 local=/to.pbs.org/
 local=/pc-helper.xyz/
 local=/pc24.app/
+local=/pca.so/
 local=/pchome.link/
 local=/pck.tv/
 local=/pclosdebian.org/
@@ -5744,6 +5746,7 @@ local=/sikilat.fun/
 local=/sikk.de/
 local=/siklik.id/
 local=/short.silex.me/
+local=/silvagiris.com/
 local=/simgr.id/
 local=/simp.ly/
 local=/simpleurl.link/
@@ -6283,6 +6286,7 @@ local=/tik.so/
 local=/tiklagit.net/
 local=/tilt.ltd/
 local=/timewatch.info/
+local=/timxxx.ink/
 local=/tin.li/
 local=/go.tinder.com/
 local=/tinderurl.com/

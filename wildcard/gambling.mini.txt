@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 11:38 UTC
-# Version: 2025.1013.1138.56
+# Last modified: 13 Oct 2025 23:38 UTC
+# Version: 2025.1013.2338.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 44691
+# Number of entries: 44687
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -4384,7 +4384,6 @@
 *.aku4dp.com
 *.aku987.com
 *.akulaku.site
-*.akunpremium.site
 *.akunvip.site
 *.akura7.mom
 *.akura7.space
@@ -7745,7 +7744,6 @@
 *.betsofa.win
 *.betsofa-casino.net
 *.betsofacasino.bet
-*.betsoffshore.com
 *.betsoft.com
 *.betsoftgaming.com
 *.betsoftq.com
@@ -9516,7 +9514,6 @@
 *.btggaming.com
 *.btindiana.org
 *.btk.az
-*.btosportsnews.com
 *.btstoto.online
 *.bttzs.com
 *.bty1233.com
@@ -12112,7 +12109,6 @@
 *.casinoflow.vip
 *.casinofluxzone.com
 *.casinofm.de
-*.casinofollower.com
 *.casinoforge.us
 *.casinoforgeempire.com
 *.casinoforth.xyz
@@ -25362,6 +25358,7 @@
 *.kent309.casino
 *.kent353.casino
 *.kent354.casino
+*.kent370.com
 *.kent379.casino
 *.kent413.casino
 *.kent424.casino
@@ -27488,6 +27485,7 @@
 *.luckyvibe.com
 *.luckyvibecasino.ca
 *.luckyvip.com
+*.luckywands24.io
 *.luckywave.com
 *.luckywins.com
 *.luckywinscasino.com
@@ -28704,7 +28702,6 @@
 *.metacasino.pro
 *.metadewavip.com
 *.metalcasino.com
-*.metalslots.com
 *.metalspiel.de
 *.metaratings.ru
 *.metaspins.com
@@ -40173,7 +40170,6 @@
 *.tobet88.uno
 *.tobetss.com
 *.tobikoblog.com
-*.today.casino
 *.today777.com
 *.todaysgambling.com
 *.todocasinoyapuestas.online

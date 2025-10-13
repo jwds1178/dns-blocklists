@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 11:36 UTC
-# Version: 2025.1013.1136.46
+# Last modified: 13 Oct 2025 23:36 UTC
+# Version: 2025.1013.2336.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 109318
+# Number of entries: 109315
 #
 local=/0-bdmbet.com/
 local=/0-casino.info/
@@ -15584,7 +15584,6 @@ local=/akun268resmi.com/
 local=/akundewa.online/
 local=/akuneng4d.net/
 local=/akunholang88.xyz/
-local=/akunpremium.site/
 local=/akunproduniaslot88.online/
 local=/akunproitalia.biz/
 local=/akunpropusat.xyz/
@@ -22731,7 +22730,6 @@ local=/betsofa.win/
 local=/betsofa-casino.net/
 local=/betsofa88.com/
 local=/betsofacasino.bet/
-local=/betsoffshore.com/
 local=/betsoft.com/
 local=/betsoft777games.com/
 local=/betsoftgaming.com/
@@ -26773,7 +26771,6 @@ local=/btg977.casino/
 local=/btggaming.com/
 local=/btindiana.org/
 local=/btk.az/
-local=/btosportsnews.com/
 local=/btsgo89.autos/
 local=/btslr.co/
 local=/btstoto.online/
@@ -31981,7 +31978,6 @@ local=/casinofluxzone.com/
 local=/casinofm.de/
 local=/casinofocused.site/
 local=/casinofokus.dk/
-local=/casinofollower.com/
 local=/casinoforall.uk/
 local=/casinoforalle.dk/
 local=/casinoforbes.com/
@@ -43616,6 +43612,7 @@ local=/daduslot88.baby/
 local=/daduslot88asli.com/
 local=/daduuku.xyz/
 local=/dadycasino.com/
+local=/dadywin777.com/
 local=/dafa-bet.casino/
 local=/dafa-bet.net/
 local=/dafa08.net/
@@ -61822,6 +61819,7 @@ local=/kent353.casino/
 local=/kent354.casino/
 local=/kent364.casino/
 local=/kent369.casino/
+local=/kent370.com/
 local=/kent371.casino/
 local=/kent372.casino/
 local=/kent377.casino/
@@ -67180,6 +67178,7 @@ local=/luckyvibecasino.bet/
 local=/luckyvibecasino.ca/
 local=/luckyvibecasino.uk/
 local=/luckyvip.com/
+local=/luckywands24.io/
 local=/luckywands34.io/
 local=/luckywave.com/
 local=/luckywheelbingo.com/
@@ -70062,7 +70061,6 @@ local=/metalcasino.bet/
 local=/metalcasino.com/
 local=/metalcasino.win/
 local=/metalexcess.com/
-local=/metalslots.com/
 local=/metalspiel.de/
 local=/metaratings.ru/
 local=/metaspin88vip.cyou/
@@ -98703,7 +98701,6 @@ local=/tobikoblog.com/
 local=/tobrutbulat.xyz/
 local=/toby.poker/
 local=/tocasino.net/
-local=/today.casino/
 local=/today777.com/
 local=/todaybet.buzz/
 local=/todaybet.club/

@@ -5838,6 +5838,13 @@
       }
     },
     {
+      "PK": "super.money",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.support",
       "action": {
         "do": 0,

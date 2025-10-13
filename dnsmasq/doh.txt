@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 11:45 UTC
-# Version: 2025.1013.1145.50
+# Last modified: 13 Oct 2025 23:46 UTC
+# Version: 2025.1013.2346.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3433
+# Number of entries: 3434
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2517,6 +2517,7 @@ local=/fuchur.pentament.de/
 local=/pepetio.xyz/
 local=/dns.periactes.com/
 local=/dns0.permafrostmiami.com/
+local=/dns.pernika.net/
 local=/darya.persiannit.net/
 local=/personal-proj-by-me.eu/
 local=/dns.pesaventofilippo.com/

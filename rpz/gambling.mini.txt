@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760355480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760398680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Oct 2025 11:38 UTC
-; Version: 2025.1013.1138.56
+; Last modified: 13 Oct 2025 23:38 UTC
+; Version: 2025.1013.2338.58
 ; Syntax: RPZ
-; Number of entries: 89382
+; Number of entries: 89374
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -7178,8 +7178,6 @@ tk88.casino CNAME .
 *.tk88.casino CNAME .
 tnt96.casino CNAME .
 *.tnt96.casino CNAME .
-today.casino CNAME .
-*.today.casino CNAME .
 top-duke.casino CNAME .
 *.top-duke.casino CNAME .
 top-turkey.casino CNAME .
@@ -18056,8 +18054,6 @@ betsoccerblitz.com CNAME .
 *.betsoccerblitz.com CNAME .
 betsofa.com CNAME .
 *.betsofa.com CNAME .
-betsoffshore.com CNAME .
-*.betsoffshore.com CNAME .
 betsoft.com CNAME .
 *.betsoft.com CNAME .
 betsoftgaming.com CNAME .
@@ -19868,8 +19864,6 @@ btcstakes.com CNAME .
 *.btcstakes.com CNAME .
 btggaming.com CNAME .
 *.btggaming.com CNAME .
-btosportsnews.com CNAME .
-*.btosportsnews.com CNAME .
 bttzs.com CNAME .
 *.bttzs.com CNAME .
 bty1233.com CNAME .
@@ -21390,8 +21384,6 @@ casinoflagman17.com CNAME .
 *.casinoflagman17.com CNAME .
 casinofluxzone.com CNAME .
 *.casinofluxzone.com CNAME .
-casinofollower.com CNAME .
-*.casinofollower.com CNAME .
 casinoforgeempire.com CNAME .
 *.casinoforgeempire.com CNAME .
 casinofoxygold.com CNAME .
@@ -31356,6 +31348,8 @@ kent-casino44.com CNAME .
 *.kent-casino44.com CNAME .
 kent-casino46.com CNAME .
 *.kent-casino46.com CNAME .
+kent370.com CNAME .
+*.kent370.com CNAME .
 kessbet.com CNAME .
 *.kessbet.com CNAME .
 kewbets.com CNAME .
@@ -34210,8 +34204,6 @@ metadewavip.com CNAME .
 *.metadewavip.com CNAME .
 metalcasino.com CNAME .
 *.metalcasino.com CNAME .
-metalslots.com CNAME .
-*.metalslots.com CNAME .
 metaspins.com CNAME .
 *.metaspins.com CNAME .
 metaversecasinobets.com CNAME .
@@ -55124,6 +55116,8 @@ luckystar.io CNAME .
 *.luckystar.io CNAME .
 luckytrunk.io CNAME .
 *.luckytrunk.io CNAME .
+luckywands24.io CNAME .
+*.luckywands24.io CNAME .
 lunarspins.io CNAME .
 *.lunarspins.io CNAME .
 madcasino.io CNAME .
@@ -69696,8 +69690,6 @@ achatmaison.site CNAME .
 *.achatmaison.site CNAME .
 akulaku.site CNAME .
 *.akulaku.site CNAME .
-akunpremium.site CNAME .
-*.akunpremium.site CNAME .
 akunvip.site CNAME .
 *.akunvip.site CNAME .
 alternatifangelabet.site CNAME .

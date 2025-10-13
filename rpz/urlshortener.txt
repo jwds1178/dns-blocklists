@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760351400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760394660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Oct 2025 10:30 UTC
-; Version: 2025.1013.1030.15
+; Last modified: 13 Oct 2025 22:31 UTC
+; Version: 2025.1013.2231.08
 ; Syntax: RPZ
-; Number of entries: 15512
+; Number of entries: 15520
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4731,6 +4731,8 @@ sigboms.com CNAME .
 *.sigboms.com CNAME .
 sikencang.com CNAME .
 *.sikencang.com CNAME .
+silvagiris.com CNAME .
+*.silvagiris.com CNAME .
 simpltrk.com CNAME .
 *.simpltrk.com CNAME .
 simurl.com CNAME .
@@ -7839,6 +7841,8 @@ terbar.ink CNAME .
 *.terbar.ink CNAME .
 thinl.ink CNAME .
 *.thinl.ink CNAME .
+timxxx.ink CNAME .
+*.timxxx.ink CNAME .
 tinyl.ink CNAME .
 *.tinyl.ink CNAME .
 turtl.ink CNAME .
@@ -13691,6 +13695,8 @@ mrw.so CNAME .
 *.mrw.so CNAME .
 ntn.so CNAME .
 *.ntn.so CNAME .
+pca.so CNAME .
+*.pca.so CNAME .
 ref.so CNAME .
 *.ref.so CNAME .
 shorten.so CNAME .
@@ -15349,6 +15355,8 @@ wf0.xin CNAME .
 *.71a.xyz CNAME .
 7894.xyz CNAME .
 *.7894.xyz CNAME .
+8dewaamp.xyz CNAME .
+*.8dewaamp.xyz CNAME .
 aficlicktrack.xyz CNAME .
 *.aficlicktrack.xyz CNAME .
 akunjpvip.xyz CNAME .

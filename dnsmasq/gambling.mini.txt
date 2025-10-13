@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 11:38 UTC
-# Version: 2025.1013.1138.56
+# Last modified: 13 Oct 2025 23:38 UTC
+# Version: 2025.1013.2338.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 44691
+# Number of entries: 44687
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -4384,7 +4384,6 @@ local=/aktion-mensch.de/
 local=/aku4dp.com/
 local=/aku987.com/
 local=/akulaku.site/
-local=/akunpremium.site/
 local=/akunvip.site/
 local=/akura7.mom/
 local=/akura7.space/
@@ -7745,7 +7744,6 @@ local=/betsofa.com/
 local=/betsofa.win/
 local=/betsofa-casino.net/
 local=/betsofacasino.bet/
-local=/betsoffshore.com/
 local=/betsoft.com/
 local=/betsoftgaming.com/
 local=/betsoftq.com/
@@ -9516,7 +9514,6 @@ local=/btcstakes.com/
 local=/btggaming.com/
 local=/btindiana.org/
 local=/btk.az/
-local=/btosportsnews.com/
 local=/btstoto.online/
 local=/bttzs.com/
 local=/bty1233.com/
@@ -12112,7 +12109,6 @@ local=/casinoflow.us/
 local=/casinoflow.vip/
 local=/casinofluxzone.com/
 local=/casinofm.de/
-local=/casinofollower.com/
 local=/casinoforge.us/
 local=/casinoforgeempire.com/
 local=/casinoforth.xyz/
@@ -25362,6 +25358,7 @@ local=/kent303.casino/
 local=/kent309.casino/
 local=/kent353.casino/
 local=/kent354.casino/
+local=/kent370.com/
 local=/kent379.casino/
 local=/kent413.casino/
 local=/kent424.casino/
@@ -27488,6 +27485,7 @@ local=/luckyvegas.de/
 local=/luckyvibe.com/
 local=/luckyvibecasino.ca/
 local=/luckyvip.com/
+local=/luckywands24.io/
 local=/luckywave.com/
 local=/luckywins.com/
 local=/luckywinscasino.com/
@@ -28704,7 +28702,6 @@ local=/metabettingcasino.com/
 local=/metacasino.pro/
 local=/metadewavip.com/
 local=/metalcasino.com/
-local=/metalslots.com/
 local=/metalspiel.de/
 local=/metaratings.ru/
 local=/metaspins.com/
@@ -40173,7 +40170,6 @@ local=/tobet88.net/
 local=/tobet88.uno/
 local=/tobetss.com/
 local=/tobikoblog.com/
-local=/today.casino/
 local=/today777.com/
 local=/todaysgambling.com/
 local=/todocasinoyapuestas.online/
