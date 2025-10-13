@@ -1,0 +1,75 @@
+name: File Change Notification
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: ["Sync with Upstream Repository"]
+    types: [completed]
+
+jobs:
+  check-changes:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'push' }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check for specific file changes
+        id: changed-files
+        run: |
+          # List of files to monitor (modify as needed)
+          MONITORED_FILES=(
+            "controld/apple-private-relay-allow-folder.json"
+            "controld/badware-hoster-folder.json"
+            "controld/meta-tracker-allow-folder.json"
+            "controld/microsoft-allow-folder.json"
+            "controld/referral-allow-folder.json"
+            "controld/spam-tlds-combined-folder.json"
+            "controld/ultimate-known_issues-allow-folder.json"
+          )
+
+          # Get changed files
+          CHANGED=$(git diff --name-only HEAD^ HEAD)
+
+          # Check if any monitored files changed
+          MATCHES=""
+          for file in "${MONITORED_FILES[@]}"; do
+            if echo "$CHANGED" | grep -q "^$file$"; then
+              MATCHES="$MATCHES\n- $file"
+            fi
+          done
+
+          if [ -n "$MATCHES" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "files<<EOF" >> $GITHUB_OUTPUT
+            echo -e "$MATCHES" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send email notification
+        if: steps.changed-files.outputs.changed == 'true'
+        uses: dawidd6/action-send-mail@v5
+        with:
+          from: GitHub Actions <${{ secrets.EMAIL_FROM }}>
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          secure: true
+          server_address: ${{ secrets.EMAIL_SERVER }}
+          server_port: 465
+          username: ${{ secrets.EMAIL_USERNAME }}
+          subject: DNS Blocklist Files Updated
+          to: ${{ secrets.EMAIL_TO }}
+          body: |
+            The following monitored files have been updated in the DNS blocklists repository:
+
+            ${{ steps.changed-files.outputs.files }}
+
+            Repository: ${{ github.repository }}
+            Commit: ${{ github.sha }}
+
+            View changes: https://github.com/${{ github.repository }}/commit/${{ github.sha }}
