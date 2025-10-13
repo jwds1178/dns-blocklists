@@ -8,6 +8,13 @@
   },
   "rules": [
     {
+      "PK": "adxlog-adnet.vivo.com.cn",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "asia-abeacdataonrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -492,6 +499,13 @@
     },
     {
       "PK": "de-vcode-od.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "dsplog-adnet.vivo.com.cn",
       "action": {
         "do": 0,
         "status": 1
@@ -1423,6 +1437,13 @@
     },
     {
       "PK": "stsdk.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "tracking-adnet.vivo.com.cn",
       "action": {
         "do": 0,
         "status": 1

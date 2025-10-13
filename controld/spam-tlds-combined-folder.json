@@ -903,6 +903,13 @@
       }
     },
     {
+      "PK": "chainsawman.dog",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.channel",
       "action": {
         "do": 0,
@@ -925,6 +932,13 @@
     },
     {
       "PK": "chessvibes.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "chibi-robo.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -1379,6 +1393,13 @@
       }
     },
     {
+      "PK": "deadlock.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.deals",
       "action": {
         "do": 0,
@@ -1561,6 +1582,20 @@
       }
     },
     {
+      "PK": "domainname.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "domene.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.download",
       "action": {
         "do": 0,
@@ -1582,6 +1617,13 @@
       }
     },
     {
+      "PK": "dragalialost.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "dragonscave.space",
       "action": {
         "do": 1,
@@ -1590,6 +1632,13 @@
     },
     {
       "PK": "drawing.new",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "drawntolife.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -1907,13 +1956,6 @@
       "PK": "*.fashion",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "fastdl.icu",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },
@@ -2667,6 +2709,13 @@
       }
     },
     {
+      "PK": "hololive.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "homebrew.guide",
       "action": {
         "do": 1,
@@ -2863,6 +2912,13 @@
       }
     },
     {
+      "PK": "intervals.icu",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ioc.exchange",
       "action": {
         "do": 1,
@@ -2976,6 +3032,13 @@
     },
     {
       "PK": "jpg5.su",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jpg6.su",
       "action": {
         "do": 1,
         "status": 1
@@ -3913,6 +3976,13 @@
       }
     },
     {
+      "PK": "myshopline.shop",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nabu.casa",
       "action": {
         "do": 1,
@@ -4032,7 +4102,21 @@
       }
     },
     {
+      "PK": "nitter.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "nixos.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "noclip.website",
       "action": {
         "do": 1,
         "status": 1
@@ -4208,6 +4292,13 @@
     },
     {
       "PK": "onrocket.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ooh.directory",
       "action": {
         "do": 1,
         "status": 1
@@ -4501,9 +4592,23 @@
       }
     },
     {
+      "PK": "pixiv.help",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.pizza",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "pizzatower.wiki",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -5173,6 +5278,13 @@
       }
     },
     {
+      "PK": "saintsrow.wiki",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.sale",
       "action": {
         "do": 0,
@@ -5404,6 +5516,13 @@
       }
     },
     {
+      "PK": "sibellavia.lol",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "sideb.buzz",
       "action": {
         "do": 1,
@@ -5533,13 +5652,6 @@
       "PK": "*.space",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "spankbang.mov",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },
@@ -6055,6 +6167,13 @@
       }
     },
     {
+      "PK": "trace.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.trade",
       "action": {
         "do": 0,
@@ -6098,6 +6217,13 @@
     },
     {
       "PK": "tux.pizza",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "twewy.wiki",
       "action": {
         "do": 1,
         "status": 1
@@ -6273,13 +6399,6 @@
     },
     {
       "PK": "vaultcord.win",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vcloud.lol",
       "action": {
         "do": 1,
         "status": 1
@@ -6538,6 +6657,13 @@
       }
     },
     {
+      "PK": "wetv.vip",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "wii.guide",
       "action": {
         "do": 1,
@@ -6602,6 +6728,13 @@
     },
     {
       "PK": "wolow.site",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "woodsea.studio",
       "action": {
         "do": 1,
         "status": 1
@@ -7878,6 +8011,13 @@
       "PK": "*.you",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "yts.monster",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

@@ -1345,6 +1345,20 @@
       }
     },
     {
+      "PK": "mon-boot.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mon-boot.tiktokv.com.edgekey.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mon.byteoversea.com",
       "action": {
         "do": 0,

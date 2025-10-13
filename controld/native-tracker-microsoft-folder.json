@@ -2339,13 +2339,6 @@
       }
     },
     {
-      "PK": "rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "redir.metaservices.microsoft.com",
       "action": {
         "do": 0,

@@ -15,6 +15,13 @@
       }
     },
     {
+      "PK": "a-fds.youborafds01.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ast.bild.de.greylabeldelivery.com",
       "action": {
         "do": 1,
@@ -163,6 +170,13 @@
     },
     {
       "PK": "www.asadcdn.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "youboranqs01.com",
       "action": {
         "do": 1,
         "status": 1
