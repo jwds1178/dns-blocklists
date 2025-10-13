@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Oct 2025 23:06 UTC
-# Version: 2025.1011.2306.36
+# Last modified: 13 Oct 2025 10:30 UTC
+# Version: 2025.1013.1030.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 7755
+# Number of entries: 7756
 #
 *.0.gp
 *.00m.in
@@ -618,6 +618,7 @@
 *.angl.at
 *.anh.to
 *.anizam.ru
+*.anlink.eu
 *.annah.ar
 *.anon.to
 *.anp.su

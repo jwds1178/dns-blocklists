@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Oct 2025 23:40 UTC
-# Version: 2025.1012.2340.34
+# Last modified: 13 Oct 2025 11:39 UTC
+# Version: 2025.1013.1139.18
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 11254
 #
@@ -498,7 +498,6 @@ local=/aiw.bz/
 local=/retracker.akado-ural.ru/
 local=/akiba-online.com/
 local=/aklivetv.com/
-local=/t.al.uy/
 local=/alabout.com/
 local=/tracker.alaskantf.com/
 local=/aletorrenty.pl/
@@ -2365,7 +2364,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -2509,6 +2507,7 @@ local=/demonoid.ph/
 local=/demonoid.pw/
 local=/inferno.demonoid.me/
 local=/open.demonoid.ch/
+local=/open-tracker.demonoid.ch/
 local=/open-v6.demonoid.ch/
 local=/public.demonoid.ch/
 local=/demons-eye.me/
@@ -10909,6 +10908,7 @@ local=/xmovies8.ru/
 local=/xmovies8.si/
 local=/xn--80a4b.com/
 local=/xn--950bz4kqroyzjblb.com/
+local=/tracker.xn--djrq4gl4hvoi.top/
 local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/

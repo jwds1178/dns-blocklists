@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760269620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760355960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Oct 2025 11:47 UTC
-; Version: 2025.1012.1147.02
+; Last modified: 13 Oct 2025 11:46 UTC
+; Version: 2025.1013.1146.16
 ; Syntax: RPZ
-; Number of entries: 18358
+; Number of entries: 18394
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2541,6 +2541,8 @@ dns.indybanipal.com CNAME .
 *.dns.indybanipal.com CNAME .
 dns.inforlogia.com CNAME .
 *.dns.inforlogia.com CNAME .
+doh.infotechlibrary.com CNAME .
+*.doh.infotechlibrary.com CNAME .
 infvpn.com CNAME .
 *.infvpn.com CNAME .
 apidns.kwd.inkuai.com CNAME .
@@ -4093,6 +4095,8 @@ eu3-browse.startpage.com CNAME .
 *.25b9229d12fa07fb5eeecb6a70657ad5dde46059-m.proxy1.startpage.com CNAME .
 25bc6f43b2adff95898948a6ecfe9a746588acc7-m.proxy1.startpage.com CNAME .
 *.25bc6f43b2adff95898948a6ecfe9a746588acc7-m.proxy1.startpage.com CNAME .
+25db710a63a065299e2382a7443b450b1d5370bf-m.proxy1.startpage.com CNAME .
+*.25db710a63a065299e2382a7443b450b1d5370bf-m.proxy1.startpage.com CNAME .
 2649771394fecbcd5a6352ebcc78ecec3616d8bc-m.proxy1.startpage.com CNAME .
 *.2649771394fecbcd5a6352ebcc78ecec3616d8bc-m.proxy1.startpage.com CNAME .
 26ccc12c48c07af76a32a2f8df24a145d9efa135-m.proxy1.startpage.com CNAME .
@@ -4617,6 +4621,8 @@ eu3-browse.startpage.com CNAME .
 *.82b8f10e769249cc969163711a8786a03b773170-m.proxy1.startpage.com CNAME .
 82ceb6d2abb7cd5a9e994a408a58e10e5a089966-m.proxy1.startpage.com CNAME .
 *.82ceb6d2abb7cd5a9e994a408a58e10e5a089966-m.proxy1.startpage.com CNAME .
+8353f4893283ebb14866fe37dc0dc167038ce852-m.proxy1.startpage.com CNAME .
+*.8353f4893283ebb14866fe37dc0dc167038ce852-m.proxy1.startpage.com CNAME .
 836d23efc4e0f0a5464a27814273e41b2b0a2b54-m.proxy1.startpage.com CNAME .
 *.836d23efc4e0f0a5464a27814273e41b2b0a2b54-m.proxy1.startpage.com CNAME .
 83b7c112f03ecdc501028bd11119f0f8b19c0663-m.proxy1.startpage.com CNAME .
@@ -4851,6 +4857,8 @@ ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com CNAME .
 *.ad2ed0ddc06f735af5974ed724d20899cb751014-m.proxy1.startpage.com CNAME .
 ad51be421ffc9902dc6b99122eac04b7882a944c-m.proxy1.startpage.com CNAME .
 *.ad51be421ffc9902dc6b99122eac04b7882a944c-m.proxy1.startpage.com CNAME .
+ade9807a5767aac8ef74e9bb4acf343759e031aa-m.proxy1.startpage.com CNAME .
+*.ade9807a5767aac8ef74e9bb4acf343759e031aa-m.proxy1.startpage.com CNAME .
 aded5ebf436c53db2a10094d66f5c233d64b4065-m.proxy1.startpage.com CNAME .
 *.aded5ebf436c53db2a10094d66f5c233d64b4065-m.proxy1.startpage.com CNAME .
 ae285000ab20a9d96fb8984fb60456c8d26a0b3f-m.proxy1.startpage.com CNAME .
@@ -5141,6 +5149,8 @@ d867242d16cb10acc073242a12f0b1720914016e-m.proxy1.startpage.com CNAME .
 *.d867242d16cb10acc073242a12f0b1720914016e-m.proxy1.startpage.com CNAME .
 d890a55ceeb9de6c52be430f665c872090158284-m.proxy1.startpage.com CNAME .
 *.d890a55ceeb9de6c52be430f665c872090158284-m.proxy1.startpage.com CNAME .
+d8a84caa6ceff62fc55ca7bce132a922fb81c28a-m.proxy1.startpage.com CNAME .
+*.d8a84caa6ceff62fc55ca7bce132a922fb81c28a-m.proxy1.startpage.com CNAME .
 d8ba58564bef3a021fe82753175ffd430308d292-m.proxy1.startpage.com CNAME .
 *.d8ba58564bef3a021fe82753175ffd430308d292-m.proxy1.startpage.com CNAME .
 d96e7b9262e4c8d0757dd070cf126dbb5c5f9942-m.proxy1.startpage.com CNAME .
@@ -5345,6 +5355,8 @@ fe6fe09ab1ab5e18aeaf4e949a8f05f9506f71b2-m.proxy1.startpage.com CNAME .
 *.fe6fe09ab1ab5e18aeaf4e949a8f05f9506f71b2-m.proxy1.startpage.com CNAME .
 feb87e936dc476f42c3ca57899cc453c1779a3c4-m.proxy1.startpage.com CNAME .
 *.feb87e936dc476f42c3ca57899cc453c1779a3c4-m.proxy1.startpage.com CNAME .
+fee288277d9152b4bea9c5d3d10e0dd3edaca93c-m.proxy1.startpage.com CNAME .
+*.fee288277d9152b4bea9c5d3d10e0dd3edaca93c-m.proxy1.startpage.com CNAME .
 fffd6efc4cd466b5cf2e1e1a6d5ca77615c68ec0-m.proxy1.startpage.com CNAME .
 *.fffd6efc4cd466b5cf2e1e1a6d5ca77615c68ec0-m.proxy1.startpage.com CNAME .
 session.proxy1.startpage.com CNAME .
@@ -11253,6 +11265,8 @@ pihole.aws.ketan.dev CNAME .
 *.pihole.aws.ketan.dev CNAME .
 adg.khon.dev CNAME .
 *.adg.khon.dev CNAME .
+dns.kobo.dev CNAME .
+*.dns.kobo.dev CNAME .
 korzhov.dev CNAME .
 *.korzhov.dev CNAME .
 dns.kpsn.dev CNAME .
@@ -12323,6 +12337,8 @@ iweb365.info CNAME .
 *.iweb365.info CNAME .
 doh.kekew.info CNAME .
 *.doh.kekew.info CNAME .
+doh3.kekew.info CNAME .
+*.doh3.kekew.info CNAME .
 kilabit.info CNAME .
 *.kilabit.info CNAME .
 lorc17-dns.komeho.info CNAME .
@@ -12891,8 +12907,6 @@ onion.link CNAME .
 *.onion.link CNAME .
 dns.pmxu.link CNAME .
 *.dns.pmxu.link CNAME .
-nephos.rocksolidtech.link CNAME .
-*.nephos.rocksolidtech.link CNAME .
 vpn.rynet.link CNAME .
 *.vpn.rynet.link CNAME .
 adguard.ihatemy.live CNAME .
@@ -13373,6 +13387,8 @@ dns.vaguthu.mv CNAME .
 *.dns.vaguthu.mv CNAME .
 adg.spacework.com.mx CNAME .
 *.adg.spacework.com.mx CNAME .
+adblocker.institutobancario.edu.mx CNAME .
+*.adblocker.institutobancario.edu.mx CNAME .
 www-p.reaper.mx CNAME .
 *.www-p.reaper.mx CNAME .
 aden.my CNAME .
@@ -14179,6 +14195,8 @@ dns.karfamily.net CNAME .
 *.dns.karfamily.net CNAME .
 adguard.kasbot.net CNAME .
 *.adguard.kasbot.net CNAME .
+guard.keiper.net CNAME .
+*.guard.keiper.net CNAME .
 knvpn.net CNAME .
 *.knvpn.net CNAME .
 kryptovpn.kryptotel.net CNAME .
@@ -15389,6 +15407,8 @@ unixfox.duckdns.org CNAME .
 *.unixfox.duckdns.org CNAME .
 vpich.duckdns.org CNAME .
 *.vpich.duckdns.org CNAME .
+wired-guardian.duckdns.org CNAME .
+*.wired-guardian.duckdns.org CNAME .
 wisehomeguard.duckdns.org CNAME .
 *.wisehomeguard.duckdns.org CNAME .
 workcavestl.duckdns.org CNAME .
@@ -16029,6 +16049,8 @@ dns.pierzchlewicz.pl CNAME .
 *.dns.pierzchlewicz.pl CNAME .
 ad.r60.pl CNAME .
 *.ad.r60.pl CNAME .
+ag.sageton.pl CNAME .
+*.ag.sageton.pl CNAME .
 dns.skrzypiec.pl CNAME .
 *.dns.skrzypiec.pl CNAME .
 szyrzyk.pl CNAME .
@@ -16513,6 +16535,8 @@ bigbugpoppearblack.super-modding.quest CNAME .
 *.bigbugpoppearblack.super-modding.quest CNAME .
 kadowaki.super-modding.quest CNAME .
 *.kadowaki.super-modding.quest CNAME .
+doh.kekew.racing CNAME .
+*.doh.kekew.racing CNAME .
 unblocked.racing CNAME .
 *.unblocked.racing CNAME .
 d4.re CNAME .
@@ -16555,6 +16579,10 @@ addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 gg.nordparrot.ro CNAME .
 *.gg.nordparrot.ro CNAME .
+dns1.slowb.ro CNAME .
+*.dns1.slowb.ro CNAME .
+dns2.slowb.ro CNAME .
+*.dns2.slowb.ro CNAME .
 anothaone.softify-link.ro CNAME .
 *.anothaone.softify-link.ro CNAME .
 vik.ro CNAME .
@@ -17135,6 +17163,8 @@ sers.lirlab.su CNAME .
 *.sers.lirlab.su CNAME .
 nl.dns.shx.su CNAME .
 *.nl.dns.shx.su CNAME .
+smartcamp.su CNAME .
+*.smartcamp.su CNAME .
 proxy.srs.su CNAME .
 *.proxy.srs.su CNAME .
 ztv.su CNAME .
@@ -17163,6 +17193,8 @@ dns.everdns.tech CNAME .
 *.dns.everdns.tech CNAME .
 f0lga.tech CNAME .
 *.f0lga.tech CNAME .
+makatla.tech CNAME .
+*.makatla.tech CNAME .
 mathlearning.tech CNAME .
 *.mathlearning.tech CNAME .
 mehmetarikan.tech CNAME .
@@ -17385,6 +17417,8 @@ test.businessconnect.com.tr CNAME .
 *.test.businessconnect.com.tr CNAME .
 dns.damlayayinevi.com.tr CNAME .
 *.dns.damlayayinevi.com.tr CNAME .
+adguard.doranpierst.com.tr CNAME .
+*.adguard.doranpierst.com.tr CNAME .
 dns.polatarasan.com.tr CNAME .
 *.dns.polatarasan.com.tr CNAME .
 dns-three.lins.co.tt CNAME .
@@ -18091,6 +18125,8 @@ aluu.xyz CNAME .
 *.aluu.xyz CNAME .
 andrewnw.xyz CNAME .
 *.andrewnw.xyz CNAME .
+atsssgo.xyz CNAME .
+*.atsssgo.xyz CNAME .
 filter.badbotdev.xyz CNAME .
 *.filter.badbotdev.xyz CNAME .
 safe-guard.badbotdev.xyz CNAME .

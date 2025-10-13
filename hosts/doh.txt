@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 11:49 UTC
-# Version: 2025.1010.1149.56
+# Last modified: 13 Oct 2025 11:45 UTC
+# Version: 2025.1013.1145.50
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3899
+# Number of entries: 3913
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -377,6 +377,7 @@
 0.0.0.0 atris.cyou
 0.0.0.0 atsilva.link
 0.0.0.0 dns.atsilva.link
+0.0.0.0 atsssgo.xyz
 0.0.0.0 dohtrial.att.net
 0.0.0.0 dns.audet.cloud
 0.0.0.0 dns.auffray.org
@@ -778,6 +779,7 @@
 0.0.0.0 dns.cloud88.com.au
 0.0.0.0 dns.complianceauditores.com.br
 0.0.0.0 dns.damlayayinevi.com.tr
+0.0.0.0 adguard.doranpierst.com.tr
 0.0.0.0 adguard.gbrossi.com.br
 0.0.0.0 dns2.gregoret.com.ar
 0.0.0.0 blackhole.gugainfo.com.br
@@ -1232,6 +1234,7 @@
 0.0.0.0 hard.dnsforge.de
 0.0.0.0 www.dnsforge.de
 0.0.0.0 dnsguard.pub
+0.0.0.0 dns.dnsguard.pub
 0.0.0.0 dns.dnshome.de
 0.0.0.0 doh.dnslify.com
 0.0.0.0 a.ns.dnslify.com
@@ -1377,6 +1380,7 @@
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
 0.0.0.0 vpich.duckdns.org
+0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
 0.0.0.0 x-o-x.duckdns.org
@@ -1417,6 +1421,7 @@
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.edgeworkssystems.ca
 0.0.0.0 agh.amber.edu.vn
+0.0.0.0 adblocker.institutobancario.edu.mx
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
 0.0.0.0 dns.efficientdocuments.com
@@ -1998,6 +2003,7 @@
 0.0.0.0 dns.indraarsana.site
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
+0.0.0.0 doh.infotechlibrary.com
 0.0.0.0 doh.infracell.net
 0.0.0.0 adguard.infrapod.nl
 0.0.0.0 adguard01.infrapod.nl
@@ -2158,7 +2164,10 @@
 0.0.0.0 dns.kcolspacrm.ir
 0.0.0.0 dns.kebree.fr
 0.0.0.0 dns2.keinewerbung.me
+0.0.0.0 guard.keiper.net
 0.0.0.0 doh.kekew.info
+0.0.0.0 doh.kekew.racing
+0.0.0.0 doh3.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 kellerbier-home.com
 0.0.0.0 dns.kellys.pw
@@ -2196,6 +2205,7 @@
 0.0.0.0 knight1.de
 0.0.0.0 dns.knyfie.com
 0.0.0.0 ko-18948-tr.xyz
+0.0.0.0 dns.kobo.dev
 0.0.0.0 kocapb.ru
 0.0.0.0 doh.koduarve.ee
 0.0.0.0 kokesh.se
@@ -2361,6 +2371,7 @@
 0.0.0.0 mailkyb.co
 0.0.0.0 maincloud.ir
 0.0.0.0 dns.maitrekuc.fr
+0.0.0.0 makatla.tech
 0.0.0.0 malanser.ru
 0.0.0.0 dns.malanser.ru
 0.0.0.0 dns.malhuda.com
@@ -3160,7 +3171,6 @@
 0.0.0.0 saya.rnrkurir.com
 0.0.0.0 adguard.ro0t.us
 0.0.0.0 1.rock-review.ru
-0.0.0.0 nephos.rocksolidtech.link
 0.0.0.0 rockwell.website
 0.0.0.0 dns.roedel.cloud
 0.0.0.0 dns.rogpurs.com
@@ -3200,6 +3210,7 @@
 0.0.0.0 safeservedns.com
 0.0.0.0 doh.safesurfer.io
 0.0.0.0 dns.safko.eu
+0.0.0.0 ag.sageton.pl
 0.0.0.0 dns.sainternet.xyz
 0.0.0.0 safe.dns.sainternet.xyz
 0.0.0.0 unfiltered.dns.sainternet.xyz
@@ -3324,7 +3335,10 @@
 0.0.0.0 dns.sledge.cc
 0.0.0.0 homeguard.sleziona.org
 0.0.0.0 dns.slinkyman.net
+0.0.0.0 dns1.slowb.ro
+0.0.0.0 dns2.slowb.ro
 0.0.0.0 001.smallnode.net
+0.0.0.0 smartcamp.su
 0.0.0.0 dns.smartguard.io
 0.0.0.0 singy.smartq.dev
 0.0.0.0 smirnovfamily.ru

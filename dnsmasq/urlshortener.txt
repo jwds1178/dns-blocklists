@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Oct 2025 23:06 UTC
-# Version: 2025.1011.2306.36
+# Last modified: 13 Oct 2025 10:30 UTC
+# Version: 2025.1013.1030.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7755
+# Number of entries: 7756
 #
 local=/0.gp/
 local=/00m.in/
@@ -618,6 +618,7 @@ local=/aneed.net/
 local=/angl.at/
 local=/anh.to/
 local=/anizam.ru/
+local=/anlink.eu/
 local=/annah.ar/
 local=/anon.to/
 local=/anp.su/

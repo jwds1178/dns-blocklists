@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Oct 2025 10:14 UTC
-# Version: 2025.1011.1014.09
+# Last modified: 13 Oct 2025 10:15 UTC
+# Version: 2025.1013.1015.27
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2449
+# Number of entries: 2451
 #
 l.1mp.ru
 t.1und1.de
@@ -196,6 +196,7 @@ seu1.cleverreach.com
 46283.seu1.cleverreach.com
 47345.seu1.cleverreach.com
 49087.seu1.cleverreach.com
+49850.seu1.cleverreach.com
 52439.seu1.cleverreach.com
 54245.seu1.cleverreach.com
 57361.seu1.cleverreach.com
@@ -491,6 +492,7 @@ casale-match.dotomi.com
 cj.dotomi.com
 cpe.dotomi.com
 ad.cpe.dotomi.com
+bigo-us-west.ad.cpe.dotomi.com
 direct.ad.cpe.dotomi.com
 event.ad.cpe.dotomi.com
 hb.ad.cpe.dotomi.com

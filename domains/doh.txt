@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 11:49 UTC
-# Version: 2025.1010.1149.56
+# Last modified: 13 Oct 2025 11:45 UTC
+# Version: 2025.1013.1145.50
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3899
+# Number of entries: 3913
 #
 ss.0001.xyz
 003153.xyz
@@ -377,6 +377,7 @@ vps.atomix.in
 atris.cyou
 atsilva.link
 dns.atsilva.link
+atsssgo.xyz
 dohtrial.att.net
 dns.audet.cloud
 dns.auffray.org
@@ -778,6 +779,7 @@ dns.ceai.com.tw
 dns.cloud88.com.au
 dns.complianceauditores.com.br
 dns.damlayayinevi.com.tr
+adguard.doranpierst.com.tr
 adguard.gbrossi.com.br
 dns2.gregoret.com.ar
 blackhole.gugainfo.com.br
@@ -1232,6 +1234,7 @@ clean.dnsforge.de
 hard.dnsforge.de
 www.dnsforge.de
 dnsguard.pub
+dns.dnsguard.pub
 dns.dnshome.de
 doh.dnslify.com
 a.ns.dnslify.com
@@ -1377,6 +1380,7 @@ tuandns.duckdns.org
 tungdnsne.duckdns.org
 unixfox.duckdns.org
 vpich.duckdns.org
+wired-guardian.duckdns.org
 wisehomeguard.duckdns.org
 workcavestl.duckdns.org
 x-o-x.duckdns.org
@@ -1417,6 +1421,7 @@ doh.eddi.net
 dns.edgeburnmedia.com
 dns.edgeworkssystems.ca
 agh.amber.edu.vn
+adblocker.institutobancario.edu.mx
 dns.tuna.tsinghua.edu.cn
 adguard.ef67daisuki.club
 dns.efficientdocuments.com
@@ -1998,6 +2003,7 @@ adblock.indianets.net
 dns.indraarsana.site
 dns.indybanipal.com
 dns.inforlogia.com
+doh.infotechlibrary.com
 doh.infracell.net
 adguard.infrapod.nl
 adguard01.infrapod.nl
@@ -2158,7 +2164,10 @@ kcolspacrm.ir
 dns.kcolspacrm.ir
 dns.kebree.fr
 dns2.keinewerbung.me
+guard.keiper.net
 doh.kekew.info
+doh.kekew.racing
+doh3.kekew.info
 doh.kel.pe
 kellerbier-home.com
 dns.kellys.pw
@@ -2196,6 +2205,7 @@ adguard.kngnet.de
 knight1.de
 dns.knyfie.com
 ko-18948-tr.xyz
+dns.kobo.dev
 kocapb.ru
 doh.koduarve.ee
 kokesh.se
@@ -2361,6 +2371,7 @@ dnsserver.mailchan.eu
 mailkyb.co
 maincloud.ir
 dns.maitrekuc.fr
+makatla.tech
 malanser.ru
 dns.malanser.ru
 dns.malhuda.com
@@ -3160,7 +3171,6 @@ sudo.rm-rf.cloud
 saya.rnrkurir.com
 adguard.ro0t.us
 1.rock-review.ru
-nephos.rocksolidtech.link
 rockwell.website
 dns.roedel.cloud
 dns.rogpurs.com
@@ -3200,6 +3210,7 @@ dns2.saferbfc.org
 safeservedns.com
 doh.safesurfer.io
 dns.safko.eu
+ag.sageton.pl
 dns.sainternet.xyz
 safe.dns.sainternet.xyz
 unfiltered.dns.sainternet.xyz
@@ -3324,7 +3335,10 @@ skydragoness.com
 dns.sledge.cc
 homeguard.sleziona.org
 dns.slinkyman.net
+dns1.slowb.ro
+dns2.slowb.ro
 001.smallnode.net
+smartcamp.su
 dns.smartguard.io
 singy.smartq.dev
 smirnovfamily.ru

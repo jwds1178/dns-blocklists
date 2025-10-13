@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 11:49 UTC
-# Version: 2025.1010.1149.56
+# Last modified: 13 Oct 2025 11:45 UTC
+# Version: 2025.1013.1145.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3420
+# Number of entries: 3433
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -312,6 +312,7 @@ local=/next.atomix.in/
 local=/vps.atomix.in/
 local=/atris.cyou/
 local=/atsilva.link/
+local=/atsssgo.xyz/
 local=/dohtrial.att.net/
 local=/dns.audet.cloud/
 local=/dns.auffray.org/
@@ -657,6 +658,7 @@ local=/dns.ceai.com.tw/
 local=/dns.cloud88.com.au/
 local=/dns.complianceauditores.com.br/
 local=/dns.damlayayinevi.com.tr/
+local=/adguard.doranpierst.com.tr/
 local=/adguard.gbrossi.com.br/
 local=/dns2.gregoret.com.ar/
 local=/blackhole.gugainfo.com.br/
@@ -1154,6 +1156,7 @@ local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/unixfox.duckdns.org/
 local=/vpich.duckdns.org/
+local=/wired-guardian.duckdns.org/
 local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
 local=/x-o-x.duckdns.org/
@@ -1193,6 +1196,7 @@ local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.edgeworkssystems.ca/
 local=/agh.amber.edu.vn/
+local=/adblocker.institutobancario.edu.mx/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
 local=/dns.efficientdocuments.com/
@@ -1692,6 +1696,7 @@ local=/adblock.indianets.net/
 local=/dns.indraarsana.site/
 local=/dns.indybanipal.com/
 local=/dns.inforlogia.com/
+local=/doh.infotechlibrary.com/
 local=/doh.infracell.net/
 local=/adguard.infrapod.nl/
 local=/adguard01.infrapod.nl/
@@ -1843,7 +1848,10 @@ local=/dns.kc2wbx.com/
 local=/kcolspacrm.ir/
 local=/dns.kebree.fr/
 local=/dns2.keinewerbung.me/
+local=/guard.keiper.net/
 local=/doh.kekew.info/
+local=/doh.kekew.racing/
+local=/doh3.kekew.info/
 local=/doh.kel.pe/
 local=/kellerbier-home.com/
 local=/dns.kellys.pw/
@@ -1878,6 +1886,7 @@ local=/adguard.kngnet.de/
 local=/knight1.de/
 local=/dns.knyfie.com/
 local=/ko-18948-tr.xyz/
+local=/dns.kobo.dev/
 local=/kocapb.ru/
 local=/doh.koduarve.ee/
 local=/kokesh.se/
@@ -2038,6 +2047,7 @@ local=/dnsserver.mailchan.eu/
 local=/mailkyb.co/
 local=/maincloud.ir/
 local=/dns.maitrekuc.fr/
+local=/makatla.tech/
 local=/malanser.ru/
 local=/dns.malhuda.com/
 local=/dns.mandre.dev/
@@ -2748,7 +2758,6 @@ local=/sudo.rm-rf.cloud/
 local=/saya.rnrkurir.com/
 local=/adguard.ro0t.us/
 local=/1.rock-review.ru/
-local=/nephos.rocksolidtech.link/
 local=/rockwell.website/
 local=/dns.roedel.cloud/
 local=/dns.rogpurs.com/
@@ -2788,6 +2797,7 @@ local=/dns2.saferbfc.org/
 local=/safeservedns.com/
 local=/doh.safesurfer.io/
 local=/dns.safko.eu/
+local=/ag.sageton.pl/
 local=/dns.sainternet.xyz/
 local=/vpn.sakhwow.ru/
 local=/lime.samonte.ovh/
@@ -2906,7 +2916,10 @@ local=/skydragoness.com/
 local=/dns.sledge.cc/
 local=/homeguard.sleziona.org/
 local=/dns.slinkyman.net/
+local=/dns1.slowb.ro/
+local=/dns2.slowb.ro/
 local=/001.smallnode.net/
+local=/smartcamp.su/
 local=/dns.smartguard.io/
 local=/singy.smartq.dev/
 local=/smirnovfamily.ru/
