@@ -5145,6 +5145,13 @@
       }
     },
     {
+      "PK": "reurl.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.review",
       "action": {
         "do": 0,

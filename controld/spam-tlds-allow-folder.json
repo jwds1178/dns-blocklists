@@ -3697,6 +3697,13 @@
       }
     },
     {
+      "PK": "reurl.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "ripped.guide",
       "action": {
         "do": 1,

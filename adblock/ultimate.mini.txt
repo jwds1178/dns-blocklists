@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Oct 2025 23:33 UTC
-! Version: 2025.1013.2333.28
+! Last modified: 14 Oct 2025 04:48 UTC
+! Version: 2025.1014.0448.29
 ! Syntax: AdBlock
-! Number of entries: 74581
+! Number of entries: 74600
 !
 ||0.beer^
 ||0.org^
@@ -6133,6 +6133,7 @@
 ||js.aiservice.vn^
 ||nspapi.aiservice.vn^
 ||rec.aiservice.vn^
+||aishiguolong.com^
 ||aisiteanalytics.com^
 ||aisletowelreasoning.com^
 ||static.banner.aismo.ru^
@@ -8525,6 +8526,7 @@
 ||app-zjf-whatsappcc.com^
 ||app-zxp-whatsappcc.com^
 ||app-zxp-whatshktw.com^
+||app1e.biz^
 ||app1e.top^
 ||app1ecdn.com^
 ||app24hs.top^
@@ -13135,6 +13137,7 @@
 ||boopin.com^
 ||boopoaglauph.net^
 ||boorantech.com^
+||boorza.com^
 ||caveo.boost-my.com^
 ||filter.boostadtraffic.com^
 ||stats.boostandsales.com^
@@ -13950,6 +13953,7 @@
 ||burgzldelivery.shop^
 ||burhelbiffed.click^
 ||burialhotter.com^
+||burialinsurancehelp.com^
 ||burkhakalekah.com^
 ||burleskspoiler.com^
 ||burnbubble.com^
@@ -14850,7 +14854,6 @@
 ||cdn.carrotquest.app^
 ||cdn.carrotquest.io^
 ||carroutlet.fr^
-||carrster.com^
 ||carryqcopper.sbs^
 ||tkvxdj.cars.com^
 ||widgets.carsaver.com^
@@ -15488,6 +15491,7 @@
 ||cephei-b.com^
 ||cepoqez.com^
 ||cerebro.services^
+||ceresmosic.com^
 ||cerineas.com^
 ||ceriomycessyst.info^
 ||webanalytics.web.cern.ch^
@@ -17227,6 +17231,7 @@
 ||cnvlink.com^
 ||cnvr.net^
 ||cnwhzh.cyou^
+||cnwucnf.top^
 ||cnzz.cn^
 ||cnzz.com^
 ||cnzz.net^
@@ -20611,7 +20616,6 @@
 ||dadalytics.it^
 ||suggestions.dadata.ru^
 ||dadcc.cn^
-||daddycas135.com^
 ||daddywinsk.com^
 ||track.daduola.com^
 ||sentry.daebak.media^
@@ -20984,7 +20988,7 @@
 ||dativa.com^
 ||datlnglifes.net^
 ||datlngllfe.net^
-||llkbxe.datlngplace.com^
+||datlngplace.com^
 ||datma.io^
 ||trk.datnova.com^
 ||datonics.com^
@@ -26044,6 +26048,7 @@
 ||stnt.express-scripts.com^
 ||expressaffiliatesite.com^
 ||expressdelivery.work^
+||expressdeliverycompany.org^
 ||addy.expressen.se^
 ||jtp.expressen.se^
 ||tracking.expressen.se^
@@ -26474,6 +26479,7 @@
 ||jzvln.famousfootwear.com^
 ||smetrics.famousfootwear.com^
 ||fampeshail.net^
+||fanatics.bet^
 ||data.a.fanatics.com^
 ||track.fanaticsbettingpartners.com^
 ||data.a.fanaticscommerce.com^
@@ -26893,6 +26899,7 @@
 ||fertihjkert.com^
 ||fertilab.net^
 ||fervortracer.com^
+||fes5.com^
 ||fesoku.net^
 ||fesportal.com^
 ||fesscala.bond^
@@ -27901,6 +27908,7 @@
 ||afhjxb.flaconi.de^
 ||startrekk.flaconi.de^
 ||flagcounter.com^
+||flaght.com^
 ||flagmancasino36.com^
 ||flagmancasino44.com^
 ||flagmancasino46.com^
@@ -30246,6 +30254,7 @@
 ||ggo10121lq.com^
 ||ggo10130lq.com^
 ||ggo10131lq.com^
+||ggo10140lq.com^
 ||ggpht.cn^
 ||geo1.ggpht.com^
 ||geo2.ggpht.com^
@@ -30716,6 +30725,7 @@
 ||gml-grp.com^
 ||matomo.gmm.support^
 ||gmmadvogados.com^
+||gmmwork.com^
 ||plausible.gmmz.dev^
 ||gmnix.top^
 ||gmnm.pro^
@@ -36019,6 +36029,7 @@
 ||investments.com^
 ||investmentwatchblog.com^
 ||investor-vangrad.vip^
+||investorclubgurugram.com^
 ||engagement.investordelivery.com^
 ||sstats.investors.com^
 ||investors-vangruad.vip^
@@ -37926,6 +37937,7 @@
 ||keap-link015.com^
 ||keap-link016.com^
 ||keap-link020.com^
+||keassbohrer.com^
 ||kecahux.sbs^
 ||kedasensiblemother.org^
 ||track.kee2.com^
@@ -38448,7 +38460,6 @@
 ||dpi.networkorder.komect.com^
 ||analytics.kometa.wiki^
 ||kometa28892.com^
-||kometadj38.site^
 ||kometawis.space^
 ||kometjeos289.space^
 ||analytics.komiku.org^
@@ -38504,6 +38515,7 @@
 ||korku.tv^
 ||umami.koro.software^
 ||gtm.korodrogerie.de^
+||koromias.com^
 ||telemetry.koronapay.com^
 ||korporatefina.info^
 ||korqjfemimlbxf.com^
@@ -42446,6 +42458,7 @@
 ||megabrain.co^
 ||megacool.co^
 ||megadeliveryn.com^
+||megaflirt.life^
 ||counter.megagroup.ru^
 ||counter.megaindex.ru^
 ||megalith-games.com^
@@ -42605,7 +42618,6 @@
 ||cp.menshealth.com^
 ||td.menshealth.com^
 ||www-sst.menshealth.com^
-||menslifexxl.site^
 ||analytics.menswearhouse.com^
 ||countly.mentalup.net^
 ||mentavision.cyou^
@@ -43583,7 +43595,6 @@
 ||mobile-bns.icu^
 ||mobile-clean.top^
 ||mobile-dmi.vip^
-||mobile-download-b-app.com^
 ||mobile-download-f-app.com^
 ||mobile-download-h-app.com^
 ||mobile-dwa.vip^
@@ -43758,6 +43769,7 @@
 ||mocoplex.com^
 ||mocreo.com^
 ||mocrosoftonline.com^
+||modafinil-blog.com^
 ||log.modapkyolo.com^
 ||tracker.modarchive.org^
 ||modeanalytics.com^
@@ -44830,6 +44842,7 @@
 ||myhard.com^
 ||logging.dhg.myharmony.com^
 ||myhayo.com^
+||myhealthmeds.com^
 ||smetrics.myhealthtoolkit.com^
 ||images.myhealthyfinances.com^
 ||analytics.myhermes.de^
@@ -45496,6 +45509,7 @@
 ||nbet.com^
 ||nbimehsndxebs.store^
 ||nbly.co^
+||im.nbpublic.com^
 ||nbryb.com^
 ||nbrymmwqeq.com^
 ||nbuipljbiahdp.website^
@@ -51130,7 +51144,6 @@
 ||pl-kategoria9148929.cfd^
 ||pl-kategoria918482.cfd^
 ||pl-kategoria9184892.icu^
-||pl-kategoria9288492.icu^
 ||pl-kategoria9289285.cfd^
 ||pl-kategorie7451925875713259.cfd^
 ||pl-kategorie8481250972849.cfd^
@@ -51969,6 +51982,7 @@
 ||portocol.team^
 ||portocol.world^
 ||telemetry.portswigger.net^
+||portugalrealestateforsale.com^
 ||portwayvsf.info^
 ||posajnddaq0.vip^
 ||posf.xyz^
@@ -52385,6 +52399,7 @@
 ||priorkt.com^
 ||prios-mrelay.com^
 ||ak-ads-ns.prisasd.com^
+||prise.cloud^
 ||prisesdemode.com^
 ||proxyhog.prisma-data.net^
 ||prismaconnect.fr^
@@ -53388,6 +53403,7 @@
 ||qeryz.com^
 ||qesomao3.com^
 ||qetxa.top^
+||qewylqmelbwbo.top^
 ||qezamea7.com^
 ||qfeazbcjxoaxz.website^
 ||qfeoczxr.com^
@@ -55436,6 +55452,7 @@
 ||data-45798f2697.rheinpfalz.de^
 ||tracking.rhenusitalia.it^
 ||rhetoricalloss.com^
+||rhgyg.com^
 ||analytics.rhino3d.com^
 ||rhinoaffiliates.com^
 ||rhizomapatrick.rest^
@@ -55936,6 +55953,7 @@
 ||rotatein.com^
 ||analytics.rothys.com^
 ||rotimia.com^
+||rotocols.com^
 ||roudoduor.com^
 ||rougefictionnoose.com^
 ||rougemaims.cfd^
@@ -58329,6 +58347,7 @@
 ||creative.shemale.show^
 ||shemedia.com^
 ||shempaurdou.net^
+||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shengheimin.com^
@@ -62056,6 +62075,7 @@
 ||suzitee.com^
 ||suzuki-gyosei-office.com^
 ||sv2.biz^
+||sv66.run^
 ||matomo.sva.de^
 ||svbank.com^
 ||svcenter.xyz^
@@ -63852,6 +63872,7 @@
 ||thesaurusx.com^
 ||analytics-tracker.thescore.com^
 ||thescv.team^
+||thesearchs.com^
 ||theseoffersforyou.com^
 ||theseushymn.help^
 ||thesiliconreview.com^
@@ -64475,6 +64496,7 @@
 ||tjwsg.com^
 ||sst.tjmaxx.tjx.com^
 ||swa.tjmaxx.tjx.com^
+||tjzuh.com^
 ||crashreporter.tk.de^
 ||tk-dietechniker.com^
 ||tk-globeshopping10.top^
@@ -68042,7 +68064,6 @@
 ||vavada832kl.com^
 ||vavadageek.com^
 ||vavadagkx.com^
-||vavadagso.site^
 ||vavadapsg.com^
 ||vavadasgk.site^
 ||vavecasino365.fr^
@@ -68058,6 +68079,7 @@
 ||vbegi.shop^
 ||vbetua1.com^
 ||vbn453yh453ty4j534h.top^
+||vboots.com^
 ||vboro.de^
 ||tracking.vbr.ru^
 ||vbtpkdvezdeoo.site^
@@ -72529,7 +72551,6 @@
 ||experimentation.xogrp.com^
 ||geo-api.xogrp.com^
 ||xoiiasdpsdoasdpojas.com^
-||xoilaczzzaz.tv^
 ||t.xoom.com^
 ||xoom-ads.com^
 ||ga4.xopboo.com^
@@ -73563,7 +73584,6 @@
 ||yuga.ru^
 ||yugbveou.top^
 ||yugukj.com^
-||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^
@@ -73905,7 +73925,6 @@
 ||swebmetrics.zebra.com^
 ||gtm.zebracat.ai^
 ||zeburrocrouke.rest^
-||zece100.ro^
 ||zecsriilqkdei.site^
 ||m.zedcdn.me^
 ||zeddit.com^

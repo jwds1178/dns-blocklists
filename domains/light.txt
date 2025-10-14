@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 23:15 UTC
-# Version: 2025.1013.2315.04
+# Last modified: 14 Oct 2025 04:29 UTC
+# Version: 2025.1014.0429.56
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 83275
+# Number of entries: 83315
 #
 umami.000315.xyz
 00055edc1917.com
@@ -532,6 +532,7 @@ analytics.1clickvpn.com
 1dcbb401920b.top
 1dmp.io
 sync.1dmp.io
+1drv.zone
 1e6af9be69cbae59cba.tech
 1e92c138b1011.beer
 1ea0e79501011.beer
@@ -5342,6 +5343,7 @@ image-eu-na-ctnytbefjq.4shares.live
 4stats.de
 adx.4strokemedia.com
 4u.pl
+4wad.com
 ggbua.4wheelparts.com
 4wnet.com
 4wnetwork.com
@@ -10368,6 +10370,7 @@ airycloth.com
 js.aiservice.vn
 nspapi.aiservice.vn
 rec.aiservice.vn
+aishiguolong.com
 aisiteanalytics.com
 a.aisiteanalytics.com
 aisletowelreasoning.com
@@ -13509,6 +13512,7 @@ app-yes-whatsappcc.com
 app-zdp-whatsappcc.com
 app-zjf-whatsappcc.com
 app-zxp-whatsappcc.com
+app1e.biz
 app1e.top
 app1ecdn.com
 app.app1ecdn.com
@@ -25659,6 +25663,7 @@ sgtm.biomedcentral.com
 biotechusa.ru
 bioventoria.cyou
 bioventris.cyou
+bioventrix.icu
 bioverlag-online.de
 biptoakrolaimte.xyz
 t.birchlane.com
@@ -26229,6 +26234,8 @@ boonovel.com
 boooooooooooog.top
 boopoaglauph.net
 boorantech.com
+boorza.com
+www.boorza.com
 filter.boostadtraffic.com
 boostcdn.net
 boostifytheme.com
@@ -26999,6 +27006,7 @@ burgz-delivery.vip
 burgzldelivery.shop
 burhelbiffed.click
 burialhotter.com
+burialinsurancehelp.com
 burkhakalekah.com
 burnbubble.com
 burniecrepes.com
@@ -32343,6 +32351,7 @@ ceoffice.xyz
 ceotto.fr
 www.ceotto.fr
 cephei-b.com
+ceresmosic.com
 cerineas.com
 ceriomycessyst.info
 webanalytics.web.cern.ch
@@ -32897,6 +32906,7 @@ studio.clanweb.eu
 clarionatica.cyou
 clarionvantis.icu
 clarionvesta.icu
+clarionvista.cyou
 smetrics.claris.com
 clarity.ms
 a.clarity.ms
@@ -34045,6 +34055,7 @@ cofshajchblegc.com
 www.cofshajchblegc.com
 cogidaanilic.com
 cognisphere.cyou
+cognisphere.icu
 cognispherex.icu
 cognitiv.ai
 cognitivlabs.com
@@ -36538,7 +36549,6 @@ dad1c5b1c1010.beer
 dadalytics.it
 ws.dadalytics.it
 dadcc.cn
-daddycas135.com
 daddywinsk.com
 daef80b641009.beer
 daejeon123a.top
@@ -36714,6 +36724,7 @@ datakkko.top
 datalogix.com
 datamarketplace.net
 datamind.ru
+dataplexora.cyou
 datarating.com
 log.datarecoverybonus.live
 webcachex-eu.datareporter.eu
@@ -43675,6 +43686,7 @@ express-news.me
 smetrics.express-scripts.com
 stnt.express-scripts.com
 expressdelivery.work
+expressdeliverycompany.org
 addy.expressen.se
 jtp.expressen.se
 tracking.expressen.se
@@ -44299,6 +44311,7 @@ analytics.ferrero.com
 smetrics.ferroviedellostato.it
 ferthijkler.com
 fertihjkert.com
+fes5.com
 fesportal.com
 www.fesportal.com
 fessionalwork.com
@@ -44582,6 +44595,7 @@ s04.flagcounter.com
 s05.flagcounter.com
 s07.flagcounter.com
 s11.flagcounter.com
+flaght.com
 events.flagship.io
 flagstonefoundingmonotype.com
 flairadscpc.com
@@ -46792,6 +46806,7 @@ gml.email
 gml-grp.com
 matomo.gmm.support
 gmmadvogados.com
+gmmwork.com
 plausible.gmmz.dev
 gmossp-sp.jp
 cdn.gmossp-sp.jp
@@ -49596,6 +49611,7 @@ hostingcloud.racing
 www.hostingcloud.racing
 frontend-event-api.hostinger.com
 gtm.hostkey.com
+hosurbusiness.com
 hot-mob.com
 ad.hot-mob.com
 code.hot-mob.com
@@ -51670,6 +51686,7 @@ inveno.com
 inverzo-gpt.net
 investalepregnancy.com
 investments.com
+investorclubgurugram.com
 sstats.investors.com
 investrix-aiapp.com
 invinciblerussia.com
@@ -52585,6 +52602,7 @@ fwd-mtg.jobrad-loop.com
 a.jobscout24.ch
 t.jobsyn.org
 a.jobup.ch
+jocacio3.com
 externalimg.assets.jodel.com
 externalvid.assets.jodel.com
 analytics.jodelapis.com
@@ -53281,6 +53299,7 @@ kdtrk.net
 webstat.kdvz.nrw
 kdxnbakqw.net
 keap.app
+keassbohrer.com
 kedasensiblemother.org
 umami.keebfinder.com
 keefoocauby.com
@@ -53633,7 +53652,6 @@ kolmic.com
 dpi.networkorder.komect.com
 analytics.kometa.wiki
 kometa28892.com
-kometadj38.site
 kometawis.space
 kometjeos289.space
 analytics.komiku.org
@@ -53662,6 +53680,7 @@ koreaslime.cyou
 korgiejoinyou.com
 umami.koro.software
 gtm.korodrogerie.de
+koromias.com
 telemetry.koronapay.com
 korqjfemimlbxf.com
 korrelate.net
@@ -53817,6 +53836,7 @@ kryptoslogic-cve-2021-44228.com
 mistat.xiaomi.com.download.ks-cdn.com
 data.mistat.xiaomi.com.download.ks-cdn.com
 slb-p2p.vcloud.ks-live.com
+ks8cb.cc
 log-sdk.ksapisrv.com
 multi-az-ulog.ksapisrv.com
 ulog.ksapisrv.com
@@ -56649,6 +56669,7 @@ analytics.mega-up.ru
 megaad.nz
 server.megabrain.co
 megadeliveryn.com
+megaflirt.life
 counter.megagroup.ru
 counter.megaindex.ru
 meganshouse.com
@@ -57956,6 +57977,7 @@ www.mochiads.com
 x.mochiads.com
 mochibot.com
 core.mochibot.com
+modafinil-blog.com
 modeljav09212026.shop
 modelshortestrate.com
 metrics.modernatx.com
@@ -58900,6 +58922,7 @@ assets.ads.mygrocerydeals.com
 myguyapp.com
 myhank.pl
 logging.dhg.myharmony.com
+myhealthmeds.com
 smetrics.myhealthtoolkit.com
 analytics.myhermes.de
 as.myhomebook.de
@@ -59471,6 +59494,7 @@ neored.ai
 neousaunce.com
 nephilaplaque.help
 nerangee.com
+neraxa.life
 umami.nerdgeschoss.de
 nereserv.com
 nerkioljiop.com
@@ -59644,6 +59668,7 @@ neuroclario.cyou
 neuroclarion.cyou
 matomo.neurologen-und-psychiater-im-netz.org
 neuropathicyst.info
+neuroquestis.icu
 neuroquestor.icu
 neurotalento.icu
 neurovelenta.cyou
@@ -64380,7 +64405,6 @@ pl-kategoria8576125781257.cfd
 pl-kategoria9148929.cfd
 pl-kategoria918482.cfd
 pl-kategoria9184892.icu
-pl-kategoria9288492.icu
 pl-kategoria9289285.cfd
 pl-kategorie7451925875713259.cfd
 pl-kategorie8481250972849.cfd
@@ -65016,6 +65040,7 @@ fp-it-acc.portal101.cn
 portalhc.com
 portals-blockfi.com
 telemetry.portswigger.net
+portugalrealestateforsale.com
 portwayvsf.info
 posf.xyz
 poshhateful.com
@@ -65329,6 +65354,7 @@ prioritycucumbers.com
 prioritymailexpres.com
 prios-mrelay.com
 ak-ads-ns.prisasd.com
+prise.cloud
 proxyhog.prisma-data.net
 prisonniacins.com
 pristid.bet
@@ -66184,6 +66210,7 @@ analytics.qeridoo-shop.de
 qerkbejkbqojj.top
 qerubbomxxfhw.com
 qesomao3.com
+qewylqmelbwbo.top
 qezamea7.com
 qfeazbcjxoaxz.website
 qfeoczxr.com
@@ -66205,6 +66232,7 @@ res.qhupdate.com
 s.qhupdate.com
 aigc.s.qhupdate.com
 sensors-api.qiandao.cn
+qiaopiguniang.com
 qidfamogebcku.space
 qdp.qidian.com
 qidpfamr.com
@@ -67157,6 +67185,7 @@ wdc.rdtk.io
 rdtracer.com
 re-media.info
 plausible.re4per.com
+re6s.xyz
 reachableads.com
 cpm.reachableads.com
 reacheffecti.work
@@ -68272,6 +68301,7 @@ rhaphaecelts.com
 rhcvsocqxcuuv.com
 rhdifs.top
 rhetoricalloss.com
+rhgyg.com
 analytics.rhino3d.com
 logstash.analytics.rhino3d.com
 logstash7.analytics.rhino3d.com
@@ -68595,7 +68625,14 @@ fq.roisterhucks.shop
 roks.ua
 roksa.sx
 www.roksa.sx
+rokt.com
+apps.rokt.com
+apps-demo.rokt.com
+mobile-api.rokt.com
+server-api.rokt.com
 smb-ecommerce-upsell.rokt.com
+stage.rokt.com
+wsdk.rokt.com
 acr.roku.com
 us-service.acr.roku.com
 ads.roku.com
@@ -68707,6 +68744,7 @@ rotate4all.com
 www.rotate4all.com
 analytics.rothys.com
 rotimia.com
+rotocols.com
 roudoduor.com
 rougefictionnoose.com
 rougemaims.cfd
@@ -73582,6 +73620,7 @@ www.suwfacgazxm.com
 suxbduziqbblv.store
 suzuki-gyosei-office.com
 sv2.biz
+sv66.run
 matomo.sva.de
 svcoding.com
 analytics.sve.cc
@@ -75074,6 +75113,7 @@ thermometerpushfulabnegate.com
 thesafersearch.com
 addons.thesafersearch.com
 analytics-tracker.thescore.com
+thesearchs.com
 theseoffersforyou.com
 theseushymn.help
 thesiliconreview.com
@@ -77925,6 +77965,7 @@ urbanlaurel.com
 urbanorionis.icu
 urbanovanta.icu
 urbanovantis.cyou
+urbanoventra.cyou
 urbanstepzone.cfd
 urbantechria.cyou
 balady-metrics.urbi.ae
@@ -78297,7 +78338,6 @@ vavada82ow.com
 vavada832kl.com
 vavadageek.com
 vavadagkx.com
-vavadagso.site
 vavadapsg.com
 vavadasgk.site
 vavecasino365.fr
@@ -78311,6 +78351,7 @@ vazvfaazc.com
 vbcojhroxkoaf.online
 vbegi.shop
 vbetua1.com
+vboots.com
 vboro.de
 vbtpkdvezdeoo.site
 vbtrax.com
@@ -81770,7 +81811,6 @@ dc.xoalt.com
 h.xoalt.com
 xogpashkeftic.net
 xoiiasdpsdoasdpojas.com
-xoilaczzzaz.tv
 t.xoom.com
 xoom-ads.com
 tracking.xoom-ads.com
