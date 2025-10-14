@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Oct 2025 11:21 UTC
-! Version: 2025.1014.1121.27
+! Last modified: 14 Oct 2025 14:49 UTC
+! Version: 2025.1014.1449.48
 ! Syntax: AdBlock
-! Number of entries: 42101
+! Number of entries: 42044
 !
 ||umami.000315.xyz^
 ||00055edc1917.com^
@@ -51,7 +51,6 @@
 ||0218c6c7d1011.beer^
 ||021a5f9841009.beer^
 ||021learning.com^
-||02228640b9.com^
 ||025330d7b8024aeffa606e31c32e24b7.com^
 ||02651d8d91009.beer^
 ||026c333c51009.beer^
@@ -81,7 +80,6 @@
 ||050685f5c1010.beer^
 ||050800e863050fad270c1ec1d0c251fa.net^
 ||050f634043855a15c23531bc97c9b3bd.top^
-||0518714bbd.com^
 ||05301e3341011.beer^
 ||054ii.com^
 ||0551huayanbdf.com^
@@ -1389,7 +1387,6 @@
 ||4be2306251010.beer^
 ||4be61f8651388ed6e57153ee30618bc5.quest^
 ||4bf9d3d5e1009.beer^
-||4bsctoken.com^
 ||4c07cf8e71009.beer^
 ||4c2e8451c80c6d0aede01f60788f26caf0d2e5c2.com^
 ||4c32ecfead.com^
@@ -1428,8 +1425,6 @@
 ||4fbb14bdc1010.beer^
 ||4fc1920991009.beer^
 ||4fee6d013f.com^
-||4gegt2.cfd^
-||4gyvd.sbs^
 ||4hunqp.ru^
 ||smetric.4imprint.com^
 ||4info.com^
@@ -1438,7 +1433,6 @@
 ||os.4kporn.xxx^
 ||4life.com^
 ||azmatomo.service.4matnetworks.com^
-||4onbsc.lol^
 ||4onbsc.world^
 ||4seeresults.com^
 ||image-eu-na-ctnytbefjq.4shares.live^
@@ -1510,7 +1504,6 @@
 ||52z.com^
 ||event.evtm.53.com^
 ||stms.53.com^
-||530198xz7.cfd^
 ||5319173491c8.icu^
 ||5333911ddd5d433ae1c2d9f546b1f75b.top^
 ||5342b0f531009.beer^
@@ -1646,7 +1639,6 @@
 ||5ivy3ikkt.com^
 ||5md1fy.cn^
 ||5mp.eu^
-||5nb5f.sbs^
 ||5pub.com^
 ||5qzone.net^
 ||5starhdporn.com^
@@ -1695,7 +1687,6 @@
 ||6325f86d41009.beer^
 ||633119f061010.beer^
 ||634263882b.com^
-||634298534.sbs^
 ||636a0fe481009.beer^
 ||63731d0501011.beer^
 ||637c776880248f000163c8de.click^
@@ -1763,7 +1754,6 @@
 ||681gmail.com^
 ||6820cb8b51009.beer^
 ||6820tp1.com^
-||6828386.shop^
 ||682e4f7a81011.beer^
 ||68740cb401011.beer^
 ||6888.site^
@@ -1793,7 +1783,6 @@
 ||6b6dbc3441010.beer^
 ||6b6df17c81009.beer^
 ||6b769f28d1011.beer^
-||6b8381c695.com^
 ||6b86b273ff34fce1.online^
 ||6b89c47a51009.beer^
 ||6b9b06febe.com^
@@ -1818,7 +1807,6 @@
 ||6e347a3761010.beer^
 ||6e4edab7c1010.beer^
 ||6e713ebd8f450854.com^
-||6egtve.sbs^
 ||6f33933ce4a5c0e1b32fea736a61351a.com^
 ||6f3ff665f1010.beer^
 ||6f60eb6223.com^
@@ -2700,7 +2688,6 @@
 ||metrics.abc.es^
 ||sadbmetrics.abc.es^
 ||sw88.abc.com^
-||abc-whatsapp.com^
 ||axp.abc27.com^
 ||abcauegs.com^
 ||abcccccccc8.com^
@@ -4994,7 +4981,6 @@
 ||amazon-eagle.com^
 ||amazon-kko.com^
 ||amazon-mnmn.com^
-||amazon-play.site^
 ||amazon-prime-ctv.com^
 ||amazon-quick.com^
 ||amazon-quick.net^
@@ -5773,7 +5759,6 @@
 ||app-zdp-whatsappcc.com^
 ||app-zjf-whatsappcc.com^
 ||app-zxp-whatsappcc.com^
-||app1e.biz^
 ||app1e.top^
 ||app1ecdn.com^
 ||appads.com^
@@ -7340,7 +7325,6 @@
 ||be0f9ef441009.beer^
 ||be2cb9e9a27143e377c87cc780688c59.icu^
 ||be429dd00e.com^
-||be49243583.com^
 ||be6b586c31009.beer^
 ||be6e27cf34c87e5083f1c70c72ed1ee6.com^
 ||be899aeac1011.beer^
@@ -9906,7 +9890,6 @@
 ||talksport-ads.checkd-media.com^
 ||checkealos.com^
 ||checkeffect.at^
-||checker-asters.com^
 ||checker-rkgen.app^
 ||metrics.checkersandrallys.com^
 ||checkhdill.shop^
@@ -10671,38 +10654,6 @@
 ||cnb.cnews.ru^
 ||matomo.cnhind.com^
 ||cnhv.co^
-||cnic-probe-aws-asia-tokyo-live-1760229901.online^
-||cnic-probe-aws-asia-tokyo-live-1760230202.online^
-||cnic-probe-aws-asia-tokyo-live-1760308801.xyz^
-||cnic-probe-aws-asia-tokyo-live-1760309401.xyz^
-||cnic-probe-aws-asia-tokyo-live-1760310301.xyz^
-||cnic-probe-aws-asia-tokyo-live-1760312101.xyz^
-||cnic-probe-aws-eu-frankfurt-live-1760226002.online^
-||cnic-probe-aws-eu-frankfurt-live-1760227201.online^
-||cnic-probe-aws-eu-frankfurt-live-1760228102.online^
-||cnic-probe-aws-eu-frankfurt-live-1760228401.online^
-||cnic-probe-aws-eu-frankfurt-live-1760229001.online^
-||cnic-probe-aws-eu-frankfurt-live-1760229601.online^
-||cnic-probe-aws-eu-frankfurt-live-1760311801.xyz^
-||cnic-probe-aws-eu-frankfurt-live-1760313001.xyz^
-||cnic-probe-aws-north-america-oregon-live-1760226901.online^
-||cnic-probe-aws-north-america-oregon-live-1760227801.online^
-||cnic-probe-aws-north-america-oregon-live-1760228701.online^
-||cnic-probe-aws-north-america-oregon-live-1760309101.xyz^
-||cnic-probe-aws-north-america-oregon-live-1760310601.xyz^
-||cnic-probe-aws-north-america-oregon-live-1760311502.xyz^
-||cnic-probe-aws-north-america-vir-live-1760226601.online^
-||cnic-probe-aws-north-america-vir-live-1760229301.online^
-||cnic-probe-aws-north-america-vir-live-1760230501.online^
-||cnic-probe-aws-north-america-vir-live-1760308501.xyz^
-||cnic-probe-aws-north-america-vir-live-1760310901.xyz^
-||cnic-probe-aws-north-america-vir-live-1760311201.xyz^
-||cnic-probe-aws-north-america-vir-live-1760312401.xyz^
-||cnic-probe-aws-north-america-vir-live-1760312701.xyz^
-||cnic-probe-aws-oceania-sydney-live-1760226301.online^
-||cnic-probe-aws-oceania-sydney-live-1760227502.online^
-||cnic-probe-aws-oceania-sydney-live-1760309701.xyz^
-||cnic-probe-aws-oceania-sydney-live-1760310001.xyz^
 ||webcert.cnmstl.net^
 ||zion-telemetry.api.cnn.io^
 ||zion-telemetry-nonprod.api.cnn.io^
@@ -12331,7 +12282,6 @@
 ||statistics.csob.cz^
 ||tracking-secure.csob.cz^
 ||csqojhzrapobd.online^
-||css-whatsapp.com^
 ||cstormu.click^
 ||cstwpush.com^
 ||ct11.biz^
@@ -13178,14 +13128,12 @@
 ||deliverycredit.info^
 ||deliverydeal.info^
 ||deliverydeskid.info^
-||deliverydigitalgod.xyz^
 ||deliveryequity.info^
 ||deliveryfinance.info^
 ||deliveryflow.app^
 ||deliveryflow.info^
 ||deliveryfund.info^
 ||deliveryfunding.info^
-||deliverygrant.info^
 ||deliverygrowth.info^
 ||deliveryhubpartner.info^
 ||deliveryid196.cfd^
@@ -13206,7 +13154,6 @@
 ||deliverypath.info^
 ||deliverypizza.shop^
 ||deliveryprime.info^
-||deliveryprofit.info^
 ||deliveryrate.info^
 ||deliveryroutify.info^
 ||deliveryrxb.top^
@@ -15681,6 +15628,7 @@
 ||litemsg.ekatox.com^
 ||tr.ekatox.com^
 ||analytics.ekcs.us^
+||ekodimadudown.digital^
 ||smart-widget-assets.ekomiapps.de^
 ||analytics.ekonsilio.io^
 ||ekzrpjskeowcf.online^
@@ -20413,7 +20361,6 @@
 ||eventtracking-eu1.hubapi.com^
 ||hubcapswhein.shop^
 ||hubcityradio.com^
-||hubdates.icu^
 ||hubhc.com^
 ||hubhockey.com^
 ||hubhubhub.name^
@@ -21126,7 +21073,6 @@
 ||infostation.digital^
 ||infostore.org^
 ||rb.infox.sg^
-||infrared-zoom.com^
 ||infraredsen.com^
 ||analytics.ing.dk^
 ||metrics.ing.es^
@@ -21273,6 +21219,7 @@
 ||instantcasino1.fr^
 ||metrics.instantcheckmate.com^
 ||instantdeceived.com^
+||instantepre.com^
 ||instantfox.co^
 ||instantfwding.com^
 ||heatmap-events-collector.instapage.com^
@@ -21397,7 +21344,6 @@
 ||sstats.investors.com^
 ||investrix-aiapp.com^
 ||invinciblerussia.com^
-||invitation-live.com^
 ||invitation-live.top^
 ||invitedexamine.com^
 ||invitemedia.com^
@@ -22238,6 +22184,7 @@
 ||jymgzufclghtw.site^
 ||jyothishmathi.in^
 ||jyroda.com^
+||jyskonlinesales.com^
 ||jyzkut.com^
 ||jzbvwqeowveyl.top^
 ||jzeimirchegdf.site^
@@ -23145,7 +23092,6 @@
 ||latinwayy.com^
 ||laugoust.com^
 ||launch-hyper.xyz^
-||launch-hyperl.xyz^
 ||launche-cakev3.com^
 ||launchjack.com^
 ||launch-analytics-plugin.launchpotato.com^
@@ -28732,6 +28678,7 @@
 ||pefjh8trk.com^
 ||pegah.tech^
 ||pegsbuttons.com^
+||pehatay1.com^
 ||peiq.services^
 ||pejvucsmeiwjop.net^
 ||kvkik.pelacase.com^
@@ -28770,6 +28717,7 @@
 ||tracking.peopleareeverything.com^
 ||metrics.pepboys.com^
 ||pepdjhhusekex.online^
+||load.serverside.pepejeans.com^
 ||pepepush.net^
 ||test.peperoncinochepassione.it^
 ||pepperjam.com^
@@ -29734,8 +29682,6 @@
 ||jslog.post.cz^
 ||matomo.post.at^
 ||d.post-gazette.com^
-||post-office.cyou^
-||post-office.sbs^
 ||post-office-404.org^
 ||vbjnd.postable.com^
 ||postback.info^
@@ -30132,7 +30078,6 @@
 ||proposal-xstock.com^
 ||proposal-xstock.org^
 ||proposalkeptstaff.com^
-||proposals-aster.com^
 ||proposals-maplefi.com^
 ||propositionpower.com^
 ||proppellerads.ru^
@@ -30561,6 +30506,7 @@
 ||qdp.qidian.com^
 ||qidpfamr.com^
 ||qighodetfg.com^
+||qihuciu4.com^
 ||qimtek.se^
 ||qingniatouzi.com^
 ||qingolor.com^
@@ -30801,6 +30747,7 @@
 ||quantisphereon.cyou^
 ||quantispherex.icu^
 ||quantivistra.cyou^
+||quantivox.life^
 ||quantplnat.xyz^
 ||quantserve.com^
 ||quantum-ai.io^
@@ -33973,11 +33920,9 @@
 ||www.smartdeconline.com^
 ||smartdelivery.pro^
 ||smartdeliverybridge.info^
-||smartdeliverycash.info^
 ||smartdeliveryflow.info^
 ||smartdeliveryfund.info^
 ||smartdeliverylend.info^
-||smartdeliveryline.info^
 ||smarterhq.io^
 ||p.smartertravel.com^
 ||smarthomeace.com^
@@ -35522,7 +35467,6 @@
 ||syokmelaram.com^
 ||syorrvelwqrqx.site^
 ||syria-live.online^
-||sys-whatsapp.com^
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||sysgtjoki.com^
 ||sysidebfsxkav.store^
@@ -38235,7 +38179,6 @@
 ||analytics.useonward.com^
 ||usepanda.com^
 ||user-red.com^
-||user-whatsapp.com^
 ||useraction.de^
 ||useragentswitch.com^
 ||userdive.com^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Oct 2025 11:21 UTC
-# Version: 2025.1014.1121.27
+# Last modified: 14 Oct 2025 14:49 UTC
+# Version: 2025.1014.1449.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 85860
+# Number of entries: 85802
 #
 0.0.0.0 umami.000315.xyz
 0.0.0.0 00055edc1917.com
@@ -52,7 +52,6 @@
 0.0.0.0 0218c6c7d1011.beer
 0.0.0.0 021a5f9841009.beer
 0.0.0.0 021learning.com
-0.0.0.0 02228640b9.com
 0.0.0.0 025330d7b8024aeffa606e31c32e24b7.com
 0.0.0.0 02651d8d91009.beer
 0.0.0.0 026c333c51009.beer
@@ -82,7 +81,6 @@
 0.0.0.0 050685f5c1010.beer
 0.0.0.0 050800e863050fad270c1ec1d0c251fa.net
 0.0.0.0 050f634043855a15c23531bc97c9b3bd.top
-0.0.0.0 0518714bbd.com
 0.0.0.0 05301e3341011.beer
 0.0.0.0 054ii.com
 0.0.0.0 0551huayanbdf.com
@@ -5440,7 +5438,6 @@
 0.0.0.0 4be2306251010.beer
 0.0.0.0 4be61f8651388ed6e57153ee30618bc5.quest
 0.0.0.0 4bf9d3d5e1009.beer
-0.0.0.0 4bsctoken.com
 0.0.0.0 4c07cf8e71009.beer
 0.0.0.0 4c2e8451c80c6d0aede01f60788f26caf0d2e5c2.com
 0.0.0.0 4c32ecfead.com
@@ -5490,8 +5487,6 @@
 0.0.0.0 4fc1920991009.beer
 0.0.0.0 4fee6d013f.com
 0.0.0.0 c5fdf44fce.4fee6d013f.com
-0.0.0.0 4gegt2.cfd
-0.0.0.0 4gyvd.sbs
 0.0.0.0 4hunqp.ru
 0.0.0.0 smetric.4imprint.com
 0.0.0.0 4info.com
@@ -5511,10 +5506,8 @@
 0.0.0.0 usspanish.4life.com
 0.0.0.0 www.4life.com
 0.0.0.0 azmatomo.service.4matnetworks.com
-0.0.0.0 4onbsc.lol
 0.0.0.0 4onbsc.world
 0.0.0.0 4seeresults.com
-0.0.0.0 device.4seeresults.com
 0.0.0.0 image-eu-na-ctnytbefjq.4shares.live
 0.0.0.0 4stats.de
 0.0.0.0 adx.4strokemedia.com
@@ -5609,7 +5602,6 @@
 0.0.0.0 52z.com
 0.0.0.0 event.evtm.53.com
 0.0.0.0 stms.53.com
-0.0.0.0 530198xz7.cfd
 0.0.0.0 5319173491c8.icu
 0.0.0.0 5333911ddd5d433ae1c2d9f546b1f75b.top
 0.0.0.0 5342b0f531009.beer
@@ -5753,7 +5745,6 @@
 0.0.0.0 5md1fy.cn
 0.0.0.0 5mp.eu
 0.0.0.0 www.5mp.eu
-0.0.0.0 5nb5f.sbs
 0.0.0.0 5pub.com
 0.0.0.0 5qzone.net
 0.0.0.0 5starhdporn.com
@@ -5803,7 +5794,6 @@
 0.0.0.0 6325f86d41009.beer
 0.0.0.0 633119f061010.beer
 0.0.0.0 634263882b.com
-0.0.0.0 634298534.sbs
 0.0.0.0 636a0fe481009.beer
 0.0.0.0 63731d0501011.beer
 0.0.0.0 637c776880248f000163c8de.click
@@ -5874,7 +5864,6 @@
 0.0.0.0 681gmail.com
 0.0.0.0 6820cb8b51009.beer
 0.0.0.0 6820tp1.com
-0.0.0.0 6828386.shop
 0.0.0.0 682e4f7a81011.beer
 0.0.0.0 68740cb401011.beer
 0.0.0.0 6888.site
@@ -5904,7 +5893,6 @@
 0.0.0.0 6b6dbc3441010.beer
 0.0.0.0 6b6df17c81009.beer
 0.0.0.0 6b769f28d1011.beer
-0.0.0.0 6b8381c695.com
 0.0.0.0 6b86b273ff34fce1.online
 0.0.0.0 6b89c47a51009.beer
 0.0.0.0 6b9b06febe.com
@@ -5930,7 +5918,6 @@
 0.0.0.0 6e347a3761010.beer
 0.0.0.0 6e4edab7c1010.beer
 0.0.0.0 6e713ebd8f450854.com
-0.0.0.0 6egtve.sbs
 0.0.0.0 6f33933ce4a5c0e1b32fea736a61351a.com
 0.0.0.0 6f3ff665f1010.beer
 0.0.0.0 6f60eb6223.com
@@ -6977,7 +6964,6 @@
 0.0.0.0 metrics.abc.es
 0.0.0.0 sadbmetrics.abc.es
 0.0.0.0 sw88.abc.com
-0.0.0.0 abc-whatsapp.com
 0.0.0.0 axp.abc27.com
 0.0.0.0 abcauegs.com
 0.0.0.0 abcccccccc8.com
@@ -12713,7 +12699,6 @@
 0.0.0.0 amazon-eagle.com
 0.0.0.0 amazon-kko.com
 0.0.0.0 amazon-mnmn.com
-0.0.0.0 amazon-play.site
 0.0.0.0 amazon-prime-ctv.com
 0.0.0.0 amazon-quick.com
 0.0.0.0 amazon-quick.net
@@ -13608,7 +13593,6 @@
 0.0.0.0 app-zdp-whatsappcc.com
 0.0.0.0 app-zjf-whatsappcc.com
 0.0.0.0 app-zxp-whatsappcc.com
-0.0.0.0 app1e.biz
 0.0.0.0 app1e.top
 0.0.0.0 app1ecdn.com
 0.0.0.0 app.app1ecdn.com
@@ -24139,7 +24123,6 @@
 0.0.0.0 be0f9ef441009.beer
 0.0.0.0 be2cb9e9a27143e377c87cc780688c59.icu
 0.0.0.0 be429dd00e.com
-0.0.0.0 be49243583.com
 0.0.0.0 be6b586c31009.beer
 0.0.0.0 be6e27cf34c87e5083f1c70c72ed1ee6.com
 0.0.0.0 be899aeac1011.beer
@@ -31892,7 +31875,6 @@
 0.0.0.0 talksport-ads.checkd-media.com
 0.0.0.0 checkealos.com
 0.0.0.0 checkeffect.at
-0.0.0.0 checker-asters.com
 0.0.0.0 checker-rkgen.app
 0.0.0.0 metrics.checkersandrallys.com
 0.0.0.0 checkhdill.shop
@@ -32883,38 +32865,6 @@
 0.0.0.0 cnb.cnews.ru
 0.0.0.0 matomo.cnhind.com
 0.0.0.0 cnhv.co
-0.0.0.0 cnic-probe-aws-asia-tokyo-live-1760229901.online
-0.0.0.0 cnic-probe-aws-asia-tokyo-live-1760230202.online
-0.0.0.0 cnic-probe-aws-asia-tokyo-live-1760308801.xyz
-0.0.0.0 cnic-probe-aws-asia-tokyo-live-1760309401.xyz
-0.0.0.0 cnic-probe-aws-asia-tokyo-live-1760310301.xyz
-0.0.0.0 cnic-probe-aws-asia-tokyo-live-1760312101.xyz
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760226002.online
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760227201.online
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760228102.online
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760228401.online
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760229001.online
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760229601.online
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760311801.xyz
-0.0.0.0 cnic-probe-aws-eu-frankfurt-live-1760313001.xyz
-0.0.0.0 cnic-probe-aws-north-america-oregon-live-1760226901.online
-0.0.0.0 cnic-probe-aws-north-america-oregon-live-1760227801.online
-0.0.0.0 cnic-probe-aws-north-america-oregon-live-1760228701.online
-0.0.0.0 cnic-probe-aws-north-america-oregon-live-1760309101.xyz
-0.0.0.0 cnic-probe-aws-north-america-oregon-live-1760310601.xyz
-0.0.0.0 cnic-probe-aws-north-america-oregon-live-1760311502.xyz
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760226601.online
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760229301.online
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760230501.online
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760308501.xyz
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760310901.xyz
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760311201.xyz
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760312401.xyz
-0.0.0.0 cnic-probe-aws-north-america-vir-live-1760312701.xyz
-0.0.0.0 cnic-probe-aws-oceania-sydney-live-1760226301.online
-0.0.0.0 cnic-probe-aws-oceania-sydney-live-1760227502.online
-0.0.0.0 cnic-probe-aws-oceania-sydney-live-1760309701.xyz
-0.0.0.0 cnic-probe-aws-oceania-sydney-live-1760310001.xyz
 0.0.0.0 webcert.cnmstl.net
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zion-telemetry-nonprod.api.cnn.io
@@ -35726,7 +35676,6 @@
 0.0.0.0 statistics.csob.cz
 0.0.0.0 tracking-secure.csob.cz
 0.0.0.0 csqojhzrapobd.online
-0.0.0.0 css-whatsapp.com
 0.0.0.0 cstormu.click
 0.0.0.0 cstwpush.com
 0.0.0.0 ct11.biz
@@ -36845,14 +36794,12 @@
 0.0.0.0 deliverycredit.info
 0.0.0.0 deliverydeal.info
 0.0.0.0 deliverydeskid.info
-0.0.0.0 deliverydigitalgod.xyz
 0.0.0.0 deliveryequity.info
 0.0.0.0 deliveryfinance.info
 0.0.0.0 deliveryflow.app
 0.0.0.0 deliveryflow.info
 0.0.0.0 deliveryfund.info
 0.0.0.0 deliveryfunding.info
-0.0.0.0 deliverygrant.info
 0.0.0.0 deliverygrowth.info
 0.0.0.0 deliveryhubpartner.info
 0.0.0.0 deliveryid196.cfd
@@ -36873,7 +36820,6 @@
 0.0.0.0 deliverypath.info
 0.0.0.0 deliverypizza.shop
 0.0.0.0 deliveryprime.info
-0.0.0.0 deliveryprofit.info
 0.0.0.0 deliveryrate.info
 0.0.0.0 deliveryroutify.info
 0.0.0.0 deliveryrxb.top
@@ -43411,6 +43357,7 @@
 0.0.0.0 litemsg.ekatox.com
 0.0.0.0 tr.ekatox.com
 0.0.0.0 analytics.ekcs.us
+0.0.0.0 ekodimadudown.digital
 0.0.0.0 smart-widget-assets.ekomiapps.de
 0.0.0.0 analytics.ekonsilio.io
 0.0.0.0 ekzrpjskeowcf.online
@@ -50880,7 +50827,6 @@
 0.0.0.0 eventtracking-eu1.hubapi.com
 0.0.0.0 hubcapswhein.shop
 0.0.0.0 hubcityradio.com
-0.0.0.0 hubdates.icu
 0.0.0.0 hubhc.com
 0.0.0.0 crmapi2.hubhc.com
 0.0.0.0 crmapi20.hubhc.com
@@ -52200,7 +52146,6 @@
 0.0.0.0 ep1.infostation.digital
 0.0.0.0 infostore.org
 0.0.0.0 rb.infox.sg
-0.0.0.0 infrared-zoom.com
 0.0.0.0 infraredsen.com
 0.0.0.0 analytics.ing.dk
 0.0.0.0 metrics.ing.es
@@ -52487,6 +52432,7 @@
 0.0.0.0 instantcasino1.fr
 0.0.0.0 metrics.instantcheckmate.com
 0.0.0.0 instantdeceived.com
+0.0.0.0 instantepre.com
 0.0.0.0 instantfox.co
 0.0.0.0 instantfwding.com
 0.0.0.0 heatmap-events-collector.instapage.com
@@ -52713,7 +52659,6 @@
 0.0.0.0 sstats.investors.com
 0.0.0.0 investrix-aiapp.com
 0.0.0.0 invinciblerussia.com
-0.0.0.0 invitation-live.com
 0.0.0.0 invitation-live.top
 0.0.0.0 invitedexamine.com
 0.0.0.0 invitemedia.com
@@ -53988,6 +53933,7 @@
 0.0.0.0 jymgzufclghtw.site
 0.0.0.0 jyothishmathi.in
 0.0.0.0 jyroda.com
+0.0.0.0 jyskonlinesales.com
 0.0.0.0 jyzkut.com
 0.0.0.0 jzbvwqeowveyl.top
 0.0.0.0 jzeimirchegdf.site
@@ -55312,7 +55258,6 @@
 0.0.0.0 latinwayy.com
 0.0.0.0 laugoust.com
 0.0.0.0 launch-hyper.xyz
-0.0.0.0 launch-hyperl.xyz
 0.0.0.0 launche-cakev3.com
 0.0.0.0 launchjack.com
 0.0.0.0 launch-analytics-plugin.launchpotato.com
@@ -65275,6 +65220,7 @@
 0.0.0.0 pegah.tech
 0.0.0.0 ma-cdn.pegah.tech
 0.0.0.0 pegsbuttons.com
+0.0.0.0 pehatay1.com
 0.0.0.0 peiq.services
 0.0.0.0 ctb.peiq.services
 0.0.0.0 pejvucsmeiwjop.net
@@ -65318,6 +65264,7 @@
 0.0.0.0 tracking.peopleareeverything.com
 0.0.0.0 metrics.pepboys.com
 0.0.0.0 pepdjhhusekex.online
+0.0.0.0 load.serverside.pepejeans.com
 0.0.0.0 pepepush.net
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 pepperjam.com
@@ -66741,8 +66688,6 @@
 0.0.0.0 jslog.post.cz
 0.0.0.0 matomo.post.at
 0.0.0.0 d.post-gazette.com
-0.0.0.0 post-office.cyou
-0.0.0.0 post-office.sbs
 0.0.0.0 post-office-404.org
 0.0.0.0 vbjnd.postable.com
 0.0.0.0 postback.info
@@ -67283,7 +67228,6 @@
 0.0.0.0 proposal-xstock.com
 0.0.0.0 proposal-xstock.org
 0.0.0.0 proposalkeptstaff.com
-0.0.0.0 proposals-aster.com
 0.0.0.0 proposals-maplefi.com
 0.0.0.0 propositionpower.com
 0.0.0.0 proppellerads.ru
@@ -67952,6 +67896,7 @@
 0.0.0.0 qdp.qidian.com
 0.0.0.0 qidpfamr.com
 0.0.0.0 qighodetfg.com
+0.0.0.0 qihuciu4.com
 0.0.0.0 qimtek.se
 0.0.0.0 qingniatouzi.com
 0.0.0.0 www.qingniatouzi.com
@@ -68288,6 +68233,7 @@
 0.0.0.0 quantisphereon.cyou
 0.0.0.0 quantispherex.icu
 0.0.0.0 quantivistra.cyou
+0.0.0.0 quantivox.life
 0.0.0.0 quantplnat.xyz
 0.0.0.0 quantserve.com
 0.0.0.0 2kpixel.quantserve.com
@@ -73814,11 +73760,9 @@
 0.0.0.0 www.smartdeconline.com
 0.0.0.0 smartdelivery.pro
 0.0.0.0 smartdeliverybridge.info
-0.0.0.0 smartdeliverycash.info
 0.0.0.0 smartdeliveryflow.info
 0.0.0.0 smartdeliveryfund.info
 0.0.0.0 smartdeliverylend.info
-0.0.0.0 smartdeliveryline.info
 0.0.0.0 smarterhq.io
 0.0.0.0 onsiteshq.smarterhq.io
 0.0.0.0 tr2.smarterhq.io
@@ -76106,7 +76050,6 @@
 0.0.0.0 www.syokmelaram.com
 0.0.0.0 syorrvelwqrqx.site
 0.0.0.0 syria-live.online
-0.0.0.0 sys-whatsapp.com
 0.0.0.0 eph-adsjutarnji.cdn.sysbee.net
 0.0.0.0 sysgtjoki.com
 0.0.0.0 sysidebfsxkav.store
@@ -80527,7 +80470,6 @@
 0.0.0.0 analytics.useonward.com
 0.0.0.0 usepanda.com
 0.0.0.0 user-red.com
-0.0.0.0 user-whatsapp.com
 0.0.0.0 useraction.de
 0.0.0.0 useragentswitch.com
 0.0.0.0 userdive.com
