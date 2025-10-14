@@ -4201,6 +4201,13 @@
       }
     },
     {
+      "PK": "super.money",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "surveycake.biz",
       "action": {
         "do": 1,
