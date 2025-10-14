@@ -204,6 +204,13 @@
       }
     },
     {
+      "PK": "am-cdn.pics",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "amzn.asia",
       "action": {
         "do": 1,
@@ -611,6 +618,13 @@
     },
     {
       "PK": "cdn.fun",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cdn.moe",
       "action": {
         "do": 1,
         "status": 1
