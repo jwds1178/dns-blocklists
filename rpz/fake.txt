@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760394540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760437740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Oct 2025 22:29 UTC
-; Version: 2025.1013.2229.32
+; Last modified: 14 Oct 2025 10:29 UTC
+; Version: 2025.1014.1029.03
 ; Syntax: RPZ
-; Number of entries: 28538
+; Number of entries: 28548
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -3894,6 +3894,8 @@ buchsenbolzen.com CNAME .
 *.buchsenbolzen.com CNAME .
 buckleyswiss.com CNAME .
 *.buckleyswiss.com CNAME .
+budgetburstdeals.com CNAME .
+*.budgetburstdeals.com CNAME .
 building-toysshop.com CNAME .
 *.building-toysshop.com CNAME .
 buildmaterialstore.com CNAME .
@@ -4468,6 +4470,8 @@ clisicerity.com CNAME .
 *.clisicerity.com CNAME .
 clivechristianuk.com CNAME .
 *.clivechristianuk.com CNAME .
+cllusatoam.com CNAME .
+*.cllusatoam.com CNAME .
 clockwisek.com CNAME .
 *.clockwisek.com CNAME .
 clorislife.com CNAME .
@@ -4606,8 +4610,6 @@ comparatiq.com CNAME .
 *.comparatiq.com CNAME .
 comparisonp.com CNAME .
 *.comparisonp.com CNAME .
-compensair.com CNAME .
-*.compensair.com CNAME .
 competitiog.com CNAME .
 *.competitiog.com CNAME .
 complemeny.com CNAME .
@@ -4816,6 +4818,8 @@ cryotoxtrade.com CNAME .
 *.cryotoxtrade.com CNAME .
 cryptex-vip.com CNAME .
 *.cryptex-vip.com CNAME .
+tax.crypto.com CNAME .
+*.tax.crypto.com CNAME .
 crypto-bulot.com CNAME .
 *.crypto-bulot.com CNAME .
 crypto-institute.com CNAME .
@@ -5204,6 +5208,8 @@ deregresoalafuente.com CNAME .
 *.deregresoalafuente.com CNAME .
 derimoservices.com CNAME .
 *.derimoservices.com CNAME .
+derivainasm.com CNAME .
+*.derivainasm.com CNAME .
 dermao.com CNAME .
 *.dermao.com CNAME .
 dersa-spedition.com CNAME .
@@ -11462,6 +11468,8 @@ nbynicole.com CNAME .
 *.nbynicole.com CNAME .
 ncases.com CNAME .
 *.ncases.com CNAME .
+ndfinitee.com CNAME .
+*.ndfinitee.com CNAME .
 nebula-witch-power.com CNAME .
 *.nebula-witch-power.com CNAME .
 necessityi.com CNAME .
@@ -14594,6 +14602,8 @@ sparkgenesisai.com CNAME .
 *.sparkgenesisai.com CNAME .
 sparprime.com CNAME .
 *.sparprime.com CNAME .
+specializeg.com CNAME .
+*.specializeg.com CNAME .
 specialmenswear.com CNAME .
 *.specialmenswear.com CNAME .
 specialpurchasepoint.com CNAME .
@@ -16724,8 +16734,6 @@ viva-markets.com CNAME .
 *.viva-markets.com CNAME .
 vivagopro.com CNAME .
 *.vivagopro.com CNAME .
-vivaiacollection.com CNAME .
-*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -17536,6 +17544,8 @@ zwergspitzpomeranian.com CNAME .
 *.zwergspitzpomeranian.com CNAME .
 zwischenportal.com CNAME .
 *.zwischenportal.com CNAME .
+zxmcm.com CNAME .
+*.zxmcm.com CNAME .
 zytocapitalnew.com CNAME .
 *.zytocapitalnew.com CNAME .
 mein.consulting CNAME .

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Oct 2025 22:29 UTC
-! Version: 2025.1013.2229.32
+! Last modified: 14 Oct 2025 10:29 UTC
+! Version: 2025.1014.1029.03
 ! Syntax: AdBlock
-! Number of entries: 14269
+! Number of entries: 14274
 !
 ||01broker.com^
 ||01crypto.com^
@@ -1965,6 +1965,7 @@
 ||buckleyswiss.com^
 ||budai-tech.de^
 ||budawi.shop^
+||budgetburstdeals.com^
 ||budgethardware.net^
 ||budgetmagic.eu^
 ||budowaffen.de^
@@ -2413,6 +2414,7 @@
 ||cliniqueloccitane.com^
 ||clisicerity.com^
 ||clivechristianuk.com^
+||cllusatoam.com^
 ||clockwisek.com^
 ||clorislife.com^
 ||clotha-boutique.de^
@@ -2660,7 +2662,6 @@
 ||pellet-ecos.company.site^
 ||comparatiq.com^
 ||comparisonp.com^
-||compensair.com^
 ||competitiog.com^
 ||compixa-shop.de^
 ||complemeny.com^
@@ -2824,6 +2825,7 @@
 ||cryotoxtrade.com^
 ||cryptex-online.de^
 ||cryptex-vip.com^
+||tax.crypto.com^
 ||crypto-bulot.com^
 ||crypto-institute.com^
 ||crypto-invest-ai.de^
@@ -3186,6 +3188,7 @@
 ||derekoutlet.de^
 ||derfairmieter.de^
 ||derimoservices.com^
+||derivainasm.com^
 ||derkaminofenhandel.de^
 ||derkatzenshop.de^
 ||dermao.com^
@@ -8976,6 +8979,7 @@
 ||nbynicole.com^
 ||ncases.com^
 ||nchen.de^
+||ndfinitee.com^
 ||nealinastore.shop^
 ||near-on-chain.de^
 ||neary.de^
@@ -11740,6 +11744,7 @@
 ||sparprime.com^
 ||sparwahnsinn24.de^
 ||spd-mossautal.de^
+||specializeg.com^
 ||specialmenswear.com^
 ||specialpurchasepoint.com^
 ||specialselling.com^
@@ -13504,7 +13509,6 @@
 ||viva-markets.com^
 ||vivagopro.com^
 ||vivaiabuty.pl^
-||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -14279,4 +14283,5 @@
 ||zweirad-dach.de^
 ||zwergspitzpomeranian.com^
 ||zwischenportal.com^
+||zxmcm.com^
 ||zytocapitalnew.com^

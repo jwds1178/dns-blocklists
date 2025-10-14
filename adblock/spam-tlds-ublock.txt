@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Oct 2025 04:06 UTC
-! Version: 2025.1014.0406.07
+! Last modified: 14 Oct 2025 11:56 UTC
+! Version: 2025.1014.1156.24
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -174,7 +174,7 @@
 ||miami^$doc
 ||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
 ||moda^$doc
-||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~trace.moe|~uma.moe
+||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cdn.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~trace.moe|~uma.moe
 ||mom^$doc
 ||money^$doc,domain=~flowyour.money|~super.money|~unstoppable.money|~usual.money|~vivid.money
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
@@ -199,7 +199,7 @@
 ||phd^$doc,domain=~rafael.phd
 ||photo^$doc,domain=~faceapp.photo|~glass.photo
 ||photos^$doc,domain=~picsum.photos
-||pics^$doc,domain=~covet.pics|~pixers.pics|~sexhd.pics|~slow.pics|~twic.pics
+||pics^$doc,domain=~am-cdn.pics|~covet.pics|~pixers.pics|~sexhd.pics|~slow.pics|~twic.pics
 ||pictures^$doc,domain=~cleanup.pictures|~comick.pictures|~pornhoarder.pictures
 ||pink^$doc
 ||pizza^$doc,domain=~tux.pizza

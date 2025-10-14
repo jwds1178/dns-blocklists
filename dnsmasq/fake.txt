@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 22:29 UTC
-# Version: 2025.1013.2229.32
+# Last modified: 14 Oct 2025 10:29 UTC
+# Version: 2025.1014.1029.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14269
+# Number of entries: 14274
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1964,6 +1964,7 @@ local=/buckleybelts.de/
 local=/buckleyswiss.com/
 local=/budai-tech.de/
 local=/budawi.shop/
+local=/budgetburstdeals.com/
 local=/budgethardware.net/
 local=/budgetmagic.eu/
 local=/budowaffen.de/
@@ -2412,6 +2413,7 @@ local=/climbinglimit.com/
 local=/cliniqueloccitane.com/
 local=/clisicerity.com/
 local=/clivechristianuk.com/
+local=/cllusatoam.com/
 local=/clockwisek.com/
 local=/clorislife.com/
 local=/clotha-boutique.de/
@@ -2659,7 +2661,6 @@ local=/pellet-bio.company.site/
 local=/pellet-ecos.company.site/
 local=/comparatiq.com/
 local=/comparisonp.com/
-local=/compensair.com/
 local=/competitiog.com/
 local=/compixa-shop.de/
 local=/complemeny.com/
@@ -2823,6 +2824,7 @@ local=/crxjik.shop/
 local=/cryotoxtrade.com/
 local=/cryptex-online.de/
 local=/cryptex-vip.com/
+local=/tax.crypto.com/
 local=/crypto-bulot.com/
 local=/crypto-institute.com/
 local=/crypto-invest-ai.de/
@@ -3185,6 +3187,7 @@ local=/deregresoalafuente.com/
 local=/derekoutlet.de/
 local=/derfairmieter.de/
 local=/derimoservices.com/
+local=/derivainasm.com/
 local=/derkaminofenhandel.de/
 local=/derkatzenshop.de/
 local=/dermao.com/
@@ -8975,6 +8978,7 @@ local=/nazaone.com/
 local=/nbynicole.com/
 local=/ncases.com/
 local=/nchen.de/
+local=/ndfinitee.com/
 local=/nealinastore.shop/
 local=/near-on-chain.de/
 local=/neary.de/
@@ -11739,6 +11743,7 @@ local=/sparmarie24.de/
 local=/sparprime.com/
 local=/sparwahnsinn24.de/
 local=/spd-mossautal.de/
+local=/specializeg.com/
 local=/specialmenswear.com/
 local=/specialpurchasepoint.com/
 local=/specialselling.com/
@@ -13503,7 +13508,6 @@ local=/vitalvigoury.com/
 local=/viva-markets.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
-local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
@@ -14278,4 +14282,5 @@ local=/zusammenmitthule.de/
 local=/zweirad-dach.de/
 local=/zwergspitzpomeranian.com/
 local=/zwischenportal.com/
+local=/zxmcm.com/
 local=/zytocapitalnew.com/

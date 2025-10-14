@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Oct 2025 10:15 UTC
-! Version: 2025.1013.1015.27
+! Last modified: 14 Oct 2025 10:16 UTC
+! Version: 2025.1014.1016.03
 ! Syntax: AdBlock
-! Number of entries: 1980
+! Number of entries: 1981
 !
 ||l.1mp.ru^
 ||t.1und1.de^
@@ -304,6 +304,7 @@
 ||unilever2.demdex.net^
 ||unilever3.demdex.net^
 ||unileverbrazil.demdex.net^
+||dealabs.digidip.net^
 ||mydealz.digidip.net^
 ||online.digital-advisor.com^
 ||link.digitaladvisor.dk^

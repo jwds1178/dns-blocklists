@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 23:46 UTC
-# Version: 2025.1013.2346.16
+# Last modified: 14 Oct 2025 11:55 UTC
+# Version: 2025.1014.1155.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3434
+# Number of entries: 3433
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -18,7 +18,6 @@
 *.dns.010812.xyz
 *.dns.080590.xyz
 *.0815cloud.de
-*.0ms.dev
 *.dns.0ooo.icu
 *.1.0rz.space
 *.2.0rz.space
