@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Oct 2025 22:51 UTC
-! Version: 2025.1014.2251.20
+! Last modified: 15 Oct 2025 10:45 UTC
+! Version: 2025.1015.1045.41
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -703,7 +703,6 @@
 @@||avails.vip^
 @@||links.avalaunch.app^
 @@||avbc.me^
-@@||aveerro.com^
 @@||aven.ga^
 @@||avenir.to^
 @@||avhop.net^
@@ -1077,7 +1076,6 @@
 @@||bti.ninja^
 @@||btiliy.com^
 @@||btly.cc^
-@@||btly.me^
 @@||btm.li^
 @@||s.bts-ev.de^
 @@||btty.in^
@@ -1142,7 +1140,6 @@
 @@||c6.rip^
 @@||c80.us^
 @@||c87.to^
-@@||cabletv.live^
 @@||cactusskyonline.com^
 @@||cadill.ac^
 @@||cal.link^

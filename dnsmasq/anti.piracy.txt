@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 00:08 UTC
-# Version: 2025.1015.0008.48
+# Last modified: 15 Oct 2025 14:20 UTC
+# Version: 2025.1015.1420.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11520
+# Number of entries: 11515
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1092,7 +1092,6 @@ local=/avxhm.se/
 local=/awesome-hd.me/
 local=/awtdg.site/
 local=/awtsport.com/
-local=/axemovies.net/
 local=/axxo.me/
 local=/axxomovies.org/
 local=/ayakalounge.me/
@@ -1148,7 +1147,6 @@ local=/batmanstream.cc/
 local=/batmanstream.info/
 local=/batmanstream.online/
 local=/batmanstream.watch/
-local=/batstream.tv/
 local=/bayernstream.com/
 local=/bayfiles.com/
 local=/bayofpirates.xyz/
@@ -1179,7 +1177,6 @@ local=/bdspeed.com/
 local=/bdtv.live/
 local=/bdupload.asia/
 local=/bdvid.com/
-local=/beachbuggyracingapk.net/
 local=/beaconlink.net/
 local=/beatbump.io/
 local=/beatrice-raws.org/
@@ -1851,7 +1848,6 @@ local=/chronologicallylost.com/
 local=/cikava-ideya.top/
 local=/cili001.com/
 local=/ciligou0.com/
-local=/cine.to/
 local=/cineb.net/
 local=/cineb.rs/
 local=/cinebay.org/
@@ -1883,12 +1879,10 @@ local=/cineblog01.cyou/
 local=/cineblog01.delivery/
 local=/cineblog01.democrat/
 local=/cineblog01.discount/
-local=/cineblog01.diy/
 local=/cineblog01.download/
 local=/cineblog01.energy/
 local=/cineblog01.exchange/
 local=/cineblog01.farm/
-local=/cineblog01.feedback/
 local=/cineblog01.fm/
 local=/cineblog01.fun/
 local=/cineblog01.futbol/
@@ -3168,6 +3162,7 @@ local=/torrentz.eu.com/
 local=/1.tracker.eu.org/
 local=/2.tracker.eu.org/
 local=/3.tracker.eu.org/
+local=/4.tracker.eu.org/
 local=/turiyabrucesta.eu.com/
 local=/euro2024direct.ru/
 local=/euroddl.com/
@@ -6042,6 +6037,7 @@ local=/mediaboxbd.com/
 local=/mediaboxhd.net/
 local=/mediafire.com/
 local=/mediafiretrend.com/
+local=/mediaget.com/
 local=/mediakey.dk/
 local=/medialink24.net/
 local=/mega.nz/
@@ -9455,7 +9451,6 @@ local=/tracker.tleechreload.org/
 local=/tlgetin.cc/
 local=/tlm-project.org/
 local=/tlt-torrent.ru/
-local=/tracker.tnl.one/
 local=/tntmac.com/
 local=/tnttorrent.info/
 local=/tntvillage.org/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Oct 2025 11:06 UTC
-# Version: 2025.1012.1106.26
+# Last modified: 15 Oct 2025 13:47 UTC
+# Version: 2025.1015.1347.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1386
+# Number of entries: 1385
 #
 local=/000a.de/
 local=/000space.com/
@@ -441,7 +441,6 @@ local=/com0.de/
 local=/com24.at/
 local=/comeze.com/
 local=/comhem.se/
-local=/cominbaxz.xyz/
 local=/community.lc/
 local=/community24.eu/
 local=/comule.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760486880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760538000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Oct 2025 00:08 UTC
-; Version: 2025.1015.0008.48
+; Last modified: 15 Oct 2025 14:20 UTC
+; Version: 2025.1015.1420.05
 ; Syntax: RPZ
-; Number of entries: 23040
+; Number of entries: 23030
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5536,6 +5536,8 @@ mediafire.com CNAME .
 *.mediafire.com CNAME .
 mediafiretrend.com CNAME .
 *.mediafiretrend.com CNAME .
+mediaget.com CNAME .
+*.mediaget.com CNAME .
 mega-bits.com CNAME .
 *.mega-bits.com CNAME .
 mega-exclue.com CNAME .
@@ -8770,8 +8772,6 @@ cineblog01.discount CNAME .
 *.cineblog01.discount CNAME .
 streamingcommunity.discount CNAME .
 *.streamingcommunity.discount CNAME .
-cineblog01.diy CNAME .
-*.cineblog01.diy CNAME .
 dood.diy CNAME .
 *.dood.diy CNAME .
 hdmovie2.diy CNAME .
@@ -9184,8 +9184,6 @@ usenet.farm CNAME .
 *.usenet.farm CNAME .
 hdmovie2.fashion CNAME .
 *.hdmovie2.fashion CNAME .
-cineblog01.feedback CNAME .
-*.cineblog01.feedback CNAME .
 vegamovies.feedback CNAME .
 *.vegamovies.feedback CNAME .
 gomovies123.fi CNAME .
@@ -13116,8 +13114,6 @@ attackertv.net CNAME .
 *.attackertv.net CNAME .
 audiobookbay.net CNAME .
 *.audiobookbay.net CNAME .
-axemovies.net CNAME .
-*.axemovies.net CNAME .
 retracker.baikal-telecom.net CNAME .
 *.retracker.baikal-telecom.net CNAME .
 baixarpremium.net CNAME .
@@ -13138,8 +13134,6 @@ bdlan.net CNAME .
 *.bdlan.net CNAME .
 bdmovies.net CNAME .
 *.bdmovies.net CNAME .
-beachbuggyracingapk.net CNAME .
-*.beachbuggyracingapk.net CNAME .
 beaconlink.net CNAME .
 *.beaconlink.net CNAME .
 bedownload.net CNAME .
@@ -15208,8 +15202,6 @@ streamflix.one CNAME .
 *.streamflix.one CNAME .
 streamingcommunity.one CNAME .
 *.streamingcommunity.one CNAME .
-tracker.tnl.one CNAME .
-*.tracker.tnl.one CNAME .
 topflix.one CNAME .
 *.topflix.one CNAME .
 torrentx.one CNAME .
@@ -15958,6 +15950,8 @@ torrent.eu.org CNAME .
 *.2.tracker.eu.org CNAME .
 3.tracker.eu.org CNAME .
 *.3.tracker.eu.org CNAME .
+4.tracker.eu.org CNAME .
+*.4.tracker.eu.org CNAME .
 everythingmoe.org CNAME .
 *.everythingmoe.org CNAME .
 evopt.org CNAME .
@@ -20102,8 +20096,6 @@ canna-power.to CNAME .
 *.canna-power.to CNAME .
 cataz.to CNAME .
 *.cataz.to CNAME .
-cine.to CNAME .
-*.cine.to CNAME .
 tracker.cinemaz.to CNAME .
 *.tracker.cinemaz.to CNAME .
 comicmafia.to CNAME .
@@ -21052,8 +21044,6 @@ barbiemovies.tv CNAME .
 *.barbiemovies.tv CNAME .
 batman-stream.tv CNAME .
 *.batman-stream.tv CNAME .
-batstream.tv CNAME .
-*.batstream.tv CNAME .
 beeriptv.tv CNAME .
 *.beeriptv.tv CNAME .
 biggapan.tv CNAME .

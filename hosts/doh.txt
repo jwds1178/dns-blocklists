@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 00:16 UTC
-# Version: 2025.1015.0016.07
+# Last modified: 15 Oct 2025 14:25 UTC
+# Version: 2025.1015.1425.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3911
+# Number of entries: 3910
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -545,7 +545,6 @@
 0.0.0.0 c-dns.com
 0.0.0.0 www.c-dns.com
 0.0.0.0 dns.c0ntroller.de
-0.0.0.0 dns.cabbage.zone
 0.0.0.0 jujuba.cafuringa.org
 0.0.0.0 dns.cahlen.com
 0.0.0.0 aduhai.caksono.com

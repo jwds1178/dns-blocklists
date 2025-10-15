@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Oct 2025 22:51 UTC
-# Version: 2025.1014.2251.20
+# Last modified: 15 Oct 2025 10:45 UTC
+# Version: 2025.1015.1045.41
 # Syntax: Domains (without subdomains)
-# Number of entries: 7757
+# Number of entries: 7753
 #
 0.gp
 00m.in
@@ -735,7 +735,6 @@ autolink.live
 avails.vip
 links.avalaunch.app
 avbc.me
-aveerro.com
 aven.ga
 avenir.to
 avhop.net
@@ -949,7 +948,6 @@ bitly.kr
 bitly.lc
 bitly.mobi
 bitly.net
-bitly.network
 bitly.pk
 bitly.pw
 bitly.team
@@ -1123,7 +1121,6 @@ btf.st
 bti.ninja
 btiliy.com
 btly.cc
-btly.me
 btm.li
 s.bts-ev.de
 btty.in
@@ -1189,7 +1186,6 @@ c4x.ir
 c6.rip
 c80.us
 c87.to
-cabletv.live
 cactusskyonline.com
 cadill.ac
 cal.link

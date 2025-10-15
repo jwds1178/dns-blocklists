@@ -871,7 +871,7 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
               
 | Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC | Apple |
 |:-----------|:---------------|:------------------|:--------|
-| Pro plus + TIF + DoH Bypass + Allowlist Referral + ??? (not publicly disclosed) | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
+| Pro plus + TIF + DoH Bypass + Allowlist Referral | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

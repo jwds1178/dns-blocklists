@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Oct 2025 22:51 UTC
-# Version: 2025.1014.2251.20
+# Last modified: 15 Oct 2025 10:45 UTC
+# Version: 2025.1015.1045.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7757
+# Number of entries: 7753
 #
 local=/0.gp/
 local=/00m.in/
@@ -735,7 +735,6 @@ local=/autolink.live/
 local=/avails.vip/
 local=/links.avalaunch.app/
 local=/avbc.me/
-local=/aveerro.com/
 local=/aven.ga/
 local=/avenir.to/
 local=/avhop.net/
@@ -949,7 +948,6 @@ local=/bitly.kr/
 local=/bitly.lc/
 local=/bitly.mobi/
 local=/bitly.net/
-local=/bitly.network/
 local=/bitly.pk/
 local=/bitly.pw/
 local=/bitly.team/
@@ -1123,7 +1121,6 @@ local=/btf.st/
 local=/bti.ninja/
 local=/btiliy.com/
 local=/btly.cc/
-local=/btly.me/
 local=/btm.li/
 local=/s.bts-ev.de/
 local=/btty.in/
@@ -1189,7 +1186,6 @@ local=/c4x.ir/
 local=/c6.rip/
 local=/c80.us/
 local=/c87.to/
-local=/cabletv.live/
 local=/cactusskyonline.com/
 local=/cadill.ac/
 local=/cal.link/

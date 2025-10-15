@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 00:16 UTC
-# Version: 2025.1015.0016.07
+# Last modified: 15 Oct 2025 14:25 UTC
+# Version: 2025.1015.1425.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3432
+# Number of entries: 3431
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -473,7 +473,6 @@ local=/dns.busold.ws/
 local=/dns.butterfly87.sbs/
 local=/c-dns.com/
 local=/dns.c0ntroller.de/
-local=/dns.cabbage.zone/
 local=/jujuba.cafuringa.org/
 local=/dns.cahlen.com/
 local=/aduhai.caksono.com/

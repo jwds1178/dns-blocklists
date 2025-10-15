@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760482260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760525100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Oct 2025 22:51 UTC
-; Version: 2025.1014.2251.20
+; Last modified: 15 Oct 2025 10:45 UTC
+; Version: 2025.1015.1045.41
 ; Syntax: RPZ
-; Number of entries: 15514
+; Number of entries: 15506
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2737,8 +2737,6 @@ attlinks.com CNAME .
 *.attlinks.com CNAME .
 audiof.com CNAME .
 *.audiof.com CNAME .
-aveerro.com CNAME .
-*.aveerro.com CNAME .
 avitlink.com CNAME .
 *.avitlink.com CNAME .
 awtgatp.com CNAME .
@@ -9945,8 +9943,6 @@ autolink.live CNAME .
 *.autolink.live CNAME .
 bit24.live CNAME .
 *.bit24.live CNAME .
-cabletv.live CNAME .
-*.cabletv.live CNAME .
 casashort.live CNAME .
 *.casashort.live CNAME .
 clotplaynews.live CNAME .
@@ -10557,8 +10553,6 @@ bslm.me CNAME .
 *.bslm.me CNAME .
 bstk.me CNAME .
 *.bstk.me CNAME .
-btly.me CNAME .
-*.btly.me CNAME .
 buk.me CNAME .
 *.buk.me CNAME .
 burl.me CNAME .
@@ -11949,8 +11943,6 @@ zsms.net CNAME .
 *.zsms.net CNAME .
 zxq.net CNAME .
 *.zxq.net CNAME .
-bitly.network CNAME .
-*.bitly.network CNAME .
 git.new CNAME .
 *.git.new CNAME .
 aawsat.news CNAME .

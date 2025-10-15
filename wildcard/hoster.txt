@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Oct 2025 11:06 UTC
-# Version: 2025.1012.1106.26
+# Last modified: 15 Oct 2025 13:47 UTC
+# Version: 2025.1015.1347.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1386
+# Number of entries: 1385
 #
 *.000a.de
 *.000space.com
@@ -441,7 +441,6 @@
 *.com24.at
 *.comeze.com
 *.comhem.se
-*.cominbaxz.xyz
 *.community.lc
 *.community24.eu
 *.comule.com
