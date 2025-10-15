@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Oct 2025 14:25 UTC
-! Version: 2025.1015.1425.32
+! Last modified: 15 Oct 2025 23:46 UTC
+! Version: 2025.1015.2346.40
 ! Syntax: AdBlock
-! Number of entries: 3431
+! Number of entries: 3423
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -718,7 +718,6 @@
 ||dns.cwlys.com^
 ||gc.cyberbeta.cn^
 ||nanopi.cybergroove.net^
-||dns.cybertonic.tech^
 ||dns2.cybrespace.net^
 ||dns.cynthialabs.net^
 ||dns.d365.in^
@@ -728,7 +727,6 @@
 ||dns.d4d.moe^
 ||dns.d8e.ru^
 ||dns.d94.xyz^
-||dns.d96.info^
 ||dns.daarrk.tech^
 ||dns.dallinbryce.com^
 ||fr.dalockd.net^
@@ -1078,7 +1076,6 @@
 ||uncensored-dot.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
-||do-39574-tr.xyz^
 ||docker-hub.ir^
 ||doh.beauty^
 ||doh.best^
@@ -1130,7 +1127,6 @@
 ||eweyo.duckdns.org^
 ||gcpddns.duckdns.org^
 ||genielee.duckdns.org^
-||homejerem.duckdns.org^
 ||jfeoks.duckdns.org^
 ||jurre-home.duckdns.org^
 ||kalwat.duckdns.org^
@@ -1139,9 +1135,7 @@
 ||krtekvpn.duckdns.org^
 ||ldaman.duckdns.org^
 ||leoadguard.duckdns.org^
-||morgenegg.duckdns.org^
 ||nas1403.duckdns.org^
-||nikamurs.duckdns.org^
 ||nqh-dns.duckdns.org^
 ||o--o.duckdns.org^
 ||osefcorp.duckdns.org^
@@ -1237,7 +1231,6 @@
 ||doh.ersei.net^
 ||dns.esegece.com^
 ||dns-family.esegece.com^
-||dns.esinc.xyz^
 ||dns.esnube.es^
 ||dns.internal.espresso-tasse.de^
 ||essentiallyjay.com^
@@ -1327,7 +1320,6 @@
 ||fidelius.top^
 ||dns.fifux.be^
 ||dns.filipccz.eu^
-||filipinoray.com^
 ||vm3421302.firstbyte.club^
 ||adg.fiyaajans.com^
 ||dns.fizz.studio^

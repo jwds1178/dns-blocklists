@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Oct 2025 13:03 UTC
-! Version: 2025.1015.1303.03
+! Last modified: 15 Oct 2025 22:27 UTC
+! Version: 2025.1015.2227.21
 ! Syntax: AdBlock
-! Number of entries: 14272
+! Number of entries: 14249
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2834,7 +2834,6 @@
 ||cryptosone.com^
 ||cryptotradeclub.ltd^
 ||cryptotrader.app^
-||crystablue.com^
 ||crystal-inter.com^
 ||crystalli.de^
 ||crytomerge.com^
@@ -3120,7 +3119,6 @@
 ||parcel.deliv.com^
 ||delson.de^
 ||delta-stock.com^
-||deltabigai.net^
 ||deltadraht.de^
 ||deluxepallets.com^
 ||deluxeskin.de^
@@ -3231,7 +3229,6 @@
 ||deutsche-fahrrader.com^
 ||deutsche-finanzag.com^
 ||deutsche-rentenauskunft.de^
-||deutscheazimmer.com^
 ||deutschegrammophoneu-outlets.shop^
 ||deutschezeltwelt.com^
 ||deutschla.de^
@@ -3255,7 +3252,6 @@
 ||dfeoq.com^
 ||dgeyone.com^
 ||dgtlfuture.com^
-||dhbs-consulting.com^
 ||dhrys.com^
 ||diaetolin.com^
 ||diaetoxil.de^
@@ -3271,11 +3267,9 @@
 ||die-garten-meister.de^
 ||die-sattelgalerie.shop^
 ||die-stoffstube.shop^
-||diebestenparfums.xyz^
 ||diebunten-ev.de^
 ||diection.com^
 ||diekaffeeverkauf.com^
-||diekuchetoolrabatt.com^
 ||dielabubu.store^
 ||dienaturpotenzstore.com^
 ||dieselbr.com^
@@ -3432,7 +3426,6 @@
 ||dormamu.com^
 ||dormanshop.com^
 ||dortmund-warenhaus.de^
-||dosiman.shop^
 ||dotmalls.com^
 ||dotuant.com^
 ||doublecapitals.com^
@@ -3474,7 +3467,6 @@
 ||dresdem.com^
 ||dresdenmodehaus.de^
 ||dresdnererlebniswelteu.shop^
-||dresschicholland.com^
 ||dressedandblessed.nl^
 ||dressshirtsblouses.com^
 ||drezia.com^
@@ -3584,7 +3576,6 @@
 ||east-trading.shop^
 ||eastcapitalmarkets.com^
 ||eastpakwien.at^
-||easy-oel.de^
 ||easy-software.org^
 ||easyca.ca^
 ||easycrypto4u.com^
@@ -3613,7 +3604,6 @@
 ||eccodeutschland.de^
 ||eccomontreal.com^
 ||eccooutletsklep.pl^
-||eceq.org^
 ||echlat.com^
 ||echoextremetool.com^
 ||echooria.com^
@@ -3634,7 +3624,6 @@
 ||economicq.com^
 ||economix.io^
 ||economizesses.xyz^
-||econopartsmasy.com^
 ||econosavecenter.com^
 ||ecoooc.com^
 ||ecosilkroad.com^
@@ -3642,7 +3631,6 @@
 ||ecs-solutions.net^
 ||ed-apotheke.de^
 ||edapotheke.store^
-||edautopecas.com^
 ||edavo.de^
 ||edcmesser.com^
 ||eddiebauershop.de^
@@ -3673,24 +3661,20 @@
 ||edpills.de^
 ||edpilulanetwork.com^
 ||edrxmeds.com^
-||ee-fahrrad-handel.de^
 ||eesasinternationalbv.com^
 ||eew-karriere.de^
 ||efaststore.com^
 ||effiziente-taubenabwehr.at^
-||eg-hofheim.de^
 ||egapark-erfurt.com^
 ||ege-exquisit.de^
 ||eggelingen.de^
 ||egooutdoortools.com^
 ||egoryspecies.com^
-||egscap.com^
 ||ehandler.de^
 ||ehletsandreabergwelpen.de^
 ||ehreer.com^
 ||eigenheimmagazin.de^
 ||eigensinnig-wien.shop^
-||eimer-geraeten.com^
 ||ein-kaffee.de^
 ||einayah.com^
 ||einfachelinklogistik.com^
@@ -3717,7 +3701,6 @@
 ||elbasforst.com^
 ||elbschein.de^
 ||eleclc.com^
-||eleclerc-partnership.store^
 ||elecmassage.fr^
 ||electra-bikes.com^
 ||electric-b2c.com^
@@ -3746,7 +3729,6 @@
 ||elegsant.com^
 ||elektora.de^
 ||elektricworld24.de^
-||elektriker-fritz.de^
 ||elektriker-hilfe.at^
 ||elektriker-john.at^
 ||elektriker-notdienstwien.com^
@@ -3888,10 +3870,8 @@
 ||endrix-pat.fr^
 ||energeticw.com^
 ||energfahrrad.de^
-||energie-fee.de^
 ||energie-thuleweit.de^
 ||energieheizen.de^
-||energieheld24.com^
 ||energiekick.at^
 ||energiesparlampen.shop^
 ||energyhood.de^
@@ -3929,7 +3909,6 @@
 ||eosvisionoptics.com^
 ||ep-invest58.com^
 ||unser-eshop.shop.epages.de^
-||eparadies.com^
 ||epargne-avenir.com^
 ||epargne-whisky.com^
 ||epargnefacile.com^
@@ -4045,7 +4024,6 @@
 ||eu-unityfahrschule.com^
 ||eu-venum.shop^
 ||eubiofficial.com^
-||eubooks.shop^
 ||eucloseoutue.com^
 ||euergutesbrennholz.com^
 ||eufahrradteile.de^
@@ -4117,7 +4095,6 @@
 ||evane.store^
 ||evans-online.de^
 ||evansdplaw.com^
-||evatrailer.com^
 ||evbam.com^
 ||evelo.shop^
 ||eveningdressesonsale.com^
@@ -4158,14 +4135,12 @@
 ||exklusiv-online.de^
 ||exklusivendesign.com^
 ||exloversvs.life^
-||exmyit.com^
 ||exo-marketing.com^
 ||exodermin.com^
 ||exodermin.eu^
 ||exotekracingparts.com^
 ||exotic-kiss.com^
 ||exoticappearance.com^
-||expedispro.com^
 ||expeditionm.com^
 ||expensiveg.com^
 ||expert-re.com^
@@ -4196,7 +4171,6 @@
 ||faastpharmacy.com^
 ||fabelin.de^
 ||faberkarlbox.shop^
-||fabindix.com^
 ||fabiomontto.com^
 ||fabricatem.com^
 ||fabrika-musik.de^
@@ -4234,7 +4208,6 @@
 ||fahrradhandel-schmidt.com^
 ||fahrradhandel-schulze.de^
 ||fahrradhandel-stanke.de^
-||fahrradhandel-wenzel.de^
 ||fahrradhelmrabatt.com^
 ||fahrradinsel.com^
 ||fahrradkassettede.com^
@@ -4940,6 +4913,7 @@
 ||gardentoolsaleshop.com^
 ||gardentoolssale.com^
 ||gardono-shop.de^
+||gardowork.com^
 ||gardowork.store^
 ||garduru.de^
 ||garmin-online.com^
@@ -9519,6 +9493,7 @@
 ||openmedicine-online.com^
 ||openuplife.com^
 ||operar.xyz^
+||operate-handel.de^
 ||operatork.com^
 ||opholzimpexgmbh.shop^
 ||opitz-handel24.de^
@@ -10767,6 +10742,7 @@
 ||robo-wienburg.com^
 ||roboter-maeher.com^
 ||robottagliaerbascontato.com^
+||robottonte.com^
 ||robowerkstatten.com^
 ||robustwerkzeug.com^
 ||robynbruce.shop^
@@ -10878,6 +10854,7 @@
 ||rubyadkins.shop^
 ||rucksackgo.shop^
 ||rucksackverkauf.de^
+||rudiger-versand.de^
 ||rudolf-emilia.de^
 ||rueboo.com^
 ||rueckwaertssuche.de^

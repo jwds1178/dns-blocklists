@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760538300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760572020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Oct 2025 14:25 UTC
-; Version: 2025.1015.1425.58
+; Last modified: 15 Oct 2025 23:47 UTC
+; Version: 2025.1015.2347.07
 ; Syntax: RPZ
-; Number of entries: 12438
+; Number of entries: 12420
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2045,8 +2045,6 @@ fiberproxy.com CNAME .
 *.fiberproxy.com CNAME .
 filesdownloader.com CNAME .
 *.filesdownloader.com CNAME .
-filipinoray.com CNAME .
-*.filipinoray.com CNAME .
 finchvpn.com CNAME .
 *.finchvpn.com CNAME .
 xcomvpn-7000b-default-rtdb.firebaseio.com CNAME .
@@ -6247,8 +6245,6 @@ cracksite.info CNAME .
 *.cracksite.info CNAME .
 crazysurfer.info CNAME .
 *.crazysurfer.info CNAME .
-dns.d96.info CNAME .
-*.dns.d96.info CNAME .
 directoryproxy.info CNAME .
 *.directoryproxy.info CNAME .
 bilidon.dnsuser.info CNAME .
@@ -9387,8 +9383,6 @@ gcpddns.duckdns.org CNAME .
 *.gcpddns.duckdns.org CNAME .
 genielee.duckdns.org CNAME .
 *.genielee.duckdns.org CNAME .
-homejerem.duckdns.org CNAME .
-*.homejerem.duckdns.org CNAME .
 huawaakiskokoa.duckdns.org CNAME .
 *.huawaakiskokoa.duckdns.org CNAME .
 jfeoks.duckdns.org CNAME .
@@ -9407,12 +9401,8 @@ ldaman.duckdns.org CNAME .
 *.ldaman.duckdns.org CNAME .
 leoadguard.duckdns.org CNAME .
 *.leoadguard.duckdns.org CNAME .
-morgenegg.duckdns.org CNAME .
-*.morgenegg.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 *.nas1403.duckdns.org CNAME .
-nikamurs.duckdns.org CNAME .
-*.nikamurs.duckdns.org CNAME .
 nqh-dns.duckdns.org CNAME .
 *.nqh-dns.duckdns.org CNAME .
 o--o.duckdns.org CNAME .
@@ -10609,8 +10599,6 @@ kazuma-fumo.24-7.ro CNAME .
 *.kazuma-fumo.24-7.ro CNAME .
 home.amq.ro CNAME .
 *.home.amq.ro CNAME .
-doge.dinprima.ro CNAME .
-*.doge.dinprima.ro CNAME .
 roadesdyn.go.ro CNAME .
 *.roadesdyn.go.ro CNAME .
 socolov.home.ro CNAME .
@@ -11229,8 +11217,6 @@ adguard.fatu.systems CNAME .
 *.adguard.fatu.systems CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.cybertonic.tech CNAME .
-*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 s6.dipper315.tech CNAME .
@@ -12199,8 +12185,6 @@ cv-unfiltered.xyz CNAME .
 *.cv-unfiltered.xyz CNAME .
 dns.d94.xyz CNAME .
 *.dns.d94.xyz CNAME .
-do-39574-tr.xyz CNAME .
-*.do-39574-tr.xyz CNAME .
 doh.xyz CNAME .
 *.doh.xyz CNAME .
 agh.dshubham.xyz CNAME .
@@ -12209,8 +12193,6 @@ adguard.elashri.xyz CNAME .
 *.adguard.elashri.xyz CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
-dns.esinc.xyz CNAME .
-*.dns.esinc.xyz CNAME .
 adguard.eximpius.xyz CNAME .
 *.adguard.eximpius.xyz CNAME .
 expressvpn.xyz CNAME .

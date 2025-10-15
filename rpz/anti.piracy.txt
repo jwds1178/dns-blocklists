@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760538000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760571660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Oct 2025 14:20 UTC
-; Version: 2025.1015.1420.05
+; Last modified: 15 Oct 2025 23:41 UTC
+; Version: 2025.1015.2341.02
 ; Syntax: RPZ
-; Number of entries: 23030
+; Number of entries: 23010
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -206,8 +206,6 @@ corkmac.app CNAME .
 *.corkmac.app CNAME .
 dfast.app CNAME .
 *.dfast.app CNAME .
-dramaqu.app CNAME .
-*.dramaqu.app CNAME .
 eurostreaming.app CNAME .
 *.eurostreaming.app CNAME .
 fdownload.app CNAME .
@@ -1918,10 +1916,6 @@ cineblog01.cloud CNAME .
 *.cineblog01.cloud CNAME .
 couchtuner.cloud CNAME .
 *.couchtuner.cloud CNAME .
-movies.didiinthe.cloud CNAME .
-*.movies.didiinthe.cloud CNAME .
-dramaqu.cloud CNAME .
-*.dramaqu.cloud CNAME .
 eurostreaming.cloud CNAME .
 *.eurostreaming.cloud CNAME .
 fastshare.cloud CNAME .
@@ -4284,8 +4278,6 @@ forum.exetools.com CNAME .
 *.forum.exetools.com CNAME .
 expressdown.com CNAME .
 *.expressdown.com CNAME .
-extinf.com CNAME .
-*.extinf.com CNAME .
 extmatrix.com CNAME .
 *.extmatrix.com CNAME .
 extratorrent.com CNAME .
@@ -10674,8 +10666,6 @@ eztv.io CNAME .
 *.eztv.io CNAME .
 filelist.io CNAME .
 *.filelist.io CNAME .
-filmpertutti.io CNAME .
-*.filmpertutti.io CNAME .
 filmsenzalimiti.io CNAME .
 *.filmsenzalimiti.io CNAME .
 filmstreaming.io CNAME .
@@ -12590,8 +12580,6 @@ crichd.mobi CNAME .
 *.crichd.mobi CNAME .
 cuevana3.mobi CNAME .
 *.cuevana3.mobi CNAME .
-dramaqu.mobi CNAME .
-*.dramaqu.mobi CNAME .
 fztvseries.mobi CNAME .
 *.fztvseries.mobi CNAME .
 ilgeniodellostreaming.mobi CNAME .
@@ -12800,8 +12788,6 @@ vegamovies.nagoya CNAME .
 *.vegamovies.nagoya CNAME .
 casacinema.name CNAME .
 *.casacinema.name CNAME .
-dramaqu.name CNAME .
-*.dramaqu.name CNAME .
 filmsenzalimiti.name CNAME .
 *.filmsenzalimiti.name CNAME .
 hesgoal.name CNAME .
@@ -17944,8 +17930,6 @@ cyber-hub.pw CNAME .
 *.cyber-hub.pw CNAME .
 demonoid.pw CNAME .
 *.demonoid.pw CNAME .
-dramaqu.pw CNAME .
-*.dramaqu.pw CNAME .
 dunia21.pw CNAME .
 *.dunia21.pw CNAME .
 fileupload.pw CNAME .
@@ -18090,8 +18074,6 @@ cineblog01.red CNAME .
 *.cineblog01.red CNAME .
 corsaro.red CNAME .
 *.corsaro.red CNAME .
-dramaqu.red CNAME .
-*.dramaqu.red CNAME .
 filmstreaming.red CNAME .
 *.filmstreaming.red CNAME .
 guardarefilm.red CNAME .
@@ -19238,8 +19220,6 @@ dodi-repacks.site CNAME .
 *.dodi-repacks.site CNAME .
 dramaqu.site CNAME .
 *.dramaqu.site CNAME .
-egydead.site CNAME .
-*.egydead.site CNAME .
 elamigos.site CNAME .
 *.elamigos.site CNAME .
 europixhd.site CNAME .

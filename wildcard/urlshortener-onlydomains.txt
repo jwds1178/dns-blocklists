@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 10:45 UTC
-# Version: 2025.1015.1045.41
+# Last modified: 15 Oct 2025 22:29 UTC
+# Version: 2025.1015.2229.08
 # Syntax: Domains (without subdomains)
-# Number of entries: 7753
+# Number of entries: 7752
 #
 0.gp
 00m.in
@@ -2029,7 +2029,6 @@ eohelp.link
 epicureanrecipevault.one
 epmlnk.io
 epochtim.es
-eprofil.eu
 ept.ms
 eqix.it
 eqrco.de

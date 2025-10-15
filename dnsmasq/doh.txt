@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 14:25 UTC
-# Version: 2025.1015.1425.32
+# Last modified: 15 Oct 2025 23:46 UTC
+# Version: 2025.1015.2346.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3431
+# Number of entries: 3423
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -717,7 +717,6 @@ local=/curser.dev/
 local=/dns.cwlys.com/
 local=/gc.cyberbeta.cn/
 local=/nanopi.cybergroove.net/
-local=/dns.cybertonic.tech/
 local=/dns2.cybrespace.net/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
@@ -727,7 +726,6 @@ local=/d3vy.ru/
 local=/dns.d4d.moe/
 local=/dns.d8e.ru/
 local=/dns.d94.xyz/
-local=/dns.d96.info/
 local=/dns.daarrk.tech/
 local=/dns.dallinbryce.com/
 local=/fr.dalockd.net/
@@ -1077,7 +1075,6 @@ local=/sg1.dnswarden.com/
 local=/uncensored-dot.dnswarden.com/
 local=/doh.us.dnswarden.com/
 local=/dnswebvsn.com/
-local=/do-39574-tr.xyz/
 local=/docker-hub.ir/
 local=/doh.beauty/
 local=/doh.best/
@@ -1129,7 +1126,6 @@ local=/dorkanddoodle.duckdns.org/
 local=/eweyo.duckdns.org/
 local=/gcpddns.duckdns.org/
 local=/genielee.duckdns.org/
-local=/homejerem.duckdns.org/
 local=/jfeoks.duckdns.org/
 local=/jurre-home.duckdns.org/
 local=/kalwat.duckdns.org/
@@ -1138,9 +1134,7 @@ local=/kolobok2.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/ldaman.duckdns.org/
 local=/leoadguard.duckdns.org/
-local=/morgenegg.duckdns.org/
 local=/nas1403.duckdns.org/
-local=/nikamurs.duckdns.org/
 local=/nqh-dns.duckdns.org/
 local=/o--o.duckdns.org/
 local=/osefcorp.duckdns.org/
@@ -1236,7 +1230,6 @@ local=/agh.ero-sayhi.com/
 local=/doh.ersei.net/
 local=/dns.esegece.com/
 local=/dns-family.esegece.com/
-local=/dns.esinc.xyz/
 local=/dns.esnube.es/
 local=/dns.internal.espresso-tasse.de/
 local=/essentiallyjay.com/
@@ -1326,7 +1319,6 @@ local=/dns.fgbk.net/
 local=/fidelius.top/
 local=/dns.fifux.be/
 local=/dns.filipccz.eu/
-local=/filipinoray.com/
 local=/vm3421302.firstbyte.club/
 local=/adg.fiyaajans.com/
 local=/dns.fizz.studio/

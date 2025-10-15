@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Oct 2025 14:20 UTC
-! Version: 2025.1015.1420.05
+! Last modified: 15 Oct 2025 23:41 UTC
+! Version: 2025.1015.2341.02
 ! Syntax: AdBlock
-! Number of entries: 11515
+! Number of entries: 11505
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -2567,7 +2567,6 @@
 ||tracker.dicmusic.club^
 ||didarit.com^
 ||dididave.com^
-||movies.didiinthe.cloud^
 ||dietdinnerrecipes.com^
 ||digbazi.net^
 ||digbt.org^
@@ -2877,21 +2876,15 @@
 ||dramacoolfirst.com^
 ||dramaday.me^
 ||dramago.com^
-||dramaqu.app^
 ||dramaqu.beauty^
 ||dramaqu.click^
-||dramaqu.cloud^
 ||dramaqu.digital^
 ||dramaqu.info^
 ||dramaqu.live^
 ||dramaqu.me^
-||dramaqu.mobi^
-||dramaqu.name^
 ||dramaqu.net^
 ||dramaqu.network^
 ||dramaqu.online^
-||dramaqu.pw^
-||dramaqu.red^
 ||dramaqu.rocks^
 ||dramaqu.site^
 ||dramaqu.vip^
@@ -3048,7 +3041,6 @@
 ||egydead.org^
 ||egydead.pro^
 ||egydead.show^
-||egydead.site^
 ||egydead.space^
 ||egydead.top^
 ||egydead.video^
@@ -3296,7 +3288,6 @@
 ||exsites.co^
 ||exsites.pl^
 ||ext.to^
-||extinf.com^
 ||extmatrix.com^
 ||extramovies.rodeo^
 ||extratime.live^
@@ -3533,7 +3524,6 @@
 ||filmpertutti.fm^
 ||filmpertutti.group^
 ||filmpertutti.info^
-||filmpertutti.io^
 ||filmpertutti.it^
 ||filmpertutti.li^
 ||filmpertutti.life^

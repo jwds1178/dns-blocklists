@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 14:25 UTC
-# Version: 2025.1015.1425.58
+# Last modified: 15 Oct 2025 23:47 UTC
+# Version: 2025.1015.2347.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 6219
+# Number of entries: 6210
 #
 ss.0001.xyz
 003153.xyz
@@ -1296,7 +1296,6 @@ nanopi.cybergroove.net
 cybershield.cc
 cybersilent.com
 cyberssh.com
-dns.cybertonic.tech
 cybertunnel.org
 dns2.cybrespace.net
 dns.cynthialabs.net
@@ -1308,7 +1307,6 @@ d4.re
 dns.d4d.moe
 dns.d8e.ru
 dns.d94.xyz
-dns.d96.info
 dns.daarrk.tech
 dabmix.com
 dns.dallinbryce.com
@@ -1453,7 +1451,6 @@ eka.dilli.dev
 dns.dimantus.com
 code.dingdangnao.com
 t.dingdangnao.com
-doge.dinprima.ro
 dns.dionperera.com
 s6.dipper315.tech
 directoryproxy.info
@@ -1700,7 +1697,6 @@ sg1.dnswarden.com
 uncensored-dot.dnswarden.com
 doh.us.dnswarden.com
 dnswebvsn.com
-do-39574-tr.xyz
 googolclasroom.dob.jp
 pleaseworkughhfd.dob.jp
 docker-hub.ir
@@ -1769,7 +1765,6 @@ dorkanddoodle.duckdns.org
 eweyo.duckdns.org
 gcpddns.duckdns.org
 genielee.duckdns.org
-homejerem.duckdns.org
 huawaakiskokoa.duckdns.org
 jfeoks.duckdns.org
 jurre-home.duckdns.org
@@ -1779,9 +1774,7 @@ kolobok2.duckdns.org
 krtekvpn.duckdns.org
 ldaman.duckdns.org
 leoadguard.duckdns.org
-morgenegg.duckdns.org
 nas1403.duckdns.org
-nikamurs.duckdns.org
 nqh-dns.duckdns.org
 o--o.duckdns.org
 osefcorp.duckdns.org
@@ -1928,7 +1921,6 @@ doh.ersei.net
 es-proxy.com
 dns.esegece.com
 dns-family.esegece.com
-dns.esinc.xyz
 dns.esnube.es
 dns.internal.espresso-tasse.de
 essentiallyjay.com
@@ -2073,7 +2065,6 @@ fidelius.top
 dns.fifux.be
 filesdownloader.com
 dns.filipccz.eu
-filipinoray.com
 filterbypass.me
 finchvpn.com
 fineproxy.org

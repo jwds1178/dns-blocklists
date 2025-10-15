@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760538300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760571960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Oct 2025 14:25 UTC
-; Version: 2025.1015.1425.32
+; Last modified: 15 Oct 2025 23:46 UTC
+; Version: 2025.1015.2346.40
 ; Syntax: RPZ
-; Number of entries: 6862
+; Number of entries: 6846
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1111,8 +1111,6 @@ gsat.familyds.com CNAME .
 *.gsat.familyds.com CNAME .
 home.fendya.com CNAME .
 *.home.fendya.com CNAME .
-filipinoray.com CNAME .
-*.filipinoray.com CNAME .
 adg.fiyaajans.com CNAME .
 *.adg.fiyaajans.com CNAME .
 doh.flashstart.com CNAME .
@@ -3079,8 +3077,6 @@ chlaebi.info CNAME .
 *.chlaebi.info CNAME .
 hk.conana.info CNAME .
 *.hk.conana.info CNAME .
-dns.d96.info CNAME .
-*.dns.d96.info CNAME .
 bilidon.dnsuser.info CNAME .
 *.bilidon.dnsuser.info CNAME .
 adh.fastpacefixit.info CNAME .
@@ -4775,8 +4771,6 @@ gcpddns.duckdns.org CNAME .
 *.gcpddns.duckdns.org CNAME .
 genielee.duckdns.org CNAME .
 *.genielee.duckdns.org CNAME .
-homejerem.duckdns.org CNAME .
-*.homejerem.duckdns.org CNAME .
 jfeoks.duckdns.org CNAME .
 *.jfeoks.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
@@ -4793,12 +4787,8 @@ ldaman.duckdns.org CNAME .
 *.ldaman.duckdns.org CNAME .
 leoadguard.duckdns.org CNAME .
 *.leoadguard.duckdns.org CNAME .
-morgenegg.duckdns.org CNAME .
-*.morgenegg.duckdns.org CNAME .
 nas1403.duckdns.org CNAME .
 *.nas1403.duckdns.org CNAME .
-nikamurs.duckdns.org CNAME .
-*.nikamurs.duckdns.org CNAME .
 nqh-dns.duckdns.org CNAME .
 *.nqh-dns.duckdns.org CNAME .
 o--o.duckdns.org CNAME .
@@ -6077,8 +6067,6 @@ adguard.fatu.systems CNAME .
 *.adguard.fatu.systems CNAME .
 3jjxxl.tech CNAME .
 *.3jjxxl.tech CNAME .
-dns.cybertonic.tech CNAME .
-*.dns.cybertonic.tech CNAME .
 dns.daarrk.tech CNAME .
 *.dns.daarrk.tech CNAME .
 s6.dipper315.tech CNAME .
@@ -6719,8 +6707,6 @@ dns.cloud-admin.xyz CNAME .
 *.dns.cloud-admin.xyz CNAME .
 dns.d94.xyz CNAME .
 *.dns.d94.xyz CNAME .
-do-39574-tr.xyz CNAME .
-*.do-39574-tr.xyz CNAME .
 doh.xyz CNAME .
 *.doh.xyz CNAME .
 agh.dshubham.xyz CNAME .
@@ -6729,8 +6715,6 @@ adguard.elashri.xyz CNAME .
 *.adguard.elashri.xyz CNAME .
 hole.elbschloss.xyz CNAME .
 *.hole.elbschloss.xyz CNAME .
-dns.esinc.xyz CNAME .
-*.dns.esinc.xyz CNAME .
 adguard.eximpius.xyz CNAME .
 *.adguard.eximpius.xyz CNAME .
 fra1.eyecay.xyz CNAME .

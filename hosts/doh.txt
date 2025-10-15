@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 14:25 UTC
-# Version: 2025.1015.1425.32
+# Last modified: 15 Oct 2025 23:46 UTC
+# Version: 2025.1015.2346.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3910
+# Number of entries: 3902
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -857,7 +857,6 @@
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
 0.0.0.0 nanopi.cybergroove.net
-0.0.0.0 dns.cybertonic.tech
 0.0.0.0 dns2.cybrespace.net
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
@@ -867,7 +866,6 @@
 0.0.0.0 dns.d4d.moe
 0.0.0.0 dns.d8e.ru
 0.0.0.0 dns.d94.xyz
-0.0.0.0 dns.d96.info
 0.0.0.0 dns.daarrk.tech
 0.0.0.0 dns.dallinbryce.com
 0.0.0.0 fr.dalockd.net
@@ -1261,7 +1259,6 @@
 0.0.0.0 uncensored-dot.dnswarden.com
 0.0.0.0 doh.us.dnswarden.com
 0.0.0.0 dnswebvsn.com
-0.0.0.0 do-39574-tr.xyz
 0.0.0.0 docker-hub.ir
 0.0.0.0 doh.beauty
 0.0.0.0 doh.best
@@ -1352,7 +1349,6 @@
 0.0.0.0 eweyo.duckdns.org
 0.0.0.0 gcpddns.duckdns.org
 0.0.0.0 genielee.duckdns.org
-0.0.0.0 homejerem.duckdns.org
 0.0.0.0 jfeoks.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 kalwat.duckdns.org
@@ -1361,9 +1357,7 @@
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 ldaman.duckdns.org
 0.0.0.0 leoadguard.duckdns.org
-0.0.0.0 morgenegg.duckdns.org
 0.0.0.0 nas1403.duckdns.org
-0.0.0.0 nikamurs.duckdns.org
 0.0.0.0 nqh-dns.duckdns.org
 0.0.0.0 o--o.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
@@ -1460,7 +1454,6 @@
 0.0.0.0 doh.ersei.net
 0.0.0.0 dns.esegece.com
 0.0.0.0 dns-family.esegece.com
-0.0.0.0 dns.esinc.xyz
 0.0.0.0 dns.esnube.es
 0.0.0.0 dns.internal.espresso-tasse.de
 0.0.0.0 handy-matthias.dns.internal.espresso-tasse.de
@@ -1558,7 +1551,6 @@
 0.0.0.0 fidelius.top
 0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 filipinoray.com
 0.0.0.0 vm3421302.firstbyte.club
 0.0.0.0 adg.fiyaajans.com
 0.0.0.0 dns.fizz.studio

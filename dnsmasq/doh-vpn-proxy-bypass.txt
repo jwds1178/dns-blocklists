@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 14:25 UTC
-# Version: 2025.1015.1425.58
+# Last modified: 15 Oct 2025 23:47 UTC
+# Version: 2025.1015.2347.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6219
+# Number of entries: 6210
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1296,7 +1296,6 @@ local=/nanopi.cybergroove.net/
 local=/cybershield.cc/
 local=/cybersilent.com/
 local=/cyberssh.com/
-local=/dns.cybertonic.tech/
 local=/cybertunnel.org/
 local=/dns2.cybrespace.net/
 local=/dns.cynthialabs.net/
@@ -1308,7 +1307,6 @@ local=/d4.re/
 local=/dns.d4d.moe/
 local=/dns.d8e.ru/
 local=/dns.d94.xyz/
-local=/dns.d96.info/
 local=/dns.daarrk.tech/
 local=/dabmix.com/
 local=/dns.dallinbryce.com/
@@ -1453,7 +1451,6 @@ local=/eka.dilli.dev/
 local=/dns.dimantus.com/
 local=/code.dingdangnao.com/
 local=/t.dingdangnao.com/
-local=/doge.dinprima.ro/
 local=/dns.dionperera.com/
 local=/s6.dipper315.tech/
 local=/directoryproxy.info/
@@ -1700,7 +1697,6 @@ local=/sg1.dnswarden.com/
 local=/uncensored-dot.dnswarden.com/
 local=/doh.us.dnswarden.com/
 local=/dnswebvsn.com/
-local=/do-39574-tr.xyz/
 local=/googolclasroom.dob.jp/
 local=/pleaseworkughhfd.dob.jp/
 local=/docker-hub.ir/
@@ -1769,7 +1765,6 @@ local=/dorkanddoodle.duckdns.org/
 local=/eweyo.duckdns.org/
 local=/gcpddns.duckdns.org/
 local=/genielee.duckdns.org/
-local=/homejerem.duckdns.org/
 local=/huawaakiskokoa.duckdns.org/
 local=/jfeoks.duckdns.org/
 local=/jurre-home.duckdns.org/
@@ -1779,9 +1774,7 @@ local=/kolobok2.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/ldaman.duckdns.org/
 local=/leoadguard.duckdns.org/
-local=/morgenegg.duckdns.org/
 local=/nas1403.duckdns.org/
-local=/nikamurs.duckdns.org/
 local=/nqh-dns.duckdns.org/
 local=/o--o.duckdns.org/
 local=/osefcorp.duckdns.org/
@@ -1928,7 +1921,6 @@ local=/doh.ersei.net/
 local=/es-proxy.com/
 local=/dns.esegece.com/
 local=/dns-family.esegece.com/
-local=/dns.esinc.xyz/
 local=/dns.esnube.es/
 local=/dns.internal.espresso-tasse.de/
 local=/essentiallyjay.com/
@@ -2073,7 +2065,6 @@ local=/fidelius.top/
 local=/dns.fifux.be/
 local=/filesdownloader.com/
 local=/dns.filipccz.eu/
-local=/filipinoray.com/
 local=/filterbypass.me/
 local=/finchvpn.com/
 local=/fineproxy.org/

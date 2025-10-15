@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 14:20 UTC
-# Version: 2025.1015.1420.05
+# Last modified: 15 Oct 2025 23:41 UTC
+# Version: 2025.1015.2341.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11515
+# Number of entries: 11505
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2566,7 +2566,6 @@ local=/diamondsrooms.com/
 local=/tracker.dicmusic.club/
 local=/didarit.com/
 local=/dididave.com/
-local=/movies.didiinthe.cloud/
 local=/dietdinnerrecipes.com/
 local=/digbazi.net/
 local=/digbt.org/
@@ -2876,21 +2875,15 @@ local=/drama-online.pl/
 local=/dramacoolfirst.com/
 local=/dramaday.me/
 local=/dramago.com/
-local=/dramaqu.app/
 local=/dramaqu.beauty/
 local=/dramaqu.click/
-local=/dramaqu.cloud/
 local=/dramaqu.digital/
 local=/dramaqu.info/
 local=/dramaqu.live/
 local=/dramaqu.me/
-local=/dramaqu.mobi/
-local=/dramaqu.name/
 local=/dramaqu.net/
 local=/dramaqu.network/
 local=/dramaqu.online/
-local=/dramaqu.pw/
-local=/dramaqu.red/
 local=/dramaqu.rocks/
 local=/dramaqu.site/
 local=/dramaqu.vip/
@@ -3047,7 +3040,6 @@ local=/egydead.onl/
 local=/egydead.org/
 local=/egydead.pro/
 local=/egydead.show/
-local=/egydead.site/
 local=/egydead.space/
 local=/egydead.top/
 local=/egydead.video/
@@ -3295,7 +3287,6 @@ local=/exsite24.pl/
 local=/exsites.co/
 local=/exsites.pl/
 local=/ext.to/
-local=/extinf.com/
 local=/extmatrix.com/
 local=/extramovies.rodeo/
 local=/extratime.live/
@@ -3532,7 +3523,6 @@ local=/filmpertutti.fan/
 local=/filmpertutti.fm/
 local=/filmpertutti.group/
 local=/filmpertutti.info/
-local=/filmpertutti.io/
 local=/filmpertutti.it/
 local=/filmpertutti.li/
 local=/filmpertutti.life/
