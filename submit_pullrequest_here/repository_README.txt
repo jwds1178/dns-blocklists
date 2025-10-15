@@ -53,7 +53,7 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 
 | Version | Entries | Pro++ | Pro | Nor<br>mal | Light | [Fake](#fake) | [TIF](#tif) | [Nat<br>ive](#native) | [PopUp<br>Ads](#popupads) | Bug<br>Tracker |
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
-| :green_book:[Light](#light)             | light_dh<br>light_cp     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
+| :green_book:[Light](#light)             | light_dh<br>light_cp     |  |   |   | :green_circle:  |  | |  :yellow_square: | :yellow_square: | |
 | :blue_book:[Normal](#normal)       | multi_dh<br>multi_cp     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
 | :ledger:[Pro](#pro)              | pro_dh<br>pro_cp         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :orange_book:[Pro++](#proplus)    | proplus_dh<br>proplus_cp | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
@@ -96,9 +96,9 @@ Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking
 | Hosts | [Link](lnkgh_h/light.txt) [M1](lnkgl_h/light.txt) [M2](lnkjd_h/light.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/light-compressed.txt) [M1](lnkgl_h/light-compressed.txt) [M2](lnkjd_h/light-compressed.txt) | Hostfile, Linux |
 | Adblock | [Link](lnkgh_a/light.txt) [M1](lnkgl_a/light.txt) [M2](lnkjd_a/light.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/light.txt) [M1](lnkgl_m/light.txt) [M2](lnkjd_m/light.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/light.txt) [M1](lnkgl_m/light.txt) [M2](lnkjd_m/light.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/light.txt) [M1](lnkgl_w/light.txt) [M2](lnkjd_w/light.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/light-onlydomains.txt) [M1](lnkgl_w/light-onlydomains.txt) [M2](lnkjd_w/light-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/light-onlydomains.txt) [M1](lnkgl_w/light-onlydomains.txt) [M2](lnkjd_w/light-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/light.txt) [M1](lnkgl_r/light.txt) [M2](lnkjd_r/light.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | PAC | [Link](lnkgh_p/light.pac) [M1](lnkgl_p/light.pac) [M2](lnkjd_p/light.pac) | Proxy Auto Configuration |
 
@@ -121,9 +121,9 @@ Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tr
 | Hosts | [Link](lnkgh_h/multi.txt) [M1](lnkgl_h/multi.txt) [M2](lnkjd_h/multi.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/multi-compressed.txt) [M1](lnkgl_h/multi-compressed.txt) [M2](lnkjd_h/multi-compressed.txt) | Hostfile, Linux |
 | Adblock | [Link](lnkgh_a/multi.txt) [M1](lnkgl_a/multi.txt) [M2](lnkjd_a/multi.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/multi.txt) [M1](lnkgl_m/multi.txt) [M2](lnkjd_m/multi.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/multi.txt) [M1](lnkgl_m/multi.txt) [M2](lnkjd_m/multi.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/multi.txt) [M1](lnkgl_w/multi.txt) [M2](lnkjd_w/multi.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/multi-onlydomains.txt) [M1](lnkgl_w/multi-onlydomains.txt) [M2](lnkjd_w/multi-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/multi-onlydomains.txt) [M1](lnkgl_w/multi-onlydomains.txt) [M2](lnkjd_w/multi-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/multi.txt) [M1](lnkgl_r/multi.txt) [M2](lnkjd_r/multi.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ### :ledger: **Multi PRO** - **Extended protection (Recommended)** <a name="pro"></a>
@@ -142,9 +142,9 @@ Big broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate
 | Hosts | [Link](lnkgh_h/pro.txt) [M1](lnkgl_h/pro.txt) [M2](lnkjd_h/pro.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/pro-compressed.txt) [M1](lnkgl_h/pro-compressed.txt) [M2](lnkjd_h/pro-compressed.txt) | Hostfile, Linux |
 | Adblock | [Link](lnkgh_a/pro.txt) [M1](lnkgl_a/pro.txt) [M2](lnkjd_a/pro.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
-| DNSMasq | [Link](lnkgh_m/pro.txt) [M1](lnkgl_m/pro.txt) [M2](lnkjd_m/pro.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/pro.txt) [M1](lnkgl_m/pro.txt) [M2](lnkjd_m/pro.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.txt) [M1](lnkgl_w/pro.txt) [M2](lnkjd_w/pro.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/pro-onlydomains.txt) [M1](lnkgl_w/pro-onlydomains.txt) [M2](lnkjd_w/pro-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/pro-onlydomains.txt) [M1](lnkgl_w/pro-onlydomains.txt) [M2](lnkjd_w/pro-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/pro.txt) [M1](lnkgl_r/pro.txt) [M2](lnkjd_r/pro.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :ledger: **Multi PRO mini (Recommended for browser/mobile adblockers)** <a name="promini"></a>
@@ -156,9 +156,9 @@ Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RA
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/pro.mini.txt) [M1](lnkgl_a/pro.mini.txt) [M2](lnkjd_a/pro.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/pro.mini.txt) [M1](lnkgl_m/pro.mini.txt) [M2](lnkjd_m/pro.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/pro.mini.txt) [M1](lnkgl_m/pro.mini.txt) [M2](lnkjd_m/pro.mini.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.mini.txt) [M1](lnkgl_w/pro.mini.txt) [M2](lnkjd_w/pro.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/pro.mini-onlydomains.txt) [M1](lnkgl_w/pro.mini-onlydomains.txt) [M2](lnkjd_w/pro.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/pro.mini-onlydomains.txt) [M1](lnkgl_w/pro.mini-onlydomains.txt) [M2](lnkjd_w/pro.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/pro.mini.txt) [M1](lnkgl_r/pro.mini.txt) [M2](lnkjd_r/pro.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ### :orange_book: **Multi PRO++** - **Maximum protection** <a name="proplus"></a>
@@ -181,9 +181,9 @@ Sweeper - Aggressive cleans the Internet and protects your privacy! Blocks Ads, 
 | Hosts | [Link](lnkgh_h/pro.plus.txt) [M1](lnkgl_h/pro.plus.txt) [M2](lnkjd_h/pro.plus.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/pro.plus-compressed.txt) [M1](lnkgl_h/pro.plus-compressed.txt) [M2](lnkjd_h/pro.plus-compressed.txt) | Hostfile, Linux |
 | Adblock | [Link](lnkgh_a/pro.plus.txt) [M1](lnkgl_a/pro.plus.txt) [M2](lnkjd_a/pro.plus.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
-| DNSMasq | [Link](lnkgh_m/pro.plus.txt) [M1](lnkgl_m/pro.plus.txt) [M2](lnkjd_m/pro.plus.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/pro.plus.txt) [M1](lnkgl_m/pro.plus.txt) [M2](lnkjd_m/pro.plus.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.plus.txt) [M1](lnkgl_w/pro.plus.txt) [M2](lnkjd_w/pro.plus.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/pro.plus-onlydomains.txt) [M1](lnkgl_w/pro.plus-onlydomains.txt) [M2](lnkjd_w/pro.plus-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/pro.plus-onlydomains.txt) [M1](lnkgl_w/pro.plus-onlydomains.txt) [M2](lnkjd_w/pro.plus-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/pro.plus.txt) [M1](lnkgl_r/pro.plus.txt) [M2](lnkjd_r/pro.plus.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :orange_book: **Multi PRO++ mini** <a name="proplusmini"></a>
@@ -195,9 +195,9 @@ Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RA
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/pro.plus.mini.txt) [M1](lnkgl_a/pro.plus.mini.txt) [M2](lnkjd_a/pro.plus.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/pro.plus.mini.txt) [M1](lnkgl_m/pro.plus.mini.txt) [M2](lnkjd_m/pro.plus.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/pro.plus.mini.txt) [M1](lnkgl_m/pro.plus.mini.txt) [M2](lnkjd_m/pro.plus.mini.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/pro.plus.mini.txt) [M1](lnkgl_w/pro.plus.mini.txt) [M2](lnkjd_w/pro.plus.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/pro.plus.mini-onlydomains.txt) [M1](lnkgl_w/pro.plus.mini-onlydomains.txt) [M2](lnkjd_w/pro.plus.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/pro.plus.mini-onlydomains.txt) [M1](lnkgl_w/pro.plus.mini-onlydomains.txt) [M2](lnkjd_w/pro.plus.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/pro.plus.mini.txt) [M1](lnkgl_r/pro.plus.mini.txt) [M2](lnkjd_r/pro.plus.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ### :closed_book: **Multi ULTIMATE** - **Aggressive protection** <a name="ultimate"></a>
@@ -232,9 +232,9 @@ Ultimate Sweeper - Strictly cleans the Internet and protects your privacy! Block
 | Hosts | [Link](lnkgh_h/ultimate.txt) [M1](lnkgl_h/ultimate.txt) [M2](lnkjd_h/ultimate.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/ultimate-compressed.txt) [M1](lnkgl_h/ultimate-compressed.txt) [M2](lnkjd_h/ultimate-compressed.txt) | Hostfile, Linux |
 | Adblock | [Link](lnkgh_a/ultimate.txt) [M1](lnkgl_a/ultimate.txt) [M2](lnkjd_a/ultimate.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
-| DNSMasq | [Link](lnkgh_m/ultimate.txt) [M1](lnkgl_m/ultimate.txt) [M2](lnkjd_m/ultimate.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/ultimate.txt) [M1](lnkgl_m/ultimate.txt) [M2](lnkjd_m/ultimate.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/ultimate.txt) [M1](lnkgl_w/ultimate.txt) [M2](lnkjd_w/ultimate.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/ultimate-onlydomains.txt) [M1](lnkgl_w/ultimate-onlydomains.txt) [M2](lnkjd_w/ultimate-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/ultimate-onlydomains.txt) [M1](lnkgl_w/ultimate-onlydomains.txt) [M2](lnkjd_w/ultimate-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/ultimate.txt) [M1](lnkgl_r/ultimate.txt) [M2](lnkjd_r/ultimate.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :closed_book: **Multi ULTIMATE mini** <a name="ultimatemini"></a>
@@ -246,9 +246,9 @@ Size-optimised version for DNS/Browser adblockers, e.g. for devices with less RA
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/ultimate.mini.txt) [M1](lnkgl_a/ultimate.mini.txt) [M2](lnkjd_a/ultimate.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/ultimate.mini.txt) [M1](lnkgl_m/ultimate.mini.txt) [M2](lnkjd_m/ultimate.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/ultimate.mini.txt) [M1](lnkgl_m/ultimate.mini.txt) [M2](lnkjd_m/ultimate.mini.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/ultimate.mini.txt) [M1](lnkgl_w/ultimate.mini.txt) [M2](lnkjd_w/ultimate.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/ultimate.mini-onlydomains.txt) [M1](lnkgl_w/ultimate.mini-onlydomains.txt) [M2](lnkjd_w/ultimate.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/ultimate.mini-onlydomains.txt) [M1](lnkgl_w/ultimate.mini-onlydomains.txt) [M2](lnkjd_w/ultimate.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/ultimate.mini.txt) [M1](lnkgl_r/ultimate.mini.txt) [M2](lnkjd_r/ultimate.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -268,9 +268,9 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/fake.txt) [M1](lnkgl_a/fake.txt) [M2](lnkjd_a/fake.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/fake.txt) [M1](lnkgl_m/fake.txt) [M2](lnkjd_m/fake.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/fake.txt) [M1](lnkgl_m/fake.txt) [M2](lnkjd_m/fake.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/fake.txt) [M1](lnkgl_w/fake.txt) [M2](lnkjd_w/fake.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/fake-onlydomains.txt) [M1](lnkgl_w/fake-onlydomains.txt) [M2](lnkjd_w/fake-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/fake-onlydomains.txt) [M1](lnkgl_w/fake-onlydomains.txt) [M2](lnkjd_w/fake-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/fake.txt) [M1](lnkgl_r/fake.txt) [M2](lnkjd_r/fake.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -290,9 +290,9 @@ A blocklist for annoying and malicious pop-up ads.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/popupads.txt) [M1](lnkgl_a/popupads.txt) [M2](lnkjd_a/popupads.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/popupads.txt) [M1](lnkgl_m/popupads.txt) [M2](lnkjd_m/popupads.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/popupads.txt) [M1](lnkgl_m/popupads.txt) [M2](lnkjd_m/popupads.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/popupads.txt) [M1](lnkgl_w/popupads.txt) [M2](lnkjd_w/popupads.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/popupads-onlydomains.txt) [M1](lnkgl_w/popupads-onlydomains.txt) [M2](lnkjd_w/popupads-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/popupads-onlydomains.txt) [M1](lnkgl_w/popupads-onlydomains.txt) [M2](lnkjd_w/popupads-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/popupads.txt) [M1](lnkgl_r/popupads.txt) [M2](lnkjd_r/popupads.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -319,9 +319,9 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 | Hosts | [Link](lnkgh_h/tif.txt) [M1](lnkgl_h/tif.txt) [M2](lnkjd_h/tif.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/tif-compressed.txt) [M1](lnkgl_h/tif-compressed.txt) [M2](lnkjd_h/tif-compressed.txt) | Hostfile, Linux |
 | Adblock | [Link](lnkgh_a/tif.txt) [M1](lnkgl_a/tif.txt) [M2](lnkjd_a/tif.txt) | Pi-hole, ~~AdGuard~~ (too big!), AdGuard Home (only devices with > 1GB RAM!), eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
-| DNSMasq | [Link](lnkgh_m/tif.txt) [M1](lnkgl_m/tif.txt) [M2](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/tif.txt) [M1](lnkgl_m/tif.txt) [M2](lnkjd_m/tif.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/tif.txt) [M1](lnkgl_w/tif.txt) [M2](lnkjd_w/tif.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/tif-onlydomains.txt) [M1](lnkgl_w/tif-onlydomains.txt) [M2](lnkjd_w/tif-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/tif-onlydomains.txt) [M1](lnkgl_w/tif-onlydomains.txt) [M2](lnkjd_w/tif-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/tif.txt) [M1](lnkgl_r/tif.txt) [M2](lnkjd_r/tif.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :closed_lock_with_key: **Threat Intelligence Feeds - Medium version (Recommended for browser/mobile adblockers)** <a name="tifmedium"></a>
@@ -339,9 +339,9 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/tif.medium.txt) [M1](lnkgl_a/tif.medium.txt) [M2](lnkjd_a/tif.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/tif.medium.txt) [M1](lnkgl_m/tif.medium.txt) [M2](lnkjd_m/tif.medium.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/tif.medium.txt) [M1](lnkgl_m/tif.medium.txt) [M2](lnkjd_m/tif.medium.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/tif.medium.txt) [M1](lnkgl_w/tif.medium.txt) [M2](lnkjd_w/tif.medium.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/tif.medium-onlydomains.txt) [M1](lnkgl_w/tif.medium-onlydomains.txt) [M2](lnkjd_w/tif.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/tif.medium-onlydomains.txt) [M1](lnkgl_w/tif.medium-onlydomains.txt) [M2](lnkjd_w/tif.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/tif.medium.txt) [M1](lnkgl_r/tif.medium.txt) [M2](lnkjd_r/tif.medium.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :closed_lock_with_key: **Threat Intelligence Feeds - Mini version** <a name="tifmini"></a>
@@ -359,9 +359,9 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/tif.mini.txt) [M1](lnkgl_a/tif.mini.txt) [M2](lnkjd_a/tif.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/tif.mini.txt) [M1](lnkgl_m/tif.mini.txt) [M2](lnkjd_m/tif.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/tif.mini.txt) [M1](lnkgl_m/tif.mini.txt) [M2](lnkjd_m/tif.mini.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/tif.mini.txt) [M1](lnkgl_w/tif.mini.txt) [M2](lnkjd_w/tif.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/tif.mini-onlydomains.txt) [M1](lnkgl_w/tif.mini-onlydomains.txt) [M2](lnkjd_w/tif.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/tif.mini-onlydomains.txt) [M1](lnkgl_w/tif.mini-onlydomains.txt) [M2](lnkjd_w/tif.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/tif.mini.txt) [M1](lnkgl_r/tif.mini.txt) [M2](lnkjd_r/tif.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :closed_lock_with_key: **Threat Intelligence Feeds - IPs** <a name="tifips"></a>
@@ -448,9 +448,9 @@ Prevent methods to bypass your DNS.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/doh-vpn-proxy-bypass.txt) [M1](lnkgl_a/doh-vpn-proxy-bypass.txt) [M2](lnkjd_a/doh-vpn-proxy-bypass.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/doh-vpn-proxy-bypass.txt) [M1](lnkgl_m/doh-vpn-proxy-bypass.txt) [M2](lnkjd_m/doh-vpn-proxy-bypass.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/doh-vpn-proxy-bypass.txt) [M1](lnkgl_m/doh-vpn-proxy-bypass.txt) [M2](lnkjd_m/doh-vpn-proxy-bypass.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/doh-vpn-proxy-bypass.txt) [M1](lnkgl_w/doh-vpn-proxy-bypass.txt) [M2](lnkjd_w/doh-vpn-proxy-bypass.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/doh-vpn-proxy-bypass-onlydomains.txt) [M1](lnkgl_w/doh-vpn-proxy-bypass-onlydomains.txt) [M2](lnkjd_w/doh-vpn-proxy-bypass-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/doh-vpn-proxy-bypass-onlydomains.txt) [M1](lnkgl_w/doh-vpn-proxy-bypass-onlydomains.txt) [M2](lnkjd_w/doh-vpn-proxy-bypass-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/doh-vpn-proxy-bypass.txt) [M1](lnkgl_r/doh-vpn-proxy-bypass.txt) [M2](lnkjd_r/doh-vpn-proxy-bypass.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :outbox_tray: **Encrypted DNS Servers only** <a name="bypass_dns"></a>
@@ -469,9 +469,9 @@ Prevent methods to bypass your DNS.
 | Hosts | [Link](lnkgh_h/doh.txt) [M1](lnkgl_h/doh.txt) [M2](lnkjd_h/doh.txt) | AdAway, uMatrix, DNS66, NetGuard |
 | Hosts<br>Compressed | [Link](lnkgh_h/doh-compressed.txt) [M1](lnkgl_h/doh-compressed.txt) [M2](lnkjd_h/doh-compressed.txt) | Hostfile, Linux |
 | Adblock | [Link](lnkgh_a/doh.txt) [M1](lnkgl_a/doh.txt) [M2](lnkjd_a/doh.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/doh.txt) [M1](lnkgl_m/doh.txt) [M2](lnkjd_m/doh.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/doh.txt) [M1](lnkgl_m/doh.txt) [M2](lnkjd_m/doh.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/doh.txt) [M1](lnkgl_w/doh.txt) [M2](lnkjd_w/doh.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/doh-onlydomains.txt) [M1](lnkgl_w/doh-onlydomains.txt) [M2](lnkjd_w/doh-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/doh-onlydomains.txt) [M1](lnkgl_w/doh-onlydomains.txt) [M2](lnkjd_w/doh-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/doh.txt) [M1](lnkgl_r/doh.txt) [M2](lnkjd_r/doh.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :outbox_tray: **Encrypted DNS Servers IPs** <a name="bypass_ips"></a>
@@ -499,9 +499,9 @@ A blocklist for blocking search engines that do not support Safesearch.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/nosafesearch.txt) [M1](lnkgl_a/nosafesearch.txt) [M2](lnkjd_a/nosafesearch.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/nosafesearch.txt) [M1](lnkgl_m/nosafesearch.txt) [M2](lnkjd_m/nosafesearch.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/nosafesearch.txt) [M1](lnkgl_m/nosafesearch.txt) [M2](lnkjd_m/nosafesearch.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/nosafesearch.txt) [M1](lnkgl_w/nosafesearch.txt) [M2](lnkjd_w/nosafesearch.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/nosafesearch-onlydomains.txt) [M1](lnkgl_w/nosafesearch-onlydomains.txt) [M2](lnkjd_w/nosafesearch-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/nosafesearch-onlydomains.txt) [M1](lnkgl_w/nosafesearch-onlydomains.txt) [M2](lnkjd_w/nosafesearch-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/nosafesearch.txt) [M1](lnkgl_r/nosafesearch.txt) [M2](lnkjd_r/nosafesearch.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -521,9 +521,9 @@ A blocklist for blocking dynamic DNS services to protect against malicious use i
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/dyndns.txt) [M1](lnkgl_a/dyndns.txt) [M2](lnkjd_a/dyndns.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/dyndns.txt) [M1](lnkgl_m/dyndns.txt) [M2](lnkjd_m/dyndns.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/dyndns.txt) [M1](lnkgl_m/dyndns.txt) [M2](lnkjd_m/dyndns.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/dyndns.txt) [M1](lnkgl_w/dyndns.txt) [M2](lnkjd_w/dyndns.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/dyndns-onlydomains.txt) [M1](lnkgl_w/dyndns-onlydomains.txt) [M2](lnkjd_w/dyndns-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/dyndns-onlydomains.txt) [M1](lnkgl_w/dyndns-onlydomains.txt) [M2](lnkjd_w/dyndns-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/dyndns.txt) [M1](lnkgl_r/dyndns.txt) [M2](lnkjd_r/dyndns.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -551,9 +551,9 @@ A blocklist for blocking known hosters that also host badware via user content t
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/hoster.txt) [M1](lnkgl_a/hoster.txt) [M2](lnkjd_a/hoster.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/hoster.txt) [M1](lnkgl_m/hoster.txt) [M2](lnkjd_m/hoster.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/hoster.txt) [M1](lnkgl_m/hoster.txt) [M2](lnkjd_m/hoster.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/hoster.txt) [M1](lnkgl_w/hoster.txt) [M2](lnkjd_w/hoster.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/hoster-onlydomains.txt) [M1](lnkgl_w/hoster-onlydomains.txt) [M2](lnkjd_w/hoster-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/hoster-onlydomains.txt) [M1](lnkgl_w/hoster-onlydomains.txt) [M2](lnkjd_w/hoster-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/hoster.txt) [M1](lnkgl_r/hoster.txt) [M2](lnkjd_r/hoster.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | ControlD | [Link](https://github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json)| ControlD folder |
 
@@ -579,9 +579,9 @@ A blocklist for blocking all known URL/link shortener.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/urlshortener.txt) [M1](lnkgl_a/urlshortener.txt) [M2](lnkjd_a/urlshortener.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/urlshortener.txt) [M1](lnkgl_m/urlshortener.txt) [M2](lnkjd_m/urlshortener.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/urlshortener.txt) [M1](lnkgl_m/urlshortener.txt) [M2](lnkjd_m/urlshortener.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/urlshortener.txt) [M1](lnkgl_w/urlshortener.txt) [M2](lnkjd_w/urlshortener.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/urlshortener-onlydomains.txt) [M1](lnkgl_w/urlshortener-onlydomains.txt) [M2](lnkjd_w/urlshortener-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/urlshortener-onlydomains.txt) [M1](lnkgl_w/urlshortener-onlydomains.txt) [M2](lnkjd_w/urlshortener-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/urlshortener.txt) [M1](lnkgl_r/urlshortener.txt) [M2](lnkjd_r/urlshortener.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -648,9 +648,9 @@ Blocks websites and services that are mainly used for the illegal distribution o
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/anti.piracy.txt) [M1](lnkgl_a/anti.piracy.txt) [M2](lnkjd_a/anti.piracy.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/anti.piracy.txt) [M1](lnkgl_m/anti.piracy.txt) [M2](lnkjd_m/anti.piracy.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/anti.piracy.txt) [M1](lnkgl_m/anti.piracy.txt) [M2](lnkjd_m/anti.piracy.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/anti.piracy.txt) [M1](lnkgl_w/anti.piracy.txt) [M2](lnkjd_w/anti.piracy.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/anti.piracy-onlydomains.txt) [M1](lnkgl_w/anti.piracy-onlydomains.txt) [M2](lnkjd_w/anti.piracy-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/anti.piracy-onlydomains.txt) [M1](lnkgl_w/anti.piracy-onlydomains.txt) [M2](lnkjd_w/anti.piracy-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/anti.piracy.txt) [M1](lnkgl_r/anti.piracy.txt) [M2](lnkjd_r/anti.piracy.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -670,9 +670,9 @@ Blocks gambling content.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/gambling.txt) [M1](lnkgl_a/gambling.txt) [M2](lnkjd_a/gambling.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
-| DNSMasq | [Link](lnkgh_m/gambling.txt) [M1](lnkgl_m/gambling.txt) [M2](lnkjd_m/gambling.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/gambling.txt) [M1](lnkgl_m/gambling.txt) [M2](lnkjd_m/gambling.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/gambling.txt) [M1](lnkgl_w/gambling.txt) [M2](lnkjd_w/gambling.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/gambling-onlydomains.txt) [M1](lnkgl_w/gambling-onlydomains.txt) [M2](lnkjd_w/gambling-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/gambling-onlydomains.txt) [M1](lnkgl_w/gambling-onlydomains.txt) [M2](lnkjd_w/gambling-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/gambling.txt) [M1](lnkgl_r/gambling.txt) [M2](lnkjd_r/gambling.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :slot_machine: **Gambling - Medium version** <a name="gamblingmedium"></a>
@@ -690,9 +690,9 @@ A medium version of the Gambling list. Designed for Adblockers that have problem
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/gambling.medium.txt) [M1](lnkgl_a/gambling.medium.txt) [M2](lnkjd_a/gambling.medium.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/gambling.medium.txt) [M1](lnkgl_m/gambling.medium.txt) [M2](lnkjd_m/gambling.medium.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/gambling.medium.txt) [M1](lnkgl_m/gambling.medium.txt) [M2](lnkjd_m/gambling.medium.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/gambling.medium.txt) [M1](lnkgl_w/gambling.medium.txt) [M2](lnkjd_w/gambling.medium.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/gambling.medium-onlydomains.txt) [M1](lnkgl_w/gambling.medium-onlydomains.txt) [M2](lnkjd_w/gambling.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/gambling.medium-onlydomains.txt) [M1](lnkgl_w/gambling.medium-onlydomains.txt) [M2](lnkjd_w/gambling.medium-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/gambling.medium.txt) [M1](lnkgl_r/gambling.medium.txt) [M2](lnkjd_r/gambling.medium.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 #### :slot_machine: **Gambling - Mini version** <a name="gamblingmini"></a>
@@ -710,9 +710,9 @@ A size-optimised version of the Gambling Medium list. This list only contains do
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/gambling.mini.txt) [M1](lnkgl_a/gambling.mini.txt) [M2](lnkjd_a/gambling.mini.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam, Little Snitch Mini |
-| DNSMasq | [Link](lnkgh_m/gambling.mini.txt) [M1](lnkgl_m/gambling.mini.txt) [M2](lnkjd_m/gambling.mini.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/gambling.mini.txt) [M1](lnkgl_m/gambling.mini.txt) [M2](lnkjd_m/gambling.mini.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/gambling.mini.txt) [M1](lnkgl_w/gambling.mini.txt) [M2](lnkjd_w/gambling.mini.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/gambling.mini-onlydomains.txt) [M1](lnkgl_w/gambling.mini-onlydomains.txt) [M2](lnkjd_w/gambling.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/gambling.mini-onlydomains.txt) [M1](lnkgl_w/gambling.mini-onlydomains.txt) [M2](lnkjd_w/gambling.mini-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/gambling.mini.txt) [M1](lnkgl_r/gambling.mini.txt) [M2](lnkjd_r/gambling.mini.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -732,9 +732,9 @@ Blocks adult content.
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
 | Adblock | [Link](lnkgh_a/nsfw.txt) [M1](lnkgl_a/nsfw.txt) [M2](lnkjd_a/nsfw.txt) | Pi-hole, AdGuard, AdGuard Home, eBlocker, uBlock Origin, Brave (only in aggressive mode), AdNauseam |
-| DNSMasq | [Link](lnkgh_m/nsfw.txt) [M1](lnkgl_m/nsfw.txt) [M2](lnkjd_m/nsfw.txt) | DNSMasq (v2.86 or newer), adblock-lean, Diversion (v5 or newer) |
+| DNSMasq | [Link](lnkgh_m/nsfw.txt) [M1](lnkgl_m/nsfw.txt) [M2](lnkjd_m/nsfw.txt) | DNSMasq (v2.86 or newer), Diversion (v5 or newer) |
 | Wildcard<br>Asterisk | [Link](lnkgh_w/nsfw.txt) [M1](lnkgl_w/nsfw.txt) [M2](lnkjd_w/nsfw.txt) | Blocky (v0.23 or newer), Nebulo, NetDuma, OPNsense, YogaDNS |
-| Wildcard<br>Domains | [Link](lnkgh_w/nsfw-onlydomains.txt) [M1](lnkgl_w/nsfw-onlydomains.txt) [M2](lnkjd_w/nsfw-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, PersonalDNSfilter, InviZible Pro |
+| Wildcard<br>Domains | [Link](lnkgh_w/nsfw-onlydomains.txt) [M1](lnkgl_w/nsfw-onlydomains.txt) [M2](lnkjd_w/nsfw-onlydomains.txt) | DNSCloak, DNSCrypt, TechnitiumDNS, adblock-lean, PersonalDNSfilter, InviZible Pro |
 | RPZ | [Link](lnkgh_r/nsfw.txt) [M1](lnkgl_r/nsfw.txt) [M2](lnkjd_r/nsfw.txt) | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 
 ---
@@ -867,11 +867,11 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 #### :department_store: **DNSBUNKER.org (Germany) - free** <a name="dnsbunker"></a>
 
-[DNSBUNKER.org](https://dnsbunker.org/) is a hardened, privacy-first DNS resolver located in Germany. Designed to block ads, malware, and surveillance - with zero logs, zero compromise.
+[DNSBUNKER.org](https://dnsbunker.org/) is a hardened, privacy-first DNS resolver located in Germany.
               
 | Blocklists | DNS-over-HTTPS/3 | DNS-over-TLS/QUIC | Apple |
 |:-----------|:---------------|:------------------|:--------|
-| Pro plus + TIF + DoH Bypass + Allowlist Referral | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
+| Pro plus + TIF + DoH Bypass + Allowlist Referral + ??? (not publicly disclosed) | `https://dnsbunker.org/dns-query` | `dnsbunker.org ` | [Link](https://dnsbunker.org/doh.mobileconfig) |
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

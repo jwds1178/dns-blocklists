@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760394660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760482260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Oct 2025 22:31 UTC
-; Version: 2025.1013.2231.08
+; Last modified: 14 Oct 2025 22:51 UTC
+; Version: 2025.1014.2251.20
 ; Syntax: RPZ
-; Number of entries: 15520
+; Number of entries: 15514
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5757,8 +5757,6 @@ go1.day CNAME .
 *.7oi.de CNAME .
 9u9.de CNAME .
 *.9u9.de CNAME .
-airshort.de CNAME .
-*.airshort.de CNAME .
 amplt.de CNAME .
 *.amplt.de CNAME .
 amtb.de CNAME .
@@ -9941,8 +9939,6 @@ alongno1.live CNAME .
 *.alongno1.live CNAME .
 apply-here.live CNAME .
 *.apply-here.live CNAME .
-ar-technology.live CNAME .
-*.ar-technology.live CNAME .
 arclight.live CNAME .
 *.arclight.live CNAME .
 autolink.live CNAME .
@@ -12233,6 +12229,8 @@ url88.online CNAME .
 *.url88.online CNAME .
 vibegaming.online CNAME .
 *.vibegaming.online CNAME .
+wlicc.online CNAME .
+*.wlicc.online CNAME .
 yulllu01.online CNAME .
 *.yulllu01.online CNAME .
 sah.ooo CNAME .
@@ -12755,8 +12753,6 @@ ouo.press CNAME .
 *.123l.pro CNAME .
 7link.pro CNAME .
 *.7link.pro CNAME .
-99vpn.pro CNAME .
-*.99vpn.pro CNAME .
 ainurl.pro CNAME .
 *.ainurl.pro CNAME .
 bitli.pro CNAME .
@@ -13889,8 +13885,6 @@ ws.tc CNAME .
 *.ws.tc CNAME .
 url.td CNAME .
 *.url.td CNAME .
-adxps.team CNAME .
-*.adxps.team CNAME .
 antinawala.team CNAME .
 *.antinawala.team CNAME .
 bitly.team CNAME .

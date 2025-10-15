@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Oct 2025 11:56 UTC
-! Version: 2025.1014.1156.24
+! Last modified: 14 Oct 2025 17:22 UTC
+! Version: 2025.1014.1722.37
 ! Syntax: uBlock
 ! Number of latin TLDs: 281 - non-latin TLDs: 151
 !
@@ -52,7 +52,7 @@
 ||casa^$doc,domain=~nabu.casa
 ||cash^$doc,domain=~doe.cash
 ||casino^$doc
-||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~reurl.cc|~rutracker.cc|~shottr.cc|~ultra.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~zcyph.cc
+||cc^$doc,domain=~10gen.cc|~adguard-vpn.cc|~akami-solutions.cc|~arduino.cc|~coolkit.cc|~dhilosnetworks.cc|~dict.cc|~fanbox.cc|~frontrow.cc|~is.cc|~lilygo.cc|~lurl.cc|~mydaddy.cc|~myppt.cc|~postimg.cc|~ptt.cc|~rapidcdn.cc|~reurl.cc|~rutracker.cc|~shottr.cc|~ultra.cc|~vern.cc|~vocus.cc|~wallhaven.cc|~yipee.cc|~yz168.cc|~zcyph.cc
 ||center^$doc,domain=~mein-kunden.center|~oh.center|~priv.center|~relaxx.center
 ||ceo^$doc
 ||cf^$doc,domain=~google.cf
@@ -64,7 +64,7 @@
 ||church^$doc,domain=~host.church|~life.church|~online.church
 ||city^$doc,domain=~bypass.city|~ops.city|~technical.city
 ||claims^$doc
-||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click
+||click^$doc,domain=~am-videos.click|~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click
 ||clothing^$doc
 ||club^$doc,domain=~baby-beamup.club|~chinaq.club|~digipres.club|~hack.club|~hd-olimpo.club|~mbcherohub.club|~rwinfo.club|~skin.club|~thelemmy.club
 ||college^$doc
@@ -174,7 +174,7 @@
 ||miami^$doc
 ||ml^$doc,domain=~aire.ml|~amap.ml|~google.ml|~info-matin.ml|~lemmygrad.ml|~lemmy.ml|~lingva.ml|~loma.ml|~mastodon.ml|~melody.ml|~precure.ml|~prompt.ml
 ||moda^$doc
-||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cdn.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~trace.moe|~uma.moe
+||moe^$doc,domain=~anh.moe|~aniya.moe|~catbox.moe|~cdn.moe|~cubari.moe|~ddlc.moe|~honse.moe|~mathi.moe|~nyarchlinux.moe|~save.moe|~trace.moe|~uma.moe
 ||mom^$doc
 ||money^$doc,domain=~flowyour.money|~super.money|~unstoppable.money|~usual.money|~vivid.money
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster

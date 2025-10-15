@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Oct 2025 11:55 UTC
-# Version: 2025.1014.1155.08
+# Last modified: 15 Oct 2025 00:16 UTC
+# Version: 2025.1015.0016.07
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3912
+# Number of entries: 3911
 #
 ss.0001.xyz
 003153.xyz
@@ -372,7 +372,6 @@ dns.asysec.com
 adguardhome.atakorah.com
 next.atomix.in
 vps.atomix.in
-atris.cyou
 atsilva.link
 dns.atsilva.link
 atsssgo.xyz

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760437740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760482140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Oct 2025 10:29 UTC
-; Version: 2025.1014.1029.03
+; Last modified: 14 Oct 2025 22:49 UTC
+; Version: 2025.1014.2249.39
 ; Syntax: RPZ
-; Number of entries: 28548
+; Number of entries: 28522
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1906,8 +1906,6 @@ aeg-solutions.com CNAME .
 *.aeg-solutions.com CNAME .
 store.aeotec.com CNAME .
 *.store.aeotec.com CNAME .
-aermvr.com CNAME .
-*.aermvr.com CNAME .
 af-anlagenpartner.com CNAME .
 *.af-anlagenpartner.com CNAME .
 affenzahn-schuhe.com CNAME .
@@ -1962,14 +1960,10 @@ aigleoutletuk.com CNAME .
 *.aigleoutletuk.com CNAME .
 aikellyservices.com CNAME .
 *.aikellyservices.com CNAME .
-ainosteam.com CNAME .
-*.ainosteam.com CNAME .
 air-jordan4.com CNAME .
 *.air-jordan4.com CNAME .
 airfloppy.com CNAME .
 *.airfloppy.com CNAME .
-airguncapital.com CNAME .
-*.airguncapital.com CNAME .
 airpurifieroutlet.com CNAME .
 *.airpurifieroutlet.com CNAME .
 airyclub.com CNAME .
@@ -2062,8 +2056,6 @@ allegoo.com CNAME .
 *.allegoo.com CNAME .
 allekaufhauser.com CNAME .
 *.allekaufhauser.com CNAME .
-allesanhanger.com CNAME .
-*.allesanhanger.com CNAME .
 allesnettokredit.com CNAME .
 *.allesnettokredit.com CNAME .
 allgamesinone.com CNAME .
@@ -2096,8 +2088,6 @@ allskigear.com CNAME .
 *.allskigear.com CNAME .
 alltaghero.com CNAME .
 *.alltaghero.com CNAME .
-alltimesupermarket.com CNAME .
-*.alltimesupermarket.com CNAME .
 alltopinvest.com CNAME .
 *.alltopinvest.com CNAME .
 alltopjewels.com CNAME .
@@ -2156,18 +2146,10 @@ altituden.com CNAME .
 *.altituden.com CNAME .
 altogelther.com CNAME .
 *.altogelther.com CNAME .
-altradanmarkshop.com CNAME .
-*.altradanmarkshop.com CNAME .
 altrafi.com CNAME .
 *.altrafi.com CNAME .
-altrafinland.com CNAME .
-*.altrafinland.com CNAME .
 altralaufschuhe.com CNAME .
 *.altralaufschuhe.com CNAME .
-altraroadshoesnz.com CNAME .
-*.altraroadshoesnz.com CNAME .
-altrashoesdk.com CNAME .
-*.altrashoesdk.com CNAME .
 altrasuomi.com CNAME .
 *.altrasuomi.com CNAME .
 altrasuomioutlet.com CNAME .
@@ -2390,8 +2372,6 @@ appareloptimal.com CNAME .
 *.appareloptimal.com CNAME .
 appblizz.com CNAME .
 *.appblizz.com CNAME .
-appcheck24.com CNAME .
-*.appcheck24.com CNAME .
 appearancte.com CNAME .
 *.appearancte.com CNAME .
 applauseud.com CNAME .
@@ -2416,8 +2396,6 @@ appworldng.com CNAME .
 *.appworldng.com CNAME .
 apremiumsurf.com CNAME .
 *.apremiumsurf.com CNAME .
-apricityei.com CNAME .
-*.apricityei.com CNAME .
 aptekabg24.com CNAME .
 *.aptekabg24.com CNAME .
 aptekabg247.com CNAME .
@@ -2440,8 +2418,6 @@ arbeit-zuhause.com CNAME .
 *.arbeit-zuhause.com CNAME .
 arbeitjetzt.com CNAME .
 *.arbeitjetzt.com CNAME .
-arbeitportal.com CNAME .
-*.arbeitportal.com CNAME .
 arbeitsanzuge24.com CNAME .
 *.arbeitsanzuge24.com CNAME .
 arbeitsjacken24.com CNAME .
@@ -2488,8 +2464,6 @@ armstres.com CNAME .
 *.armstres.com CNAME .
 aroma-finanz.com CNAME .
 *.aroma-finanz.com CNAME .
-aroma-tec.com CNAME .
-*.aroma-tec.com CNAME .
 aromaleben.com CNAME .
 *.aromaleben.com CNAME .
 aroxcapital.com CNAME .
@@ -2588,8 +2562,6 @@ atologiesm.com CNAME .
 *.atologiesm.com CNAME .
 atpgoldenpass.com CNAME .
 *.atpgoldenpass.com CNAME .
-atrendseworld.com CNAME .
-*.atrendseworld.com CNAME .
 attentivek.com CNAME .
 *.attentivek.com CNAME .
 attraktivgarten.com CNAME .
@@ -9260,6 +9232,8 @@ kamagraboutique.com CNAME .
 *.kamagraboutique.com CNAME .
 kamalih.com CNAME .
 *.kamalih.com CNAME .
+kaminholzmoppel-de.com CNAME .
+*.kaminholzmoppel-de.com CNAME .
 kanaren-shop.com CNAME .
 *.kanaren-shop.com CNAME .
 kangaltree.com CNAME .
@@ -17608,8 +17582,6 @@ achimreims.de CNAME .
 *.achimreims.de CNAME .
 ackermannmunchen.de CNAME .
 *.ackermannmunchen.de CNAME .
-aconta24.de CNAME .
-*.aconta24.de CNAME .
 acsde.de CNAME .
 *.acsde.de CNAME .
 acsire-tech.de CNAME .
@@ -17626,6 +17598,8 @@ adeliamode.de CNAME .
 *.adeliamode.de CNAME .
 adidasyeezyboost.de CNAME .
 *.adidasyeezyboost.de CNAME .
+adler-energie.de CNAME .
+*.adler-energie.de CNAME .
 admotours.de CNAME .
 *.admotours.de CNAME .
 adreim.de CNAME .
@@ -17692,8 +17666,6 @@ aliams.de CNAME .
 *.aliams.de CNAME .
 alingis-finanzen.de CNAME .
 *.alingis-finanzen.de CNAME .
-alldiegutendinge-24.de CNAME .
-*.alldiegutendinge-24.de CNAME .
 alle-hebel.de CNAME .
 *.alle-hebel.de CNAME .
 allesbois.de CNAME .
@@ -20222,6 +20194,8 @@ heizoel-easy.de CNAME .
 *.heizoel-easy.de CNAME .
 heizoel-fast.de CNAME .
 *.heizoel-fast.de CNAME .
+heizoel-freunde.de CNAME .
+*.heizoel-freunde.de CNAME .
 heizoel-held.de CNAME .
 *.heizoel-held.de CNAME .
 heizoel-jetzt.de CNAME .
@@ -24506,6 +24480,8 @@ eqrragxt.info CNAME .
 *.eqrragxt.info CNAME .
 eurobitx.info CNAME .
 *.eurobitx.info CNAME .
+europellet.info CNAME .
+*.europellet.info CNAME .
 gardenpoint.info CNAME .
 *.gardenpoint.info CNAME .
 handlemylife.info CNAME .
@@ -25690,8 +25666,6 @@ zertifikate24.online CNAME .
 *.zertifikate24.online CNAME .
 acrbulletin.org CNAME .
 *.acrbulletin.org CNAME .
-ajfm.org CNAME .
-*.ajfm.org CNAME .
 american-foods.org CNAME .
 *.american-foods.org CNAME .
 amf-cloudmail.org CNAME .

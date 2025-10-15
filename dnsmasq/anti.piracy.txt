@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Oct 2025 11:47 UTC
-# Version: 2025.1014.1147.59
+# Last modified: 15 Oct 2025 00:08 UTC
+# Version: 2025.1015.0008.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11523
+# Number of entries: 11520
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -806,7 +806,6 @@ local=/animeram.cc/
 local=/tc.animereactor.ru/
 local=/animerealms.org/
 local=/animerush.tv/
-local=/animes.so/
 local=/torrents.animes-bg.com/
 local=/animes-fuki.com/
 local=/animeshow.tv/
@@ -881,7 +880,6 @@ local=/anytv.live/
 local=/anzaq.com/
 local=/anzfile.net/
 local=/aostv.app/
-local=/aovivo.pro/
 local=/apebox.tv/
 local=/apk-mod.net/
 local=/apk-store.org/
@@ -952,7 +950,6 @@ local=/appdb.to/
 local=/appdoze.com/
 local=/applegamingwiki.com/
 local=/applenetbd.com/
-local=/appmods.us/
 local=/appnee.com/
 local=/appnetica.com/
 local=/apps4all.com/

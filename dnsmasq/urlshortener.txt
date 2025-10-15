@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 22:31 UTC
-# Version: 2025.1013.2231.08
+# Last modified: 14 Oct 2025 22:51 UTC
+# Version: 2025.1014.2251.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7760
+# Number of entries: 7757
 #
 local=/0.gp/
 local=/00m.in/
@@ -340,7 +340,6 @@ local=/98pro.cc/
 local=/999.sh/
 local=/99forward.com/
 local=/99fw.in/
-local=/99vpn.pro/
 local=/9g9.org/
 local=/9k.gg/
 local=/9lick.me/
@@ -479,7 +478,6 @@ local=/advmyc.com/
 local=/advnutri.com/
 local=/adweek.it/
 local=/adx.kr/
-local=/adxps.team/
 local=/ady.to/
 local=/aegyo.me/
 local=/aet.na/
@@ -511,7 +509,6 @@ local=/aim2.cc/
 local=/aimetath.com/
 local=/aintok.com/
 local=/ainurl.pro/
-local=/airshort.de/
 local=/aitwwl.co/
 local=/aiurl.app/
 local=/aje.io/
@@ -666,7 +663,6 @@ local=/aptg.tw/
 local=/apticirl.com/
 local=/apurl.in/
 local=/aqva.pl/
-local=/ar-technology.live/
 local=/ara.solutions/
 local=/arab.news/
 local=/arah.in/
@@ -7388,6 +7384,7 @@ local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/
 local=/wl.gl/
+local=/wlicc.online/
 local=/wlink.us/
 local=/wm.edu/
 local=/wm0.co/

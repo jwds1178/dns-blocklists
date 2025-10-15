@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Oct 2025 11:47 UTC
-# Version: 2025.1014.1147.59
+# Last modified: 15 Oct 2025 00:08 UTC
+# Version: 2025.1015.0008.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 11523
+# Number of entries: 11520
 #
 003396815.xyz
 0123456789nonexistent.com
@@ -806,7 +806,6 @@ animeram.cc
 tc.animereactor.ru
 animerealms.org
 animerush.tv
-animes.so
 torrents.animes-bg.com
 animes-fuki.com
 animeshow.tv
@@ -881,7 +880,6 @@ anytv.live
 anzaq.com
 anzfile.net
 aostv.app
-aovivo.pro
 apebox.tv
 apk-mod.net
 apk-store.org
@@ -952,7 +950,6 @@ appdb.to
 appdoze.com
 applegamingwiki.com
 applenetbd.com
-appmods.us
 appnee.com
 appnetica.com
 apps4all.com

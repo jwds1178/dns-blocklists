@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Oct 2025 11:55 UTC
-# Version: 2025.1014.1155.35
+# Last modified: 15 Oct 2025 00:16 UTC
+# Version: 2025.1015.0016.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9272
+# Number of entries: 9271
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -498,7 +498,6 @@ local=/atlasvpn.com/
 local=/next.atomix.in/
 local=/vps.atomix.in/
 local=/atozproxy.com/
-local=/atris.cyou/
 local=/atsilva.link/
 local=/atsssgo.xyz/
 local=/dohtrial.att.net/

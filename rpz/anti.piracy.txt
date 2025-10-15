@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760442420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760486880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Oct 2025 11:47 UTC
-; Version: 2025.1014.1147.59
+; Last modified: 15 Oct 2025 00:08 UTC
+; Version: 2025.1015.0008.48
 ; Syntax: RPZ
-; Number of entries: 23046
+; Number of entries: 23040
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -17664,8 +17664,6 @@ aliezstream.pro CNAME .
 *.aliezstream.pro CNAME .
 anidub.pro CNAME .
 *.anidub.pro CNAME .
-aovivo.pro CNAME .
-*.aovivo.pro CNAME .
 atdhe.pro CNAME .
 *.atdhe.pro CNAME .
 bigwarp.pro CNAME .
@@ -19434,8 +19432,6 @@ hdmovie2.sn CNAME .
 *.hdmovie2.sn CNAME .
 amedia.so CNAME .
 *.amedia.so CNAME .
-animes.so CNAME .
-*.animes.so CNAME .
 animeworld.so CNAME .
 *.animeworld.so CNAME .
 attackertv.so CNAME .
@@ -21710,8 +21706,6 @@ altadefinizione.us CNAME .
 *.altadefinizione.us CNAME .
 animeland.us CNAME .
 *.animeland.us CNAME .
-appmods.us CNAME .
-*.appmods.us CNAME .
 arconaitv.us CNAME .
 *.arconaitv.us CNAME .
 b-h.us CNAME .

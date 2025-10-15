@@ -231,6 +231,13 @@
       }
     },
     {
+      "PK": "am-videos.click",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "amzn.asia",
       "action": {
         "do": 1,
@@ -5327,6 +5334,13 @@
       }
     },
     {
+      "PK": "save.moe",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.sbs",
       "action": {
         "do": 0,
@@ -8058,6 +8072,13 @@
     },
     {
       "PK": "yts.monster",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "yz168.cc",
       "action": {
         "do": 1,
         "status": 1

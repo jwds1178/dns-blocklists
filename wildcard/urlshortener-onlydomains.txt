@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Oct 2025 22:31 UTC
-# Version: 2025.1013.2231.08
+# Last modified: 14 Oct 2025 22:51 UTC
+# Version: 2025.1014.2251.20
 # Syntax: Domains (without subdomains)
-# Number of entries: 7760
+# Number of entries: 7757
 #
 0.gp
 00m.in
@@ -340,7 +340,6 @@ a.6mqw.org
 999.sh
 99forward.com
 99fw.in
-99vpn.pro
 9g9.org
 9k.gg
 9lick.me
@@ -479,7 +478,6 @@ advmyc.com
 advnutri.com
 adweek.it
 adx.kr
-adxps.team
 ady.to
 aegyo.me
 aet.na
@@ -511,7 +509,6 @@ aim2.cc
 aimetath.com
 aintok.com
 ainurl.pro
-airshort.de
 aitwwl.co
 aiurl.app
 aje.io
@@ -666,7 +663,6 @@ aptg.tw
 apticirl.com
 apurl.in
 aqva.pl
-ar-technology.live
 ara.solutions
 arab.news
 arah.in
@@ -7388,6 +7384,7 @@ wkf.ms
 wkpwr.be
 wl.co
 wl.gl
+wlicc.online
 wlink.us
 wm.edu
 wm0.co
