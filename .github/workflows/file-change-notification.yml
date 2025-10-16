@@ -4,8 +4,9 @@ on:
   push:
     branches: [main]
   workflow_run:
-    workflows: ["Sync with Upstream Repository"]
-    types: [completed]
+    workflows: [Sync with Upstream Repository]
+    types:
+      - completed
 
 jobs:
   check-changes:
