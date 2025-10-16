@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 23:47 UTC
-# Version: 2025.1015.2347.07
+# Last modified: 16 Oct 2025 11:36 UTC
+# Version: 2025.1016.1136.46
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6210
+# Number of entries: 6203
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2136,8 +2136,6 @@
 *.us-sj.foxyfy.net
 *.fptdns.site
 *.dns.family.fraiss.at
-*.v7.frame-one.cc
-*.v8.frame-one.cc
 *.frandcomfort.us
 *.resolver.frank-ruan.com
 *.wandana.franklinfamily.au
@@ -2301,7 +2299,6 @@
 *.get-xmore-link3s.com
 *.get-xmore-links8.com
 *.getcloak.com
-*.getcloser-websocket.com
 *.getdnsapi.net
 *.getflix.com
 *.getfoxyproxy.org
@@ -2455,7 +2452,6 @@
 *.dns.gussguss.ovh
 *.dns.gutwe.in
 *.nas.guyifei.cn
-*.adguard.guyot.group
 *.gvirabi.com
 *.gwopboyded.com
 *.hkns.gzelvis.com
@@ -2696,15 +2692,12 @@
 *.dns.huth.nu
 *.v2-1.huwenqiang.xyz
 *.ad.huyct.net
-*.dns.huyhoangit.net
 *.dns.huyizhou.com
-*.dns.huynd.click
 *.dns.hva.li
 *.dns.hwtwco.uk
 *.d.hxhd.cc
 *.dns.hyas.com
 *.hyperbyte.net
-*.dns.hypercute.eu
 *.hkg.hytec.org
 *.ur.hytec.org
 *.ns1.i-evolve.net

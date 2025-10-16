@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760567340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760610360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Oct 2025 22:29 UTC
-; Version: 2025.1015.2229.08
+; Last modified: 16 Oct 2025 10:26 UTC
+; Version: 2025.1016.1026.44
 ; Syntax: RPZ
-; Number of entries: 15504
+; Number of entries: 15498
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -10735,8 +10735,6 @@ hrbl.me CNAME .
 *.hrbl.me CNAME .
 hscr.me CNAME .
 *.hscr.me CNAME .
-hurl.me CNAME .
-*.hurl.me CNAME .
 ichini.me CNAME .
 *.ichini.me CNAME .
 ictv.me CNAME .
@@ -13117,8 +13115,6 @@ curl.ro CNAME .
 *.curl.ro CNAME .
 damoro.ro CNAME .
 *.damoro.ro CNAME .
-fsu.ro CNAME .
-*.fsu.ro CNAME .
 icks.ro CNAME .
 *.icks.ro CNAME .
 iuu.ro CNAME .
@@ -13881,8 +13877,6 @@ bitly.team CNAME .
 *.bitly.team CNAME .
 douyin.team CNAME .
 *.douyin.team CNAME .
-gnute.team CNAME .
-*.gnute.team CNAME .
 lk.riki.team CNAME .
 *.lk.riki.team CNAME .
 kutt.this.team CNAME .

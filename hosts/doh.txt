@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 23:46 UTC
-# Version: 2025.1015.2346.40
+# Last modified: 16 Oct 2025 11:36 UTC
+# Version: 2025.1016.1136.19
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3902
+# Number of entries: 3896
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1585,8 +1585,6 @@
 0.0.0.0 us-sj.foxyfy.net
 0.0.0.0 fptdns.site
 0.0.0.0 dns.family.fraiss.at
-0.0.0.0 v7.frame-one.cc
-0.0.0.0 v8.frame-one.cc
 0.0.0.0 resolver.frank-ruan.com
 0.0.0.0 wandana.franklinfamily.au
 0.0.0.0 agent.frankutils.xyz
@@ -1733,7 +1731,6 @@
 0.0.0.0 dns.gussguss.ovh
 0.0.0.0 dns.gutwe.in
 0.0.0.0 nas.guyifei.cn
-0.0.0.0 adguard.guyot.group
 0.0.0.0 hkns.gzelvis.com
 0.0.0.0 gztech.me
 0.0.0.0 dns.h0schi.cloud
@@ -1861,14 +1858,11 @@
 0.0.0.0 dns.huth.nu
 0.0.0.0 v2-1.huwenqiang.xyz
 0.0.0.0 ad.huyct.net
-0.0.0.0 dns.huyhoangit.net
 0.0.0.0 dns.huyizhou.com
-0.0.0.0 dns.huynd.click
 0.0.0.0 dns.hva.li
 0.0.0.0 dns.hwtwco.uk
 0.0.0.0 d.hxhd.cc
 0.0.0.0 dns.hyas.com
-0.0.0.0 dns.hypercute.eu
 0.0.0.0 hkg.hytec.org
 0.0.0.0 ur.hytec.org
 0.0.0.0 ns1.i-evolve.net

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 23:47 UTC
-# Version: 2025.1015.2347.07
+# Last modified: 16 Oct 2025 11:36 UTC
+# Version: 2025.1016.1136.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6210
+# Number of entries: 6203
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2136,8 +2136,6 @@ local=/us-ny.foxyfy.net/
 local=/us-sj.foxyfy.net/
 local=/fptdns.site/
 local=/dns.family.fraiss.at/
-local=/v7.frame-one.cc/
-local=/v8.frame-one.cc/
 local=/frandcomfort.us/
 local=/resolver.frank-ruan.com/
 local=/wandana.franklinfamily.au/
@@ -2301,7 +2299,6 @@ local=/get-x-web-link2.com/
 local=/get-xmore-link3s.com/
 local=/get-xmore-links8.com/
 local=/getcloak.com/
-local=/getcloser-websocket.com/
 local=/getdnsapi.net/
 local=/getflix.com/
 local=/getfoxyproxy.org/
@@ -2455,7 +2452,6 @@ local=/guruproxy.net/
 local=/dns.gussguss.ovh/
 local=/dns.gutwe.in/
 local=/nas.guyifei.cn/
-local=/adguard.guyot.group/
 local=/gvirabi.com/
 local=/gwopboyded.com/
 local=/hkns.gzelvis.com/
@@ -2696,15 +2692,12 @@ local=/hustlersuniversity.pro/
 local=/dns.huth.nu/
 local=/v2-1.huwenqiang.xyz/
 local=/ad.huyct.net/
-local=/dns.huyhoangit.net/
 local=/dns.huyizhou.com/
-local=/dns.huynd.click/
 local=/dns.hva.li/
 local=/dns.hwtwco.uk/
 local=/d.hxhd.cc/
 local=/dns.hyas.com/
 local=/hyperbyte.net/
-local=/dns.hypercute.eu/
 local=/hkg.hytec.org/
 local=/ur.hytec.org/
 local=/ns1.i-evolve.net/

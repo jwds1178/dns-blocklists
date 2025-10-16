@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760572020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760614560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Oct 2025 23:47 UTC
-; Version: 2025.1015.2347.07
+; Last modified: 16 Oct 2025 11:36 UTC
+; Version: 2025.1016.1136.46
 ; Syntax: RPZ
-; Number of entries: 12420
+; Number of entries: 12406
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -521,10 +521,6 @@ dns.flymc.cc CNAME .
 *.dns.flymc.cc CNAME .
 www-proxy.formen.cc CNAME .
 *.www-proxy.formen.cc CNAME .
-v7.frame-one.cc CNAME .
-*.v7.frame-one.cc CNAME .
-v8.frame-one.cc CNAME .
-*.v8.frame-one.cc CNAME .
 funti.cc CNAME .
 *.funti.cc CNAME .
 futurearts.cc CNAME .
@@ -719,8 +715,6 @@ homeworkhelp.click CNAME .
 *.homeworkhelp.click CNAME .
 purchase-some.hotglue.click CNAME .
 *.purchase-some.hotglue.click CNAME .
-dns.huynd.click CNAME .
-*.dns.huynd.click CNAME .
 dns.listo.click CNAME .
 *.dns.listo.click CNAME .
 personaly.click CNAME .
@@ -2221,8 +2215,6 @@ get-xmore-links8.com CNAME .
 *.get-xmore-links8.com CNAME .
 getcloak.com CNAME .
 *.getcloak.com CNAME .
-getcloser-websocket.com CNAME .
-*.getcloser-websocket.com CNAME .
 getflix.com CNAME .
 *.getflix.com CNAME .
 getfreeproxy.com CNAME .
@@ -5461,8 +5453,6 @@ hideway.eu CNAME .
 *.hideway.eu CNAME .
 homevpn.eu CNAME .
 *.homevpn.eu CNAME .
-dns.hypercute.eu CNAME .
-*.dns.hypercute.eu CNAME .
 sm6.jake.eu CNAME .
 *.sm6.jake.eu CNAME .
 dns.jiyi.eu CNAME .
@@ -5853,8 +5843,6 @@ polisitogel.green CNAME .
 *.polisitogel.green CNAME .
 unblocked.green CNAME .
 *.unblocked.green CNAME .
-adguard.guyot.group CNAME .
-*.adguard.guyot.group CNAME .
 polisitogel.hair CNAME .
 *.polisitogel.hair CNAME .
 mail.data.haus CNAME .
@@ -8133,8 +8121,6 @@ hoxx.net CNAME .
 *.hoxx.net CNAME .
 ad.huyct.net CNAME .
 *.ad.huyct.net CNAME .
-dns.huyhoangit.net CNAME .
-*.dns.huyhoangit.net CNAME .
 hyperbyte.net CNAME .
 *.hyperbyte.net CNAME .
 ns1.i-evolve.net CNAME .

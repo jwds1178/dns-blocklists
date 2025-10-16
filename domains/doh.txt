@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 23:46 UTC
-# Version: 2025.1015.2346.40
+# Last modified: 16 Oct 2025 11:36 UTC
+# Version: 2025.1016.1136.19
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3902
+# Number of entries: 3896
 #
 ss.0001.xyz
 003153.xyz
@@ -1585,8 +1585,6 @@ us-ny.foxyfy.net
 us-sj.foxyfy.net
 fptdns.site
 dns.family.fraiss.at
-v7.frame-one.cc
-v8.frame-one.cc
 resolver.frank-ruan.com
 wandana.franklinfamily.au
 agent.frankutils.xyz
@@ -1733,7 +1731,6 @@ dns.gupthabrothers.in
 dns.gussguss.ovh
 dns.gutwe.in
 nas.guyifei.cn
-adguard.guyot.group
 hkns.gzelvis.com
 gztech.me
 dns.h0schi.cloud
@@ -1861,14 +1858,11 @@ dns.huseynov.work
 dns.huth.nu
 v2-1.huwenqiang.xyz
 ad.huyct.net
-dns.huyhoangit.net
 dns.huyizhou.com
-dns.huynd.click
 dns.hva.li
 dns.hwtwco.uk
 d.hxhd.cc
 dns.hyas.com
-dns.hypercute.eu
 hkg.hytec.org
 ur.hytec.org
 ns1.i-evolve.net

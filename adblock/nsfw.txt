@@ -6,16 +6,17 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Oct 2025 23:43 UTC
-! Version: 2025.1015.2343.06
+! Last modified: 16 Oct 2025 11:32 UTC
+! Version: 2025.1016.1132.50
 ! Syntax: AdBlock
-! Number of entries: 79389
+! Number of entries: 79341
 !
 ||0000xxxx.com^
 ||001-adult-toys-n-sex-dolls.com^
 ||001223.xyz^
 ||001tube8.com^
 ||004bdsmnv4vrsy8s.shop^
+||007porn.com^
 ||007story.com^
 ||007xf.com^
 ||010xnxx.com^
@@ -24,6 +25,7 @@
 ||01tube.com^
 ||021sex.net^
 ||023gay.net^
+||0373ds.com^
 ||037hdjav.com^
 ||037moviefree.com^
 ||03pron.vip^
@@ -39,13 +41,13 @@
 ||0831zhaojisong.com^
 ||099hd.com^
 ||0adult-video.com^
-||0b0t.gay^
 ||0cili.com^
 ||0dayxx.com^
 ||0nsexchange.xyz^
 ||0porn.cc^
 ||0pornos.top^
 ||0pornovideo.cc^
+||0pornovideo.click^
 ||0t.gay^
 ||0v1llabj5o-xesex5lzc3.top^
 ||0x-porn.xyz^
@@ -97,6 +99,7 @@
 ||101hotguys.com^
 ||101modeling.com^
 ||101tubeporn.com^
+||1024sex.cc^
 ||1024videos.com^
 ||102model.com^
 ||1069.gay^
@@ -164,6 +167,7 @@
 ||12mnjhdirtyuosjrbh11105wdfggjukn.top^
 ||12thblog.com^
 ||12xxx.cc^
+||13-d.ru^
 ||1337porn.website^
 ||1337xxx.to^
 ||13690538372.com^
@@ -200,7 +204,6 @@
 ||1782xxx.com^
 ||1787xxx.com^
 ||17adulttoys.shop^
-||17cao-adult.cn^
 ||17cao-horny.com^
 ||17cao-xxx.com^
 ||17cdncicisex41.shop^
@@ -235,7 +238,6 @@
 ||1801pornsexxx.xyz^
 ||183898.com^
 ||18677aqbzxxx.vip^
-||18677czdlxxx.vip^
 ||18677gmzzxxx.win^
 ||18677jqgqxxx.cc^
 ||18677qwptxxx.vip^
@@ -303,6 +305,7 @@
 ||18plus.photos^
 ||18plusxxx.online^
 ||18plusxxx.store^
+||18porn.biz^
 ||18porn.cc^
 ||18porn.in^
 ||18porn.sex^
@@ -322,6 +325,7 @@
 ||18pussy.fun^
 ||18pussy.porn^
 ||18re.cc^
+||18schoolgirlz.me^
 ||18sex.chat^
 ||18sex-tube.com^
 ||18sexs.com^
@@ -359,7 +363,6 @@
 ||18yearsold.com^
 ||18yed.net^
 ||18young.com^
-||18younggay.com^
 ||18youngporn.net^
 ||18youngtube.com^
 ||18youngtwinks.com^
@@ -388,6 +391,7 @@
 ||1boyz.com^
 ||1by-day.com^
 ||1c-umi.ru^
+||1cash.net^
 ||1celebs.com^
 ||1datings.com^
 ||1ddp.ru^
@@ -436,13 +440,12 @@
 ||1r4.com^
 ||1rad-readerreviews.com^
 ||1sex.vip^
+||1sex24sex.ru^
 ||1sextube.com^
 ||1stbikini.com^
-||1stchoiceadultcare.com^
 ||1stladyofsex.com^
 ||1stophomesandloansexperts.com^
 ||1stporn.xyz^
-||1stpornohub.info^
 ||1stsex.xyz^
 ||1stxxx.xyz^
 ||1thaxxx.com^
@@ -488,6 +491,7 @@
 ||2254542.ru^
 ||22cam.com^
 ||22pixx.xyz^
+||22zgay.com^
 ||2333123a2.top^
 ||2356xxx.com^
 ||23porna.space^
@@ -530,7 +534,6 @@
 ||24porn.click^
 ||24porn.com^
 ||24porn.help^
-||24porn.lat^
 ||24porn.pro^
 ||24porn.store^
 ||24porn.tv^
@@ -539,6 +542,7 @@
 ||24pornload.com^
 ||24porno.club^
 ||24porno.mobi^
+||24porno-online.cc^
 ||24porno-online.top^
 ||24porno-video.fans^
 ||24pornofoto.xyz^
@@ -620,6 +624,7 @@
 ||2sex.vip^
 ||2sexlive.cam^
 ||2sexy4myshirt.com^
+||2sexy4myshirt.nl^
 ||2sexy4myshirt.online^
 ||2sexy4myshirt.shop^
 ||2sexy4myshirt.store^
@@ -782,7 +787,6 @@
 ||3dpornanarchy.xyz^
 ||3dporndude.com^
 ||3dpornfamily.com^
-||3dpornfuck.xyz^
 ||3dpornlog.com^
 ||3dporno.website^
 ||3dporntgp.net^
@@ -906,6 +910,7 @@
 ||4545.to^
 ||4555000.com^
 ||45min-escortsservices.com^
+||45porn.net^
 ||4859xxx.com^
 ||48hoursexpert.com^
 ||48sussex.com^
@@ -1023,11 +1028,11 @@
 ||50plusmilfs.co^
 ||50plusmilfs.com^
 ||512xxx.com^
-||5139xxxx.com^
 ||517porn.com^
 ||51cxxx.cn^
 ||51porn1.com^
 ||51porno.vip^
+||51sex.net^
 ||51sex.org^
 ||51sex.tv^
 ||51sex.xyz^
@@ -1047,11 +1052,12 @@
 ||555porn.xyz^
 ||555sex.xyz^
 ||555xxx.xyz^
-||55activeadultcommunities.com^
 ||55mb.net^
 ||55sex.xyz^
 ||55xxx.xyz^
 ||560pmovie.com^
+||5716vipxxx.shop^
+||5716xxx.buzz^
 ||576mta.lol^
 ||57kanba.com^
 ||585sex.com^
@@ -1129,6 +1135,7 @@
 ||6699xxx.com^
 ||66porn.website^
 ||66xing.cc^
+||6741caleb.gay^
 ||67porno.website^
 ||67xxx.net^
 ||6805xxxx.com^
@@ -1238,6 +1245,7 @@
 ||777porno.org^
 ||777porno.xyz^
 ||777sexy.xyz^
+||777xxx.vip^
 ||77porn.com^
 ||77pornhot77.website^
 ||789ff.sbs^
@@ -1404,7 +1412,6 @@
 ||91porn.plus^
 ||91porn.red^
 ||91porn.sex^
-||91porn.wang^
 ||91porn.work^
 ||91porn30.com^
 ||91porn44.xyz^
@@ -1412,10 +1419,8 @@
 ||91porn91.space^
 ||91porn91porn.space^
 ||91porna.com^
-||91porna.link^
-||91porna.vip^
 ||91porndhcw.buzz^
-||91porndizhi.space^
+||91porndhoon.buzz^
 ||91porndown.cc^
 ||91porngo.com^
 ||91porngw.com^
@@ -1426,9 +1431,7 @@
 ||91pornr.com^
 ||91pornxx.com^
 ||91porny.com^
-||91porny.link^
 ||91porny.org^
-||91porny73.xyz^
 ||91porny74.xyz^
 ||91porny75.xyz^
 ||91porny76.xyz^
@@ -1524,7 +1527,6 @@
 ||a-hentai.tv^
 ||hommage.a-madame.nl^
 ||a-porn.store^
-||a-sharesex.com^
 ||a-teenz.com^
 ||a0989.com^
 ||a12.xxx^
@@ -1624,7 +1626,6 @@
 ||abdlmatch.com^
 ||abdlphonesex.com^
 ||abdlz.nl^
-||abdsmartmeter.com^
 ||abdulaporn.info^
 ||abdulaporno.com^
 ||abeautifulexchangeblog.com^
@@ -1648,6 +1649,7 @@
 ||abhivansh.gay^
 ||abigass.com^
 ||abigayl.com^
+||abigayle.org^
 ||abigayleharnum.com^
 ||abigaylemazzocco.com^
 ||abjav.com^
@@ -1664,7 +1666,6 @@
 ||aboundporn.xyz^
 ||aboundsex.xyz^
 ||aboundxxx.xyz^
-||aboutcurves.com^
 ||aboutfoto.com^
 ||aboutgaymovies.info^
 ||aboutporn.xyz^
@@ -1704,6 +1705,7 @@
 ||absurdporn.xyz^
 ||absurdsex.xyz^
 ||absurdxxx.xyz^
+||abtgayd.info^
 ||abtranny.com^
 ||abtsam.com^
 ||abudhabi-escorts-service.com^
@@ -1791,6 +1793,7 @@
 ||achille-escort.com^
 ||achit.ru^
 ||achporn.xyz^
+||achromatic.gay^
 ||achsex.xyz^
 ||achxxx.xyz^
 ||acilescort.com^
@@ -1915,6 +1918,7 @@
 ||adaptporn.xyz^
 ||adaptsex.xyz^
 ||adaptxxx.xyz^
+||adar-net.com^
 ||adarajordinxxx.com^
 ||adasex.xyz^
 ||adaxh.world^
@@ -1965,6 +1969,7 @@
 ||adhdassessmentadults.com^
 ||adhereporn.xyz^
 ||adictox.com^
+||adidasextaballshoes.top^
 ||adipriya.com^
 ||adirtygardener.com^
 ||adirtysoda.com^
@@ -1982,7 +1987,6 @@
 ||adkronsexims.com^
 ||adl22.ru^
 ||adlockpost.com^
-||admin-extranet-reservationsexp.com^
 ||admingayatoto268.site^
 ||admiral-xxx.com^
 ||admiral-xxx.me^
@@ -2110,7 +2114,6 @@
 ||adult-sex-gamess.com^
 ||adult-sex-pictures.org^
 ||adult-sex-tube.com^
-||adult-singles-chat.biz^
 ||adult-singles-chat.net^
 ||adult-sozai.online^
 ||adult-story.site^
@@ -2144,7 +2147,6 @@
 ||adultactivity.info^
 ||adultada.xyz^
 ||adultadhd.tv^
-||adultadhdassessment.net^
 ||adultadhdtv.com^
 ||adultadlist.com^
 ||adultaest.xyz^
@@ -2169,6 +2171,7 @@
 ||adultapps.xyz^
 ||adultaptos.xyz^
 ||adultarb.xyz^
+||adultarchive.top^
 ||adultarkham.xyz^
 ||adultaroma.com^
 ||adultarpa.xyz^
@@ -2262,7 +2265,6 @@
 ||adultchainlink.xyz^
 ||adultchat.net^
 ||adultchat.pro^
-||adultchat.top^
 ||adultchat-lab.com^
 ||adultchatbot.net^
 ||adultchatbot.site^
@@ -2302,7 +2304,6 @@
 ||adultcompass.com^
 ||adultcompetition.com^
 ||adultcomputergames.com^
-||adultconciergexxx.com^
 ||adultcontacts.pro^
 ||adultcontent.xyz^
 ||adultcontentcreator.network^
@@ -2386,7 +2387,6 @@
 ||adulteporn.store^
 ||adultepx.xyz^
 ||adulterate.xyz^
-||adulterato.tech^
 ||adultere.click^
 ||adultere-rencontre.fr^
 ||adulterejn.org^
@@ -2446,7 +2446,6 @@
 ||adultflux.xyz^
 ||adultfolio.com^
 ||adultfor.xyz^
-||adultforceone.com^
 ||adultfotos.nl^
 ||adultfr.top^
 ||adultfractionalize.xyz^
@@ -2489,13 +2488,11 @@
 ||adultgames.pl^
 ||adultgamescollector.com^
 ||adultgamesheaven.com^
-||adultgamesimulator.com^
 ||adultgameson.com^
 ||adultgameson.net^
 ||adultgamesweek.com^
 ||adultgamesworld.com^
 ||adultgamesworld.pro^
-||adultgamingclub.com^
 ||adultgamingroom.com^
 ||adultgas.xyz^
 ||adultgayvideos.com^
@@ -2509,6 +2506,7 @@
 ||adultgno.xyz^
 ||adultgns.xyz^
 ||adultgolem.xyz^
+||adultgoodsandtoys.com^
 ||adultgraph.xyz^
 ||adultgrl.top^
 ||adultgrove.xyz^
@@ -2570,14 +2568,12 @@
 ||adultingpro.com^
 ||adultingsunscripted.com^
 ||adultinguncorked.com^
-||adultingunplugged.net^
 ||adultingwithadia.com^
 ||adultinjective.xyz^
 ||adultintent.xyz^
 ||adultinvest.xyz^
 ||adultiptv.net^
 ||adultishclothing.com^
-||adultislandgame.com^
 ||adultism.com^
 ||adultisraelguide.com^
 ||adultivon.com^
@@ -2605,6 +2601,7 @@
 ||adultleo.xyz^
 ||adultless.com^
 ||adultlibary.com^
+||adultlibrary.top^
 ||adultlifestylecommunitiesusa.com^
 ||adultlifetransitions.com^
 ||adultlinea.xyz^
@@ -2645,7 +2642,6 @@
 ||adultmdt.xyz^
 ||adultme.org^
 ||adultmediaentertainment.com^
-||adultmegagamespass.com^
 ||adultmembersclub.com^
 ||adultmeritbadges.org^
 ||adultmina.xyz^
@@ -2686,7 +2682,6 @@
 ||adultngn.xyz^
 ||adultnmr.xyz^
 ||adultnode.com^
-||adultnovelgame.com^
 ||adultnovelties.us^
 ||adultnude.com^
 ||adulto.ru^
@@ -2712,8 +2707,6 @@
 ||adultoptimism.xyz^
 ||adultoracle.xyz^
 ||adultorigyn.xyz^
-||adultosconectados.com^
-||adultoshub.com^
 ||adultosmayores.info^
 ||adultosmosis.xyz^
 ||adultospoly.com^
@@ -2777,7 +2770,6 @@
 ||adultpp.xyz^
 ||adultprime.com^
 ||adultprimecoupon.com^
-||adultproduct.store^
 ||adultproductsindia.com^
 ||adultproductsmall.com^
 ||adultproductsonline.com^
@@ -2801,7 +2793,6 @@
 ||adultrari.xyz^
 ||adultray.xyz^
 ||adultrealdoll.com^
-||adultrealitygame.com^
 ||adultrecessclub.com^
 ||adultredirect.click^
 ||adultredirect.icu^
@@ -2840,7 +2831,6 @@
 ||adultscan.xyz^
 ||adultscare.com^
 ||adultscaretoy.com^
-||adultscent.art^
 ||adultschool.xyz^
 ||adultsclips.com^
 ||adultscoin.com^
@@ -3029,7 +3019,6 @@
 ||adultusdc.xyz^
 ||adultusdp.xyz^
 ||adultusdt.xyz^
-||adultusecannabis.pw^
 ||adultuz.com^
 ||adultvacationforum.com^
 ||adultvault.top^
@@ -3038,6 +3027,7 @@
 ||adultvet.xyz^
 ||adultvibe.life^
 ||adultvibeschat.com^
+||adultvideo.info^
 ||adultvideodump.com^
 ||adultvideonews.com^
 ||adultvideopartners.com^
@@ -3058,13 +3048,12 @@
 ||adultwaxp.xyz^
 ||adultwayers.com^
 ||adultwayers.shop^
-||adultwayers.top^
 ||adultwebcamawards.com^
 ||adultwebcamdatabase.com^
 ||adultwebcamdownloads.org^
 ||adultwebcamreviews.org^
+||adultwebdesign.cloud^
 ||adultwebtoon.com^
-||adultwell70.com^
 ||adultwellnessnpservices.com^
 ||adultwholesale.uk^
 ||adultwife.com^
@@ -3079,7 +3068,6 @@
 ||adultworks.xyz^
 ||adultworld.fun^
 ||adultworld1.com^
-||adultworldgames.com^
 ||adultworldq.com^
 ||adultwormhole.xyz^
 ||adultxai.com^
@@ -3090,6 +3078,7 @@
 ||adultxlm.xyz^
 ||adultxmetaverse.com^
 ||adultxmr.xyz^
+||adultxperience.com^
 ||adultxrp.xyz^
 ||adultxsweb.com^
 ||adultxtoys.com^
@@ -3121,6 +3110,7 @@
 ||adultzksync.xyz^
 ||adultzz.net^
 ||adutoys.com^
+||aduzav.com^
 ||advancedporn.info^
 ||advancedservicesexperts.com^
 ||advancedsex.xyz^
@@ -3206,6 +3196,7 @@
 ||aeryporn.xyz^
 ||aerysex.xyz^
 ||aeryxxx.xyz^
+||aesexy.wiki^
 ||aesexy168.net^
 ||aesexy999.com^
 ||aesexycslotz.com^
@@ -3302,6 +3293,7 @@
 ||afrocaribbeanbusinessexpo.com^
 ||afroditabcn.com^
 ||afroebony.com^
+||afrogaybe.com^
 ||afrohot.com^
 ||afroporn.net^
 ||afropornzy.buzz^
@@ -3321,6 +3313,7 @@
 ||afullmovie.org^
 ||afundasao.com^
 ||afweb.ru^
+||afyondanevar.com^
 ||afyonescortbayan.net^
 ||afyonescorthot.com^
 ||afyonsurucukurslari.com^
@@ -3348,6 +3341,7 @@
 ||agaysex.com^
 ||agayunus.ru^
 ||agayuwi.top^
+||agayz2.com^
 ||agayz4.com^
 ||agayz5.com^
 ||agayz6.com^
@@ -3358,7 +3352,6 @@
 ||agednudes.com^
 ||agedporntube.com^
 ||agelessexpertskincare.com^
-||agenbonusmaxxx.info^
 ||agenciafunerariasantocristo.es^
 ||agenciahangover.com^
 ||agenciaprime.pt^
@@ -3382,6 +3375,7 @@
 ||agent-sex.xyz^
 ||agent-xxx.xyz^
 ||agent152.ru^
+||agentic.porn^
 ||agenticaisex.link^
 ||agenticsexy.xyz^
 ||agentredgirl.com^
@@ -3397,14 +3391,10 @@
 ||aggelies.club^
 ||aggeliessex.gr^
 ||aggressivebabes.com^
-||agilfacilitavidas.shop^
 ||agilfactura.com^
 ||agilfinalize.site^
-||agilflowdex.online^
 ||agilflowdexgpt.com^
 ||agilflowdexgpt.net^
-||agilflowdexmine.online^
-||agilflowdexreview.online^
 ||agionxxx.xyz^
 ||agirl.in^
 ||agirlporn.xyz^
@@ -3571,7 +3561,6 @@
 ||aidsextoys.com^
 ||aierotica.net^
 ||aieventsexec.co^
-||aieventsexec.com^
 ||aiexotic.com^
 ||aiexoticaiporn.com^
 ||aifitnessexpert.com^
@@ -3686,7 +3675,6 @@
 ||airsex.xyz^
 ||airtimechicks.com^
 ||airtubefan.xyz^
-||airwaysexpress.com^
 ||airxxxporn.com^
 ||airyxxx.xyz^
 ||aisan-porn.org^
@@ -3694,7 +3682,6 @@
 ||aiseclub.com^
 ||aisejushi6.com^
 ||aisensex.xyz^
-||aisex.sex^
 ||aisexba.com^
 ||aisexbuddy.com^
 ||aisexcity.com^
@@ -3733,7 +3720,6 @@
 ||aixxx.live^
 ||aixxxoi.com^
 ||aixxxpornllc.org^
-||aixxxshad.com^
 ||aixxxsites.com^
 ||aiyshaaggarwal.com^
 ||aiyshagoyal.com^
@@ -3768,6 +3754,7 @@
 ||akinporn.xyz^
 ||akinsex.xyz^
 ||akinxxx.xyz^
+||aklporncomic.com^
 ||akoam.net^
 ||akolkataescorts.com^
 ||akompanhantes.com^
@@ -3801,6 +3788,7 @@
 ||alaiskmurasaki.cl^
 ||alait.ru^
 ||alambina.ws^
+||alambradosexpress.com^
 ||alangaynor.com^
 ||alanwood.gay^
 ||alanyaescortilan.com^
@@ -3814,6 +3802,7 @@
 ||alaskasex.xyz^
 ||alaskaxxx.xyz^
 ||alastonsuomi.com^
+||albaespecialistaseneladultomayor.com^
 ||albaniaporn.xyz^
 ||albaniasex.xyz^
 ||albaniaxxx.xyz^
@@ -3859,6 +3848,8 @@
 ||alevtanrikutgayrimenkul.com^
 ||alex-alex.ru^
 ||alexalauren.com^
+||alexander-zagaynov.com^
+||alexanderzagaynov.com^
 ||alexandria-krasnodar.ru^
 ||alexandros-porn.space^
 ||alexaporn.com^
@@ -3879,7 +3870,6 @@
 ||alexporn.org^
 ||alexporn.xyz^
 ||alexsex.xyz^
-||alexxx.in^
 ||alexxx.net^
 ||alexxx.xyz^
 ||alexxxander.xyz^
@@ -3924,7 +3914,6 @@
 ||aliencathouse.com^
 ||alienporn.xyz^
 ||alienporno.space^
-||aliens.xxx^
 ||aliensex.xyz^
 ||aliensxxx.com^
 ||alienxxx.xyz^
@@ -3971,7 +3960,6 @@
 ||aliyakhan.in^
 ||aliyamirza.com^
 ||aliyasinha.com^
-||alkamilforklift.com^
 ||alkatalwar.com^
 ||alkhabaralfawriu.com^
 ||alkoora.live^
@@ -3982,7 +3970,6 @@
 ||all-hairy-pussies.biz^
 ||all-manzzz.sbs^
 ||all-nude-celebs.net^
-||all-porn.help^
 ||all-porn.homes^
 ||all-porn.mom^
 ||all-porn.video^
@@ -4001,6 +3988,7 @@
 ||all4jp.com^
 ||all4sex.cc^
 ||all4sex.cfd^
+||all4slut.com^
 ||allaboutbooks.ru^
 ||allaboutcd.com^
 ||allaboutsmileslutz.com^
@@ -4046,7 +4034,6 @@
 ||alldumb.com^
 ||allebonygals.com^
 ||allepaginas.nl^
-||alleporno.net^
 ||allergiesexpo.com^
 ||allerubrieken.nl^
 ||allescortservices.com^
@@ -4152,12 +4139,14 @@
 ||allporn.win^
 ||allporn123.com^
 ||allporn18.site^
+||allporncoic.com^
 ||allporncom8c.com^
 ||allporncomcic.com^
 ||allporncomic.com^
 ||allporncomic.io^
 ||allporncomic.store^
 ||allporncomics.co^
+||allporncomiv.com^
 ||allporncomix.com^
 ||allpornfilms.com^
 ||allpornimages.com^
@@ -4170,6 +4159,7 @@
 ||allpornstar.store^
 ||allpornstream.com^
 ||allpornvids.com^
+||allpornxomic.com^
 ||allpsite.com^
 ||allrape.com^
 ||allrusamateurs.com^
@@ -4483,6 +4473,8 @@
 ||amateurgirls.info^
 ||amateurgirlshot.com^
 ||amateurhotporn.com^
+||amateurhourxxx.com^
+||amateurhousexxx.com^
 ||amateurknockers.com^
 ||amateurlesbiansex.com^
 ||amateurliveshows.com^
@@ -4658,7 +4650,6 @@
 ||amiableporn.xyz^
 ||amiablesex.xyz^
 ||amiablexxx.xyz^
-||amibisexual.com^
 ||amici.gay^
 ||amicusexim.com^
 ||amiden.com^
@@ -4673,7 +4664,6 @@
 ||amihotornot.com^
 ||amilffann.com^
 ||amilfsex.com^
-||aminisexdoll.com^
 ||amirahadaraxxx.com^
 ||amiraluxury.com^
 ||amis.gay^
@@ -4690,6 +4680,7 @@
 ||amomporn.com^
 ||amopornobr.com^
 ||amor.gay^
+||amoresexdoll.com^
 ||amorisperm.com^
 ||amormayoradultdaycare.com^
 ||amorosasdelperu.com^
@@ -4768,6 +4759,7 @@
 ||amylinks.com^
 ||amymilf.site^
 ||amysadultgifts.com^
+||amyspics.com^
 ||amytaylor.com^
 ||amzaon.xyz^
 ||an4lporn.com^
@@ -5170,6 +5162,7 @@
 ||animalzooporn.me^
 ||animalzooporn.net^
 ||animalzooporn.rocks^
+||animatedporno.com^
 ||animatedsexpic.site^
 ||animatedxxx.xyz^
 ||animation.com^
@@ -5204,7 +5197,6 @@
 ||animember.net^
 ||animemojo.com^
 ||animeotk.com^
-||animepass.net^
 ||animeporn.ai^
 ||animeporn.best^
 ||animeporn.red^
@@ -5599,6 +5591,7 @@
 ||api3porn.xyz^
 ||api3sex.xyz^
 ||api3xxx.xyz^
+||apikeypay.com^
 ||apimar.eu^
 ||apimetiers.com^
 ||apina.biz^
@@ -5634,7 +5627,6 @@
 ||apotheekheren.nl^
 ||apovstory.com^
 ||hotbrazil.app.br^
-||app-chase.com^
 ||app-porn.xyz^
 ||app-xxx.com^
 ||appav.site^
@@ -5697,7 +5689,6 @@
 ||arabesex.click^
 ||arabesex.info^
 ||arabesex.onl^
-||arabesex.xyz^
 ||arabgayvideos.com^
 ||arabgrid.net^
 ||arabgy.com^
@@ -5785,7 +5776,6 @@
 ||arbada.com^
 ||arbada.net^
 ||arbada.vip^
-||arbargaypfperfomance.org^
 ||arbda.org^
 ||arbdhsx.com^
 ||arbeli.org^
@@ -5887,6 +5877,7 @@
 ||armedasexports.com^
 ||armegayapi.com^
 ||armenian-porn.cc^
+||armoredporn.xyz^
 ||armporno.cc^
 ||armyofgod.com^
 ||arnaudkagayigayi.fr^
@@ -5933,6 +5924,7 @@
 ||arrest-lookup.life^
 ||arrest-records-public.life^
 ||arrest-search.life^
+||arrowsex.xyz^
 ||arrs.net^
 ||arschgefickt.biz^
 ||arsensex.xyz^
@@ -6109,15 +6101,14 @@
 ||ashoo.me^
 ||ashoo.nl^
 ||ashtangayoga.hamburg^
+||ashtangayoga.lat^
 ||ashtangayoga.store^
 ||ashtangayogaauroville.com^
-||ashtangayogacali.com^
 ||ashtangayogagreenhill.com^
 ||ashtangayogahalifax.com^
 ||ashtangayogalivorno.it^
 ||ashtangayogamysorevenezuela.com^
 ||ashtangayogamysorevzla.com^
-||ashtangayogaonline.com^
 ||ashtangayogaurquiza.com^
 ||ashukino24.ru^
 ||ashusinha.com^
@@ -6146,7 +6137,6 @@
 ||asian-av.com^
 ||asian-bondage.com^
 ||asian-brides.online^
-||asian-girls-dating.com^
 ||asian-mature.com^
 ||asian-porn-video.com^
 ||asian-porn-videos.com^
@@ -6187,6 +6177,7 @@
 ||asiancream.pro^
 ||asiancult.com^
 ||asiancutexxx.com^
+||asiancuts.com^
 ||asianescorts.com^
 ||asianfever.tube^
 ||asianflirts.com^
@@ -6207,6 +6198,7 @@
 ||asiangays.life^
 ||asiangaysex.click^
 ||asiangaysex.net^
+||asiangayvideos.world^
 ||asiangayxxx.online^
 ||asiangayxxxorgasm.cc^
 ||asiangirl.porn^
@@ -6274,6 +6266,7 @@
 ||asianpornshop.com^
 ||asianpornteens.com^
 ||asianporntube.click^
+||asianporntv.com^
 ||asianporntv.top^
 ||asianpornv.com^
 ||asianpornvideo.xxx^
@@ -6305,10 +6298,10 @@
 ||asiansex.beauty^
 ||asiansex.click^
 ||asiansex.life^
-||asiansex.mom^
 ||asiansexdate.io^
 ||asiansexdiary.com^
 ||asiansexiestgirls.com^
+||asiansexjapan.com^
 ||asiansexnxx.com^
 ||asiansexpg.xyz^
 ||asiansexprofiles.com^
@@ -6330,7 +6323,6 @@
 ||asianteenporn.lat^
 ||asianteenporn.live^
 ||asianteenporn.net^
-||asianteenporn.quest^
 ||asiantgirl.com^
 ||asianthumbs.org^
 ||asiantolick.com^
@@ -6364,8 +6356,6 @@
 ||asiaplatetv.net^
 ||asiapornvideos.website^
 ||asiasexvids.com^
-||asiasexycam.com^
-||asiasexycams.com^
 ||asiatos.com^
 ||asiauncensored.com^
 ||asiavib.com^
@@ -6425,6 +6415,7 @@
 ||aspinkworld.com^
 ||asporno.com^
 ||asporntube.com^
+||aspornwm.com^
 ||aspot-pioneer.com^
 ||asquarerealtors.com^
 ||asrrss.com^
@@ -6485,6 +6476,7 @@
 ||aster.sex^
 ||asterdexxx.com^
 ||asteria.gay^
+||asteroidsexplorer.com^
 ||asteroidwhat.org^
 ||asthangayogahudsonvalley.com^
 ||astockings.com^
@@ -6523,9 +6515,9 @@
 ||ateentube.tv^
 ||ateliergaya.com^
 ||atencionintegraldeladulto.com^
-||ateneasexshop.com^
 ||atequeopornonossepare.com^
 ||atesgayrimenkulcarsales.com^
+||ateslisexhatti.xyz^
 ||athenselite.com^
 ||athletesexpress.com^
 ||atiteasexamprep.com^
@@ -6555,6 +6547,7 @@
 ||atlasescorts.com^
 ||atlasexchange.money^
 ||atlasexectour.com^
+||atlasexecutiveservices.com^
 ||atlasexhibit.com^
 ||atlasexpedite.com^
 ||atlasexpediting.com^
@@ -6595,8 +6588,11 @@
 ||atsexystorage.com^
 ||attachporn.xyz^
 ||attachsex.xyz^
+||attackporn.xyz^
 ||attacoffeegayo.com^
 ||attainporn.xyz^
+||attemptporn.xyz^
+||attemptsex.xyz^
 ||attireporn.xyz^
 ||attitudesex.xyz^
 ||attorneyforsexualharassmentclaim.com^
@@ -6630,6 +6626,7 @@
 ||auditadultsafeguarding.com^
 ||auditions.com^
 ||auditorsexpress.com^
+||auditorysex.xyz^
 ||auditsensex.xyz^
 ||audittube.com^
 ||audreyhornymusic.com^
@@ -6637,6 +6634,7 @@
 ||augmentporn.xyz^
 ||augsburg-models.com^
 ||augurproject.eu^
+||augurysex.xyz^
 ||augustmclaughlin.com^
 ||augustporn.xyz^
 ||augustussex.xyz^
@@ -6665,7 +6663,6 @@
 ||ausderdisco.xyz^
 ||aushima.in^
 ||auspostlogisticsexpress.com^
-||ausroidsexpress.com^
 ||aussie-gilf.top^
 ||aussieass.com^
 ||aussiepov.com^
@@ -6690,11 +6687,13 @@
 ||authadult.xyz^
 ||authenticgirls.website^
 ||authenticweddingsexperts.beauty^
+||autherotic.xyz^
 ||authgay.xyz^
 ||authporn.xyz^
 ||authporno.xyz^
 ||authrsiorisex.com^
 ||authsensex.xyz^
+||autismadvocacyforadults.com^
 ||autismessex.com^
 ||auto-electric-sesexx.zone^
 ||auto-sex.xyz^
@@ -6712,14 +6711,11 @@
 ||autolinkweb.com^
 ||autolot24.ru^
 ||automate.computer^
-||automateiqpartnersexperts.xyz^
-||automateiqpartnersexpertsdigital.xyz^
-||automateiqpartnersexpertshub.xyz^
 ||automatexxx.xyz^
 ||automationcontrolsexpress.com^
 ||automationsexpert.nl^
 ||automaxxx.ru^
-||autopartsexpertstx.com^
+||autonomyxxx.xyz^
 ||autosalesexperts.com^
 ||autosensex.xyz^
 ||autosexcelencia.com^
@@ -6825,6 +6821,7 @@
 ||averageswingers.com^
 ||averygaywedding.com^
 ||avesex.xyz^
+||avesexoticas.net^
 ||aveytare.com^
 ||avezzanoerasmusexplorer.com^
 ||avfever.net^
@@ -6955,6 +6952,7 @@
 ||avxxxpro.com^
 ||avxxxproo.com^
 ||avxxxprox.com^
+||avxxxproxx.com^
 ||avxxxsex.com^
 ||avxxxsex.work^
 ||avxxxsmile.com^
@@ -6973,6 +6971,7 @@
 ||awardsporn.xyz^
 ||awarenessoffamilysexualabuse.com^
 ||awareporn.xyz^
+||awarexxx.xyz^
 ||awaysexnow.com^
 ||aweporn.com^
 ||aweporn.xyz^
@@ -6994,6 +6993,7 @@
 ||awrt.org^
 ||awsexamguide.com^
 ||awsexchange.xyz^
+||awstrip.com^
 ||awsxxx.shop^
 ||awsxxx.site^
 ||awsxxx.space^
@@ -7038,12 +7038,14 @@
 ||ayosexu.top^
 ||aypornom.com^
 ||aysexxx.com^
+||aytransex.com^
 ||ayurvedasexologist.com^
 ||ayurvedasexologist.info^
 ||ayushibasu.net^
 ||ayushibosus.com^
 ||ayushikapoor.com^
 ||az7xzv94-z1zeixxxy74e.top^
+||aza-movies.com^
 ||azariagaylesportfolio.com^
 ||azbukaporno.top^
 ||azeri-porno.com^
@@ -7167,7 +7169,6 @@
 ||babesourcecams.com^
 ||babesporn.lat^
 ||babesporn.org^
-||babesporn.quest^
 ||babespornvideos.pro^
 ||babesrater.com^
 ||babesreview.net^
@@ -7299,19 +7300,19 @@
 ||bagaya-polowa.sbs^
 ||bagayalu.com^
 ||bagayalu.work^
-||bagayat.com^
 ||bagayatdarfarmstay.com^
 ||bagaykibon.com^
 ||bagcilarescortgo.xyz^
 ||bagcilarescorts6.xyz^
 ||bagdad.com^
 ||bagema.info^
+||baggagesex.xyz^
 ||bagporn.store^
 ||bagporn.xyz^
 ||bagsporn.xyz^
 ||bagxxx.xyz^
 ||bahamasescorts.com^
-||bahamasexotics.com^
+||bahayngkaligayahan.click^
 ||bahcelievlerkadin.com^
 ||bahcesehirescortblue.com^
 ||bahcesehirescortgo.xyz^
@@ -7420,9 +7421,9 @@
 ||bandarsub.com^
 ||liberationlondon.bandcamp.com^
 ||whores.bandcamp.com^
-||bandiera.gay^
 ||bandirmaescorts.com^
 ||bandporn.xyz^
+||bandsex.xyz^
 ||bandxxx.xyz^
 ||baneks.site^
 ||baneporn.xyz^
@@ -7506,7 +7507,6 @@
 ||banglachotix.com^
 ||banglachotixxx.me^
 ||bangladeshixxx.com^
-||bangladeshnewsexpress.com^
 ||bangladeshsociology.org^
 ||bangladeshxxx.fun^
 ||banglakothasex.com^
@@ -7539,10 +7539,12 @@
 ||bangwithfriends.com^
 ||bangxporn.com^
 ||bangxxx.xyz^
-||bangxxx321.com^
 ||bangxxxbang.com^
 ||bangyoulater.com^
 ||banivl.ru^
+||bankerporn.xyz^
+||bankersex.xyz^
+||bankingporn.xyz^
 ||bankporn.xyz^
 ||banksporn.xyz^
 ||banksyporn.xyz^
@@ -7559,6 +7561,7 @@
 ||bansf-bk.com^
 ||banskoexpress.com^
 ||bantaybarangay.xyz^
+||banterporn.xyz^
 ||bantho.vn^
 ||bantincuoingay.info^
 ||bantishika.com^
@@ -7602,6 +7605,8 @@
 ||barebummountain.com^
 ||barecdn.com^
 ||baredump.com^
+||barefootsex.xyz^
+||barefootxxx.xyz^
 ||barelist.com^
 ||barelyevil.com^
 ||barelylegal.com^
@@ -7620,6 +7625,7 @@
 ||barmesapumpsexpo.com^
 ||baronporn.com^
 ||baronporn.xyz^
+||baronssex.xyz^
 ||baronsxxx.xyz^
 ||baronxxx.xyz^
 ||barporn.xyz^
@@ -7638,6 +7644,7 @@
 ||bartinescort.info^
 ||bartinescorts.com^
 ||bartinndiyaliz.com^
+||bartlemas.com^
 ||barxxx.xyz^
 ||barzoon.info^
 ||basaksehirescortgo.xyz^
@@ -7691,7 +7698,6 @@
 ||batsa.org^
 ||batsa.pro^
 ||batteredmen.com^
-||batteriesexpressinc.com^
 ||batterybliss.com^
 ||battlesporn.xyz^
 ||battleultimate.xyz^
@@ -7804,7 +7810,6 @@
 ||bbwsex4u.com^
 ||bbwsexcam.net^
 ||bbwsexpg.xyz^
-||bbwsextub.com^
 ||bbwsexv.com^
 ||bbwsplanet.com^
 ||bbwstate.com^
@@ -7840,13 +7845,14 @@
 ||bdsm.boston^
 ||bdsm.casa^
 ||bdsm.com^
-||bdsm.expert^
 ||bdsm.fr^
 ||bdsm.guru^
 ||bdsm.one^
 ||bdsm--porn.com^
 ||bdsm--sex.com^
 ||bdsm-artzone.de^
+||bdsm-avontuur.be^
+||bdsm-avontuur.nl^
 ||bdsm-comics.com^
 ||bdsm-dating.info^
 ||bdsm-dating.online^
@@ -7855,9 +7861,8 @@
 ||bdsm-encyclopedia.com^
 ||bdsm-erziehung.ch^
 ||bdsm-fantaisie.com^
+||bdsm-files.club^
 ||bdsm-home.de^
-||bdsm-indiana.com^
-||bdsm-kentucky.com^
 ||bdsm-list.net^
 ||bdsm-lounge.berlin^
 ||bdsm-oklahoma.com^
@@ -7872,7 +7877,6 @@
 ||bdsm28.de^
 ||bdsmacademyforteengirls.com^
 ||bdsmactually.com^
-||bdsmadjacent.com^
 ||bdsmanagement.com^
 ||bdsmandfetish.com^
 ||bdsmanhcuong.vn^
@@ -7880,6 +7884,7 @@
 ||bdsmartcollection.com^
 ||bdsmartleadx.com^
 ||bdsmartmeals.health^
+||bdsmartstories.com^
 ||bdsmartwork.shop^
 ||bdsmasia-2.net^
 ||bdsmauthority.com^
@@ -7933,6 +7938,7 @@
 ||bdsmhunters.com^
 ||bdsminhlong.com^
 ||bdsminhphung.top^
+||bdsminhvu.vn^
 ||bdsmitalia.org^
 ||bdsmkink.net^
 ||bdsmkontakt.cz^
@@ -7946,7 +7952,6 @@
 ||bdsmm.online^
 ||bdsmmagic.com^
 ||bdsmmansion.com^
-||bdsmmanufacturerinindia.in^
 ||bdsmmking.link^
 ||bdsmmonster.com^
 ||bdsmmshop.xyz^
@@ -7995,7 +8000,6 @@
 ||bdsmtattoo.ru^
 ||bdsmtest.org^
 ||bdsmtestguide.com^
-||bdsmth.fun^
 ||bdsmthaisurvey.online^
 ||bdsmtrainer.com^
 ||bdsmtrainingacademy.com^
@@ -8113,6 +8117,7 @@
 ||beauty-exposed.com^
 ||beauty4k.com^
 ||beautyai.fun^
+||beautyandwellnessexpressions.com^
 ||beautyass.com^
 ||beautyass.vip^
 ||beautybay.com^
@@ -8122,7 +8127,6 @@
 ||beautygocams.com^
 ||beautyhackfetish.com^
 ||beautyindianporn.cc^
-||beautyinnumbersexpo.com^
 ||beautyloves.be^
 ||beautymovies.com^
 ||beautyofchennaiesorts.com^
@@ -8146,7 +8150,6 @@
 ||bebele.ru^
 ||bebo2night.com^
 ||bebokep.pro^
-||bebondagex.com^
 ||beboo.ru^
 ||becauseboobs.com^
 ||becauseisaidsomovie.com^
@@ -8182,6 +8185,8 @@
 ||bedevacizrepornoizlesex.store^
 ||bedevanigdepornofethiye.store^
 ||bedevapornokarsindir.store^
+||bedfordporn.xyz^
+||bedfordsex.xyz^
 ||bedirty.casa^
 ||bedpari.in^
 ||bedroomgallery.com^
@@ -8235,7 +8240,6 @@
 ||beegscom.com^
 ||beegsex.lol^
 ||beegsex.net^
-||beegsex.quest^
 ||beegsex.top^
 ||beegsex.tv^
 ||beegsex.video^
@@ -8332,6 +8336,8 @@
 ||belgeler.net^
 ||belgiumporn.xyz^
 ||belgrade.gay^
+||believeporn.xyz^
+||believexxx.xyz^
 ||belindaj.com^
 ||belinggayafashionstore.site^
 ||bella9.rs^
@@ -8346,11 +8352,11 @@
 ||bellezashot.com^
 ||bellhomeadultfamily.com^
 ||bellissimesfumaturesupply.com^
+||bellmanporn.xyz^
+||bellmanxxx.xyz^
 ||bellporn.xyz^
 ||bellsexpressprinting.com^
-||bellstheoremandquantummechanicsexplanation.blog^
 ||bellxxx.xyz^
-||bellylint.com^
 ||bellysex.com^
 ||belmontburlesque.com^
 ||belmontporn.xyz^
@@ -8462,6 +8468,7 @@
 ||bertramporn.xyz^
 ||bertramsex.xyz^
 ||bertramxxx.xyz^
+||berwicksex.xyz^
 ||berxxxo.xyz^
 ||besecret.com^
 ||besex.org^
@@ -8551,6 +8558,7 @@
 ||beste-sexzoekmachine.nl^
 ||bestelinks.nl^
 ||besten-sexbilder.com^
+||besteroticmassagenuru.com^
 ||besterpornos.com^
 ||bestescorthamburg.com^
 ||bestescortmunich.com^
@@ -8733,6 +8741,7 @@
 ||bestpregnant.com^
 ||bestprettygirl.com^
 ||bestpussypics.net^
+||bestpussypictures.com^
 ||bestpworld.com^
 ||bestrapeporn.com^
 ||bestrapepornvideos.com^
@@ -8851,6 +8860,7 @@
 ||betwixtporn.xyz^
 ||betwixtsex.xyz^
 ||betwixtxxx.xyz^
+||betxxx.ru^
 ||betxxx.xyz^
 ||beubeu.fr^
 ||beur-gay.fr^
@@ -8926,6 +8936,7 @@
 ||bfxxxporn.com^
 ||bfxxxtube.mobi^
 ||bg3x.com^
+||bgay.xyz^
 ||bgay080.com^
 ||bgayc.info^
 ||bgayhur.cyou^
@@ -9001,13 +9012,13 @@
 ||bicosex.xyz^
 ||bicoxxx.xyz^
 ||bicupid.com^
-||bicygay6.pro^
 ||biddingsex.xyz^
 ||bidforthis.com^
 ||bidhomesexp.com^
 ||bidpayporn.space^
 ||bidpornpay.space^
 ||bidsex.xyz^
+||bidsporn.xyz^
 ||bidssex.xyz^
 ||bidsxxx.xyz^
 ||bidxxx.xyz^
@@ -9105,6 +9116,7 @@
 ||bigdick.tube^
 ||bigdickguide.com^
 ||bigdickshemale.xyz^
+||bigdicksroundass.com^
 ||bigdickssex.com^
 ||bigdirtybill.com^
 ||bigdirtydeal.com^
@@ -9122,6 +9134,7 @@
 ||biggaycoin.com^
 ||biggayenergy.com^
 ||biggayporn.cc^
+||biggaytravels.com^
 ||biggayxxx.cc^
 ||biggbosskannadavoting.com^
 ||biggercheese.com^
@@ -9286,6 +9299,7 @@
 ||billowsex.xyz^
 ||billowxxx.xyz^
 ||billporn.xyz^
+||billsxxx.xyz^
 ||billysexhaust.com^
 ||billysexhausts.com^
 ||bimbim.ai^
@@ -9384,7 +9398,6 @@
 ||bisonxxx.xyz^
 ||bissex.space^
 ||bit-porn.xyz^
-||bitch.xxx^
 ||bitch-show.com^
 ||bitchalicious.com^
 ||bitchesfost.com^
@@ -9432,8 +9445,6 @@
 ||fixolegayifi.biz.id^
 ||gayupamewogo.biz.id^
 ||gracesexton.biz.id^
-||jalugayeyuqe.biz.id^
-||maqesexicoqe.biz.id^
 ||pkpornmwcsr.biz.id^
 ||txxxcye.biz.id^
 ||xnxxx.biz.id^
@@ -9475,6 +9486,7 @@
 ||bjraw.com^
 ||bk8.gay^
 ||bkporn.com^
+||av.bkrb.net^
 ||bksexrx.com^
 ||komaldas.bksites.net^
 ||bkv.tv^
@@ -9501,6 +9513,7 @@
 ||blackbarbara.com^
 ||blackbbw.xyz^
 ||blackbearsociety.org^
+||blackbirdsexperience.com^
 ||blackbootypictures.com^
 ||blackboyaddictionz.com^
 ||blackbrazilianshemales.com^
@@ -9566,6 +9579,7 @@
 ||blacksexpat.com^
 ||blacksext.com^
 ||blacksexvideos.xxx^
+||blacksgonemad.com^
 ||blackshemaleclips.com^
 ||blackshemalecum.net^
 ||blackshemaledicks.com^
@@ -9585,7 +9599,6 @@
 ||blackvegansrock.com^
 ||blackwellnessexchange.com^
 ||blackwellnessexchange.net^
-||blackwellnessexchange.org^
 ||blackwhitecomix.com^
 ||blackwhitepleasure.com^
 ||blackwink.com^
@@ -9605,6 +9618,7 @@
 ||blamethecontrolpad.com^
 ||blancaporn.xyz^
 ||blancporn.xyz^
+||blandporn.xyz^
 ||blanknoise.org^
 ||blankporn.xyz^
 ||blaporno.com^
@@ -9631,7 +9645,6 @@
 ||blinx.gay^
 ||blissbox.com^
 ||blissexa.co^
-||blissexalted.shop^
 ||blissexultant.shop^
 ||blissfulescorts.com^
 ||blitbotstudios.studio^
@@ -9708,7 +9721,6 @@
 ||blogjav.net^
 ||blogofsex.com^
 ||blogoporno.com^
-||blogpornnetwork.com^
 ||blogs.fr^
 ||okey-oyna41852.blogs100.com^
 ||blogsexcellent.com^
@@ -9778,6 +9790,7 @@
 ||bloodporn.xyz^
 ||bloodxxx.xyz^
 ||bloom-escort.com^
+||bloominsexy.com^
 ||bloomporn.xyz^
 ||bloomsporn.xyz^
 ||bloomstories.com^
@@ -9815,6 +9828,9 @@
 ||bludnice.com^
 ||blueartichokefilms.com^
 ||blueballphilly.com^
+||bluebelladultfamilyhome.com^
+||bluebelladultfamilyhome.shop^
+||bluebelladultfamilyhome.store^
 ||blueblood.com^
 ||bluecam.com^
 ||bluedominion.com^
@@ -9859,6 +9875,7 @@
 ||bmccanakkale.com^
 ||wiki.bme.com^
 ||wiki.bmezine.com^
+||bmlkochi.com^
 ||bmmn.org^
 ||bmstechsalesexperts.com^
 ||bnbporn.xyz^
@@ -9898,19 +9915,17 @@
 ||bobvoyeur.com^
 ||bobyraj.in^
 ||bocaratonsextherapist.com^
+||bochum.gay^
 ||bocilviral2024.pro^
 ||boddymsg.com^
 ||bodegayalimentacionmundobebidas.com^
 ||bodeporn.xyz^
 ||bodesex.xyz^
 ||bodgirls.com^
-||bodhgayaguide.com^
 ||bodhgayaliteraturefestival.com^
 ||bodhgayaliteraturefestival.in^
 ||bodhgayaliteraturefestival.org^
 ||bodhgayataxi.info^
-||bodhgayatourguide.com^
-||bodhgayatravelguide.com^
 ||bodkinporn.xyz^
 ||bodrumescortbayanlar.com^
 ||bodrumgumusgayrimenkul.com^
@@ -10015,6 +10030,7 @@
 ||bokepporno.co^
 ||bokeprare.com^
 ||bokepsex.cc^
+||bokepsex.org^
 ||bokepsexindonesia.icu^
 ||bokepsin.com^
 ||bokepsin.cv^
@@ -10066,6 +10082,7 @@
 ||boltonescort.com^
 ||boltporn.xyz^
 ||boltsporn.xyz^
+||boluemlakgayrimenkul.com^
 ||boluescortgo.com^
 ||boluoxp.com^
 ||bomba-clara.com^
@@ -10248,6 +10265,7 @@
 ||boobshere.com^
 ||boobshun.com^
 ||boobslagoon.com^
+||boobslist.com^
 ||boobslover.net^
 ||boobsmo.re^
 ||boobsphoto.com^
@@ -10362,6 +10380,7 @@
 ||bordello.xxx^
 ||borderlessexperts.com^
 ||borderporn.xyz^
+||boreasgayrimenkul.com^
 ||borisporn.xyz^
 ||borissex.xyz^
 ||borisxxx.xyz^
@@ -10408,7 +10427,6 @@
 ||bossseomeritkingayazzz.com^
 ||bosstvmedia.com^
 ||bossvideotube.com^
-||bostonadultsports.com^
 ||bostonescortsagency.com^
 ||bostonporn.xyz^
 ||bostonxxx.xyz^
@@ -10556,7 +10574,6 @@
 ||bozporn.xyz^
 ||boztopia.com^
 ||bphimsexd.com^
-||bpmessex.com^
 ||bpmgf.com^
 ||bporn.net^
 ||bporncity.com^
@@ -10584,6 +10601,7 @@
 ||braidporn.xyz^
 ||braidsandextensionsexpo.com^
 ||brainflasher.com^
+||brainplusex.com^
 ||brainrootporn.com^
 ||brainsensex.xyz^
 ||brainsporn.xyz^
@@ -10608,6 +10626,7 @@
 ||branle-entre-potes.com^
 ||branporn.xyz^
 ||branxxx.xyz^
+||brasexpress.site^
 ||brashhut.com^
 ||brashset.com^
 ||brasilcargosexpress.com^
@@ -10616,6 +10635,7 @@
 ||brasileiro.wtf^
 ||brasilhentai.com^
 ||brasilvoyeur.tv^
+||brasscomponentsexporter.com^
 ||brasspartsexporter.com^
 ||brassporn.xyz^
 ||brassprecisionpartsexporter.com^
@@ -10669,6 +10689,7 @@
 ||brazenhussies.com^
 ||brazenporn.xyz^
 ||brazilian-transsexuals.com^
+||brazilianbitesexperience.com^
 ||braziliangirls.org^
 ||brazilianhotwife.com^
 ||brazilianmilf.xyz^
@@ -10726,6 +10747,8 @@
 ||breporno.com^
 ||bresaer.eu^
 ||brettspizzeria.com^
+||brevisporn.xyz^
+||brevissex.xyz^
 ||brevityporn.xyz^
 ||brevitysex.xyz^
 ||brevityxxx.xyz^
@@ -10757,7 +10780,6 @@
 ||bridgesensex.xyz^
 ||bridgessextherapy.com^
 ||bridgetporno.com^
-||bridlecurb24hrsexchange.com^
 ||brieflyporn.xyz^
 ||briefporn.xyz^
 ||brigedescorts.com^
@@ -10814,6 +10836,7 @@
 ||broadporn.xyz^
 ||broadsex.xyz^
 ||broadwayadultdaycare.com^
+||broadwaysex.xyz^
 ||brobarbershop.ru^
 ||brocaall.com^
 ||brohentai.com^
@@ -10966,6 +10989,7 @@
 ||bucketporn.xyz^
 ||bucketsex.xyz^
 ||bucketxxx.xyz^
+||bucklerxxx.xyz^
 ||bucksex.xyz^
 ||bucksporn.xyz^
 ||bucksxxx.xyz^
@@ -10995,6 +11019,7 @@
 ||budsbabes.net^
 ||bufakredit.com^
 ||bufazoo.com^
+||bufeomane.gay^
 ||bufera.pro^
 ||buffaloreport.com^
 ||bufferporn.xyz^
@@ -11017,6 +11042,8 @@
 ||bugsexterminatorsinc.com^
 ||buildaporn.store^
 ||buildaporn.website^
+||builderporn.xyz^
+||buildsporn.xyz^
 ||buitengewoon-bewegingsexpert.nl^
 ||buitensex-contact.nl^
 ||bukaporn.com^
@@ -11030,7 +11057,6 @@
 ||bukkake.vip^
 ||bukkake-girl.com^
 ||bukkake-oppai.com^
-||bukkaked.net^
 ||bukkakesexvideo.com^
 ||buktijepegaya4d.com^
 ||bulantogel1.gay^
@@ -11151,6 +11177,7 @@
 ||business-oasis.ru^
 ||businessesexpo.com^
 ||businessexcellence.pro^
+||businessexcellenceconsulting.net^
 ||businessexcellencepublishing.com^
 ||businessexchanger.com^
 ||businessexclusives.net^
@@ -11160,11 +11187,9 @@
 ||businessexitblueprints.com^
 ||businessexitcraft.com^
 ||businessexitparadox.com^
-||businessexitramp.com^
 ||businessexpansionhub.com^
 ||businessexperience.club^
 ||businessexperience.uk^
-||businessexpertpro.com^
 ||businessexpertqz.com^
 ||businessexpertsservingtoday.com^
 ||businessexpo24.com^
@@ -11176,7 +11201,6 @@
 ||businessexpressstore.com^
 ||businessextra.xyz^
 ||businessloansexpertise.com^
-||businessloansexperts.com^
 ||businessplansexit.com^
 ||businesssensex.xyz^
 ||businesssexpo.com^
@@ -11208,6 +11232,7 @@
 ||bustybiz.com^
 ||bustyblonds.com^
 ||bustybloom.com^
+||bustyboys.com^
 ||bustybrandytaylor.com^
 ||bustybricks.com^
 ||bustybus.com^
@@ -11354,7 +11379,6 @@
 ||byxxxej288.vip^
 ||byxxxporn.com^
 ||bzazy.com^
-||bzxxx.top^
 ||c-date.at^
 ||c-date.es^
 ||c-dating.fr^
@@ -11381,7 +11405,6 @@
 ||cableav.xyz^
 ||cableavporn.com^
 ||cableporn.xyz^
-||cablesexplained.shop^
 ||cacambasexpress-ja.shop^
 ||cacaporno.com^
 ||cached.cyou^
@@ -11630,6 +11653,7 @@
 ||cam.bet^
 ||cam.com^
 ||cam.directory^
+||cam.tattoo^
 ||cam.vg^
 ||cam-babes.xxx^
 ||cam-farm.com^
@@ -11819,9 +11843,11 @@
 ||camrecs.com^
 ||camrecs.org^
 ||camrumorz.com^
+||cams.autos^
 ||cams.com^
 ||cams.place^
 ||cams.reviews^
+||cams.rocks^
 ||cams.xyz^
 ||cams247.com^
 ||cams2free.com^
@@ -11992,7 +12018,6 @@
 ||canaryporn.xyz^
 ||canaryxxx.xyz^
 ||canbugay.com^
-||cancerysexualidad.com^
 ||candaceblevins.com^
 ||candacedempsey.com^
 ||candaulisme.net^
@@ -12038,6 +12063,7 @@
 ||canli-sex.com^
 ||canli-sex.online^
 ||canlisex.online^
+||canlisexhatti.online^
 ||canlisexhatti.xyz^
 ||cannabiscafe.net^
 ||cannabisexchange.net^
@@ -12078,6 +12104,7 @@
 ||capetinhas.blog^
 ||capeturk.com^
 ||capexxx.xyz^
+||capifina.com^
 ||capital-top-fundpulsex.sbs^
 ||capital-toploanpulsex.sbs^
 ||capitalporn.com^
@@ -12138,6 +12165,7 @@
 ||cardxxx.xyz^
 ||care-india.com^
 ||carecleanessex.com^
+||careerbenefitsexpert.xyz^
 ||careercompassexpert.live^
 ||careercompassexpert.xyz^
 ||careerfocusexperts.site^
@@ -12147,7 +12175,6 @@
 ||careysexpertads.com^
 ||careysexpertads.net^
 ||cargayaweb.com^
-||carglassexperts.top^
 ||cargoflightsexpress.com^
 ||cargotransexpress.com^
 ||caribbeanadultsonlyresorts.com^
@@ -12225,14 +12252,12 @@
 ||cartoonreality.com^
 ||cartoonreality.net^
 ||cartoons-sex.com^
-||cartoonsexpert.com^
 ||cartoonssex.xyz^
 ||cartoonsworld.vip^
 ||cartoontube.com^
 ||cartoontube.xxx^
 ||cartoonvideos247.com^
 ||cartsex.com^
-||carvanepakistan.com^
 ||carveporn.xyz^
 ||carverporn.xyz^
 ||carversex.xyz^
@@ -12256,6 +12281,7 @@
 ||caseporn.xyz^
 ||casex-store.com^
 ||casex360.com^
+||casexgaming.com^
 ||casexio.com^
 ||casexualharassmentattorney.com^
 ||caseycalvert.com^
@@ -12286,6 +12312,7 @@
 ||caspermarketing.dk^
 ||caspermattress.de^
 ||caspermentor.com^
+||caspermoom.xyz^
 ||caspermt2.online^
 ||cassandrab2bmassage.com^
 ||cassandrasummit-datastax.com^
@@ -12361,7 +12388,6 @@
 ||cathyporno.com^
 ||catlikeporn.xyz^
 ||catlikexxx.xyz^
-||catmilf.club^
 ||catoporn.xyz^
 ||catosex.xyz^
 ||catoxxx.xyz^
@@ -12381,7 +12407,6 @@
 ||cavesex.com^
 ||cavporn.asia^
 ||cavporn.com^
-||caxxx.top^
 ||cazaputas.com^
 ||cazzo.fr^
 ||cazzofilm.com^
@@ -12397,7 +12422,6 @@
 ||cbigtits.com^
 ||cbsextoys.com^
 ||cbtphonesexhq.com^
-||cbxxx.top^
 ||cc18.tv^
 ||ccbill.com^
 ||ccccxxxac.asia^
@@ -12430,6 +12454,7 @@
 ||cdntrex.com^
 ||cdnxxx.com^
 ||cdnxxx.stream^
+||cds-petergof.ru^
 ||cdsexpert.com^
 ||cdxxx.top^
 ||cdxxxx.xyz^
@@ -12606,7 +12631,6 @@
 ||cephasexpeditions.com^
 ||ceporner.com^
 ||cepornpg.xyz^
-||cercledesexpertsdeladurabilite.com^
 ||cercoincontri.com^
 ||cerdas.com^
 ||cerebrosextraordinarios.com^
@@ -12768,6 +12792,7 @@
 ||charmerporn.xyz^
 ||charmescorts.com^
 ||charmfling.com^
+||charmingsexybaby.com^
 ||charmingtranny.com^
 ||charmporn.xyz^
 ||charmsex.xyz^
@@ -12830,6 +12855,8 @@
 ||chatgay.org^
 ||chatgay.xyz^
 ||chatgpt-official.com^
+||chatgpterotic.com^
+||chatgpterotica.com^
 ||chathostess.com^
 ||chathostessmodels.com^
 ||chathour.com^
@@ -12961,6 +12988,7 @@
 ||cheapcamgirls.org^
 ||cheapcamshows.com^
 ||cheapdelhiescorts.com^
+||cheapdildos.com^
 ||cheaperporn.xyz^
 ||cheapersex.xyz^
 ||cheapestadultscripts.com^
@@ -13365,6 +13393,7 @@
 ||chordsporn.xyz^
 ||chordsxxx.xyz^
 ||chordxxx.xyz^
+||chornyavka.com^
 ||chorusporn.xyz^
 ||chorusxxx.xyz^
 ||chosenfamily.gay^
@@ -13456,6 +13485,7 @@
 ||ciaoamigos.it^
 ||ciberhentai.com^
 ||cibloggers.com^
+||ciboporno.com^
 ||cicciolinaonline.it^
 ||ciceroporn.xyz^
 ||cicerosex.xyz^
@@ -13624,6 +13654,9 @@
 ||classement-sites-de-rencontre.ca^
 ||classement-sites-de-rencontre.com^
 ||classesexercise.shop^
+||classexperience.info^
+||classexperience.store^
+||classexpertpro.com^
 ||classiadultos.com^
 ||classic-porn.me^
 ||classic-xxx-movies.com^
@@ -13671,12 +13704,10 @@
 ||cleaninghandsexperts.com^
 ||cleaningxxx.xyz^
 ||cleanlinessex.info^
-||cleanplusexterior.com^
 ||cleantranny.com^
 ||clearadultbraces.com^
 ||clearnexusexperts.com^
 ||clearpathessex.com^
-||clearskiesexteriors.com^
 ||clearxxx.xyz^
 ||clefporn.xyz^
 ||cleispress.com^
@@ -13841,7 +13872,6 @@
 ||closetabierto.gay^
 ||closetporn.xyz^
 ||closetsex.xyz^
-||closeupboobs.com^
 ||closexknitcounseling.net^
 ||closexpert.xyz^
 ||closexr.xyz^
@@ -13870,7 +13900,6 @@
 ||clovischristmascannabisexpo.com^
 ||clownporn.space^
 ||clporn.com^
-||clsexpress.online^
 ||club-agapornis.com^
 ||club-bethanybenz.com^
 ||club-cougars.com^
@@ -13878,6 +13907,7 @@
 ||club-globe.ch^
 ||club-lv.com^
 ||club-memphismonroe.com^
+||club-nanou.com^
 ||club-prive.pl^
 ||club-rendezvous.de^
 ||club-tight.com^
@@ -14187,9 +14217,7 @@
 ||dirtyburgerzgobiiig.co.uk^
 ||dirtycash.co.uk^
 ||dirtydaddy.co.uk^
-||dirtydoghuytonliverpool.co.uk^
 ||dirtydogsclub.co.uk^
-||dirtydogshuytonliverpool.co.uk^
 ||dirtyduchessstudio.co.uk^
 ||dirtydungeonrecords.co.uk^
 ||dirtyhabit.co.za^
@@ -14338,13 +14366,13 @@
 ||gayissues.co.uk^
 ||gaykinkdungeon.co.uk^
 ||gaylemoore.co.uk^
-||gaynaked.co.uk^
 ||gaynetwork.co.uk^
 ||gaynews.co.uk^
 ||gaynlogi.co.in^
 ||gayporn.co.uk^
 ||gayprotests.co.uk^
 ||gayromance.co.uk^
+||gaysaunaguide.co.uk^
 ||gaysbonding.co.uk^
 ||gayse.co.uk^
 ||gaystore.co.uk^
@@ -14402,7 +14430,6 @@
 ||indiangaychat.co.in^
 ||indies-av.co.jp^
 ||insulatedrenderessex.co.uk^
-||integratorsexperts.co.uk^
 ||inthebuff.co.uk^
 ||israel-lady.co.il^
 ||israelxclub.co.il^
@@ -14536,6 +14563,7 @@
 ||mysexshop.co.za^
 ||myshemale.co.uk^
 ||mysteriousgamesexpo.co.uk^
+||nagayakogyo.co.jp^
 ||naina-amritsar.co.in^
 ||nairobiraha.co.ke^
 ||najyakhan.co.in^
@@ -14804,6 +14832,8 @@
 ||sussexdancecompany.co.uk^
 ||sussexdogphotography.co.uk^
 ||sussexfiresafety.co.uk^
+||sussexgoodcausesfc.co.uk^
+||sussexgroupcottages.co.uk^
 ||sussexjob.co.uk^
 ||sussexmanagement.co.uk^
 ||sussexpcbuilder.co.uk^
@@ -14816,7 +14846,6 @@
 ||sussexverjus.co.uk^
 ||sussexvideocompany.co.uk^
 ||sussexvintagelamps.co.uk^
-||sussexwatertreatments.co.uk^
 ||sussexwp.co.uk^
 ||suttonsexteriorcleaning.co.uk^
 ||swatisahni.co.in^
@@ -14865,8 +14894,10 @@
 ||toysex.co.uk^
 ||trannysex.co.uk^
 ||transformation.co.uk^
+||travelplusexplore.co.in^
 ||trok.co.uk^
 ||truyen-hentai.co.uk^
+||tuagayoresret.co.uk^
 ||tuta.co.il^
 ||ukchat.co.uk^
 ||ukessaysexperts.co.uk^
@@ -14897,7 +14928,6 @@
 ||wessexculinary.co.uk^
 ||wessexenable.co.uk^
 ||westsussexaesthetics.co.uk^
-||westsussexpadel.co.uk^
 ||wesussexepc.co.uk^
 ||wholemeltsextracts.co.uk^
 ||wildsecrets.co.nz^
@@ -14984,6 +15014,7 @@
 ||coderporn.xyz^
 ||codersex.xyz^
 ||coderxxx.xyz^
+||coderzbar.com^
 ||codesensex.xyz^
 ||codingporn.xyz^
 ||codingsensex.xyz^
@@ -15000,7 +15031,9 @@
 ||coffetube.org^
 ||coffetubehd.com^
 ||cognopolisexperience.org^
+||cohenporn.xyz^
 ||cohentai.com^
+||coherentxxx.xyz^
 ||coheteporno.net^
 ||coifporn.xyz^
 ||coilporn.xyz^
@@ -15033,7 +15066,6 @@
 ||colegialasdeverdad.xxx^
 ||colegialasreales.com^
 ||colemag.com^
-||colemansexotics.com^
 ||colemanzone.com^
 ||colette.com^
 ||coletteclubs.com^
@@ -15143,6 +15175,7 @@
 ||asprocuradas.com.br^
 ||assexualidade.com.br^
 ||asusexpo2014.com.vn^
+||atekgayrimenkul.com.tr^
 ||atoananet.com.br^
 ||aulasdejapones.com.br^
 ||ausadvisor.com.au^
@@ -15292,6 +15325,7 @@
 ||fastlivery.com.br^
 ||feemjesus.com.br^
 ||femplay.com.au^
+||fethiyegayrimankulekspertiz.com.tr^
 ||fgmo.com.au^
 ||filhosdeafrodite.com.br^
 ||filmesgratis.com.br^
@@ -15358,6 +15392,7 @@
 ||gocycle.com.au^
 ||gogoanime.com.es^
 ||golove.com.sg^
+||goxxx.com.br^
 ||gpgbh.com.br^
 ||grannyforsex.com.au^
 ||gruposadulto.com.br^
@@ -15425,6 +15460,7 @@
 ||justescorts.com.au^
 ||kitsexy.com.br^
 ||kortslutninguf.com.se^
+||labellasexshop.com.br^
 ||lackinprivacy.com.br^
 ||lasextaseccion.com.ar^
 ||lasexy.com.br^
@@ -15470,6 +15506,7 @@
 ||medicosextraordinarios.com.br^
 ||medusasexshop.com.br^
 ||megagayrimenkul.com.tr^
+||megayapiurla.com.tr^
 ||memoriasdosantacruz.com.br^
 ||mencanta.com.py^
 ||mentalsex.com.br^
@@ -15606,6 +15643,7 @@
 ||s2sexshop.com.br^
 ||salahot.com.br^
 ||salesexperience.com.br^
+||salesexperts.com.pl^
 ||saltoaltosexy.com.br^
 ||saltsbr.com.br^
 ||sangayscreation.com.bt^
@@ -15628,11 +15666,13 @@
 ||sexfilmy.com.pl^
 ||sexfood.com.br^
 ||sexgood.com.ua^
+||sexgyn.com.br^
 ||sexhatti.com.tr^
 ||sexinfo.com.pl^
 ||sexlog.com.br^
 ||sexocomcafe.com.br^
 ||sexologacristadenise.com.br^
+||sexologialosarcos.com.ar^
 ||sexorapido.com.br^
 ||sexoreal.com.br^
 ||sexosentido.com.ar^
@@ -15643,6 +15683,7 @@
 ||sexshopluxurias.com.br^
 ||sexshopya.com.ar^
 ||sexsmsoglasi.com.hr^
+||sextaessencia.com.br^
 ||sextoys.com.ua^
 ||sextoyserotica.com.au^
 ||sextoyswarehouse.com.au^
@@ -15680,7 +15721,6 @@
 ||supernetes.com.br^
 ||superoticasaojoseaju.com.br^
 ||superoticasaojosearacaju.com.br^
-||suplementosextreme.com.ar^
 ||surryhillsbrothel.com.au^
 ||sussexdentalcare.com.au^
 ||swingconnect.com.au^
@@ -15788,6 +15828,7 @@
 ||come4sex.com^
 ||comedycentral.com^
 ||comeporn.xyz^
+||cometsporn.xyz^
 ||comewithdaddy.com^
 ||comewithyou.com^
 ||comfort-care-services-llc-adult-family-home.com^
@@ -15837,6 +15878,7 @@
 ||comilfo.shop^
 ||comingout.tokyo^
 ||comingoutlikeapornstar.com^
+||comingporn.xyz^
 ||comingxxx.xyz^
 ||comiquetaxxx.com^
 ||comix666.lat^
@@ -15851,6 +15893,7 @@
 ||commentsexy.com^
 ||commercesex.xyz^
 ||commissie.online^
+||commitsporn.xyz^
 ||commonsexchangepoint.sbs^
 ||commonsupport.com^
 ||communaute.gay^
@@ -15865,20 +15908,28 @@
 ||companion.adult^
 ||companionshipdirectory.com^
 ||companyofmen.org^
+||companyporn.xyz^
 ||companyriviera.eu^
+||companysex.xyz^
 ||compareporn.xyz^
 ||compassexchangellc.com^
 ||compassexteriorsne.com^
 ||compassporn.xyz^
 ||compelporn.xyz^
+||compelsex.xyz^
 ||compelxxx.xyz^
 ||competeporn.xyz^
+||compilersex.xyz^
 ||completelyfreedating.com^
 ||completeporndatabase.com^
 ||completeunisexbeautysalon.com^
 ||compliancetent.com^
 ||complyporn.xyz^
+||compostporn.xyz^
+||compostsex.xyz^
+||compostxxx.xyz^
 ||compoundporn.xyz^
+||compoundxxx.xyz^
 ||compporn.xyz^
 ||comprandoconlosexpertos.com^
 ||comprandoconlosexpertos.net^
@@ -15898,10 +15949,13 @@
 ||comunita.gay^
 ||conacami.org^
 ||concealxxx.xyz^
+||conceivesex.xyz^
 ||conceptporn.xyz^
 ||conceptsexecution.com^
 ||conceptsxxx.xyz^
 ||conceptxxx.xyz^
+||concernporn.xyz^
+||concernxxx.xyz^
 ||conciseporn.xyz^
 ||concisesex.xyz^
 ||concursex.xyz^
@@ -15953,7 +16007,6 @@
 ||conquerxxx.xyz^
 ||conquestxxx.xyz^
 ||conradexxx.xyz^
-||conradgayle.com^
 ||conseilsexpertise.com^
 ||rencontrestransexuelles.conseilslibertins.com^
 ||consensysexchange.xyz^
@@ -15980,6 +16033,7 @@
 ||contactosexo.click^
 ||contactossex.com^
 ||contactoysexo.com^
+||contactporn.xyz^
 ||contactq.fr^
 ||contactsenior.com^
 ||containxxx.xyz^
@@ -16002,6 +16056,7 @@
 ||contextxxx.xyz^
 ||continentalharmony.org^
 ||contingentemx.net^
+||continuesex.xyz^
 ||contoerotico.blog^
 ||contortionhomepage.com^
 ||contosadultos.club^
@@ -16029,6 +16084,7 @@
 ||conversexxx.xyz^
 ||conversiovirium.com^
 ||convexporn.xyz^
+||convexxxx.xyz^
 ||conviviocm.pt^
 ||convoswithcosmo.com^
 ||convoyeur-automobile-poids-lourds-spl.fr^
@@ -16041,6 +16097,7 @@
 ||coochievideos.com^
 ||coochporn.com^
 ||cookeryporn.xyz^
+||cookerysex.xyz^
 ||cookieporn.xyz^
 ||cookiexxx.xyz^
 ||cool-celebs-porn-tube.store^
@@ -16053,10 +16110,12 @@
 ||coolgirl08.xyz^
 ||coolinet.me^
 ||coolinet.net^
+||coolingporn.xyz^
 ||coolip.icu^
 ||cooljizz.com^
 ||coollesbianporn.com^
 ||coolmanporn.xyz^
+||coolmanssex.xyz^
 ||coolmanxxx.xyz^
 ||coolmenu.ru^
 ||coolporn.biz^
@@ -16112,7 +16171,6 @@
 ||corbinfisher.com^
 ||corbinfisherlive.com^
 ||coredump.cx^
-||corepulsex.forum^
 ||coresensex.xyz^
 ||coresexs.space^
 ||corfumegayachtmarina.com^
@@ -16133,9 +16191,9 @@
 ||coronaporn.space^
 ||coronaporno.sbs^
 ||coronavirus-graph.ru^
+||coronetsex.xyz^
 ||coronetxxx.xyz^
 ||corporal.com^
-||correios.gay^
 ||corumescorts.com^
 ||corumindirpornokartepesikis.store^
 ||corummasajsalonuilani.com^
@@ -16178,6 +16236,9 @@
 ||costacruise.com^
 ||costaricatoursexperience.com^
 ||costas.gay^
+||costasex.xyz^
+||costaxxx.xyz^
+||costporn.xyz^
 ||costumesexywear.com^
 ||cosxplay.com^
 ||cosygirl69.com^
@@ -16199,15 +16260,23 @@
 ||cougars.wiki^
 ||cougars-infideles.com^
 ||cougarscravekittens.com^
+||counterporn.xyz^
 ||countertopsexpertincolumbia.org^
+||counterxxx.xyz^
 ||country105.com^
+||countrysex.xyz^
+||countryxxx.xyz^
 ||countryxxxsex.com^
+||countssex.xyz^
+||countyporn.xyz^
+||countysex.xyz^
 ||couple.me^
 ||couplechevere.com^
 ||couplelookingforthird.com^
 ||couplelookingforunicorn.com^
 ||coupleloveporn.sex^
 ||couplelovepornxxx.com^
+||coupleporn.xyz^
 ||couplesads.com^
 ||couplescupid.org^
 ||couplesdatingapp.org^
@@ -16216,6 +16285,7 @@
 ||coupleslookingforsexmen.com^
 ||couplesreviews.com^
 ||couponsdealsnow.com^
+||couponxxx.xyz^
 ||courcellesluthier.com^
 ||coursex.shop^
 ||courtneytrouble.com^
@@ -16259,9 +16329,7 @@
 ||crackedpornaccounts.website^
 ||crackgive.com^
 ||crackright.com^
-||cradultes.com^
-||cradultes.fun^
-||cradultesfr.fun^
+||crackwhoreconfessions.com^
 ||craftsensex.xyz^
 ||craftsex.xyz^
 ||craigslistconfessional.com^
@@ -16375,7 +16443,6 @@
 ||crimefetishfantasy.com^
 ||criollasx.com^
 ||crisdevoisines.com^
-||crisisexit.com^
 ||crisisexpound.com^
 ||cristalsex.com^
 ||cristianlay.com^
@@ -16385,6 +16452,7 @@
 ||crisvip.com^
 ||criticalmassrides.info^
 ||criticalmassvideo.com^
+||critterswhoare.gay^
 ||crm24.co^
 ||crmkocgayrimenkul.com^
 ||crocofetish.com^
@@ -16423,7 +16491,6 @@
 ||crossexamtech.com^
 ||crossfetish.com^
 ||crossiety.app^
-||crossroadsexcavation.com^
 ||crossxxxxyz.xyz^
 ||crot.cam^
 ||crot.icu^
@@ -16434,6 +16501,7 @@
 ||crownsexchange.com^
 ||croxxx.xyz^
 ||croxy.red^
+||crpornwm.com^
 ||crsex1e.com^
 ||crsex1ep.com^
 ||crsex1i.com^
@@ -16516,6 +16584,7 @@
 ||cryptopornstar.com^
 ||cryptosensex.xyz^
 ||cryptousex.com^
+||crysex.com^
 ||crystalacids.com^
 ||crystalmilfpics.com^
 ||crystalmiss.com^
@@ -16592,7 +16661,6 @@
 ||cuckoldplacetube.com^
 ||cuckoldpornsite.com^
 ||cuckoldsessions.com^
-||cuckoldslaves.com^
 ||cuckoldsporn.com^
 ||cuckoldvideotube.net^
 ||cuckparty.com^
@@ -16720,6 +16788,7 @@
 ||cuntwars.com^
 ||cuntwarshack.pw^
 ||cuongdam.org^
+||cuotasexpresso.com^
 ||cupcaketfox-is-sexy.com^
 ||cupergays.top^
 ||cupick.jp^
@@ -16769,6 +16838,7 @@
 ||customwam.tv^
 ||cute-clubs.com^
 ||cute-simmi.com^
+||cuteasiangays.live^
 ||cuteasiangirl.net^
 ||cuteboytube.com^
 ||cutebutts.com^
@@ -16867,7 +16937,6 @@
 ||cyberteenporn.com^
 ||cyborgtube.com^
 ||cybrothel.com^
-||cyjzxxx.com^
 ||cykyapigayrimenkul.com^
 ||cymplusspermartirici.com^
 ||cyoc.net^
@@ -17148,7 +17217,6 @@
 ||darkegysex.com^
 ||darkero.com^
 ||darkescorts.com^
-||darkestsecretsexposed.blog^
 ||darkfans.com^
 ||darkforesterotica.com^
 ||darkforesterotica.photography^
@@ -17310,6 +17378,7 @@
 ||dayofsex.com^
 ||dayporn.com^
 ||dayporn.site^
+||daysexcavationllc.com^
 ||daywith.gay^
 ||dayz.com^
 ||dbcomix.com^
@@ -17363,7 +17432,6 @@
 ||deai-sexy-mylife.com^
 ||deaixxx.xyz^
 ||dealsensex.xyz^
-||dealsexclusive.store^
 ||dealsexperts.com^
 ||deanemesi.com^
 ||dearcupid.org^
@@ -17452,7 +17520,6 @@
 ||deepslowsex.com^
 ||deepsmile.info^
 ||deepstate.gay^
-||deepstax.xxx^
 ||deepstrip.com^
 ||deepswap.ai^
 ||deepswap.tools^
@@ -17469,11 +17536,6 @@
 ||defaceherface.com^
 ||defeat-heroine.com^
 ||defeated.xxx^
-||defensexccelerator.com^
-||defensexcceleratorgroup.com^
-||defensexcelerator.com^
-||defensexceleratorgroup.com^
-||defensexg.com^
 ||defiled18.com^
 ||definebabe.com^
 ||definebabes.com^
@@ -17489,6 +17551,7 @@
 ||degoporn.xyz^
 ||degosex.xyz^
 ||degoxxx.xyz^
+||deha35gayrimenkul.com^
 ||dehatibf.com^
 ||dehradunagency.in^
 ||dehraduncallgirl.in^
@@ -17612,6 +17675,7 @@
 ||deliats.com^
 ||deliciasexpress.shop^
 ||deliciousmovies.com^
+||delicon.jp^
 ||delightful.com^
 ||delighttoys.in^
 ||delilahs.com^
@@ -17686,6 +17750,7 @@
 ||desarolloadulto.com^
 ||desarolloadulto.org^
 ||desawisatakaranggayam.com^
+||descontosexclusivos.shop^
 ||descoperamilf.com^
 ||desdeelamor.com^
 ||deseo-sexual.es^
@@ -18033,6 +18098,7 @@
 ||devhuman.com^
 ||deviantclip.com^
 ||deviants.com^
+||deviantsadultarcade.com^
 ||devicebondage.com^
 ||devikagupta.in^
 ||devil69porn4.com^
@@ -18093,6 +18159,7 @@
 ||dgayeg.com^
 ||dgfe2016.de^
 ||dgiurad.ge^
+||dgp68-spb.ru^
 ||dgqtzxxx.com^
 ||dgxxx.top^
 ||dhavni.com^
@@ -18101,13 +18168,13 @@
 ||dhstyles.com^
 ||dhxxx.top^
 ||dhyxxx.com^
-||diabetesysexualidad.com^
 ||diablaroja.es^
 ||diablement-sexy.com^
 ||diabolic.com^
 ||dial.to^
 ||dial2escort.com^
 ||dialog-mebel.ru^
+||dialogdolphingayrimenkul.com^
 ||dialsexy.fr^
 ||diamond-escorts.com^
 ||diamonddatinglist.com^
@@ -18181,7 +18248,6 @@
 ||digisns.com^
 ||digital-bless.com^
 ||digital-pimp.com^
-||digitalamateurs.com^
 ||digitalbee.al^
 ||digitalbusinessexpress.fr^
 ||digitalgod-porn.xyz^
@@ -18314,7 +18380,6 @@
 ||dirty30vintage.shop^
 ||dirty4.com^
 ||dirty5.be^
-||dirtyaccident.com^
 ||dirtyadventures.in^
 ||dirtyairbook.com^
 ||dirtyairbook.info^
@@ -18336,7 +18401,6 @@
 ||dirtyayrabdirtyayrab.com^
 ||dirtybackyardbuilds.com^
 ||dirtybase.ai^
-||dirtybasstard.com^
 ||dirtybeanwx.com^
 ||dirtybeatsradio.com^
 ||dirtybelle.com^
@@ -18367,7 +18431,6 @@
 ||dirtyboyreviews.com^
 ||dirtyboysnj.com^
 ||dirtyboysprospecting.com^
-||dirtyboyswindowcleaningbrand.com^
 ||dirtybrushdesigns.com^
 ||dirtybuckbaitsandlures.com^
 ||dirtybunnys.com^
@@ -18413,24 +18476,22 @@
 ||dirtydawg.online^
 ||dirtydawg.world^
 ||dirtydawgs.us^
-||dirtydawgsoapcompany.com^
-||dirtydaze.asia^
 ||dirtydcbottlebill.com^
 ||dirtydealerz.hu^
 ||dirtydecemberlagos.com^
 ||dirtydeeds.club^
 ||dirtydeedsapparel.com^
+||dirtydeedscleaning.com^
 ||dirtydeedsco.com^
 ||dirtydeedsplumbingtx.com^
 ||dirtydeedsprocleaning.com^
 ||dirtydenalii.com^
 ||dirtydenimnyc.com^
-||dirtydesertpowerwashing.com^
-||dirtydesertpressurewashing.com^
 ||dirtydetailingny.com^
 ||dirtydiamondoutfitters.com^
 ||dirtydieselga.com^
 ||dirtydieselgarage.com^
+||dirtydinercoffee.com^
 ||dirtydinero.com^
 ||dirtydiscer.com^
 ||dirtydivine.com^
@@ -18441,7 +18502,6 @@
 ||dirtydivotgolf.shop^
 ||dirtydivotgolf.store^
 ||dirtydivotsgolf.com^
-||dirtydmerch.com^
 ||dirtydoggydaycare.com^
 ||dirtydogmedia.com^
 ||dirtydollarmarketing.com^
@@ -18462,7 +18522,6 @@
 ||dirtyeug.com^
 ||dirtyevil.com^
 ||dirtyex.com^
-||dirtyfacesoap.com^
 ||dirtyfarmer.com^
 ||dirtyfee.space^
 ||dirtyfeed.org^
@@ -18523,6 +18582,7 @@
 ||dirtyheadstour2027.us^
 ||dirtyheiferstudio.com^
 ||dirtyhemp.com^
+||dirtyhillbillysupply.com^
 ||dirtyhillbillysupplyco.com^
 ||dirtyhippiestudio.com^
 ||dirtyhomeclips.com^
@@ -18627,7 +18687,7 @@
 ||dirtypenny.com^
 ||dirtypips.com^
 ||dirtypolos.com^
-||dirtypoppgh.com^
+||dirtypoppopcorn.com^
 ||dirtypopsodashop.net^
 ||dirtypopsy.com^
 ||dirtyporn.biz^
@@ -18685,6 +18745,7 @@
 ||dirtyship.to^
 ||dirtyships.net^
 ||dirtyshirtapparel.com^
+||dirtyshirts.shop^
 ||dirtysioux.com^
 ||dirtysiouxrecords.com^
 ||dirtysipok.com^
@@ -18706,11 +18767,11 @@
 ||dirtysodagirls.shop^
 ||dirtysodagirls.store^
 ||dirtysol.xyz^
+||dirtysotapop.com^
 ||dirtysoundz.cz^
 ||dirtysouth.miami^
 ||dirtysouthbinbath.com^
 ||dirtysouthern.com^
-||dirtysouthhuntingco.com^
 ||dirtysouthjosh.com^
 ||dirtysouthjournals.com^
 ||dirtysouthmovie.com^
@@ -18720,6 +18781,7 @@
 ||dirtysouthsodaco.com^
 ||dirtysouthtours.com^
 ||dirtysouthtv.tv^
+||dirtyspendingsecrets.com^
 ||dirtyspotss.info^
 ||dirtysquirreldesigns.com^
 ||dirtystitches.com^
@@ -18733,6 +18795,7 @@
 ||dirtytalkingsluts.com^
 ||dirtytalkmatch.com^
 ||dirtyteddys.com^
+||dirtythievesclothing.com^
 ||dirtythings.in^
 ||dirtytime.us^
 ||dirtytimes.com^
@@ -18784,7 +18847,6 @@
 ||disc-net.org^
 ||discountedporn.com^
 ||discountgaycheap.shop^
-||discountgaypop.shop^
 ||discountporn.ca^
 ||discoutedindianporn.com^
 ||discoveredd.com^
@@ -19127,7 +19189,6 @@
 ||donacalenta.com^
 ||donaldandelonare.gay^
 ||donaldtrumpandelonmuskare.gay^
-||donaldtrumpisgay.com^
 ||donaldtrumpisreally.gay^
 ||donaldtrumpissuper.gay^
 ||donaldtrumplovestobe.gay^
@@ -19175,6 +19236,7 @@
 ||donpaja.com^
 ||donporno.blog^
 ||donpornovideos.com^
+||donreesextraordinarylessons.ca^
 ||donsex.com^
 ||donsperme.com^
 ||donsperme.online^
@@ -19210,7 +19272,6 @@
 ||dopaminegirl.com^
 ||dopenisextendersactuallywork.com^
 ||dophd.com^
-||dopomogggayp24.shop^
 ||doporn.site^
 ||doporn.space^
 ||doporntube.com^
@@ -19227,7 +19288,6 @@
 ||dordoz.com^
 ||doremonescorts.com^
 ||dorinteintunecate.com^
-||dorkwebcam.com^
 ||dorliongayrimenkul.com^
 ||dormescorts.com^
 ||dormexalint.gay^
@@ -19263,6 +19323,7 @@
 ||dosugcx-mgn.biz^
 ||dosugfaq.pro^
 ||dosugkras.org^
+||dotacionesexito.com^
 ||dotgporn.com^
 ||dothal.com^
 ||dothewife.com^
@@ -19365,6 +19426,7 @@
 ||dragslotalternatif.gay^
 ||draiskajiem.lv^
 ||drama4adults.com^
+||dramacool.gay^
 ||dramaxxx.com^
 ||draq-porn.store^
 ||dravolento.gay^
@@ -19478,6 +19540,7 @@
 ||drochy.com^
 ||droisgay.ai^
 ||droisgay.com^
+||droits-intersexes.fr^
 ||dronesensex.xyz^
 ||dropdeadsexypinups.com^
 ||dropmms.com^
@@ -19652,7 +19715,6 @@
 ||dutrai.com^
 ||duxxx.top^
 ||duzceindirpornomobildortyol.store^
-||dv6655.com^
 ||dvd.moe^
 ||dvdasian.com^
 ||dvdcoverlinks.com^
@@ -19742,6 +19804,7 @@
 ||e-vedomosti.ru^
 ||e-xcitation.com^
 ||e-yoru.com^
+||e3o2.com^
 ||e621.gay^
 ||e621.net^
 ||e6ai.net^
@@ -19763,6 +19826,7 @@
 ||earthhub.gay^
 ||earthmotherpublishing.com^
 ||eashita.com^
+||easiantube.com^
 ||eastboys.com^
 ||eastcoastamateurs.com^
 ||easternblocnyc.com^
@@ -19787,6 +19851,7 @@
 ||easylift.dk^
 ||easymaturewomen.com^
 ||easypic.com^
+||easyporn.quest^
 ||easyporn.site^
 ||easyporn.website^
 ||easyporn.xxx^
@@ -19892,7 +19957,6 @@
 ||ebonysextv.lat^
 ||ebonyshemale.com^
 ||ebonyshemalevideos.com^
-||ebonysin.com^
 ||ebonystate.com^
 ||ebonytgirlmodels.com^
 ||ebonytitspics.com^
@@ -19950,7 +20014,6 @@
 ||eco-matras.com^
 ||ecoleangegardien-pornic.fr^
 ||ecoledesexologie.com^
-||ecommercepulsex.com^
 ||economicexpress.net^
 ||economistax.com^
 ||ecoreporno.space^
@@ -20018,15 +20081,12 @@
 ||efsexplorer.com^
 ||efukt.com^
 ||eg.ru^
-||eg101.porn^
-||eg101.sex^
 ||egay.shop^
 ||egayezo.top^
 ||egayijo.top^
 ||egayiri.top^
 ||egayowe.top^
 ||egestategayrimenkul.com^
-||egewu919uh0bgayibz1n5x.top^
 ||eggporncomics.com^
 ||egldporn.xyz^
 ||egldsex.xyz^
@@ -20159,7 +20219,6 @@
 ||elessexplo.online^
 ||eletro.gay^
 ||elevatedsignalsexperts.com^
-||elevatefitnessexperiences.com^
 ||elexusgayrimenkul.com^
 ||elfporn.xyz^
 ||elfxxx.xyz^
@@ -20178,6 +20237,7 @@
 ||elise-escort.com^
 ||eliseerotic.com^
 ||elista-sex24.ru^
+||elite-finances.com^
 ||elite-sex-sites.com^
 ||eliteaccessexpress.com^
 ||eliteacompanhantes.net^
@@ -20198,7 +20258,7 @@
 ||eliteescortmunich.com^
 ||eliteescortsdubai.com^
 ||elitefitnessexperts.live^
-||eliteforumsexperts.com^
+||elitegay.net^
 ||elitegirls.live^
 ||elitegirls69.com^
 ||elitegirlsonline.com^
@@ -20258,7 +20318,6 @@
 ||elp.it^
 ||elpack.net^
 ||elpisexam.com^
-||elpornifero.com^
 ||elpornito.com^
 ||elpornoespanol.com^
 ||elrefugio.org^
@@ -20361,6 +20420,7 @@
 ||en-porno365.space^
 ||en-xhamster.com^
 ||encantadabaltimore.com^
+||enchantedwinningsgiftsexpedition.xyz^
 ||enchantingessex.com^
 ||enclos.ca^
 ||encomendasexpress.com^
@@ -20399,7 +20459,6 @@
 ||englishphilosophy.org^
 ||engorgedtits.com^
 ||enhancedconcepts.com^
-||enhancedporn.com^
 ||enhanceers.com^
 ||enhdsex.com^
 ||enjoyangels.com^
@@ -20703,7 +20762,6 @@
 ||erome-leaks.com^
 ||eromeet.com^
 ||eromelive.com^
-||eromeporn.lol^
 ||eromeporn.vip^
 ||eromeporno.com^
 ||eromexxx.com^
@@ -20786,6 +20844,7 @@
 ||erotic.market^
 ||erotic.pics^
 ||erotic.red^
+||erotic-amatuers.com^
 ||erotic-anastasia.com^
 ||erotic-and-colorized-downloads.com^
 ||erotic-art.net^
@@ -20817,14 +20876,15 @@
 ||erotica-film.net^
 ||eroticabox.ru^
 ||eroticacams.com^
-||eroticacube.com^
 ||eroticadventurefilms.com^
 ||eroticadvisor.com^
+||eroticaescorts.com^
 ||eroticafair.com^
 ||eroticaformen.blog^
 ||eroticage.net^
 ||eroticagram.com^
 ||eroticahq.com^
+||eroticai.xyz^
 ||eroticaiartclub.com^
 ||eroticaingif.com^
 ||eroticajewel.com^
@@ -20965,6 +21025,7 @@
 ||eroticmassageinmilan.com^
 ||eroticmassageistanbul.com^
 ||eroticmassagenearby.com^
+||eroticmassagenuru.com^
 ||eroticmassageoosterhout.com^
 ||eroticmassagepalmademaiiorca.com^
 ||eroticmassagesprague.com^
@@ -20973,7 +21034,6 @@
 ||eroticmiel.com^
 ||eroticmind.com^
 ||eroticmonkey.ch^
-||eroticmonkkey.site^
 ||eroticmoviesonline.me^
 ||eroticmoviesonline.net^
 ||eroticmpc.xyz^
@@ -20988,6 +21048,7 @@
 ||erotico.page^
 ||eroticoasis.shop^
 ||eroticomics.net^
+||eroticonart.se^
 ||eroticonly.com^
 ||eroticos.info^
 ||eroticos.online^
@@ -21044,7 +21105,6 @@
 ||eroticwatercolor.com^
 ||eroticwhisper1.com^
 ||eroticx.club^
-||eroticx.online^
 ||eroticx.pw^
 ||eroticxmodels.com^
 ||eroticzimbabwe.com^
@@ -21101,7 +21161,6 @@
 ||erotikavideo.hu^
 ||erotikaweb.hu^
 ||erotikbetriebe.ch^
-||erotikcenter.ch^
 ||erotikchat.xyz^
 ||erotikchat4free.org^
 ||erotikdating.net^
@@ -21116,6 +21175,7 @@
 ||erotikfilmizle18.vip^
 ||erotikfilmizletv.nl^
 ||erotikfilmkeyfi.pw^
+||erotikfilmler4.club^
 ||erotikfilmsitesi.vip^
 ||erotikfilmsitesi1.cc^
 ||erotikfilmsitesi2.cc^
@@ -21174,6 +21234,7 @@
 ||erotisme-sexualite.com^
 ||erotismosexual.com^
 ||erotixhub.com^
+||erotixproducts.com^
 ||erotom.com^
 ||erotoons.net^
 ||erotorrent.ru^
@@ -21354,6 +21415,7 @@
 ||escortfr.net^
 ||escortfrauen.de^
 ||escortgaziantep.com^
+||escortgerl.com^
 ||escortgirl.au^
 ||escortgirldelhi.in^
 ||escortgirlinmumbai.com^
@@ -21610,7 +21672,6 @@
 ||escortsservicejaipur.com^
 ||escortsservicesindelhi.com^
 ||escortsservicesinjaipur.com^
-||escortsu.com^
 ||escortsurat.com^
 ||escortsusana.com^
 ||escortsvilla.com^
@@ -21647,6 +21708,7 @@
 ||esexperiencestays.info^
 ||esexpresss.com^
 ||esexpressshippingserv.com^
+||esexsex.com^
 ||esextv.xyz^
 ||esexual.casa^
 ||esexufa.top^
@@ -21688,12 +21750,14 @@
 ||essex-countynj.org^
 ||essex-house-apts.com^
 ||essex-mayor.org^
+||essex-mayor.uk^
 ||essex-savings.com^
 ||essex3dp.com^
 ||essexai.xyz^
 ||essexavs.xyz^
 ||essexbitcoin.xyz^
 ||essexbtc.xyz^
+||essexcarbreakers.net^
 ||essexcard.com^
 ||essexcartransport.com^
 ||essexclubllc.com^
@@ -21729,7 +21793,6 @@
 ||essexhomebathrooms.com^
 ||essexhomecareadvisors.com^
 ||essexhomes.ca^
-||essexhouseapartments.com^
 ||essexhrconsulting.com^
 ||essexkit.xyz^
 ||essexlab.xyz^
@@ -21741,7 +21804,6 @@
 ||essexmediahub.com^
 ||essexmev.xyz^
 ||essexmotorhome.com^
-||essexmotorhome.uk^
 ||essexmpc.xyz^
 ||essexoccupationaltherapy.com^
 ||essexohio.com^
@@ -21761,6 +21823,7 @@
 ||essexrune.xyz^
 ||essexrwa.xyz^
 ||essexrwas.xyz^
+||essexservice.com^
 ||essexservicing.com^
 ||essexshield.com^
 ||essexsolution.net^
@@ -21867,7 +21930,6 @@
 ||eurogirlsescort.es^
 ||eurogirlsescort.fr^
 ||eurogirlsescort.ru^
-||eurohotporn.click^
 ||eurolive.com^
 ||euromilfscam.com^
 ||euromilfscams.com^
@@ -21885,7 +21947,6 @@
 ||eurosescort.com^
 ||eurosexdiary.com^
 ||eurosexy.cam^
-||eurosexycams.com^
 ||eurostunners.com^
 ||eurotechwinterschooleindhoven.eu^
 ||eurotoerist.nl^
@@ -22001,8 +22062,6 @@
 ||evolvedfightslez.com^
 ||evolvednovelties.com^
 ||evolvedworld.com^
-||evolvesex.com^
-||evolvingsex.com^
 ||evooli.com^
 ||evoolipxnzeoq.shop^
 ||evospermata.com^
@@ -22010,6 +22069,7 @@
 ||evotube.ru^
 ||evs-video.de^
 ||evsensex.xyz^
+||evsexperts.com^
 ||ewtch.ru^
 ||ewtsn.xyz^
 ||ewxxx.top^
@@ -22120,7 +22180,6 @@
 ||expositionsexceptionnelles.ca^
 ||expositionsexceptionnelles.com^
 ||expressexcursions.xyz^
-||expressexpress.com^
 ||expresslogisticsexperts.com^
 ||expressporn.com^
 ||expressprosexperts.com^
@@ -22184,12 +22243,10 @@
 ||exxxa.top^
 ||exxxb.top^
 ||exxxc.top^
-||exxxclusive.site^
 ||exxxd.top^
 ||exxxe.top^
 ||exxxg.top^
 ||exxxh.top^
-||exxxitclean.com^
 ||exxxiteme.com^
 ||exxxiting.com^
 ||exxxk.top^
@@ -22211,8 +22268,6 @@
 ||exxxv.top^
 ||exxxvideo.com^
 ||exxxw.top^
-||exxxx.fun^
-||exxxx.net^
 ||exxxx.top^
 ||exxxy.top^
 ||exxxz.top^
@@ -22226,6 +22281,7 @@
 ||eyesexu.top^
 ||eyupkadin.com^
 ||eyxxx.top^
+||ezdate.com^
 ||ezfct.com^
 ||ezhentai.org^
 ||ezmdanismanlikgayrimenkul.info^
@@ -22245,11 +22301,11 @@
 ||faapy.com^
 ||fabguys.com^
 ||fabhairypussy.com^
+||fablenewsexpress.com^
 ||fabmaturepussypics.com^
 ||fabrikafantasmes.com^
 ||fabswingers.com^
 ||fabulousbuzz.com^
-||fabuloussexyfeet.com^
 ||fabulousshemales.com^
 ||fabuloustrack.com^
 ||facadesextet.com^
@@ -22437,7 +22493,6 @@
 ||fanpleaser.com^
 ||fans.ly^
 ||fans-here.com^
-||fansbay.gay^
 ||fanscompass.com^
 ||fanscout.com^
 ||fanscribers.com^
@@ -22520,7 +22575,6 @@
 ||fanvue.com^
 ||fanxxx.click^
 ||fanxxx.org^
-||fanxxx.pro^
 ||fanxxx.xyz^
 ||fanza.vip^
 ||fap.bar^
@@ -22840,6 +22894,7 @@
 ||favoyeurtube.net^
 ||favy.cam^
 ||fayextaylor.com^
+||fayporntube.com^
 ||fazendopornecessidade.shop^
 ||fazersexo.com^
 ||fb-one.com^
@@ -22850,8 +22905,6 @@
 ||fboomxxx.com^
 ||fbporn.com^
 ||fbsscan.com^
-||fbtglaw.adult^
-||fbtglaw.porn^
 ||fc-2-content.com^
 ||fc1adult.com^
 ||fc2-seo-ranking.com^
@@ -22956,6 +23009,7 @@
 ||femalelesbiansex.website^
 ||femalepornstar.space^
 ||femalescorts.com^
+||femalesexyfeet.com^
 ||femaleshaved.com^
 ||femalesnight.com^
 ||femalewrestlingchannel.com^
@@ -23114,7 +23168,6 @@
 ||fetishclub.ro^
 ||fetishcon.com^
 ||fetishconuk.com^
-||fetishculture.ru^
 ||fetishcultureshock.com^
 ||fetishdate.xxx^
 ||fetisheros.com^
@@ -23128,7 +23181,6 @@
 ||fetishfinder.com^
 ||fetishfindertube.top^
 ||fetishflamethrower.asia^
-||fetishflux.asia^
 ||fetishflux.beer^
 ||fetishflux.live^
 ||fetishfreakout.asia^
@@ -23182,7 +23234,6 @@
 ||fetishtransexual.com^
 ||fetishunderwearsales.com^
 ||fetishupdates.com^
-||fetishx.site^
 ||fetishxfiles.com^
 ||fetishxxx.tube^
 ||fetishz.com^
@@ -23357,6 +23408,7 @@
 ||filme-porno.xxx^
 ||filmeamatori.com^
 ||filmedesexo.blog^
+||filmegay.net^
 ||filmeleporn.com^
 ||filmeporno.blog^
 ||filmeporno.cc^
@@ -23526,6 +23578,7 @@
 ||findhere.org^
 ||findhername.net^
 ||findhotmilf.com^
+||findhqporner.store^
 ||findhussies.com^
 ||findikzadekadin.com^
 ||findingporn.xyz^
@@ -23634,7 +23687,6 @@
 ||firstescorts.com^
 ||firstflowersexchanger.com^
 ||firstindianporn.cc^
-||firstlookunisex.in^
 ||firstmpegs.com^
 ||firstpornaid.com^
 ||firstporntubes.com^
@@ -23785,16 +23837,15 @@
 ||flashdesire.com^
 ||flashfemdom.com^
 ||flashingjungle.com^
-||flashmilf.com^
 ||flashporn.xyz^
 ||flashtop.me^
-||flashtrafic.com^
 ||flashtranny.com^
 ||flashxgirls.com^
 ||flashxxx.xyz^
 ||flashybabes.com^
 ||flatporn.net^
 ||flavorsofsex.com^
+||flawlessmilford.com^
 ||flawlessxxx.xyz^
 ||fld111.com^
 ||flechazosbdsm.com^
@@ -23989,7 +24040,6 @@
 ||fluxxx.digital^
 ||fluxxxx.xyz^
 ||flvporn.ru^
-||flyersexyclub.com^
 ||flyfishporn.xyz^
 ||flyfishsex.xyz^
 ||flyfishxxx.xyz^
@@ -24063,7 +24113,6 @@
 ||foosexcavating.net^
 ||foot-fetish.club^
 ||foot-fetish-dating.org^
-||foot-fetish-web.com^
 ||foot-orgies.com^
 ||foot-worship.net^
 ||foot-worship-party.com^
@@ -24079,7 +24128,6 @@
 ||footfetish.sex^
 ||footfetishbb.com^
 ||footfetishbrazil.com^
-||footfetishcenter.com^
 ||footfetishdaily.com^
 ||footfetishforum.com^
 ||footfetishonly.com^
@@ -24140,6 +24188,7 @@
 ||forensicpsychologyunbound.ws^
 ||foreskin.org^
 ||foreskinstretching.com^
+||forest-inn.com^
 ||forestofporn.com^
 ||forestofshadowsexperience.ca^
 ||foreverchild.info^
@@ -24147,7 +24196,6 @@
 ||forevergeek.com^
 ||foreverporn.xyz^
 ||foreversex.xyz^
-||foreverusextremecleaning.org^
 ||foreverxxx.xyz^
 ||forex.gay^
 ||forex-indextop20.ru^
@@ -24210,6 +24258,7 @@
 ||fortyxxx.xyz^
 ||img.forum.ge^
 ||forum-candaulisme.fr^
+||forum-rpg.net^
 ||forum-travestis.online^
 ||forum21.net^
 ||forum3xxx.ru^
@@ -24485,7 +24534,6 @@
 ||free-youjizz.bond^
 ||free-young-galleries.com^
 ||free-youporn.icu^
-||free-youporn.space^
 ||free1007.info^
 ||free18.net^
 ||free18porn.tv^
@@ -24520,7 +24568,6 @@
 ||freeappsgratis.com^
 ||freearabianporn.com^
 ||freeasiann.com^
-||freeasianpornhub.com^
 ||freeasianpussy.net^
 ||freeasiansex.cam^
 ||freeasiansporn.com^
@@ -24538,6 +24585,7 @@
 ||freebigass.net^
 ||freebigassporn.org^
 ||freebigbooty.net^
+||freebigtitpornpics.com^
 ||freebigtitsporn.com^
 ||freebisexualdatingsites.com^
 ||freeblackgaychat.net^
@@ -24643,7 +24691,6 @@
 ||freeindianxxx.net^
 ||freeinterracialxxx.com^
 ||freeisexpensive.cfd^
-||freeisexpensive.cyou^
 ||freejanine.com^
 ||freejav.mobi^
 ||freejavbt.com^
@@ -24676,13 +24723,10 @@
 ||freemilf.org^
 ||freemilfpics.com^
 ||freemilfspornpics.com^
-||freemobilevidz.com^
-||freemomporn.pro^
 ||freemovienetwork.com^
 ||freemovies-porn.cloud^
 ||freemyforumadult.com^
 ||freenakedporn.com^
-||freenewsex.com^
 ||freenom.link^
 ||freenosignupporngames.com^
 ||freenote.cc^
@@ -24748,7 +24792,6 @@
 ||freepornfree.net^
 ||freepornfreesex.com^
 ||freeporngames.website^
-||freeporngays.com^
 ||freeporngifs.com^
 ||freeporngirlfriend.com^
 ||freeporngirls.us^
@@ -24887,7 +24930,6 @@
 ||freesexchat.sex^
 ||freesexchat1.com^
 ||freesexchats.org^
-||freesexchatvideo.com^
 ||freesexcomics.pro^
 ||freesexfinder.org^
 ||freesexgame.com^
@@ -25061,7 +25103,6 @@
 ||frenchporn.fr^
 ||frenchporn.top^
 ||frenchporntube.com^
-||frenchscat.com^
 ||frenchys.com^
 ||frenchys.gay^
 ||frenvis.com^
@@ -25178,6 +25219,7 @@
 ||fryfetish.com^
 ||fryporn.xyz^
 ||fs1.app^
+||fs2ll.com^
 ||fsayadoujin.com^
 ||fscache.com^
 ||fsexe.click^
@@ -25199,6 +25241,7 @@
 ||fsiblogcom.com^
 ||fsicomics.com^
 ||fsperm.ru^
+||fspot-movie.net^
 ||ftaak.com^
 ||ftf.live^
 ||ftkltickling.com^
@@ -25250,7 +25293,6 @@
 ||fuck123.video^
 ||fuck2020.pro^
 ||fuck2mom.com^
-||fuck2night.com^
 ||fuck4tube.com^
 ||fuck55.net^
 ||fuck6teen.com^
@@ -25285,7 +25327,6 @@
 ||fuckebook.ru^
 ||fucked.tv^
 ||fucked-in-shit.com^
-||fucked-movies.com^
 ||fucked-tube.com^
 ||fuckedandbound.com^
 ||fuckedfreak.com^
@@ -25315,7 +25356,6 @@
 ||fuckhdtube.com^
 ||fuckholez.com^
 ||fuckhotporn.website^
-||fuckindianporn.com^
 ||fucking.com^
 ||fucking-galleries.com^
 ||fucking-girls-tube.com^
@@ -25356,7 +25396,6 @@
 ||fuckmeets.com^
 ||fuckmeplease.net^
 ||fuckmilfpics.com^
-||fuckmilfporn.com^
 ||fuckmom.biz^
 ||fuckmomtube.net^
 ||fuckmoral.com^
@@ -25429,7 +25468,6 @@
 ||fullerotica.com^
 ||fulleroticas.net^
 ||fulleroticmovies.com^
-||fulleroticmovies.net^
 ||fulleroticstories.com^
 ||fullfamilyincest.com^
 ||fullfetish.shop^
@@ -25449,7 +25487,6 @@
 ||fullmoonreviews.net^
 ||fullmovies.xxx^
 ||fullmoviesxxx.com^
-||fullmytube.com^
 ||fullofwarez.biz^
 ||fullporn.net^
 ||fullporn.org^
@@ -25499,7 +25536,6 @@
 ||fullxxxporno.com^
 ||fullxxxsex.com^
 ||fullxxxvideo.net^
-||fullxxxvideo.org^
 ||fullxxxvideos.net^
 ||fullyclothedblowjobs.com^
 ||fullyporn.com^
@@ -25596,7 +25632,6 @@
 ||furry34.com^
 ||furrycomicsporno.io^
 ||furryporn.dev^
-||furryporn.mom^
 ||furryporn.pro^
 ||furryporn.ru^
 ||furryporns.com^
@@ -25607,6 +25642,7 @@
 ||fusedxxx.xyz^
 ||fuseporn.xyz^
 ||fusex.xyz^
+||fusexgadget.store^
 ||fusexxx.xyz^
 ||fusionarcadepulsex.com^
 ||fusionbasex.com^
@@ -25614,6 +25650,7 @@
 ||fuskator.me^
 ||fusker.xxx^
 ||fussballtrikotsstore.de^
+||fustdate4sex.xyz^
 ||futa3dx.com^
 ||futacartoon.com^
 ||futacartoonporn.com^
@@ -25631,7 +25668,6 @@
 ||futanaridick.com^
 ||futanarihq.com^
 ||futanaripalace.com^
-||futanaripornvideos.com^
 ||futanime.com^
 ||futapo.com^
 ||futatoon.com^
@@ -25702,7 +25738,6 @@
 ||g2servicesexpress.com^
 ||pushwoosh.g5e.com^
 ||g6hentai.com^
-||gabassnationadult.com^
 ||gabbia.com^
 ||gabeis.gay^
 ||gabinetedecoisasextraordinarias.com^
@@ -25722,7 +25757,6 @@
 ||gaesex.com^
 ||gafiles.com^
 ||gagaweb.org^
-||gagayinliu.vip^
 ||gagaymd.com^
 ||gaggedfemales.com^
 ||gaggedgirls.tv^
@@ -25927,6 +25961,7 @@
 ||garagedoormastersexpert.com^
 ||garagedoorsexperts-md.com^
 ||garantiliopelbeyintamiri.com^
+||garciasexpress.com^
 ||gardensuccessexperts.sbs^
 ||gardetroit.org^
 ||gare-aux-gays.com^
@@ -25996,6 +26031,7 @@
 ||gauguin-film.com^
 ||gaultier-x.com^
 ||gaumensex.berlin^
+||gauporntube.com^
 ||gauriescorts.in^
 ||gavingayagoy.com^
 ||gavinnewsom.gay^
@@ -26043,7 +26079,6 @@
 ||gay-industries.com^
 ||gay-jav.com^
 ||gay-jp.com^
-||gay-kiss.com^
 ||gay-location.de^
 ||gay-love.online^
 ||gay-male-celebs.com^
@@ -26065,7 +26100,7 @@
 ||gay-reiseblog.de^
 ||gay-romeo.gay^
 ||gay-sex-big-cock.com^
-||gay-sex-videos.org^
+||gay-sextoy.com^
 ||gay-shoppe.com^
 ||gay-szene.net^
 ||gay-szene.org^
@@ -26105,8 +26140,6 @@
 ||gay4.net^
 ||gay411.com^
 ||gay4cam.com^
-||gay4cash.com^
-||gay4gavin.com^
 ||gay4musl.com^
 ||gay4porn.com^
 ||gay4sq.top^
@@ -26126,7 +26159,6 @@
 ||gay9x.gay^
 ||gaya.at^
 ||gaya-agency.com^
-||gaya-angka.online^
 ||gaya-fragrances.shop^
 ||gaya-mur.ru^
 ||gaya-sa.org^
@@ -26197,10 +26229,8 @@
 ||gayakita.co^
 ||gayakoren.com^
 ||gayal.xyz^
-||gayalands.com^
 ||gayalho.space^
 ||gayamassage.shop^
-||gayamateurspunk.com^
 ||gayamateurss.com^
 ||gayamateurvideo.com^
 ||gayamekar789.site^
@@ -26216,9 +26246,7 @@
 ||gayandready.com^
 ||gayane-english.ru^
 ||gayane-vardanyan.com^
-||gayanegrigoryan.com^
 ||gayangunarathne.com^
-||gayanit.com^
 ||gayanpoultryfarms.com^
 ||gayaos.com^
 ||gayaoscoin.com^
@@ -26231,12 +26259,14 @@
 ||gayaplus.in^
 ||gayapps.xyz^
 ||gayar.net^
+||gayarchive.net^
 ||gayarealestate.com^
 ||gayaresidence2.com^
 ||gayaretreats.com^
 ||gayarnhem.nl^
 ||gayarockband.com^
 ||gayarplus.com^
+||gayas.shop^
 ||gayashanashinshana.live^
 ||gayashop.ch^
 ||gayasiahub.com^
@@ -26252,7 +26282,6 @@
 ||gayatalks.com^
 ||gayatchad.com^
 ||gayatech.net^
-||gayatennlabs.work^
 ||gayathri.store^
 ||gayathri.tech^
 ||gayathribus.com^
@@ -26263,9 +26292,9 @@
 ||gayathripriya.me^
 ||gayathrisaree.com^
 ||gayathrisharmadigital.com^
-||gayathriswardrobe.com^
 ||gayathritextiles.in^
 ||gayathriveliath.com^
+||gayathrividyalaya.com^
 ||gayatogel.org^
 ||gayatoto-super.vip^
 ||gayatreeastro.com^
@@ -26285,13 +26314,11 @@
 ||gayatrieuropa.com^
 ||gayatrigajare.com^
 ||gayatrigifts.com^
-||gayatrigyanodaya.com^
 ||gayatrihariharan.com^
 ||gayatrihospitals.in^
 ||gayatriinds.in^
 ||gayatrijewellers.in^
 ||gayatrik.shop^
-||gayatrikhirushop.top^
 ||gayatriluxe.com^
 ||gayatrimasterbatchandcompound.in^
 ||gayatrimishthanbhandar.com^
@@ -26317,9 +26344,7 @@
 ||gayattraction.com^
 ||gayavengers.com^
 ||gayaweb.ru^
-||gayayagaming.com^
 ||gayazasummitview.xyz^
-||gayazovsbrothersofficial.com^
 ||gaybabe.com^
 ||gaybachi.com^
 ||gaybagool.com^
@@ -26379,6 +26404,7 @@
 ||gayboys.cz^
 ||gayboyshd.com^
 ||gayboystube.click^
+||gayboystube.club^
 ||gayboystube.com^
 ||gayboystube.me^
 ||gayboystubecams.com^
@@ -26462,7 +26488,6 @@
 ||gaydaddy.com^
 ||gaydaddyanal.com^
 ||gaydaddydating.net^
-||gaydaddymeet.com^
 ||gaydaddyporn.org^
 ||gaydaddysporn.com^
 ||gaydao.xyz^
@@ -26470,10 +26495,10 @@
 ||gaydapps.xyz^
 ||gaydar.london^
 ||gaydar-online.org^
-||gaydarini.shop^
 ||gaydates.app^
 ||gaydates.org^
 ||gaydating.cam^
+||gaydating.pro^
 ||gaydatingireland.com^
 ||gaydatingmatch.com^
 ||gaydatingsite.org^
@@ -26505,13 +26530,11 @@
 ||gaydudesfucking.com^
 ||gaydvdempire.com^
 ||gaydvdonline.com^
-||gayeal.click^
 ||gayearly.top^
 ||gayeb.shop^
 ||gayedating.com^
 ||gayeedebali.com^
 ||gayefernvibes.com^
-||gayegencadam.com^
 ||gayemulhollanddesign.com^
 ||gayenurocare.com^
 ||gayerdar.com^
@@ -26534,17 +26557,17 @@
 ||gayfemale.top^
 ||gayfemboy.pics^
 ||gayfi.xyz^
+||gayfight.com^
 ||gayfightnight.com^
 ||gayfightnights.com^
 ||gayfilesmonster.com^
 ||gayfilmsmatter.com^
-||gayflatshare.net^
+||gayfish.com^
 ||gayflirt.uk^
 ||gayflood.com^
 ||gayfoks.ru^
 ||gayfor.us^
 ||gayforfans.com^
-||gayforgavin.com^
 ||gayforit.eu^
 ||gayforplaypv.com^
 ||gayforshohei.com^
@@ -26632,15 +26655,12 @@
 ||gayhitler.com^
 ||gayhodl.xyz^
 ||gayholidays.uk^
-||gayholy.homes^
 ||gayhomevideo.net^
 ||gayhomosexualporn.com^
 ||gayhoneymoon.com^
 ||gayhookup.online^
 ||gayhookupapp.com^
 ||gayhookupguide.com^
-||gayhookupiowa.com^
-||gayhookupminnesota.com^
 ||gayhookupsites.org^
 ||gayhoopla.com^
 ||gayhoopla.net^
@@ -26651,9 +26671,7 @@
 ||gayhotmovies.com^
 ||gayhotvideos.com^
 ||gayhr.com^
-||gayhrdfqxhzla.website^
 ||gayhub.com^
-||gayhub.cyou^
 ||gayhub.io^
 ||gayhub.site^
 ||gayhubs.com^
@@ -26739,6 +26757,7 @@
 ||gaylivenetwork.com^
 ||gaylocker.com^
 ||gaylogd.shop^
+||gaylord.biz^
 ||gaylord-group.com^
 ||gaylordassistedliving.com^
 ||gaylordcasino.com^
@@ -26752,6 +26771,7 @@
 ||gaylorol.icu^
 ||gaylovechat.life^
 ||gaylovers.xyz^
+||gayloves.space^
 ||gaylovevs.click^
 ||gaylspro.com^
 ||gayltaylor.com^
@@ -26796,6 +26816,7 @@
 ||gaymeister.com^
 ||gaymeme.xyz^
 ||gaymenfuck.ing^
+||gaymenhshealthfocus.info^
 ||gaymenofporn.com^
 ||gaymenoldporn.com^
 ||gaymenring.com^
@@ -26810,11 +26831,11 @@
 ||gaymers.es^
 ||gaymes.net^
 ||gaymetu-e.com^
+||gaymidnight.space^
 ||gaymindfield.com^
 ||gaymining.xyz^
 ||gayminion.com^
 ||gaymint.xyz^
-||gayminute.sbs^
 ||gaymlachab.fit^
 ||gaymo.net^
 ||gaymobile.fr^
@@ -26869,14 +26890,12 @@
 ||gayo168.com^
 ||gayo178.com^
 ||gayo188.com^
-||gayo46.com^
 ||gayo77.com^
 ||gayo777.net^
 ||gayo888.com^
 ||gayoclock.app^
 ||gayodaypg.xyz^
 ||gayodds.xyz^
-||gayoestilismo.com^
 ||gayoglasi.com^
 ||gayogohonolearningcenter.org^
 ||gayolconsultores.com^
@@ -26884,12 +26903,10 @@
 ||gayolconsultores.net^
 ||gayolconsultores.shop^
 ||gayolconsultores.store^
-||gayolder.com^
 ||gayols.fun^
 ||gayomsk3.xyz^
 ||gayoni.com^
 ||gayonlyfan.com^
-||gayonlygay.com^
 ||gayonlygay.link^
 ||gayoo.online^
 ||gayool.fr^
@@ -26899,6 +26916,7 @@
 ||gayorgy.fans^
 ||gayorise.store^
 ||gayorlandohotels.buzz^
+||gayorntube.com^
 ||gayosa.top^
 ||gayossocatrinas.com^
 ||gayossomexicanfood.com^
@@ -26925,6 +26943,7 @@
 ||gaypicsdaily.com^
 ||gaypigeon.pet^
 ||gaypirates.club^
+||gaypirntube.com^
 ||gaypiter4.xyz^
 ||gaypixelporn.com^
 ||gayplanet.cz^
@@ -26933,10 +26952,12 @@
 ||gayplayground.de^
 ||gayplus.xyz^
 ||gaypnp.cloud^
+||gaypoentube.com^
 ||gaypolitics.com^
 ||gaypolitics.site^
 ||gaypooh.space^
 ||gaypool.xyz^
+||gayporbtube.com^
 ||gayporka.top^
 ||gayporn.asia^
 ||gayporn.beauty^
@@ -26999,7 +27020,6 @@
 ||gayporno.tube^
 ||gayporno.tv^
 ||gayporno.website^
-||gayporno.work^
 ||gayporno24.pro^
 ||gaypornoboy.com^
 ||gaypornode.com^
@@ -27017,6 +27037,7 @@
 ||gaypornq.com^
 ||gaypornrape.org^
 ||gaypornrape.pro^
+||gaypornrube.com^
 ||gaypornshow.com^
 ||gaypornsite.net^
 ||gaypornsky.com^
@@ -27025,10 +27046,18 @@
 ||gaypornstars.ai^
 ||gaypornstars.cam^
 ||gaypornstories.space^
+||gayporntibe.com^
 ||gayporntube.com^
 ||gayporntube.gay^
 ||gayporntube.tv^
+||gayporntubr.com^
+||gayporntubw.com^
+||gayporntue.com^
+||gayporntune.com^
+||gayporntuve.com^
 ||gayporntwink.com^
+||gayporntybe.com^
+||gaypornube.com^
 ||gaypornvideo.ai^
 ||gaypornvideo.xxx^
 ||gaypornvideos.live^
@@ -27041,13 +27070,17 @@
 ||gaypornx.pics^
 ||gaypornxxx.cc^
 ||gayportal.xyz^
+||gaypotntube.com^
 ||gaypovidky.cz^
+||gaypprntube.com^
 ||gaypress.xyz^
 ||gaypridee.com^
 ||gaypridejewelry.com^
 ||gayprideusa.com^
 ||gayprisonrape.com^
+||gayprntube.com^
 ||gayprompt.xyz^
+||gayprontube.com^
 ||gayprotocol.xyz^
 ||gaypservice.com^
 ||gaypshow.com^
@@ -27109,7 +27142,6 @@
 ||gaysaygay.com^
 ||gaysbook.ru^
 ||gayscan.xyz^
-||gayschinesevideos.com^
 ||gayscoffee.com^
 ||gayscouple.com^
 ||gayscript.com^
@@ -27143,7 +27175,6 @@
 ||gaysexdates.app^
 ||gaysexe.homes^
 ||gaysexfarm.com^
-||gaysexfuck.com^
 ||gaysexhookup.net^
 ||gaysexhot.com^
 ||gaysexhot.info^
@@ -27201,7 +27232,6 @@
 ||gaysmsoglasi.hr^
 ||gaysocial.social^
 ||gaysofporn.com^
-||gaysofturkey.com^
 ||gaysohbeti.info^
 ||gaysohbetodasi.com^
 ||gayson.store^
@@ -27232,12 +27262,8 @@
 ||gaystube.fun^
 ||gaystubes.tv^
 ||gaystyle.xyz^
-||gaysugardaddybrazil.com^
-||gaysugardaddycanada.com^
-||gaysugardaddyusa.com^
 ||gaysunday.com^
 ||gaysuperman.com^
-||gaysupertube.com^
 ||gaysurfing.com^
 ||gaysv.gay^
 ||gaysvision.com^
@@ -27249,7 +27275,6 @@
 ||gayt1j.top^
 ||gaytaboostories.com^
 ||gaytalk.xyz^
-||gaytan.agency^
 ||gaytan.shop^
 ||gaytanagency.com^
 ||gaytanfitwear.net^
@@ -27353,6 +27378,7 @@
 ||gaywebcams.ru^
 ||gaywebfishing.com^
 ||gaywebka.com^
+||gaywebman.com^
 ||gaywebsites.net^
 ||gaywhale.xyz^
 ||gaywhichdetail.mom^
@@ -27365,6 +27391,7 @@
 ||gayworldp.com^
 ||gayxhub.com^
 ||gayxkq134.vip^
+||gayxmovie.online^
 ||gayxmovie.xyz^
 ||gayxnow.com^
 ||gayxnxx.icu^
@@ -27395,11 +27422,11 @@
 ||gayxxxmag.com^
 ||gayxxxmaster.cc^
 ||gayxxxme.cc^
-||gayxxxmen.com^
 ||gayxxxmovies.club^
 ||gayxxxmy.cc^
 ||gayxxxperv.com^
 ||gayxxxporn.cc^
+||gayxxxvideos.store^
 ||gayxxxvideos.xyz^
 ||gayxxxwank.click^
 ||gayxxxworld.com^
@@ -27418,6 +27445,7 @@
 ||gaziantepescorto.com^
 ||gaziantepescortservis.com^
 ||gaziantepescortt.com^
+||gaziantepescortu.com^
 ||gaziantepescortz.com^
 ||gaziantepgazetesi.com^
 ||gaziantepkonaklari.com^
@@ -27453,7 +27481,6 @@
 ||gearxxx.xyz^
 ||gedecomix.com^
 ||geeg.tv^
-||geeksaresexy.store^
 ||geekxxx.xyz^
 ||geetkhurana.in^
 ||geetmishra.com^
@@ -27669,7 +27696,6 @@
 ||getgaysexhot.info^
 ||getgimp.com^
 ||getgirlie.com^
-||gethardererectionbycommand.com^
 ||gethookupapp.com^
 ||gethornynow.com^
 ||gethotline.com^
@@ -27738,7 +27764,6 @@
 ||gflixapp.xyz^
 ||gflover.com^
 ||gfpics.com^
-||gfpicsforfree.com^
 ||gfporn.site^
 ||gfpornbox.com^
 ||gfreeporn.com^
@@ -27748,7 +27773,6 @@
 ||gfs.im^
 ||gfteenporn.com^
 ||gftranny.com^
-||gfvideohub.com^
 ||gg-win.xyz^
 ||ggadult.com^
 ||ggay.gay^
@@ -27830,8 +27854,12 @@
 ||gifssex.com^
 ||gifsteen.com^
 ||gifswow.com^
+||giftlootsexpress.lat^
+||giftlootsexpress.sbs^
+||giftlootsexpress.xyz^
 ||giftmatiesexpos.fun^
 ||giftornado.com^
+||giftsexchanged.com^
 ||gig.sex^
 ||gig-photo.ru^
 ||gig-porno.cc^
@@ -27864,6 +27892,7 @@
 ||gigporno24.xyz^
 ||gigpornox.com^
 ||gigpornox.info^
+||gilberttheregisteredsexoffender.fun^
 ||gilesexpressllc.com^
 ||gilf.es^
 ||gilfaf.com^
@@ -27878,10 +27907,7 @@
 ||gilfischernan.com^
 ||gilford.work^
 ||gilfordlocaleatery.com^
-||gilfordnhairbnb.com^
-||gilfordviewhotels.com^
 ||gilfortgifts.shop^
-||gilfypornvideos.com^
 ||gilleslecorre.com^
 ||gimmeporn.xyz^
 ||gimpgirls.com^
@@ -27926,6 +27952,7 @@
 ||girlcum.com^
 ||girlcum.video^
 ||girldehradun.com^
+||girlfoliocash.com^
 ||girlfriend.ai^
 ||girlfriendgalleries.net^
 ||girlfriendpornpics.com^
@@ -28002,7 +28029,6 @@
 ||girlsdoingporn.net^
 ||girlsdopornsex.com^
 ||girlsdump.com^
-||girlservice.in^
 ||girlsescort.com^
 ||girlsescortamsterdam.com^
 ||girlsescortsindelhi.in^
@@ -28024,15 +28050,12 @@
 ||girlsgonegay.com^
 ||girlsgonehypnotized.com^
 ||girlsgonewild.com^
-||girlshacker.com^
 ||girlshd.xxx^
 ||girlshdsex.com^
 ||girlsheavens.com^
 ||girlsilove.net^
 ||girlsingoa.com^
-||girlsingurgaon.in^
 ||girlsinhotel.beauty^
-||girlsinindirapuram.com^
 ||girlsinlahore.com^
 ||girlsinmood.com^
 ||girlsinpublic.com^
@@ -28087,12 +28110,10 @@
 ||girlznation.com^
 ||girporn.space^
 ||girporno.space^
-||girporno.website^
 ||gisingbarangay.com^
 ||gitb.org^
 ||ashikasoni1682.gitbook.io^
 ||vadodara-muskan-patel.gitbook.io^
-||gitgay.site^
 ||gitikagarg.in^
 ||giuyhuiasudgayudsajiojadsgh.com^
 ||surveys.api.give-feedback.co^
@@ -28101,6 +28122,7 @@
 ||givemepink.com^
 ||givemeporn.club^
 ||givemepornnow.store^
+||givemesexnow.cam^
 ||givemeyoung.com^
 ||givesexaora.com^
 ||givethetalk.com^
@@ -28120,7 +28142,6 @@
 ||gksexdolls.com^
 ||gkxxx.top^
 ||gladim.gay^
-||gladiusexe.com^
 ||glam-blog.com^
 ||glam0ur.com^
 ||glam0ur.net^
@@ -28144,7 +28165,6 @@
 ||glamournarcotico.com^
 ||glamporn.xyz^
 ||glamsham.com^
-||glamslut.com^
 ||glamsquadmagazine.com^
 ||glamworship.com^
 ||glamx.top^
@@ -28156,6 +28176,7 @@
 ||glasove.com^
 ||glassandsex.com^
 ||glassdildo.ca^
+||glassdildos.com^
 ||glassesporn.xyz^
 ||glassessex.com^
 ||glassesxxx.xyz^
@@ -28218,11 +28239,8 @@
 ||gloriousexim.com^
 ||glorioustree.com^
 ||gloriousxxx.xyz^
-||glory-hole-girls.com^
 ||gloryhole.com^
 ||gloryholechick.com^
-||gloryholepornreviews.com^
-||gloryholepornvideos.com^
 ||gloryholesecrets.com^
 ||gloryholeswallow.com^
 ||gloryporn.xyz^
@@ -28232,14 +28250,13 @@
 ||glossypussy.com^
 ||glossyxxx.xyz^
 ||glovexxx.xyz^
-||glowupsussex.com^
 ||glowxxx.xyz^
-||glumnewsex.com^
 ||glvservicesexp.com^
 ||gm55.xyz^
 ||gm68bet-backenxxxx4.online^
 ||gmrsexports.com^
 ||gms2006.de^
+||gmsexport.com^
 ||gmtporn.xyz^
 ||gmtsex.xyz^
 ||gmtxxx.xyz^
@@ -28341,6 +28358,7 @@
 ||godlovesthegays.net^
 ||godlovesthegays.shop^
 ||godlovesthegays.store^
+||godlovesthegaystoo.com^
 ||godoverporn.org^
 ||godsdirtyworkcrew.com^
 ||godsex.xyz^
@@ -28490,7 +28508,6 @@
 ||goodlyboys.com^
 ||goodmotion.org^
 ||goodnight.io^
-||goodnightcampingequipment.com^
 ||goodnights.in^
 ||goodnudegirls.com^
 ||goodporn.org^
@@ -28502,7 +28519,6 @@
 ||goodporno.one^
 ||goodporno.org^
 ||goodporno.pro^
-||goodporno.vip^
 ||goodporns.art^
 ||goodpornsex.com^
 ||goodpornsex.net^
@@ -28517,7 +28533,6 @@
 ||goodtimeinbed.com^
 ||goodtimexxx.com^
 ||goodvibes.com^
-||goodvibesexcursions.com^
 ||goodvibrations.com^
 ||goodvibrationsvod.com^
 ||goodweathergallery.com^
@@ -28605,6 +28620,7 @@
 ||gotporn.xyz^
 ||gotpornoizle.space^
 ||gotpornvideos.com^
+||gott.gay^
 ||gottaporn.xyz^
 ||gotxxxporn.com^
 ||gotyour6ixxx.com^
@@ -28628,7 +28644,6 @@
 ||goyes.gay^
 ||goyimgazette.com^
 ||gozporno.site^
-||gplusexpertise.com^
 ||gpocket.link^
 ||gpointestonia.com^
 ||gporn.me^
@@ -28636,8 +28651,9 @@
 ||gportal.hu^
 ||gpporn.com^
 ||gpsexpres.com^
-||gpsexpressllc.com^
 ||gpssex.xyz^
+||gpterotic.com^
+||gpterotica.com^
 ||gptgirlfriend.online^
 ||gptsensex.xyz^
 ||gptsexdoll.com^
@@ -28650,7 +28666,6 @@
 ||sexlifeyoulove.gr8.com^
 ||sexlikeagoddess.gr8.com^
 ||grabpussy.com^
-||grace-model.com^
 ||gracegaymon.com^
 ||gracegaymon.online^
 ||graceheartsadultfamilyhome.com^
@@ -28698,15 +28713,14 @@
 ||grannyhd.xyz^
 ||grannyherbs.xyz^
 ||grannyhookup.com^
+||grannyhq.com^
 ||grannyhub.com^
 ||grannyjizz.com^
 ||grannylesbianclub.com^
-||grannylovessex.com^
 ||grannymommy.com^
 ||grannynude.tv^
 ||grannypatty.tv^
 ||grannypics.info^
-||grannyporn.me^
 ||grannyporn.tv^
 ||grannyporner.org^
 ||grannypornmovies.net^
@@ -28756,6 +28770,7 @@
 ||gratispornvideos.net^
 ||gratisreifefrauen.com^
 ||gratisseksfilm.com^
+||gratissexdate4u.nl^
 ||gratissexdating.nl^
 ||gratissexfilms.org^
 ||gratissexreviews.nl^
@@ -28778,6 +28793,7 @@
 ||greatphit.com^
 ||greatporn.space^
 ||greatporn.website^
+||greatrealityporn.com^
 ||greatsexguidance.com^
 ||greatsexy.info^
 ||greatshiftcaptions.com^
@@ -28789,7 +28805,6 @@
 ||greekpornhub.com^
 ||green.porn^
 ||green-tea.tv^
-||greenacresexcavationandlandmanagement.com^
 ||greenbaypackeris.gay^
 ||greenbaypackers.gay^
 ||greenbaypackersare.gay^
@@ -28812,6 +28827,7 @@
 ||gridhost.com^
 ||gridirongoofs.com^
 ||griefisnotadirtyword.com^
+||griesossexpress.com^
 ||grigtube.com^
 ||grinderboy.com^
 ||grindhousecinema.com^
@@ -28847,6 +28863,7 @@
 ||growlasex.shop^
 ||growlasex.store^
 ||growlichat.com^
+||grownxxx.com^
 ||growproslutions.com^
 ||growslut.com^
 ||growthinkers.nl^
@@ -28894,6 +28911,7 @@
 ||gstevensonsexologist.com^
 ||gstq.fr^
 ||gsxxx.top^
+||gsyporntube.com^
 ||gta-theballadofgaytony.de^
 ||gtcporn.xyz^
 ||gtcsex.xyz^
@@ -28912,6 +28930,7 @@
 ||guarrasdeldia.com^
 ||guarrosextremenos.com^
 ||guayu.com^
+||guby.gay^
 ||gubyporno.website^
 ||guccicomics.mobi^
 ||guesswhatim.gay^
@@ -28924,6 +28943,7 @@
 ||guiadavidaadulta.com^
 ||guiasexcanarias.com^
 ||guiasexpressgo.fun^
+||guiasexpressgoias.fun^
 ||guide2getting.com^
 ||guide2malaysia.com^
 ||guidetogoodporn.com^
@@ -29052,7 +29072,6 @@
 ||gvu0.gay^
 ||gvv1o.gay^
 ||gvv63.gay^
-||gvw0.gay^
 ||gvxxx.top^
 ||gvyc.gay^
 ||gvyj.gay^
@@ -29113,7 +29132,6 @@
 ||habitosexitososjuniorgo.com^
 ||habragay.tech^
 ||habragay2.xyz^
-||habrakernutten.com^
 ||hackingfilm.com^
 ||hackingsensex.xyz^
 ||hacks.gay^
@@ -29122,7 +29140,6 @@
 ||subvert-rpki.hactrn.net^
 ||had.su^
 ||hadesex.com^
-||hadigayri.com^
 ||hadigayri.pics^
 ||haehnchenwagen.gay^
 ||hafenlesung.com^
@@ -29156,10 +29173,8 @@
 ||hairyboyz.com^
 ||hairycoochies.com^
 ||hairycowbrewing.com^
-||hairycuntblog.com^
 ||hairycuntgirls.com^
 ||hairycurves.com^
-||hairydivastgp.com^
 ||hairyerotica.com^
 ||hairyfetish.eu^
 ||hairyfilm.com^
@@ -29242,7 +29257,6 @@
 ||hananude.com^
 ||hanaoto.net^
 ||hand-cuffs.ru^
-||handicappedsluts.com^
 ||handjob.be^
 ||handjob.click^
 ||handjob.cz^
@@ -29261,7 +29275,6 @@
 ||handjoboil.net^
 ||handjoboil.shop^
 ||handjoboil.store^
-||handjobpic.com^
 ||handjobs.ca^
 ||handjobsmexicancharms88.sbs^
 ||handjobsquirter.com^
@@ -29386,6 +29399,7 @@
 ||hardcorepost.com^
 ||hardcoreroughporn.com^
 ||hardcoresexfest.net^
+||hardcoresexsites.com^
 ||hardcoreswingers.com^
 ||hardcoretaboo.com^
 ||hardcoretoob.com^
@@ -29393,13 +29407,11 @@
 ||hardcorexxx.top^
 ||harddaddy.com^
 ||harderporno.com^
-||hardestphotos.com^
 ||hardexxx.com^
 ||hardfuck.cc^
 ||hardfuckbabes.com^
 ||hardgif.com^
 ||hardhoes.com^
-||hardhoporno.com^
 ||hardindianvideos.info^
 ||hardjapangayxxx.cc^
 ||hardler.com^
@@ -29418,7 +29430,6 @@
 ||hardpornlinks.com^
 ||hardpornlinks.pro^
 ||hardpornlinks1cn.com^
-||hardpornlinks3cn.com^
 ||hardpornlist.top^
 ||hardporno.tube^
 ||hardpornsexvideo.com^
@@ -29432,7 +29443,6 @@
 ||hardsexerotica.com^
 ||hardsexmovies.com^
 ||hardsextube.com^
-||hardsextubexxx.com^
 ||hardsexvids.com^
 ||hardsexyshop.com^
 ||hardstraponsex.com^
@@ -29504,7 +29514,6 @@
 ||jaipurescortsservice.hatenablog.com^
 ||pinkmumbai1.hatenablog.com^
 ||hath.network^
-||haticeozengayrimenkul.com^
 ||haugai188.store^
 ||haugai18lux1.shop^
 ||hauntingsexpress.com^
@@ -29544,6 +29553,7 @@
 ||haydn.gay^
 ||haypocalc.com^
 ||hayporno.com^
+||hayporntube.com^
 ||haysex.ai^
 ||haysex.asia^
 ||haysex.fit^
@@ -29710,7 +29720,6 @@
 ||hdporn92.top^
 ||hdporn92-france.com^
 ||hdporn97.com^
-||hdporncollections.com^
 ||hdporncomics.com^
 ||hdporncomics.org^
 ||hdporncomics.pics^
@@ -29748,7 +29757,6 @@
 ||hdporno.guru^
 ||hdporno.hair^
 ||hdporno.homes^
-||hdporno.icu^
 ||hdporno.ink^
 ||hdporno.mobi^
 ||hdporno.org^
@@ -29844,12 +29852,12 @@
 ||hdsexmov.com^
 ||hdsexmovies.rodeo^
 ||hdsexmovies.xxx^
-||hdsexmovs.com^
 ||hdsexoporn.com^
 ||hdsextube.sbs^
 ||hdsextube.tv^
 ||hdsexvideo.xxx^
 ||hdsexvideo.xyz^
+||hdsexvideos.icu^
 ||hdsexvideos.mobi^
 ||hdsexvideos.pro^
 ||hdsexxx.net^
@@ -29912,7 +29920,6 @@
 ||hdxxxvideos.one^
 ||hdxxxx.homes^
 ||hdyoujizz.video^
-||hdyoupornwatch.com^
 ||hdzog.com^
 ||hdzog.tube^
 ||hdzog.work^
@@ -29921,7 +29928,6 @@
 ||head.wtf^
 ||head-heart-health.com^
 ||headcity.com^
-||headfundsexpert.com^
 ||headscissorclub.com^
 ||heahea.org^
 ||healandprosperministries.com^
@@ -29929,7 +29935,6 @@
 ||healmyass.com^
 ||health.blog^
 ||healthcareandwellnessexchange.com^
-||healthfitnessexercise.com^
 ||healthsensex.xyz^
 ||healthsexpertshub.com^
 ||healthwellnessexpo.life^
@@ -29939,14 +29944,12 @@
 ||healthymealsexpress.org^
 ||healthysexshop.com^
 ||healthysexstore.com^
-||healthysexyhappylife.com^
 ||hearmix.com^
 ||news.heart-is-here.org^
 ||heartandsoulhealthadultprimaryhealth.com^
 ||hearthasreasons.com^
 ||heartshapedskull.com^
 ||heatedaffairs.com^
-||heatgay.com^
 ||heatherrivers.com^
 ||heatwavepassmobile.com^
 ||heaven.porn^
@@ -29954,17 +29957,14 @@
 ||heavenescortservices.in^
 ||heaveninbangalore.com^
 ||heavenlyhandsadultday.com^
-||heavenlyhentai.com^
 ||heavenmumbai.com^
 ||heavensgate.com^
-||heavy-fetish.lol^
 ||heavy-r.club^
 ||heavy-r.com^
 ||heavy-r.plus^
 ||heavycuties.com^
 ||heavydirtysoul.ru^
 ||heavyfetish.com^
-||heavyfetish.lol^
 ||heavyfetish-france.com^
 ||heavyonhotties.com^
 ||heavyplumpers.com^
@@ -29995,6 +29995,7 @@
 ||heihd.com^
 ||heineken.it^
 ||heinleincontest.info^
+||heirbraidersexpress.com^
 ||heissepornos.net^
 ||heixiao.net^
 ||hekaye.ru^
@@ -30005,7 +30006,6 @@
 ||helalixir.gay^
 ||helenanista.com^
 ||helenasinlive.com^
-||helenstarxxx.com^
 ||helixstudios.com^
 ||helixstudios.net^
 ||hellasex.com^
@@ -30039,7 +30039,6 @@
 ||hellporno.com^
 ||hellporno.net^
 ||hellporno.one^
-||hellporno.ru^
 ||hellsdungeon.com^
 ||hellsluts.com^
 ||hellstary.com^
@@ -30137,9 +30136,7 @@
 ||hentai222.com^
 ||hentai247.net^
 ||hentai2read.com^
-||hentai2read.to^
 ||hentai2w.com^
-||hentai30.com^
 ||hentai3dxxxtube.com^
 ||hentai3z.cc^
 ||hentai44.com^
@@ -30263,7 +30260,6 @@
 ||hentaihd.net^
 ||hentaihd.xyz^
 ||hentaihdv.com^
-||hentaiheadlines.com^
 ||hentaiheart.com^
 ||hentaihere.com^
 ||hentaiheroes.com^
@@ -30296,7 +30292,6 @@
 ||hentaila.io^
 ||hentaila.ml^
 ||hentaila.online^
-||hentaila.porn^
 ||hentaila.tv^
 ||hentaila-tv.com^
 ||hentaileague.com^
@@ -30315,7 +30310,6 @@
 ||hentaimanga.pro^
 ||hentaimangatube.org^
 ||hentaimania.org^
-||hentaimedia.net^
 ||hentaimf.xyz^
 ||hentaimode.com^
 ||hentaimoe.me^
@@ -30341,7 +30335,6 @@
 ||hentaipoi.top^
 ||hentaiporn.app^
 ||hentaiporn.tube^
-||hentaiporn.website^
 ||hentaiporno.casa^
 ||hentaiporno.xxx^
 ||hentaipornpics.net^
@@ -30367,7 +30360,6 @@
 ||hentais.tube^
 ||hentaisama.net^
 ||hentaisaturn.tv^
-||hentaisaw.com^
 ||hentaisd.tv^
 ||hentaisea.com^
 ||hentaiseason.com^
@@ -30380,7 +30372,6 @@
 ||hentaiskank.com^
 ||hentaislayer.net^
 ||hentaismile.com^
-||hentaispoon.com^
 ||hentaistgma.net^
 ||hentaistream.com^
 ||hentaistream.io^
@@ -30662,6 +30653,7 @@
 ||herexxx.com^
 ||herexxxtube.com^
 ||herfetish.com^
+||herfirstasstomouth.com^
 ||hergunporn2.com^
 ||hergunporn3.com^
 ||heritagesixteen.com^
@@ -30731,6 +30723,7 @@
 ||hgays.com^
 ||hgayzlos.cfd^
 ||hggayrimenkulankara.com^
+||hgmusicfest.com^
 ||hgsitebuilder.com^
 ||hgxxx.top^
 ||hgxxxoo.xyz^
@@ -30944,6 +30937,7 @@
 ||hiprofileescortindelhi.com^
 ||hipsterjew.com^
 ||hipsternudes.com^
+||hipwebcams.com^
 ||hiqqu.com^
 ||hiralsharma.com^
 ||hiredubaiescorts.com^
@@ -30955,6 +30949,7 @@
 ||hisex.store^
 ||hisexclusively.com^
 ||hisextoys.com^
+||hisextrametropolitan.click^
 ||hisfetish.com^
 ||hislut.xyz^
 ||hispajav.com^
@@ -31064,7 +31059,6 @@
 ||hoertjes.net^
 ||hoes.com^
 ||hoes.tube^
-||hoesrus.com^
 ||hoeszone.com^
 ||hoetoob.com^
 ||hofhaan.nl^
@@ -31213,7 +31207,6 @@
 ||homosexuels-musulmans.org^
 ||homoshouse.gay^
 ||homospot.dk^
-||homossexual.com^
 ||homoxxx.com^
 ||homoxxx.gay^
 ||homoxxx.online^
@@ -31244,7 +31237,6 @@
 ||honoringnori.gay^
 ||hoodamateurs.com^
 ||hoodies-craftdiner-harigaya.com^
-||hoodsexvideos.com^
 ||hoodsite.info^
 ||hoogay.pro^
 ||hookeepr.com^
@@ -31323,7 +31315,6 @@
 ||hornstown.com^
 ||horny.berlin^
 ||horny.net^
-||horny-asian-teens.com^
 ||horny-hub.top^
 ||horny-kids.pictures^
 ||horny-lady.fun^
@@ -31332,14 +31323,12 @@
 ||horny-porny.com^
 ||horny-spot.com^
 ||horny88.biz^
-||horny88plus.cc^
 ||horny88plusth.com^
 ||hornyaffairs.com^
 ||hornyak.hu^
 ||hornyarchive.click^
 ||hornyarchive.icu^
 ||hornyarchive.top^
-||hornyartists.com^
 ||hornyasia.com^
 ||hornyaudio.com^
 ||hornybabes.club^
@@ -31365,12 +31354,10 @@
 ||hornydreams.pro^
 ||hornyfamilies.com^
 ||hornyfap.tv^
-||hornyfees.org^
 ||hornyfilmer.com^
 ||hornyfits.com^
 ||hornyflirt.xyz^
 ||hornyflirty.com^
-||hornyforcandles.com^
 ||hornyforcommunity.com^
 ||hornygamer.com^
 ||hornygayvideos.com^
@@ -31381,7 +31368,6 @@
 ||hornygrail.com^
 ||hornyharbor.asia^
 ||hornyhaven.asia^
-||hornyhaze.asia^
 ||hornyhill.se^
 ||hornyhub.click^
 ||hornyhub.icu^
@@ -31432,7 +31418,6 @@
 ||hornysext.com^
 ||hornysimp.com^
 ||hornysimp.org^
-||hornysmokovec.sk^
 ||hornysoul.com^
 ||hornyspicy.com^
 ||hornyspot.org^
@@ -31444,7 +31429,6 @@
 ||hornytoon.com^
 ||hornytoy.com^
 ||hornytransgirls.com^
-||hornyvid.com^
 ||hornyvilla.com^
 ||hornyvilla-france.com^
 ||hornywhores.net^
@@ -31477,11 +31461,11 @@
 ||horses.red^
 ||horses-xxx.com^
 ||horsesexchange.com^
+||horsesexmovies.site^
 ||horsesextube.net^
 ||horsesexvideos.site^
 ||horsesexzoo.site^
 ||horsezoofiliatube.space^
-||horusexodus.net^
 ||horuseye.hu^
 ||hoshihakagayaku.com^
 ||hoskinsexteriors.com^
@@ -31490,7 +31474,6 @@
 ||hostave3.net^
 ||hoster-test.ru^
 ||hostessen-meile.com^
-||hostforx.com^
 ||hostinganime.com^
 ||hostingem.ru^
 ||hostry.host^
@@ -31503,7 +31486,6 @@
 ||hot-devki.ru^
 ||hot-ebony-pussy.com^
 ||hot-el.sex^
-||hot-ftvgirls.com^
 ||hot-fuck-tube.com^
 ||hot-gay-videos.com^
 ||hot-girls-fuck.com^
@@ -31517,7 +31499,6 @@
 ||hot-milf.co^
 ||hot-milf.help^
 ||hot-milf.mom^
-||hot-naked-milfs.com^
 ||hot-personals.net^
 ||hot-porn.homes^
 ||hot-porn.org^
@@ -31534,7 +31515,6 @@
 ||hot-sex-videos.com^
 ||hot-sexe.net^
 ||hot-sexy-naked-girls.com^
-||hot-teenies.com^
 ||hot-teens.com^
 ||hot-tube.pro^
 ||hot-twat.com^
@@ -31556,12 +31536,12 @@
 ||hot69-videos.com^
 ||hot7.mom^
 ||hotadultdates.com^
+||hotadultdati.club^
 ||hotajp.com^
 ||hotaleena.com^
 ||hotanddirty.ch^
 ||hotandflirty.com^
 ||hotandgirls.site^
-||hotanimepornvideos.com^
 ||hotasiannudes.com^
 ||hotasianp.com^
 ||hotasianporn.homes^
@@ -31578,6 +31558,7 @@
 ||hotbazi.run^
 ||hotbearporn.com^
 ||hotbeastfuck.top^
+||hotbfagayo.today^
 ||hotbgayeye.today^
 ||hotbhabhiporn.com^
 ||hotbigass.com^
@@ -31618,7 +31599,6 @@
 ||hotebonytube.com^
 ||hotel-lg.com^
 ||hotel-rus.net^
-||hotel4sex.com^
 ||hotelatlanta.nl^
 ||hotelbuddhagaya.com^
 ||hotelcalapornia.store^
@@ -31651,6 +31631,7 @@
 ||hotfuckporn.com^
 ||hotgals.net^
 ||hotgayeroticstories.com^
+||hotgayfuck.xyz^
 ||hotgaylist.com^
 ||hotgayporn.xyz^
 ||hotgaypornpics.com^
@@ -31694,7 +31675,6 @@
 ||hothindixxx.com^
 ||hothive.co^
 ||hothive.lol^
-||hothomeclips.com^
 ||hothookup.net^
 ||hothookup.org^
 ||hothothot.pro^
@@ -31737,14 +31717,11 @@
 ||hotmarathistories.com^
 ||hotmatch.com^
 ||hotmaturegirlfriends.com^
-||hotmaturesclips.com^
 ||hotmaturesex.com^
-||hotmaturesporn.com^
 ||hotmaturetricks.com^
 ||hotmaturewomensexcams.com^
 ||hotmen.org^
 ||hotmenuniverse.com^
-||hotmessexpress.blog^
 ||hotmessexpressapparel.com^
 ||hotmessexpresscleaning.com^
 ||hotmessexpressionsofgrace.com^
@@ -31758,6 +31735,7 @@
 ||hotmilfporn.homes^
 ||hotmilfporn.site^
 ||hotmilfs.pics^
+||hotmilfsex.click^
 ||hotmilfsforsale.com^
 ||hotmilfsfuck.com^
 ||hotmilfspics.com^
@@ -31805,7 +31783,6 @@
 ||hotnupics.com^
 ||hotnxx.com^
 ||hotoctopuss.com^
-||hotoldchicks.com^
 ||hotoldermale.com^
 ||hotorgyshow.org^
 ||hotornot.com^
@@ -31826,7 +31803,6 @@
 ||hotporn.wtf^
 ||hotpornasia.com^
 ||hotpornbros.com^
-||hotporncams.store^
 ||hotpornfile.org^
 ||hotpornfilms.com^
 ||hotporngif.info^
@@ -31905,7 +31881,6 @@
 ||hotsexypartytime.com^
 ||hotsexyteen.com^
 ||hotsexytimes.com^
-||hotsexytubes.com^
 ||hotsexywildhornywomanseeking.com^
 ||hotsexywivesclub.com^
 ||hotshemalelive.com^
@@ -32038,7 +32013,6 @@
 ||housewifepics.com^
 ||housewivesaffairs.com^
 ||housewiveshd.net^
-||housex.chat^
 ||housex.club^
 ||housexblooms.com^
 ||housexbloomsillinois.com^
@@ -32080,8 +32054,8 @@
 ||hq-xxxmovies.com^
 ||hqasiangirls.com^
 ||hqasianxxx.com^
+||hqball.com^
 ||hqbang.com^
-||hqbbwporn.com^
 ||hqbdsmporn.net^
 ||hqbeegporn.com^
 ||hqbigboobs.com^
@@ -32121,10 +32095,10 @@
 ||hqporncomics.com^
 ||hqporner.bond^
 ||hqporner.com^
+||hqporner.red^
 ||hqporner.store^
 ||hqporner.video^
 ||hqporner-france.com^
-||hqpornercam.click^
 ||hqpornero.com^
 ||hqpornerxxx.com^
 ||hqporno.net^
@@ -32230,7 +32204,6 @@
 ||hudeem-vmeste.ru^
 ||hudenkie.com^
 ||hudsonbrothersexpeditellc.com^
-||huelessexposure.com^
 ||huerhuasdahugygaysgdasda.com^
 ||hugayataragnarok.com^
 ||hugeassanal.com^
@@ -32305,13 +32278,13 @@
 ||hungthinh434.com^
 ||hunk-ch.com^
 ||hunkdujour.com^
+||hunkgaysex.cam^
 ||hunkmania.com^
 ||hunkmovies.com^
 ||hunkomanianyc.com^
 ||hunkstheshow.com^
 ||hunkypinoy.tv^
 ||hunkypinoytv.com^
-||hunpornails.pt^
 ||hunqz.com^
 ||hunsex.hu^
 ||hunszex.hu^
@@ -32328,6 +32301,7 @@
 ||hurtassessexactly.mom^
 ||hurtsex.com^
 ||husanserenmeliusexa.com^
+||husbanditsexperience.shop^
 ||husdom.com^
 ||huseyinakkusgayrimenkul.com^
 ||huseyinkalgay.com^
@@ -32518,9 +32492,7 @@
 ||icnsexpo.xyz^
 ||iconentertainment.net^
 ||iconiccanvasexpose.com^
-||iconiccanvasexpose.org^
 ||iconmale.com^
-||iconsussex.com^
 ||icosensex.xyz^
 ||icpep.org^
 ||icpporn.xyz^
@@ -32628,7 +32600,6 @@
 ||igirl.in^
 ||iglives.tv^
 ||igljphrtxxxcjf.sbs^
-||ignispulsexx.info^
 ||ignore4k.com^
 ||igo-bokep.beauty^
 ||igodesu.tv^
@@ -32685,7 +32656,6 @@
 ||ikuhentai.net^
 ||ikumemo.net^
 ||ikwilsex.com^
-||ilabshop.ru^
 ||ilesbianporn.com^
 ||ilesbiansporn.com^
 ||ilesexcursions.com^
@@ -32711,14 +32681,12 @@
 ||ilonastaller.net^
 ||ilove.de^
 ||ilove-pc.ru^
-||ilovebitties.com^
 ||iloveboobs.com^
 ||iloveerotica.com^
 ||ilovegayporn.store^
 ||ilovegfs.com^
 ||ilovegirlfarts.com^
 ||ilovehairypussy.com^
-||ilovehentaisex.com^
 ||iloveinterracial.com^
 ||ilovemommies.com^
 ||ilovenovels.com^
@@ -32747,6 +32715,7 @@
 ||ilvsex.xyz^
 ||ilvxxx.xyz^
 ||ilya.gay^
+||im12andgay.org^
 ||a.im9.eu^
 ||imadultcare.com^
 ||imagearranger.com^
@@ -32761,7 +32730,6 @@
 ||imagepost.ru^
 ||imagesearchrelationships.com^
 ||imagesensex.xyz^
-||imagestgp.com^
 ||cams.imagetwist.com^
 ||imagetwistcams.com^
 ||imageunisexbarbershopsalon.com^
@@ -32960,7 +32928,6 @@
 ||incestflix.win^
 ||incestflix.ws^
 ||incestflix.xyz^
-||incestfuck2.top^
 ||incestgames.net^
 ||incesthardcore.com^
 ||incesthit.com^
@@ -33003,6 +32970,7 @@
 ||incrivelpornatureza.store^
 ||russiangoaescorts.ind.in^
 ||vivastreet.ind.in^
+||indaporn.net^
 ||indavideo.hu^
 ||indecent.me^
 ||indecentvideos.com^
@@ -33188,7 +33156,6 @@
 ||indianpornvideos.click^
 ||indianpornvideos.me^
 ||indianpornvideos.mobi^
-||indianpornvideos.world^
 ||indianpornvids.cc^
 ||indianpornvill.website^
 ||indianpornx.net^
@@ -33201,7 +33168,6 @@
 ||indianpreality.com^
 ||indianprn.com^
 ||indianptv.com^
-||indianpussymovies.com^
 ||indianpussyporn.com^
 ||indiansex.asia^
 ||indiansex.casa^
@@ -33259,6 +33225,7 @@
 ||indianxnxxsex.com^
 ||indianxporn.net^
 ||indianxtubes.com^
+||indianxxx.camp^
 ||indianxxx.club^
 ||indianxxx.rodeo^
 ||indianxxx.su^
@@ -33446,6 +33413,7 @@
 ||blog.innerpendejo.net^
 ||innersexkitten.com^
 ||innerslut.net^
+||innerversexr.com^
 ||innocentenglish.com^
 ||innocenthigh.com^
 ||innocentshabana.com^
@@ -33538,6 +33506,7 @@
 ||intentporn.xyz^
 ||intents.gay^
 ||intentsex.xyz^
+||intentxredir.com^
 ||intentxxx.xyz^
 ||interacialsexx.com^
 ||interactive-pov.com^
@@ -33571,7 +33540,6 @@
 ||interracialfantasyhouse.com^
 ||interracialgfs.com^
 ||interracialmatch.com^
-||interracialmilffucking.com^
 ||interracialpass.com^
 ||interracialporn.cc^
 ||interracialporn.store^
@@ -33616,7 +33584,6 @@
 ||intimatemedicine.com^
 ||intimatesadultt.shop^
 ||intimatlas1.com^
-||intimaxxx.com^
 ||intimcenter.hu^
 ||intimcity.at^
 ||intimcity.sex^
@@ -33664,7 +33631,6 @@
 ||iol.im^
 ||iongayrimenkul.com^
 ||ionporn.tv^
-||iordfilimxxxk.ru^
 ||iosexpertcleaner.com^
 ||iotsosa.com^
 ||iotxporn.xyz^
@@ -33683,7 +33649,6 @@
 ||ipfssex.xyz^
 ||ipfsxxx.xyz^
 ||iphimsex.org^
-||iphoneporno.site^
 ||ipknk.ru^
 ||iplayboy.com^
 ||iplayesha.in^
@@ -33698,8 +33663,6 @@
 ||iporn.website^
 ||iporn.win^
 ||iporn0.top^
-||iporn12.buzz^
-||iporn2.top^
 ||iporn29.life^
 ||iporn88.net^
 ||ipornbase.com^
@@ -33760,7 +33723,6 @@
 ||ironicsurrealism.com^
 ||irontechdoll.com^
 ||irreverence.org^
-||irseximp.com^
 ||irvid.com^
 ||irxclip.com^
 ||is-a-cunt.com^
@@ -33784,7 +33746,6 @@
 ||isbmodels.xyz^
 ||isec2017.in^
 ||isecretarylegs.com^
-||iseehindis.com^
 ||iseekgirls.com^
 ||isekaitube.com^
 ||isex.chat^
@@ -33796,6 +33757,7 @@
 ||isexefa.top^
 ||isexiko.top^
 ||isexogay.com^
+||isexpert.ru^
 ||isexsex.com^
 ||isexuji.top^
 ||isexumo.top^
@@ -33840,6 +33802,7 @@
 ||iskenderunescort.net^
 ||iskenderunticaret.net^
 ||iskrica.com^
+||isla.gay^
 ||islahiyeescort.com^
 ||islamabadcompanions.online^
 ||islamabadescorts.agency^
@@ -33901,12 +33864,15 @@
 ||istanbulescortpremium.pro^
 ||istanbulescorts.org^
 ||istanbulescortscity.pro^
+||istanbulescortsfinest.pro^
 ||istanbulescortsgoddess.pro^
 ||istanbulescortshub.com^
 ||istanbulescortslegend.pro^
+||istanbulescortsluxury.pro^
 ||istanbulescortsservice.com^
 ||istanbulescorttr.net^
 ||istanbulescortweb.com^
+||istanbulescortworld.pro^
 ||istanbulesenyurtescort.com^
 ||istanbuleskort.net^
 ||istanbuletilerescort.com^
@@ -33919,6 +33885,7 @@
 ||istanbulsondaj.net^
 ||istanbulspor.net^
 ||istanbultaksi.org^
+||istanbulviva.com^
 ||istekonya.com^
 ||istokipodolsk.ru^
 ||istporn.xyz^
@@ -34175,13 +34142,13 @@
 ||itubex.com^
 ||itwasoverwhen.com^
 ||itzhkgay.xyz^
-||itzonex.com^
 ||iusedtobeyounger.com^
 ||iusexplorer.it^
 ||iuwporn.net^
 ||iv-videos.com^
 ||ivagayo.top^
 ||ivana-models-escortservice.de^
+||ivanfischer.gay^
 ||ivanouski.gay^
 ||ivenue.com^
 ||ivermectinonlinedrugstore.com^
@@ -34195,12 +34162,12 @@
 ||ivworld.net^
 ||ivx.gallery^
 ||ivy.com^
+||ivysexton.com^
 ||ivysociete.com^
 ||ivyysexy.com^
 ||iw01.xyz^
 ||iwaifu.com^
 ||iwank.cfd^
-||iwank.name^
 ||iwank.tv^
 ||iwank.xxx^
 ||iwanktv.help^
@@ -34234,11 +34201,9 @@
 ||ixiporn8.com^
 ||ixrated.com^
 ||ixxx.asia^
-||ixxx.baby^
 ||ixxx.cc^
 ||ixxx.click^
 ||ixxx.com^
-||ixxx.date^
 ||ixxx.fit^
 ||ixxx.ink^
 ||ixxx.quest^
@@ -34308,6 +34273,7 @@
 ||izmitarena.com^
 ||izmitdovme.com^
 ||izmitesc.com^
+||izmitescortbayan.site^
 ||izmitescortlar.com^
 ||izmitescortlarim.com^
 ||izmitfizik.com^
@@ -34447,14 +34413,12 @@
 ||jammuescortservice.in^
 ||jammufun.in^
 ||jamshedpurfun.in^
-||janafeet.com^
 ||janeanddanny.com^
 ||janeza.ru^
 ||janitorai.com^
 ||jannattohaxxx.link^
 ||jannatzubair.in^
 ||janorilth.gay^
-||jantehobe.com^
 ||januflix.biz^
 ||januvdul.info^
 ||janvisharma.com^
@@ -34469,7 +34433,6 @@
 ||japanese.xxx^
 ||japanese-beauties.org^
 ||japanese-girls.net^
-||japanese-milf-tube.com^
 ||japanese-tantra-escort.com^
 ||japanese-twink.com^
 ||japanese-women.net^
@@ -34535,7 +34498,6 @@
 ||japanxxtube.com^
 ||japanxxx.asia^
 ||japanxxx.net^
-||japanxxxporn.com^
 ||japanxxxsex.com^
 ||japanxxxvideo.asia^
 ||japanxxxxxxxhd.com^
@@ -35001,7 +34963,6 @@
 ||javsexnet.net^
 ||javsexpg.xyz^
 ||javsextv.xyz^
-||javsexx.blog^
 ||javsexxx.com^
 ||javshare.pro^
 ||javshirome.com^
@@ -35088,7 +35049,6 @@
 ||javym.net^
 ||javynow.com^
 ||javzany.com^
-||jaxdrone.com^
 ||jaxonlovesmen.gay^
 ||jaxporn.com^
 ||jaxslayher.com^
@@ -35176,6 +35136,7 @@
 ||jenygupta.in^
 ||jenylove.cl^
 ||jenyroy.com^
+||jenysmith.net^
 ||jenyvarma.com^
 ||jepanesexcom.bond^
 ||jepangbasah.com^
@@ -35253,7 +35214,6 @@
 ||jetztlive.com^
 ||jeune-gay.fr^
 ||jeune-julie.com^
-||jeunporn.com^
 ||jeuxerotiques.net^
 ||jeuxpornoenligne.com^
 ||jeuxvideo.fr^
@@ -35304,6 +35264,7 @@
 ||jimmyjane.com^
 ||jimperial.top^
 ||jimslip.com^
+||jinglecams.com^
 ||jinsexiandai.com^
 ||jinsexiaomai.net^
 ||jinyurl.com^
@@ -35333,6 +35294,7 @@
 ||jizzbunker.com^
 ||jizzbunker.net^
 ||jizzbunker2.com^
+||jizzcams.net^
 ||jizzedclips.com^
 ||jizzex.com^
 ||jizzez.net^
@@ -35465,7 +35427,6 @@
 ||jokes4us.com^
 ||jokesandfun.de^
 ||jokesforadults.guru^
-||joliporn.com^
 ||joliteens.com^
 ||jolynnraymond.com^
 ||jonasexplores.com^
@@ -35491,6 +35452,7 @@
 ||joporn.name^
 ||joporn.net^
 ||joporn.online^
+||joporn.space^
 ||joporn.tv^
 ||joporn.xyz^
 ||jopornpg.xyz^
@@ -35521,6 +35483,7 @@
 ||josporn.org^
 ||josporn.website^
 ||josporncam.store^
+||jospornforyou.store^
 ||jossexspres.store^
 ||jotsex.com^
 ||joujizz.com^
@@ -35595,7 +35558,6 @@
 ||jseasexotics.com^
 ||jsexchange.link^
 ||jsexclusivemotors.com^
-||jsexec.com^
 ||jsexnetwork.com^
 ||jsexpedition.com^
 ||jsexpress.de^
@@ -35606,6 +35568,7 @@
 ||jssexpress.com^
 ||jstporn.xyz^
 ||jstsex.xyz^
+||jstthegays.com^
 ||jstxxx.xyz^
 ||jtadultdrivingschool.com^
 ||jtkiff.com^
@@ -35616,6 +35579,7 @@
 ||jucydate.com^
 ||judaporn.com^
 ||judyporn.site^
+||juegabetlasexdv.info^
 ||juegaya.icu^
 ||juegayaok.com^
 ||juegayaprendestore.com^
@@ -35735,6 +35699,7 @@
 ||jurporn.com^
 ||jurrasicsex.com^
 ||jusporn.com^
+||jusrthegays.com^
 ||just-erotic.com^
 ||just-porn.net^
 ||just-travel.eu^
@@ -35826,6 +35791,8 @@
 ||justxxx.fun^
 ||justxxx4k.com^
 ||justxxxtube.com^
+||jusythegays.com^
+||juuporn.com^
 ||jv5gayfu.com^
 ||jvid.com^
 ||jvrlibrary.com^
@@ -35844,6 +35811,7 @@
 ||jyotioberoi.in^
 ||jyotirawat.in^
 ||jyotisingh.in^
+||jystthegays.com^
 ||jyukujyoerotvmovie.com^
 ||jyukujyomanko.com^
 ||jyukujyowareme.com^
@@ -35913,6 +35881,7 @@
 ||kainpepe.net^
 ||kainpopoy.com^
 ||kairareedy.com^
+||kaisaria.gay^
 ||kaiserin.de^
 ||kaitoani.org^
 ||kajalahuja.com^
@@ -35986,6 +35955,7 @@
 ||kanav.so^
 ||kanchana.in^
 ||kandrix-801trel.gay^
+||kang.gay^
 ||kangamovies.com^
 ||kangana-ready.com^
 ||kanica.life^
@@ -36064,6 +36034,7 @@
 ||karmatantric.com^
 ||karnavatiescorts.com^
 ||karsiyakabayan.com^
+||karsiyakaescort.com^
 ||karsiyakaescortgo.xyz^
 ||kartalescortq.com^
 ||kartalescortt.net^
@@ -36081,6 +36052,7 @@
 ||karupsow.com^
 ||karupspc.com^
 ||karveragayrimenkul.com^
+||karyagayrimenkul.com^
 ||kasago.biz^
 ||kasexchanger.xyz^
 ||kasexpo.xyz^
@@ -36260,6 +36232,7 @@
 ||kekporn.com^
 ||kelasexcel.net^
 ||kelasjav.com^
+||kelebek.gay^
 ||kellemartina.com^
 ||kellyfind.com^
 ||kellymadison.com^
@@ -36338,6 +36311,7 @@
 ||volchansk.kh.ua^
 ||kh-ksa.com^
 ||khagayf.info^
+||khagayoga.com^
 ||khalifa-escorts.com^
 ||khanika.in^
 ||khansariha.com^
@@ -36401,6 +36375,7 @@
 ||kiksexting.co^
 ||kiliseskort.com^
 ||kilked.online^
+||killafruitsexport.com^
 ||killergram.com^
 ||killerqueen.gay^
 ||killingkittens.com^
@@ -36526,7 +36501,6 @@
 ||kinkyfair.com^
 ||kinkyfamily.com^
 ||kinkyfetish.net^
-||kinkyfetishesonly.com^
 ||kinkyfetishqueen.com^
 ||kinkyforums.com^
 ||kinkygaychats.com^
@@ -36535,6 +36509,7 @@
 ||kinkygonzo.info^
 ||kinkyhookup.com^
 ||kinkyjungle.com^
+||kinkylesserporn.com^
 ||kinkylife.com^
 ||kinkylingerie.xyz^
 ||kinkyliterature.com^
@@ -36551,6 +36526,7 @@
 ||kinkyquests.com^
 ||kinkyrabbitclub.com^
 ||kinkyrank.top^
+||kinkyreview.com^
 ||kinkysalon.com^
 ||kinkysexting.com^
 ||kinkyteenporn.com^
@@ -36668,7 +36644,6 @@
 ||kizpornoizle.site^
 ||kizpornoizle.website^
 ||kizzsta.de^
-||kjadultdaycare.com^
 ||kjaj.top^
 ||kjp-praxis-koenigslutter.de^
 ||kkatiesexpress.com^
@@ -37198,7 +37173,6 @@
 ||lacynylons.com^
 ||ladagaylapluma.com^
 ||laddertheory.com^
-||laddertoadulthood.com^
 ||ladies.de^
 ||ladies-anzeigen.com^
 ||ladies-forum.de^
@@ -37280,6 +37254,7 @@
 ||lagosexchange.xyz^
 ||lagosexpatslife.com^
 ||lagosexperience.com^
+||lagrandeaventure.fr^
 ||lahoradelospinguinos.com^
 ||lahore24escorts.com^
 ||lahorecallgirl.com^
@@ -37314,7 +37289,6 @@
 ||laminasexterior.store^
 ||lamnhanhtrongngay.online^
 ||lamoglieofferta.com^
-||lamonika.com^
 ||lamora.online^
 ||lamorquedino.gay^
 ||lanagrey.de^
@@ -37381,7 +37355,6 @@
 ||lasguarasexpress.com^
 ||lasip.net^
 ||lasl.ru^
-||laspalmerasexpress.com^
 ||lassociationdegaya.com^
 ||lastchinagayporn.cc^
 ||lasterrenasexplorer.com^
@@ -37453,7 +37426,6 @@
 ||latinwomenonline.com^
 ||latinxmodels.com^
 ||latouraineinc.com^
-||latraverseeducoeur-amandinebilocqsexotherapeute.fr^
 ||perso.latribu.com^
 ||latteporno.space^
 ||laufhaus-gt.at^
@@ -37472,9 +37444,7 @@
 ||lauraruderman.org^
 ||laurelclarke.com^
 ||laurenkornegay.com^
-||lauresfinance.com^
 ||lauriealiceeakes.com^
-||lauxanh.xxx^
 ||lavajoy.com^
 ||lavenderxxx.com^
 ||lavenderxxx.info^
@@ -37606,6 +37576,7 @@
 ||lecoq.xxx^
 ||lectorhentai.com^
 ||ledgersensex.xyz^
+||ledgerslive.org^
 ||ledilana.ru^
 ||ledortoir.com^
 ||leedsswingers.com^
@@ -37656,7 +37627,6 @@
 ||leipzigmodelle.de^
 ||lejourdesadultes.com^
 ||lekisexoceme.sbs^
-||lektyr.com^
 ||lelastar.com^
 ||lelo.com^
 ||lelulove.com^
@@ -37893,6 +37863,7 @@
 ||lespompeurs.com^
 ||lespompeuses.com^
 ||lesporn.website^
+||lessaveursexotiques.com^
 ||lessexpensive.shop^
 ||lessexplored.com^
 ||lessexspensive.store^
@@ -37906,6 +37877,7 @@
 ||lethalhardcore.com^
 ||lethalpass.com^
 ||lethimhit.com^
+||letipessex.com^
 ||letitpee.com^
 ||letmedothis.com^
 ||letmejerk.com^
@@ -37919,6 +37891,7 @@
 ||letsemjoy.com^
 ||letsexchangenotes.com^
 ||letsexchangethings.com^
+||letsexplore.asia^
 ||letsexploreandshop.com^
 ||letsexplorecelebration.com^
 ||letsgetdirtyco.com^
@@ -37935,7 +37908,6 @@
 ||letstalksugar.com^
 ||letstravel.gay^
 ||letstryanal.com^
-||lettalkaboutsex.com^
 ||lettingpredictableadulthood.com^
 ||lettredespermaculteurs.com^
 ||letzgetdirty.com^
@@ -38091,6 +38063,9 @@
 ||lifexcams.top^
 ||ligadasnovinhas.com^
 ||ligar.gay^
+||ligayacentral.com^
+||ligayafest.com^
+||ligayafestival.com^
 ||ligayaguitars.com^
 ||ligayalife.com^
 ||ligayokubet.com^
@@ -38125,6 +38100,7 @@
 ||lilisoumise.fr^
 ||lilliansavage.xxx^
 ||lillybabe.com^
+||lillypad.gay^
 ||lilou-libertine.com^
 ||lily-rose.net^
 ||lilyfields.com^
@@ -38275,7 +38251,6 @@
 ||live-924.com^
 ||live-beehive.com^
 ||live-porn-sex-cam.com^
-||live-sex.sex^
 ||animal.live-sex-porn.com^
 ||live-sexchat.ru^
 ||live-starlets.com^
@@ -38444,7 +38419,6 @@
 ||livewellsmallbusinessexpo.com^
 ||livexsite.com^
 ||livexxxcam.net^
-||livexxxwebcam.com^
 ||livezcam.com^
 ||livezhat.com^
 ||livezoie.com^
@@ -38454,6 +38428,7 @@
 ||livingwaterslutheranparish.org^
 ||livingwithanteaters.com^
 ||livraisonboisexpress.com^
+||livretplus.com^
 ||livrosexpress.com^
 ||livuyescort.com^
 ||lixporn.com^
@@ -38487,6 +38462,7 @@
 ||lmdfdg.com^
 ||lmfct.org^
 ||lmharnisch.com^
+||lmsolutec.com^
 ||lnjgayg.info^
 ||lnmm.ru^
 ||lnwdoujin.com^
@@ -38593,7 +38569,6 @@
 ||lolatoys.com^
 ||lolayoung.com^
 ||loleporno.com^
-||loleporno1.lat^
 ||loleporno2.lat^
 ||lolhentai.net^
 ||lolikon.link^
@@ -38648,6 +38623,7 @@
 ||lontv.mobi^
 ||lonverastimo.gay^
 ||lonxx.net^
+||lookfeelsexy.com^
 ||lookimgay.com^
 ||looking4flings.com^
 ||lookingforasextherapist.com^
@@ -38668,6 +38644,7 @@
 ||loquovip.com^
 ||loracrossmodel.com^
 ||loraxofsex.com^
+||lorayapigayrimenkul.com^
 ||lordfilm-adult.ru^
 ||lordfilm-dirty.ru^
 ||lordfilm-xxx.top^
@@ -38678,6 +38655,7 @@
 ||lorealns4unisexsalon.in^
 ||lorellacuccarini.net^
 ||loremus.gay^
+||lorifasexia.com^
 ||lorislocker.com^
 ||lorvdele.ru^
 ||losanalos.com^
@@ -38746,6 +38724,7 @@
 ||loveandsexcam.com^
 ||loveandwildhoney.com^
 ||loveangels.ie^
+||loveashtangayoga.com^
 ||lovebrides.org^
 ||lovebyte.gay^
 ||lovecamporn.com^
@@ -38819,6 +38798,7 @@
 ||loveporn2.com^
 ||lovepornpics.xyz^
 ||lovepornvideos.cc^
+||lovepornvideos.com^
 ||lovepreet-kaur.com^
 ||lovepreet-mann.com^
 ||lovepreetkaur.com^
@@ -39147,7 +39127,6 @@
 ||lydiadavisexpressextensionkits.com^
 ||lyflongayurveda.com^
 ||lyla.ch^
-||lynksexpress.org^
 ||lynnofziger.com^
 ||lynnsexpeditionsescapes.com^
 ||lynnsexton.com^
@@ -39194,7 +39173,6 @@
 ||ma-ture.com^
 ||maabetasexstory.com^
 ||maagayatritextile.com^
-||maagayatrividyamandir.com^
 ||maagaytritraders.top^
 ||maahiarora.in^
 ||maahikapoor.com^
@@ -39426,7 +39404,6 @@
 ||makesensex.xyz^
 ||makesocialsexy.com^
 ||maketheyuletidegay.com^
-||makeupsex.ai^
 ||makeyourmood.in^
 ||makeyournight.in^
 ||makimaxxx.com^
@@ -39482,6 +39459,7 @@
 ||maletwink.com^
 ||malevsfemale.org^
 ||malexxxtube.com^
+||maligayadevcorp.com^
 ||maligayasoft.com^
 ||malina.xxx^
 ||malinaporno.com^
@@ -39496,6 +39474,7 @@
 ||mallusex.me^
 ||mallusexvideos.net^
 ||malluxxx.net^
+||maltepeescort.vip^
 ||maltepeescortd.com^
 ||maltepeescortgo.xyz^
 ||maltepeescortvip.com^
@@ -39751,11 +39730,9 @@
 ||manuelferrara.com^
 ||manuelferrara.tv^
 ||manuelgarciagay.com^
-||manufacturingconsluting.com^
 ||manup.xxx^
 ||manupfilms.com^
 ||manurefetish.com^
-||manutdticketsalesexchange.info^
 ||manvikakkar.com^
 ||manwhorepod.com^
 ||many.xxx^
@@ -39861,6 +39838,7 @@
 ||marmaladedigital.in^
 ||marmarisescortlar.com^
 ||marmarisexcursion.com^
+||marmaxxx.org^
 ||marmeladies.com^
 ||maroewee-erotic-massage.com^
 ||marokkaansdaten.nl^
@@ -39888,7 +39866,6 @@
 ||marshallsv.com^
 ||marshmallowunicorn.xxx^
 ||marsrocks.sex^
-||martagilfer.com^
 ||martiajans.com^
 ||martiipol.com^
 ||martinelsner.com^
@@ -40085,7 +40062,6 @@
 ||matrixxx888.com^
 ||matrugayabindusarovar.com^
 ||matrugayapooja.in^
-||mattandbrad.gay^
 ||mattballdesign.com^
 ||mattersexplained.com^
 ||mattescort.com^
@@ -40102,6 +40078,7 @@
 ||mature.red^
 ||mature.zone^
 ||mature-date.com^
+||mature-is-better.com^
 ||mature-it.com^
 ||mature-laid.com^
 ||mature-lovers.com^
@@ -40110,6 +40087,7 @@
 ||mature-ok.pro^
 ||mature-orgasm.com^
 ||mature-porn.me^
+||mature-sex-granny.com^
 ||mature-sex-porn.com^
 ||mature-spanking.com^
 ||mature-tube.sexy^
@@ -40312,6 +40290,7 @@
 ||max-hardcore.com^
 ||maxaeropulsex.sbs^
 ||maxaerotica.art^
+||maxbirhangayrimenkul.com^
 ||maxboobs.com^
 ||maxegatos.net^
 ||maxesangels.com^
@@ -40441,7 +40420,6 @@
 ||mcgfundsexpress.info^
 ||mcgfundsexpress.link^
 ||mchepuko.com^
-||mcksexcellenceawards.com^
 ||mclass.com^
 ||mclive.eu^
 ||mcmlxxx.site^
@@ -40525,7 +40503,6 @@
 ||medoo.click^
 ||medow.club^
 ||medow.ru^
-||medsexpress.ca^
 ||medthingsexplained.com^
 ||medvedev.gay^
 ||jyoti-fun.mee.nu^
@@ -40737,7 +40714,6 @@
 ||mellbimbo.eu^
 ||mellesleg.hu^
 ||mellow-moon.com^
-||melmilfortune.com^
 ||melodramatic.com^
 ||melodyinfall.com^
 ||melodymakersex.com^
@@ -40813,14 +40789,13 @@
 ||mensparkle.com^
 ||mensporn.org^
 ||menssextoyreviews.com^
-||menssexualhealthhub.com^
-||menssexualwellness.com^
 ||menstoy.in^
 ||menstoyshub.com^
 ||mensunderwearsource.com^
 ||mentally-sexy.com^
 ||mentallysexy.com^
 ||mentalnoyeporno.store^
+||mentalstatusexamtemplate.com^
 ||mentisadultservicesllc.org^
 ||mentokin.com^
 ||mentoriasexitosas.com^
@@ -40860,6 +40835,7 @@
 ||merryfrolics.com^
 ||mersin24.com^
 ||mersindugun.com^
+||mersinescort.pro^
 ||mersinescortbayan.biz^
 ||mersinescortgo.com^
 ||mersinescorthot.com^
@@ -40988,14 +40964,11 @@
 ||mg-renders.net^
 ||mgs-kolomna.ru^
 ||mgtransexpress.com^
-||mgxxx.vip^
 ||mhamic.org^
 ||mhardporn.com^
 ||mhcomics.com^
 ||mheewarp.com^
 ||mhentai.net^
-||mia.gallery^
-||mia.red^
 ||mia-julia.com^
 ||miaescort.in^
 ||miakhalifa.com^
@@ -41087,7 +41060,6 @@
 ||mihentai.com^
 ||miia.gay^
 ||miisoo.com^
-||mikaaa.gay^
 ||mikandi.com^
 ||mikeangeloporn.com^
 ||mikeatamas.porn^
@@ -41233,13 +41205,11 @@
 ||milflift.info^
 ||milflift.net^
 ||milflift.org^
-||milfloversonly.com^
 ||milfmangahentai.com^
 ||milfmarauder.asia^
 ||milfmaturetube.top^
 ||milfmax.live^
 ||milfmilano.com^
-||milfmode.net^
 ||milfmoms.tv^
 ||milfmomspics.com^
 ||milfmovies.lat^
@@ -41278,6 +41248,7 @@
 ||milfordkids.com^
 ||milfordlexus.com^
 ||milfordlexus.org^
+||milfordlexus.us^
 ||milfordlivingmag.com^
 ||milfordmadtc.com^
 ||milfordmerchants.com^
@@ -41287,7 +41258,6 @@
 ||milfordoakgrovecemetery.org^
 ||milfordoysterfestival.com^
 ||milfordplumbingct.com^
-||milfordprintllc.com^
 ||milfordrent.shop^
 ||milfordsons.com^
 ||milfordstationcidery.com^
@@ -41328,7 +41298,6 @@
 ||milfready.com^
 ||milfred.ai^
 ||milfredsound.com^
-||milfrenos.com^
 ||milfriedrichphotography.com^
 ||milfroom.com^
 ||milfroom.org^
@@ -41350,7 +41319,6 @@
 ||milfsdesnudas.com^
 ||milfsection.com^
 ||milfsex.tv^
-||milfsex.ws^
 ||milfsexbomb.com^
 ||milfsexclipshd.com^
 ||milfsexyhub.com^
@@ -41394,7 +41362,6 @@
 ||milftop.com^
 ||milftrip.com^
 ||milftub.xyz^
-||milftube.best^
 ||milftube.io^
 ||milftube.today^
 ||milftube.watch^
@@ -41679,6 +41646,7 @@
 ||mixporn.fit^
 ||mixporn.mobi^
 ||mixporn.net^
+||mixporn.today^
 ||mixporn.tube^
 ||mixporn.tv^
 ||mixporno.club^
@@ -41697,13 +41665,13 @@
 ||mixxxer.com^
 ||mixxxx.com^
 ||mixzona.ru^
-||miyo.icu^
 ||miyueav.tv^
 ||mizinov.net^
 ||mjamilfurniture.com^
 ||c74be38bc7.mjedge.net^
 ||c759f6c07c.mjedge.net^
 ||c7739b5000.mjedge.net^
+||mjmerrillsonsexcavation.com^
 ||mjporn.org^
 ||mkinotv.ru^
 ||mkiska.name^
@@ -41722,7 +41690,6 @@
 ||mlookalporno.com^
 ||mlookelporno.com^
 ||mlos.net^
-||mlxxxx1.top^
 ||mm-cg.com^
 ||mm-fans.fr^
 ||mm-xxx.com^
@@ -41746,7 +41713,6 @@
 ||mmsdose.my^
 ||mmsdose.sbs^
 ||mmsdose.us^
-||mmshub.net^
 ||mmshunt.com^
 ||mmsmaza.cc^
 ||mmsmaza.org^
@@ -41793,7 +41759,6 @@
 ||mobileporngames.club^
 ||mobileporngames.store^
 ||mobilepornmovies.com^
-||mobilepornpaysites.com^
 ||mobilepornsites.mobi^
 ||mobilepornvideo.store^
 ||mobilesensex.xyz^
@@ -42081,6 +42046,7 @@
 ||monikamehra.in^
 ||monikamogi.com^
 ||monikatalwar.com^
+||monisexorc.pro^
 ||moniturbate.com^
 ||monk-essex.com^
 ||monkey.app^
@@ -42092,6 +42058,7 @@
 ||monngonmoingay.food^
 ||monngonmoingay.net^
 ||monocdn.com^
+||monomyth.gay^
 ||monpetit.porn^
 ||monporno.fr^
 ||monroo.com^
@@ -42126,7 +42093,6 @@
 ||moonbeamxxx.xyz^
 ||moonbrick.com^
 ||img.moonbuggy.org^
-||moondevilsexotics.com^
 ||moondevilsexotics.net^
 ||mooneye-cardassian.gay^
 ||moonriverporn.xyz^
@@ -42163,7 +42129,6 @@
 ||moreporn.club^
 ||moreporn.space^
 ||moreporno.org^
-||moresexmorehappiness.com^
 ||moresexvideo.com^
 ||moreshemales.com^
 ||moresisek.com^
@@ -42220,10 +42185,10 @@
 ||motionrealmedia.gay^
 ||motngaymayman.click^
 ||motogay.com^
+||motomatesexpedition.com^
 ||motopaygayrimenkul.com^
 ||motorcitysudsexpress.com^
 ||motorcitysudsexpresswash.com^
-||motorhomesessex.uk^
 ||motorsexchange.com^
 ||motorsxxx.com^
 ||motosexuals.com^
@@ -42292,7 +42257,6 @@
 ||movstars.com^
 ||movzer.com^
 ||moxbab.com^
-||moyersexcavationx.com^
 ||moyvatube.com^
 ||mozaikgayrimenkul.com^
 ||mozakin.com^
@@ -42427,6 +42391,7 @@
 ||msslutty.org^
 ||msteamseyeappstore.com^
 ||mstgh-international.net^
+||mstxvideo.com^
 ||msx.hu^
 ||msxxxx1.top^
 ||msyaronline.com^
@@ -42612,7 +42577,6 @@
 ||musclebdsm.com^
 ||muscleboners.com^
 ||muscleboywrestling.com^
-||muscledguys.com^
 ||musclefan.com^
 ||musclegayclips.com^
 ||musclegaymales.com^
@@ -42689,13 +42653,11 @@
 ||activexxx.my.id^
 ||adultfreewhoseeye.my.id^
 ||adultokithuman.my.id^
-||adultsuccessbodycatch.my.id^
 ||bagscientistadult.my.id^
 ||carlenegaynor.my.id^
 ||gayahidup.my.id^
 ||gayeastburn.my.id^
 ||gayfu.my.id^
-||imageinterestingnothingadult.my.id^
 ||lacostexxx.my.id^
 ||onlydood.my.id^
 ||riripamigay.my.id^
@@ -42704,12 +42666,13 @@
 ||sukces-wordxxx67.my.id^
 ||worddxxxmbki.my.id^
 ||wordxxxfstvlj.my.id^
+||worrddxxxwikby.my.id^
+||worrddxxxwikbyy.my.id^
 ||worrddxxxxwwwby.my.id^
 ||wugayilovaqe.my.id^
 ||xxx-pstpl.my.id^
 ||xxx55.my.id^
 ||xxxx.my.id^
-||xxxyyz-fstp.my.id^
 ||ytrxxxx-b3y.my.id^
 ||my-adult-story-app.com^
 ||my-chaturbat.su^
@@ -42772,6 +42735,8 @@
 ||mybeegsex.com^
 ||mybeegtube.com^
 ||mybestxtube.com^
+||mybfisverygay.com^
+||mybfisveryverygay.com^
 ||mybigtitsbabes.com^
 ||mybluehost.me^
 ||mybluehostin.me^
@@ -42827,6 +42792,7 @@
 ||mydick.pictures^
 ||mydirty-wife.life^
 ||mydirtycams.org^
+||mydirtychai.com^
 ||mydirtyhobby.com^
 ||mydirtyhobby.de^
 ||mydirtyhobby.store^
@@ -42860,8 +42826,10 @@
 ||myfetishchat.com^
 ||myfetisheshavefetishes.com^
 ||myfetishorg.com^
+||myfirstsexteacher.com^
 ||myfirsttime.com^
 ||myflirtymate.com^
+||myfreakyfetish.com^
 ||myfreeblack.com^
 ||myfreecams.com^
 ||myfreecams.pro^
@@ -43038,7 +43006,6 @@
 ||myporn.store^
 ||myporn.wtf^
 ||myporn-hd.space^
-||myporn111.com^
 ||mypornadviser.com^
 ||mypornarchive.net^
 ||mypornbible.com^
@@ -43132,7 +43099,6 @@
 ||mysexroyal.com^
 ||mysexshop.pl^
 ||mysextoy.ca^
-||mysextoyfun.com^
 ||mysextoyguide.com^
 ||mysextoys.online^
 ||mysexual.space^
@@ -43152,6 +43118,7 @@
 ||myshopx.store^
 ||myshow.pl^
 ||mysislovesme.com^
+||mysistersfriend.com^
 ||mysiterip.com^
 ||mysiterips.com^
 ||myslavegirl.org^
@@ -43206,7 +43173,6 @@
 ||mythoeroticleadership.com^
 ||mytinydick.com^
 ||mytits.pictures^
-||mytopex.com^
 ||mytoporn.site^
 ||mytoporn.space^
 ||mytopxgirl.com^
@@ -43273,6 +43239,7 @@
 ||mzd-gov.cloud^
 ||mze-gov.cloud^
 ||mzeekigaya.com^
+||mzlisa.com^
 ||mzp-gov.cloud^
 ||mzporn.com^
 ||mzv-gov.cloud^
@@ -43329,7 +43296,6 @@
 ||nagoyaeroticguide.net^
 ||nah.xxx^
 ||nahodka-sex24.ru^
-||nahornyi.ai^
 ||nahotinky.eu^
 ||nahporn.com^
 ||nahtlos-braun.com^
@@ -43376,6 +43342,7 @@
 ||naked-girl.org^
 ||naked-girls.me^
 ||naked-girls.net^
+||naked-japanese.com^
 ||naked-matures.com^
 ||naked-milf.pics^
 ||naked-moms.org^
@@ -43409,6 +43376,7 @@
 ||nakedhornyteens.com^
 ||nakedhotpics.com^
 ||nakedindiangirls.org^
+||nakedism.com^
 ||nakedlesbianspics.com^
 ||nakedmalecelebs.com^
 ||nakedmatureladies.com^
@@ -43615,6 +43583,7 @@
 ||natashaskinski.net^
 ||nathanbaylet.xxx^
 ||national-porn.art^
+||national-porn.cam^
 ||national-team.top^
 ||nationalgaypride.org^
 ||nationaltechno.ru^
@@ -43846,8 +43815,6 @@
 ||neonsignsexpress.net^
 ||neonxporn.com^
 ||neonxvip.com^
-||neoporn.net^
-||neoporn.site^
 ||neosensex.xyz^
 ||neosex.xyz^
 ||neotori.com^
@@ -43866,6 +43833,7 @@
 ||nesaporn.org^
 ||nesaporn.website^
 ||nesaxnxxx.net^
+||nesexhibitions.com^
 ||ness.gay^
 ||nessa.gay^
 ||nestiagayrimenkul.com^
@@ -44095,6 +44063,7 @@
 ||newsensations.com^
 ||newsensex.xyz^
 ||newsexcellenttoday.com^
+||newsexclusivepr.com^
 ||newsexcomix.com^
 ||newsexfilms.com^
 ||newsexnow.com^
@@ -44111,6 +44080,7 @@
 ||newsexwap.com^
 ||newsexxxx.com^
 ||newsexynails.com^
+||newsgroupsuncensured.com^
 ||newshemalemodels.com^
 ||newshemaletube.com^
 ||newsngay.com^
@@ -44179,6 +44149,7 @@
 ||nexusexpress.online^
 ||nexuslut.com^
 ||nexxxtleveltalentagency.com^
+||nexxxto.online^
 ||nexxxus-dark.com^
 ||nexxxxa.website^
 ||nezyda.com^
@@ -44196,6 +44167,7 @@
 ||ngayhanhphuc.com^
 ||ngaykhaitruong.com^
 ||ngaynaocungbuok.shop^
+||ngaynay.info^
 ||ngayonaraw.com^
 ||ngentotxsex.com^
 ||ngheaudiotruyen.info^
@@ -44221,7 +44193,6 @@
 ||nhan-ngay-588k.top^
 ||nhan-ngay-888k.store^
 ||nhan-ngay-888k.top^
-||nhan-ngay-99k.top^
 ||nhantienngay.com^
 ||nhentai.blog^
 ||nhentai.com^
@@ -44447,6 +44418,7 @@
 ||nitroporno.com^
 ||nityasalvi.com^
 ||niu-kumagaya.jp^
+||niubixxxx.xyz^
 ||niverafansub.org^
 ||niwerat.com^
 ||nixxxx.top^
@@ -44462,7 +44434,7 @@
 ||njavtv.com^
 ||njfxxx.com^
 ||njgayrimenkul.xyz^
-||njjxxxzx.com^
+||njxrxxxkj.top^
 ||njyzxxx.com^
 ||nk-cs.ru^
 ||nl24news.com^
@@ -44710,7 +44682,6 @@
 ||nopor.tv^
 ||noporn.website^
 ||noporn30.app^
-||nopornai.com^
 ||noporncast.store^
 ||nopornmovie.website^
 ||noramexxx.com^
@@ -44747,7 +44718,7 @@
 ||not.fans^
 ||nota.gay^
 ||notagay.com^
-||notasex.site^
+||notariasextamedellin.com^
 ||notasulgayouthsports.shop^
 ||notawoman.com^
 ||notfans.com^
@@ -44764,7 +44735,6 @@
 ||notlikexxx.com^
 ||notmik.com^
 ||notmygrandpa.com^
-||notporn.site^
 ||notpornmovie.website^
 ||notsexistbut.com^
 ||notyourporn.com^
@@ -44849,7 +44819,6 @@
 ||nsexi.com^
 ||nsexpdesign.pro^
 ||nsexterior.com^
-||nsexx.sbs^
 ||nsexy.ru^
 ||nsfollowers.pro^
 ||nsfw.sex^
@@ -45012,7 +44981,6 @@
 ||nudehairycunts.com^
 ||nudehairypics.com^
 ||nudehere.com^
-||nudeholes.com^
 ||nudehotangels.com^
 ||nudeindian.net^
 ||nudeindiangirls.pro^
@@ -45079,6 +45047,7 @@
 ||nudestan.com^
 ||nudestripper.net^
 ||nudeteenboys.net^
+||nudeteenerotic.com^
 ||nudeteenmodelsxxx.com^
 ||nudeteenphoto.com^
 ||nudeteenphotoxxx.com^
@@ -45251,7 +45220,6 @@
 ||nuvid.icu^
 ||nuvid.online^
 ||nuvid.tv^
-||nuvistaporn.com^
 ||nuzname.ru^
 ||nv7s.com^
 ||nvbrothels.net^
@@ -45308,6 +45276,7 @@
 ||nylon-orgies.com^
 ||nyloner.com^
 ||nylonfetishes.com^
+||nyloninfilm.com^
 ||nylonjungecarmen.de^
 ||nylonlegssilk.com^
 ||nylonnudes.com^
@@ -45451,6 +45420,7 @@
 ||offerfundingsolutionsexperts.com^
 ||offerleasesolutionsexperts.com^
 ||offerloansolutionsexperts.com^
+||office-a-kumagaya.com^
 ||officialbasexxx.com^
 ||officialdigitalero.org^
 ||officialdreddxxx.com^
@@ -45561,6 +45531,7 @@
 ||okova.shop^
 ||okphimsex.com^
 ||okporn.com^
+||okporn.net^
 ||okporn.space^
 ||okporn.xxx^
 ||okporno.net^
@@ -45606,22 +45577,24 @@
 ||oldclassicporn.com^
 ||olddirtybikes.com^
 ||older.tube^
+||older-granny.com^
 ||older-mature.net^
 ||older-porn.net^
 ||older-women-movies.com^
 ||older4me.com^
+||olderadulthealthandsafety.com^
 ||olderadults4liberty.ai^
 ||olderadults4liberty.org^
 ||olderadultsafety.health^
 ||olderadultsafety.info^
 ||olderadultsafety.net^
+||olderadultshealthandsafety.com^
 ||olderadultshub.ca^
 ||olderadultslearningforsuccess.com^
 ||olderfucker.net^
 ||oldergay.men^
 ||oldergrandma.com^
 ||olderkiss.com^
-||oldermom.net^
 ||oldernastybitches.com^
 ||oldertube.com^
 ||oldervagina.com^
@@ -45668,11 +45641,13 @@
 ||oleporn.site^
 ||oleporno101.shop^
 ||oleporno2.shop^
+||olesyainsaatgayrimenkul.com^
 ||olgayarovaya.com^
 ||olgunporno.website^
 ||olimposbr.com^
 ||olise-michael.gay^
 ||olivesexy.com^
+||olivia-love.com^
 ||oliyasharma.in^
 ||olma.me^
 ||olo.cool^
@@ -45686,6 +45661,8 @@
 ||olympusexecs.com^
 ||olympusexhaust.com^
 ||olympusxxx.xyz^
+||oma-zoekt-sex.be^
+||oma-zoekt-sex.nl^
 ||omafotze.com^
 ||omageil.com^
 ||omageilblog.com^
@@ -45752,7 +45729,6 @@
 ||omnichat.com^
 ||omnileonardo.com^
 ||omnimag.com^
-||omniversex21.digital^
 ||omorashi.org^
 ||omsk.com^
 ||omweb.eu^
@@ -45831,14 +45807,12 @@
 ||onlinebooksexpert.com^
 ||onlinecamtieners.nl^
 ||onlinechatroom.org^
-||onlineclassesexpert.com^
 ||onlinecrush.com^
 ||onlinedating.gr^
 ||onlinedatingtwo.com^
 ||onlinefilmizletr8.cc^
 ||onlinefreechat.com^
 ||onlinehookupsites.org^
-||onlinehotsex.com^
 ||onlinejobsexpert.com^
 ||onlinenudes.gay^
 ||onlinenumara.net^
@@ -45874,6 +45848,7 @@
 ||only4adults.net^
 ||onlyaccounts.io^
 ||onlyadult.life^
+||onlyadultstravel.com^
 ||onlybabes.ai^
 ||onlybestgirls.com^
 ||onlybestporn.com^
@@ -46120,12 +46095,14 @@
 ||openmind-dana.com^
 ||openporn.space^
 ||opensensex.xyz^
+||opensex.fun^
 ||opensex.xyz^
 ||opensexmovies.com^
 ||opensussexdronepilot.com^
 ||opentgc.com^
 ||openxxxtube.com^
 ||operationsexchange.website^
+||opeyemiadultcarecentre.com^
 ||opjav.com^
 ||oporno.net^
 ||opornoe-reshenie.com^
@@ -46196,6 +46173,7 @@
 ||backlash-uk.org.uk^
 ||badreputation.org.uk^
 ||bashbradford.org.uk^
+||ben4sussex.org.uk^
 ||bjspermbank.org.cn^
 ||blackjackonline.org.uk^
 ||byzantinorossica.org.ru^
@@ -46206,6 +46184,7 @@
 ||cuwbc.org.uk^
 ||drakensberg.org.za^
 ||dyspraxicadults.org.uk^
+||essex-mayor.org.uk^
 ||essexathletics.org.uk^
 ||essexheartfund.org.uk^
 ||essexmarchingcorps.org.uk^
@@ -46231,6 +46210,7 @@
 ||plm.org.hk^
 ||polyamory.org.uk^
 ||porno.org.pl^
+||pramilfoundation.org.in^
 ||revengepornhelpline.org.uk^
 ||rgo.org.ru^
 ||seekers.org.uk^
@@ -46334,8 +46314,8 @@
 ||oscarthegaydog.com^
 ||oscartordoya.com^
 ||osex.eu^
-||osexali.top^
 ||osexlove.com^
+||osexpansion.com^
 ||osexpert.com^
 ||osexport.com^
 ||oseztromper.com^
@@ -46454,7 +46434,6 @@
 ||oversexed.pl^
 ||overwatchporn.xxx^
 ||overyourcities.com^
-||ovhub.com^
 ||oviyareddy.com^
 ||ovvogayrimenkul.com^
 ||owalacanadaoutlet.com^
@@ -46504,7 +46483,6 @@
 ||p-fam.ru^
 ||p-fruit.com^
 ||p-magazine.com^
-||p-pen.gay^
 ||p0rn.site^
 ||p0rno.xyz^
 ||p0rnosex.org^
@@ -46544,8 +46522,6 @@
 ||pacopaco.top^
 ||pacopacomama.com^
 ||pacrat.org^
-||paddedadult.com^
-||padelwestsussex.com^
 ||pagalworld.asia^
 ||pagandad.com^
 ||pagaya.ai^
@@ -46659,7 +46635,6 @@
 ||pandorasbox.kr^
 ||pandorasboxny.com^
 ||pandorasboxxx.net^
-||pandorasexshop.com^
 ||pandoratube.com^
 ||panescorts.com^
 ||pangxinzzxxx.com^
@@ -46685,6 +46660,7 @@
 ||panty-love2.com^
 ||panty-porn.com^
 ||pantydeal.com^
+||pantyhose-x.com^
 ||pantyhosecam.net^
 ||pantyhosehouse.com^
 ||pantyhosejobs.com^
@@ -46821,6 +46797,7 @@
 ||partyhousexxx.com^
 ||partyinbkk.com^
 ||partying.tw^
+||partypeople.xxx^
 ||partyporn.space^
 ||partysexs.com^
 ||partyusha.in^
@@ -46901,6 +46878,7 @@
 ||patrikpecenka.gay^
 ||patriotfront.gay^
 ||patrolxxx.com^
+||patspix.com^
 ||pattaya-addicts.com^
 ||patternapplauderw.shop^
 ||paul-friedhoff.de^
@@ -46967,9 +46945,9 @@
 ||pcpclaimsexperts.com^
 ||pcpic.com^
 ||pcsexpert.com^
+||pcsexteriors.com^
 ||pcsextraordinarystyles.com^
 ||pcshared.com^
-||pcswebsolution.com^
 ||pdadd.buzz^
 ||pdapp.buzz^
 ||pdawo.mom^
@@ -47046,6 +47024,7 @@
 ||pelesexpeded.space^
 ||pelican.gay^
 ||pelicandreams.com^
+||peliculaseroticas.info^
 ||peliculaseroticasonline.com^
 ||peliculaseroticasonline.net^
 ||peliculaseroticass.com^
@@ -47198,11 +47177,13 @@
 ||perpsexchange.com^
 ||perpxxx.xyz^
 ||perritowilly.com^
+||perrywingsexpressfl.com^
 ||persexity.com^
 ||persiankitty.com^
 ||persiansexvideos.com^
 ||persona.camera^
 ||personalgpt.adult^
+||personalisedgiftsessex.com^
 ||personallifemedia.com^
 ||personalpornscene.com^
 ||personals.gay^
@@ -47253,6 +47234,7 @@
 ||petardastube.com^
 ||petasexs.icu^
 ||petasexs1.click^
+||petasexs11.click^
 ||peteneems.com^
 ||peterbux.gay^
 ||peterfever.com^
@@ -47346,6 +47328,7 @@
 ||phanvisava-soiltest.com^
 ||phap.fr^
 ||phaporn.xyz^
+||pharmakeys.com^
 ||phatasspics.com^
 ||phatassporn.com^
 ||phatbootyhunter.com^
@@ -47407,7 +47390,6 @@
 ||phimjapan.net^
 ||phimjapan.vip^
 ||phimmoi30s.com^
-||phimngay.top^
 ||phimnguoilon1.com^
 ||phimsec.app^
 ||phimsec.info^
@@ -47526,7 +47508,6 @@
 ||phimsexhay8.com^
 ||phimsexhay9.com^
 ||phimsexhaykhongche.com^
-||phimsexhays.blog^
 ||phimsexhayviet18.com^
 ||phimsexhayvn18.com^
 ||phimsexhayvn19.com^
@@ -47541,6 +47522,7 @@
 ||phimsexhayvn30.com^
 ||phimsexhayvn31.com^
 ||phimsexhayvn32.com^
+||phimsexhayvn33.com^
 ||phimsexhd.biz^
 ||phimsexhd.cyou^
 ||phimsexhd.lat^
@@ -47581,7 +47563,6 @@
 ||phimsexkoche4.com^
 ||phimsexkoche5.com^
 ||phimsexkochex.com^
-||phimsexkorea.com^
 ||phimsexlanxinhyeu.com^
 ||phimsexlao.org^
 ||phimsexlauxanh.cc^
@@ -47679,7 +47660,6 @@
 ||phimsexviet.club^
 ||phimsexviet.info^
 ||phimsexviet0.com^
-||phimsexviet1.blog^
 ||phimsexviet100.com^
 ||phimsexviet101.com^
 ||phimsexviet102.com^
@@ -47709,7 +47689,6 @@
 ||phimsexviet70.com^
 ||phimsexviet789.com^
 ||phimsexviet8.com^
-||phimsexviet81.com^
 ||phimsexviet85.com^
 ||phimsexvietav.com^
 ||phimsexviethay18.com^
@@ -47725,6 +47704,7 @@
 ||phimsexviethay30.com^
 ||phimsexviethay31.com^
 ||phimsexviethay32.com^
+||phimsexviethay33.com^
 ||phimsexviethd.xyz^
 ||phimsexvietjnam.com^
 ||phimsexvietnam.org^
@@ -47780,7 +47760,6 @@
 ||phimsexvn.online^
 ||phimsexvn.site^
 ||phimsexvn1.blog^
-||phimsexvn2.blog^
 ||phimsexvn2024.com^
 ||phimsexvn6.com^
 ||phimsexvn7.com^
@@ -47799,7 +47778,6 @@
 ||phimsexxdit.com^
 ||phimsexxhay.com^
 ||phimsexxvndit.com^
-||phimsexxx.blog^
 ||phimsexxx.info^
 ||phimsexxx.one^
 ||phimsexxx.pro^
@@ -47883,7 +47861,6 @@
 ||photosensex.xyz^
 ||photosex.biz^
 ||photosexx.ru^
-||photosexygirls.com^
 ||photoshoot.party^
 ||photoshooting.party^
 ||photosteen.com^
@@ -48212,7 +48189,6 @@
 ||pixxx.cfd^
 ||pixxxels.cc^
 ||pixxxle.com^
-||pixxybetxxx.com^
 ||pixyland.org^
 ||piyagupta.com^
 ||piyarathore.com^
@@ -48357,7 +48333,6 @@
 ||playdirtyracing.com^
 ||playduction.com^
 ||playermen.com^
-||playersexp.com^
 ||playerxxx.com^
 ||playescort.com^
 ||playfetish.com^
@@ -48806,6 +48781,7 @@
 ||porn-planet.org^
 ||porn-plus.com^
 ||porn-porn3333333.tokyo^
+||porn-porno-sex-sexe-xxx-chudai-jav-bokep.site^
 ||porn-pro-pills-pro24.eu^
 ||porn-roulette.store^
 ||porn-rune.xyz^
@@ -48938,14 +48914,10 @@
 ||porn365.app^
 ||porn365.group^
 ||porn365.icu^
+||porn365.org^
 ||porn365.video^
 ||porn365tr.homes^
 ||porn365tr.lat^
-||porn369-l286.com^
-||porn369-l287.com^
-||porn369-l288.com^
-||porn369-l289.com^
-||porn369-l290.com^
 ||porn369-l291.com^
 ||porn369-l292.com^
 ||porn369-l293.com^
@@ -49023,6 +48995,8 @@
 ||porn369-l366.com^
 ||porn369-l367.com^
 ||porn369-l368.com^
+||porn369-l369.com^
+||porn369-l370.com^
 ||porn3dx.com^
 ||porn3g.com^
 ||porn3x.click^
@@ -49115,6 +49089,7 @@
 ||pornach.com^
 ||pornach.xyz^
 ||pornachi.com^
+||pornacle.com^
 ||pornactresses.store^
 ||pornada.xyz^
 ||pornaddict.beauty^
@@ -49208,7 +49183,6 @@
 ||pornarb.xyz^
 ||pornarch.com^
 ||pornarchive.top^
-||pornarena.site^
 ||pornaries.click^
 ||pornarkham.xyz^
 ||pornarmy.net^
@@ -49456,6 +49430,7 @@
 ||pornclit.com^
 ||pornclops.com^
 ||porncloud.click^
+||porncloud.net^
 ||pornclover.xyz^
 ||pornclub.click^
 ||pornclub.com^
@@ -49516,6 +49491,7 @@
 ||porncoven.org^
 ||porncozy.click^
 ||porncr2.ink^
+||porncrackers.com^
 ||porncrafty.com^
 ||porncrag.com^
 ||porncrash.net^
@@ -49670,6 +49646,7 @@
 ||porndw.com^
 ||porndydx.xyz^
 ||porndynamic.website^
+||porne.xyz^
 ||porneagle.click^
 ||porneastern.com^
 ||pornebo.org^
@@ -50026,6 +50003,7 @@
 ||porngri.com^
 ||porngrill.com^
 ||porngrip.com^
+||porngroupsex.com^
 ||porngroupslinks.com^
 ||porngrove.xyz^
 ||porngrow.click^
@@ -50034,6 +50012,7 @@
 ||pornguard.biz^
 ||porngub.com^
 ||pornguitox.com^
+||porngun.mobi^
 ||porngun.net^
 ||porngur.com^
 ||porngust.click^
@@ -50064,7 +50043,6 @@
 ||pornhat.com^
 ||pornhat.lat^
 ||pornhat.link^
-||pornhat.lol^
 ||pornhat.mobi^
 ||pornhat.one^
 ||pornhat.online^
@@ -50137,7 +50115,6 @@
 ||pornhentai3d.com^
 ||pornhetero.com^
 ||pornhex.com^
-||pornhex.party^
 ||pornhhubb.com^
 ||pornhib.com^
 ||pornhib.xyz^
@@ -50228,7 +50205,6 @@
 ||pornhubapparel.com^
 ||pornhubb.us^
 ||pornhubba.com^
-||pornhubconejas.com^
 ||pornhubcontact.space^
 ||pornhubdeutsch.org^
 ||pornhubdownloader.io^
@@ -50261,6 +50237,7 @@
 ||pornhubrecords.com^
 ||pornhubrough.com^
 ||pornhubru.co^
+||pornhubs.live^
 ||pornhubs.page^
 ||pornhubs.video^
 ||pornhubs.vip^
@@ -50303,6 +50280,7 @@
 ||pornhwa.top^
 ||pornhwa18.com^
 ||pornhwaz.com^
+||pornhwt.com^
 ||pornhxo.com^
 ||pornhydra.xyz^
 ||pornhype.top^
@@ -50369,7 +50347,6 @@
 ||pornindiaxxx.com^
 ||pornindirizle.space^
 ||pornindo.org^
-||pornindo.xyz^
 ||pornindonesia.org^
 ||pornindostry.space^
 ||porninference.xyz^
@@ -50833,7 +50810,6 @@
 ||pornnungxxx.me^
 ||porno.baby^
 ||porno.berlin^
-||porno.bike^
 ||porno.camera^
 ||porno.ceo^
 ||porno.com^
@@ -51097,7 +51073,6 @@
 ||porno18.mobi^
 ||porno18.site^
 ||porno1izle.website^
-||porno2.gay^
 ||porno2.video^
 ||porno200.com^
 ||porno2000.sbs^
@@ -51281,7 +51256,6 @@
 ||pornoanne.com^
 ||pornoanonimo.com^
 ||pornoanswers.com^
-||pornoaovivo.blog^
 ||pornoar.com^
 ||pornoaria.com^
 ||pornoaria3.lat^
@@ -51392,6 +51366,7 @@
 ||pornocara.com^
 ||pornocarioc.com^
 ||pornocarioca.com^
+||pornocarioca.net^
 ||pornocarioca.vip^
 ||pornocarioca-cdn.top^
 ||pornocariocapremium.com^
@@ -51425,6 +51400,7 @@
 ||pornochika.com^
 ||pornochika.net^
 ||pornochilenogratis.com^
+||pornocibo.com^
 ||pornocina.com^
 ||pornocina.net^
 ||pornocina.org^
@@ -51438,6 +51414,7 @@
 ||pornoclub.space^
 ||pornoclubs2.store^
 ||pornocn.store^
+||pornocnsssiiki2.cfd^
 ||pornocoffee.com^
 ||pornocomics.net^
 ||pornocomix.space^
@@ -51445,9 +51422,6 @@
 ||pornocomlegenda.pro^
 ||pornocompare.com^
 ||pornocook.click^
-||pornocopia.live^
-||pornocopia.net^
-||pornocopia.shop^
 ||pornocorno.net^
 ||pornocost.click^
 ||pornocu.net^
@@ -51714,7 +51688,6 @@
 ||pornohd.blue^
 ||pornohd.boats^
 ||pornohd.bond^
-||pornohd.cfd^
 ||pornohd.cyou^
 ||pornohd.fit^
 ||pornohd.gay^
@@ -51749,7 +51722,6 @@
 ||pornohikaye.run^
 ||pornohikayeler.site^
 ||pornohirsch.net^
-||pornohirschlive.com^
 ||pornohlam.com^
 ||pornohob.store^
 ||pornohobot.com^
@@ -51799,6 +51771,7 @@
 ||pornoise.com^
 ||pornoitaliano.com^
 ||pornoivan.com^
+||pornoizi.link^
 ||pornoizi.net^
 ||pornoizle.net^
 ||pornoizle.rest^
@@ -51857,6 +51830,7 @@
 ||pornokaef.vip^
 ||pornokanallari.space^
 ||pornokarhu.net^
+||pornokasicka.com^
 ||pornokasicka.cz^
 ||pornokauppa.fi^
 ||pornokavkaz.ru^
@@ -51935,7 +51909,6 @@
 ||pornolevel.art^
 ||pornoli.net^
 ||pornoliana.com^
-||pornoliana1.lat^
 ||pornolien.com^
 ||pornolienx.com^
 ||pornolike.space^
@@ -51975,7 +51948,6 @@
 ||pornolovers.com^
 ||pornolunch.com^
 ||pornolup.com^
-||pornolupa.com^
 ||pornolux.pro^
 ||pornoluxury.pro^
 ||pornoluz.com^
@@ -51998,6 +51970,7 @@
 ||pornomanga.net^
 ||pornomania.nl^
 ||pornomaniac.fr^
+||pornomaniacs.com^
 ||pornomanoir.com^
 ||pornomarket.store^
 ||pornomarket1.store^
@@ -52160,6 +52133,7 @@
 ||pornoplius.site^
 ||pornoplus.fr^
 ||pornopne.com^
+||pornopo.com^
 ||pornopomidorno.com^
 ||pornopomidorno.org^
 ||pornopont.org^
@@ -52221,6 +52195,7 @@
 ||pornorino.click^
 ||pornorips.to^
 ||pornoritze.com^
+||pornork.com^
 ||pornorn.xyz^
 ||pornorodina.com^
 ||pornorok.com^
@@ -52533,7 +52508,6 @@
 ||pornovip.gratis^
 ||pornovita.com^
 ||pornovitube.com^
-||pornovix.com^
 ||pornovoisines.com^
 ||pornovolk.bet^
 ||pornovolk.lat^
@@ -52551,7 +52525,6 @@
 ||pornovuku.info^
 ||pornovum.store^
 ||pornow.space^
-||pornow.xyz^
 ||pornowalk.pro^
 ||pornowalls.com^
 ||pornowap.mobi^
@@ -52624,6 +52597,7 @@
 ||pornoyozhik.tv^
 ||pornoytka.com^
 ||pornoyukle.sbs^
+||pornoz.net^
 ||pornoza.com^
 ||pornoza.lol^
 ||pornoza.net^
@@ -52633,9 +52607,7 @@
 ||pornozak.org^
 ||pornozak.tech^
 ||pornozak.vip^
-||pornozak.xyz^
 ||pornozakladka.com^
-||pornozalupa.net^
 ||pornozalupa.online^
 ||pornozao.website^
 ||pornozavod.cc^
@@ -52750,6 +52722,7 @@
 ||pornpics-sex.com^
 ||pornpics18.com^
 ||pornpics2.com^
+||pornpics3.com^
 ||pornpicsamateur.com^
 ||pornpicsblack.com^
 ||pornpicshd.com^
@@ -52762,7 +52735,6 @@
 ||pornpids.com^
 ||pornpifs.com^
 ||pornpig.tube^
-||pornpile.com^
 ||pornpimonmongkol.com^
 ||pornpink.click^
 ||pornpinoy.com^
@@ -52779,7 +52751,6 @@
 ||pornplayvideos.com^
 ||pornplaywatch.com^
 ||pornploy.com^
-||pornplunge.asia^
 ||pornplus.click^
 ||pornplus.com^
 ||pornpo.com^
@@ -52811,7 +52782,6 @@
 ||pornpreppers.com^
 ||pornpreventionproject.net^
 ||pornpreviewtube.store^
-||pornprivate1.com^
 ||pornpro.com^
 ||pornpro.live^
 ||pornpro.online^
@@ -53002,6 +52972,7 @@
 ||pornshorts.xyz^
 ||pornshow.store^
 ||pornshub.de^
+||pornshubs.com^
 ||pornshubvid.com^
 ||pornshubvid.info^
 ||pornshubvid.link^
@@ -53126,6 +53097,7 @@
 ||pornstarnudes.com^
 ||pornstarpic.net^
 ||pornstarpics.xyz^
+||pornstarpictures.com^
 ||pornstarplatinum.com^
 ||pornstarplatinum.store^
 ||pornstarporntrends.com^
@@ -53165,7 +53137,6 @@
 ||pornstop.org^
 ||pornstorj.xyz^
 ||pornstorm.wtf^
-||pornstory.website^
 ||pornstpt.xyz^
 ||pornstrapping.com^
 ||pornstrax.xyz^
@@ -53240,6 +53211,7 @@
 ||pornthb.xyz^
 ||pornthemes.store^
 ||porntheta.xyz^
+||pornthick.com^
 ||pornthin.click^
 ||pornthis.com^
 ||pornthot.com^
@@ -53264,7 +53236,6 @@
 ||porntogo.app^
 ||porntohard.com^
 ||porntok.cam^
-||porntok.live^
 ||porntok.org^
 ||porntok.xyz^
 ||porntoktok.online^
@@ -53284,10 +53255,10 @@
 ||porntotal.com^
 ||porntoube.com^
 ||porntourist.com^
+||porntourist.top^
 ||porntown.store^
 ||porntownx.com^
 ||porntracker.website^
-||porntrad.com^
 ||porntraits.store^
 ||porntrannies.com^
 ||porntrb.xyz^
@@ -53336,6 +53307,7 @@
 ||porntube4k.net^
 ||porntube4u.com^
 ||porntube99.com^
+||porntubeai.com^
 ||porntubecom.info^
 ||porntubecorp.com^
 ||porntubedaily.com^
@@ -53499,6 +53471,7 @@
 ||pornvideos1.com^
 ||pornvideos4k.com^
 ||pornvideos7.com^
+||pornvideos73cn.com^
 ||pornvideosat.com^
 ||pornvideosbest.com^
 ||pornvideosbox.cc^
@@ -53537,7 +53510,6 @@
 ||pornvidx.com^
 ||pornvidxn.site^
 ||pornvidz.space^
-||pornviet123.com^
 ||pornview.org^
 ||pornvine.site^
 ||pornviola.com^
@@ -53570,7 +53542,6 @@
 ||pornwaifu.io^
 ||pornwaifu-io.com^
 ||pornwaiter.com^
-||pornwake.com^
 ||pornwali.com^
 ||pornwali.info^
 ||pornwali.net^
@@ -53628,6 +53599,7 @@
 ||pornworks.ai^
 ||pornworks.com^
 ||pornworksai.com^
+||pornworksai.pro^
 ||pornworksaiporn.com^
 ||pornworld.com^
 ||pornworld.shop^
@@ -53661,7 +53633,6 @@
 ||pornxab.win^
 ||pornxaiporn.com^
 ||pornxbit.com^
-||pornxcape.com^
 ||pornxday.com^
 ||pornxec.xyz^
 ||pornxem.xyz^
@@ -53762,6 +53733,7 @@
 ||pornxxxgay.top^
 ||pornxxxhq.com^
 ||pornxxxism.com^
+||pornxxxmovs.com^
 ||pornxxxporn.com^
 ||pornxxxthai.com^
 ||pornxxxtube.org^
@@ -53941,6 +53913,7 @@
 ||best-sexller.pp.ua^
 ||pokerhumor.pp.ua^
 ||sexai.pp.ua^
+||sexy-girls-wallpapers.pp.ua^
 ||pp39.cn^
 ||ppaaa.top^
 ||ppdde.top^
@@ -54045,6 +54018,7 @@
 ||presensex.xyz^
 ||presex.xyz^
 ||presexful.com^
+||pressexclusivemedia.com^
 ||pressexinc.com^
 ||pressextract.com^
 ||pressextracts.com^
@@ -54239,6 +54213,7 @@
 ||prn-russia.top^
 ||prncams.com^
 ||prndot.com^
+||prnewsexclusive.com^
 ||prnfap.com^
 ||prnhub.it^
 ||prnteen.com^
@@ -54256,7 +54231,6 @@
 ||processnet.hu^
 ||procurandosexo.com^
 ||productosextranjeros.site^
-||produtosexpressdigitaisdrialeg.com^
 ||produtosexpresskids.com^
 ||produtosexpressos.online^
 ||produtosexpressparavoce.com^
@@ -54294,7 +54268,6 @@
 ||projectsexpo.com^
 ||projectundermask.com^
 ||projectvoyeur.com^
-||projectxxx.link^
 ||prokomm.hu^
 ||prokopevsk-sex24.ru^
 ||proleadsexpert-agent.com^
@@ -54305,7 +54278,6 @@
 ||promilf.com^
 ||promilfporn.com^
 ||promisexpedition.com^
-||promocionesexitosanuevoprogresosm.com^
 ||promoproductosexpress.online^
 ||promotehomosexuality.com^
 ||promoversdubai.com^
@@ -54421,30 +54393,22 @@
 ||prostitutki-moskvy.eu^
 ||prostitutki-msk.com^
 ||prostitutki-na-vyezd.com^
-||prostitutki-tomsk.org^
 ||prostitutki-vidnoe.com^
 ||prostitutki-vladivostoka.mobi^
 ||prostitutki-xxx.com^
 ||prostitutki24.casa^
 ||prostitutki24.fit^
 ||prostitutkicasa.com^
-||prostitutkichita.info^
 ||prostitutkifoto.com^
 ||prostitutkigorodamoskvy.pro^
 ||prostitutkihelp.com^
 ||prostitutkikaliningradatake.info^
 ||prostitutkikieva.biz^
 ||prostitutkikrasnoyarskasexy.com^
-||prostitutkikurskasex.info^
 ||prostitutkimoskvy24.men^
 ||prostitutkimoskvycity.com^
 ||prostitutkimoskvycity.info^
-||prostitutkinaberezhnyechelnytop.info^
-||prostitutkinizhnevartovskasex.info^
 ||prostitutkinovosibirskasexy.com^
-||prostitutkiomskashe.info^
-||prostitutkiorenburga.pro^
-||prostitutkipenzygid.info^
 ||prostitutkipitera.org^
 ||prostitutkirest.com^
 ||prostitutkirest.net^
@@ -54499,6 +54463,7 @@
 ||proverxxx.xyz^
 ||provide.sex^
 ||provideosex.com^
+||provincesuspiciousexcept.cfd^
 ||provisotownshipwellnessexpo.com^
 ||provocah.com^
 ||provocami.com^
@@ -54517,6 +54482,7 @@
 ||proyectosexmaforo.com^
 ||proyectosexpress.site^
 ||prsex.net^
+||prsnewsexclusive.com^
 ||prtoper.top^
 ||pruc.org^
 ||pruclaimsexternaltest.com^
@@ -54539,6 +54505,7 @@
 ||psiguysexteriorservices.com^
 ||psiguysexteriorwash.com^
 ||psikologaycagul.com^
+||psikologaysecebeci.com^
 ||psikologayseozata.com^
 ||psikologaysucevik.com^
 ||pskov-sex24.ru^
@@ -54735,6 +54702,8 @@
 ||puppyslut.dev^
 ||puppyslut.fail^
 ||puppyslut.xyz^
+||puratentacionsex.com^
+||puratentacionsex.org^
 ||puratentacionsex.shop^
 ||pure-bbw.com^
 ||pure-sexdoll.com^
@@ -54765,7 +54734,6 @@
 ||puretabooporn.com^
 ||puretaboopornvideos.com^
 ||puretantricmassage.com^
-||purexporn.com^
 ||purexxxhub.com^
 ||purfectpussy.com^
 ||purge.xxx^
@@ -55023,7 +54991,6 @@
 ||queenlover.co^
 ||queenofdehradun.com^
 ||queenofthemilfpit.com^
-||queenporncams.com^
 ||queensland.com^
 ||queensnake.com^
 ||queensofislamabad.online^
@@ -55154,6 +55121,7 @@
 ||ragazzasesso.com^
 ||ragazzeinvendita.com^
 ||ragemiami.com^
+||rageroo-celeb-movies.com^
 ||ragesex.com^
 ||ragingbisexual.com^
 ||ragingstallion.com^
@@ -55356,6 +55324,7 @@
 ||rawattack.com^
 ||rawbanging.com^
 ||rawboobsthumbs.com^
+||rawcouples.com^
 ||rawdex.net^
 ||rawerotic.com^
 ||rawfreaks.com^
@@ -55377,6 +55346,7 @@
 ||rawstudios.com^
 ||rawxxx.store^
 ||rawz.xxx^
+||raxxx.info^
 ||raxxxwill.com^
 ||rayhughesgallery.com^
 ||raynefallsextra.com^
@@ -55434,7 +55404,6 @@
 ||readysetcam.com^
 ||reagansherlock.gay^
 ||real-amateurs.com^
-||real-farm-sex.com^
 ||real-girls.net^
 ||real-sexcontacts.com^
 ||real-zoo-sex.club^
@@ -55488,6 +55457,7 @@
 ||realityjunkies.com^
 ||realitykings.com^
 ||realitylovers.com^
+||realitymature.com^
 ||realitysitesnetwork.com^
 ||realitysluts.com^
 ||realitywanted.com^
@@ -55511,7 +55481,6 @@
 ||realnakedgirls.net^
 ||realnarutoporngames.com^
 ||realnovice.com^
-||realnudegirls.com^
 ||realporn.top^
 ||realpornblogger.com^
 ||realpornclip.com^
@@ -55614,6 +55583,7 @@
 ||redclouds.com^
 ||redd.tube^
 ||reddefagot.nl^
+||reddillingerxxx.club^
 ||reddit.tube^
 ||reddit-doesnt-like-this.site^
 ||redditearthporn.space^
@@ -55732,6 +55702,7 @@
 ||redwap-xxx.com^
 ||redwap2.com^
 ||redwap3.com^
+||redwoodadolescentandyoungadultservices.com^
 ||redxnxxtube.video^
 ||redxxxtube.pro^
 ||redzootube.club^
@@ -55933,7 +55904,6 @@
 ||reservation-jour.com^
 ||reservations-jour.com^
 ||reservebarangaylawacoveredcourt.site^
-||resetsex.site^
 ||resexchange.xyz^
 ||reshmakhan.in^
 ||reshmigupta.com^
@@ -56019,9 +55989,10 @@
 ||rezyisgay.space^
 ||rf.gd^
 ||rgayman.com^
+||rgayman.net^
 ||rgcams.com^
+||rgr42.ru^
 ||rgsex.com^
-||rhbsexc624.vip^
 ||rheinz.online^
 ||rhesexcavate.com^
 ||rhinoscougars.com^
@@ -56081,6 +56052,7 @@
 ||rim4k.com^
 ||rimfetishworld.com^
 ||rimming.top^
+||rimsex.com^
 ||rimsgay.com^
 ||rin.gay^
 ||rindelvaxon.gay^
@@ -56105,7 +56077,6 @@
 ||ripegirls.com^
 ||ripemom.com^
 ||ripis.gay^
-||ripornasskrack.se^
 ||riptammyangelxxx.net^
 ||risex.agency^
 ||risex10xreup.com^
@@ -56125,7 +56096,6 @@
 ||rishusarao.com^
 ||risksexperts.com^
 ||rispermutinda.org^
-||risquemilf.com^
 ||risquesluts.com^
 ||risquesoiree.com^
 ||ritaescortsdelhi.com^
@@ -56188,6 +56158,7 @@
 ||rlcporn.xyz^
 ||rlcsex.xyz^
 ||rlcxxx.xyz^
+||rlxxxhqp8g9-5d5l.top^
 ||rm40k.com^
 ||rmcbfmplay.com^
 ||rmhhge.mom^
@@ -56203,7 +56174,6 @@
 ||ro89.com^
 ||roadpornvideo.com^
 ||roadsexe.com^
-||roamingwheelsexpress.org^
 ||robbomills.net^
 ||robbyporn.com^
 ||robertsride.gay^
@@ -56250,7 +56220,6 @@
 ||rodion.gay^
 ||rodrigolascivo.com^
 ||roemerforum.com^
-||rogalandbdsm.net^
 ||rogreviews.com^
 ||roguesinparadise.com^
 ||rohama.org^
@@ -56427,6 +56396,7 @@
 ||royalsignatureunisexsalon.in^
 ||royaltyofolympusxxx.site^
 ||royalunisexsaloon.com^
+||royalvillasexteriors.com^
 ||royalvvip.in^
 ||rozlynbangaloreescorts.com^
 ||rozymumbai.com^
@@ -56442,6 +56412,7 @@
 ||rsexideamaronbatteryhouse.info^
 ||rsexideamaronbatteryhouse.online^
 ||rseximsolutions.com^
+||rsexkj.sbs^
 ||rsexportschina.com^
 ||rsexpress51.fr^
 ||rsgan.com^
@@ -56487,6 +56458,7 @@
 ||rubbernurse.com^
 ||rubberthumbs.com^
 ||rubeenarussianescorts.com^
+||rubepornstars.com^
 ||rubias19.com^
 ||rubias19.red^
 ||rubias19.tv^
@@ -56571,7 +56543,6 @@
 ||rule34video.io^
 ||rule34video.party^
 ||rule34x.net^
-||rule34xxx.lol^
 ||ruleporn.com^
 ||rulertube.com^
 ||rules34.ru^
@@ -56766,7 +56737,6 @@
 ||russkoeporno369.zip^
 ||russkoepornovideos.com^
 ||russkoepornovideos.fans^
-||russkoepornovideos.org^
 ||russmature.mobi^
 ||russmus.net^
 ||russoporno.com^
@@ -56811,7 +56781,7 @@
 ||rxcszxxx.cn^
 ||rxforconfidence.com^
 ||rxsexbot.com^
-||rxxx53.top^
+||rxwp.ru^
 ||rxxx54.top^
 ||rxxx55.top^
 ||rxxx56.top^
@@ -56830,6 +56800,7 @@
 ||ryusyutsuzousan.jp^
 ||ryuugames.com^
 ||rzgayy.com^
+||s-bench.ru^
 ||s-forum.biz^
 ||s-info.ru^
 ||s-royal.de^
@@ -56871,7 +56842,6 @@
 ||sacredandsexy.org^
 ||sacrederotica.com^
 ||sacrederoticdance.com^
-||sacredgaya.com^
 ||sacredsex.academy^
 ||sacredsexcoach.com^
 ||sacredxxx.com^
@@ -56966,7 +56936,6 @@
 ||salenavolge.ru^
 ||salentosex.com^
 ||salescaxxxxglobal.com^
-||salesex.co^
 ||salesexpansionguide.com^
 ||salesexpension.com^
 ||salesexperience.es^
@@ -57027,6 +56996,7 @@
 ||samsunescorthot.com^
 ||samsunescortplus.com^
 ||samsungayrimenkul.com^
+||samsunluescort.pro^
 ||samurai15.com^
 ||samusar.com^
 ||samvbolgariu.ru^
@@ -57049,6 +57019,7 @@
 ||sandiegoescortsxx.com^
 ||sandionswinging.com^
 ||sandrachang.net^
+||sandrahomesexpert.com^
 ||sandsexpeditions.com^
 ||sandypawsexpress.com^
 ||sanedistram.com^
@@ -57136,6 +57107,7 @@
 ||sarvelonquido.gay^
 ||sarxxx.xyz^
 ||sasaav.com^
+||sasakitoso-kumagaya.com^
 ||sashagrey.com^
 ||sasisa.org^
 ||sasociety.in^
@@ -57143,7 +57115,6 @@
 ||sassex.com^
 ||sassysexyskimpylingerie.com^
 ||sassyvixenpublishing.com^
-||satanicsex.com^
 ||satannet.com^
 ||satingirlslive.com^
 ||satinminions.com^
@@ -57160,6 +57131,7 @@
 ||satta-result.org^
 ||sattakingjodi.com^
 ||sattakingreal.com^
+||saturnosexshop.com^
 ||saturntube.com^
 ||saucedxxx.com^
 ||saucemanhwa.com^
@@ -57206,6 +57178,7 @@
 ||says.gay^
 ||sayuncle.com^
 ||sayuncle.us^
+||sayurisexshop.com^
 ||sazzyleevarga.com^
 ||sb-cd.com^
 ||sb-lingayen.com^
@@ -57377,7 +57350,6 @@
 ||sdescort.com^
 ||sdgateway.net^
 ||sdgayrimenkul.com^
-||sdkidsexpo.com^
 ||sdlandscapingsussex.com^
 ||sdloveone.com^
 ||sdlygayy.com^
@@ -57421,6 +57393,7 @@
 ||seasonsexpedition.com^
 ||seasonsexpresscleaning.com^
 ||seatsexpress.org^
+||seattlegaydads.com^
 ||sebastikoratas.gay^
 ||sebokep.com^
 ||secme.net^
@@ -57678,7 +57651,6 @@
 ||seniorhookupsites.net^
 ||senioriflirtti.com^
 ||seniornext.com^
-||seniorsexceed.com^
 ||seniorsexpartner.com^
 ||seniorsizzle.com^
 ||seniorvistaadultdaycare.com^
@@ -57952,12 +57924,12 @@
 ||servicesexpertllc.tech^
 ||servicesexpress.net^
 ||servicesexterieursak.ca^
-||servicesexternes.fr^
 ||servicesparisexpresscom.com^
 ||servicioseroticos.com^
 ||serviciosexclusivosonline.com^
 ||serviciosexequialessanmiguel.com^
 ||serviciosexpresspendentes.com^
+||serviciosextranjeria.com^
 ||servicosexpress.lat^
 ||servicosexpresso.site^
 ||servicosexpresss.site^
@@ -58111,6 +58083,7 @@
 ||sex-fashion.com^
 ||sex-ferma.ru^
 ||sex-film.biz^
+||sex-finder.info^
 ||sex-fm.wtf^
 ||sex-for-work.com^
 ||sex-foto.fans^
@@ -58124,6 +58097,7 @@
 ||sex-games.online^
 ||sex-gg.cc^
 ||sex-girls-tube.com^
+||sex-gorod.one^
 ||sex-gorod.top^
 ||sex-hay.net^
 ||sex-hd.info^
@@ -58140,7 +58114,6 @@
 ||sex-hub-kharkov.top^
 ||sex-hub-kyiv.top^
 ||sex-hunter.net^
-||sex-i.ch^
 ||sex-in.com^
 ||sex-indi.com^
 ||sex-inside.ru^
@@ -58376,7 +58349,6 @@
 ||sex18.photos^
 ||sex18.website^
 ||sex18babes.com^
-||sex18plus0.com^
 ||sex18toy.com^
 ||sex19.org^
 ||sex1arab.com^
@@ -58399,6 +58371,7 @@
 ||sex28.org^
 ||sex290.com^
 ||sex2fun.com^
+||sex2k.org^
 ||sex2mobile.be^
 ||sex2nite.com^
 ||sex2tranny.com^
@@ -58446,7 +58419,6 @@
 ||sex695.com^
 ||sex697.com^
 ||sex698.com^
-||sex69s.blog^
 ||sex69x.lol^
 ||sex6x.com^
 ||sex71.vip^
@@ -58502,9 +58474,9 @@
 ||sexaffnet.com^
 ||sexaflam.com^
 ||sexagenarian.xyz^
-||sexagent.io^
 ||sexages.com^
 ||sexagix.xyz^
+||sexagloorgoaph.net^
 ||sexahop.com^
 ||sexai-en.com^
 ||sexaiagents.com^
@@ -58567,7 +58539,9 @@
 ||sexandthesea.shop^
 ||sexandthesea.store^
 ||sexandthesouthernbelle.com^
+||sexanft.in^
 ||sexangels.ru^
+||sexanimalporn.site^
 ||sexanimalvideos.com^
 ||sexanime.club^
 ||sexanime.cyou^
@@ -58595,7 +58569,6 @@
 ||sexappeal.pl^
 ||sexappeal.shop^
 ||sexapply.com^
-||sexapptinder.website^
 ||sexapt.xyz^
 ||sexaptos.xyz^
 ||sexapulo.world^
@@ -58878,12 +58851,12 @@
 ||sexbule.xxx^
 ||sexbulon.com^
 ||sexbunk.com^
-||sexbuom.live^
 ||sexburg.com^
 ||sexburger.com^
 ||sexburger.xyz^
 ||sexbw.net^
 ||sexbz110.com^
+||sexbzh.com^
 ||sexc.boats^
 ||sexc.org^
 ||sexc.us^
@@ -58912,6 +58885,7 @@
 ||sexcamdb.com^
 ||sexcamera.xyz^
 ||sexcameralive.com^
+||sexcamfk.com^
 ||sexcamgenot.nl^
 ||sexcamhub.org^
 ||sexcamly.com^
@@ -58919,7 +58893,6 @@
 ||sexcamnow.com^
 ||sexcamplanet.com^
 ||sexcamplezier.nl^
-||sexcamprivat.com^
 ||sexcamradar.com^
 ||sexcamrecords.com^
 ||sexcams.club^
@@ -58963,6 +58936,7 @@
 ||sexcells.org^
 ||sexcelo.xyz^
 ||sexcelr.xyz^
+||sexceo.com^
 ||sexcessafter45.com^
 ||sexcet.xyz^
 ||sexcfx.xyz^
@@ -59017,7 +58991,6 @@
 ||sexchina.lol^
 ||sexchina.one^
 ||sexchina.us^
-||sexchina1.blog^
 ||sexchinaav.me^
 ||sexchinaav.net^
 ||sexchinaav.vip^
@@ -59037,6 +59010,7 @@
 ||sexcitizenship.com^
 ||sexcity.su^
 ||sexcityguide.com^
+||sexck.info^
 ||sexcleaner.xyz^
 ||sexclip.click^
 ||sexclip.network^
@@ -59044,14 +59018,12 @@
 ||sexcliphotvn.com^
 ||sexclips.ai^
 ||sexclips.asia^
-||sexclips.click^
 ||sexclips.mobi^
 ||sexclipshd.com^
 ||sexclose.com^
 ||sexclover.xyz^
 ||sexclubme.com^
 ||sexclue.com^
-||sexclup.com^
 ||sexclusivitaeten.de^
 ||sexclv.xyz^
 ||sexcoach.berlin^
@@ -59120,7 +59092,6 @@
 ||sexdate.services^
 ||sexdate69.com^
 ||sexdateclub.com^
-||sexdategirls.org^
 ||sexdatematch.nl^
 ||sexdates.click^
 ||sexdates7.club^
@@ -59341,6 +59312,7 @@
 ||sexeia.fr^
 ||sexeintime.com^
 ||sexeirani.com^
+||sexejumaj.pro^
 ||sexelarab.com^
 ||sexelemans.eu^
 ||sexelf.xyz^
@@ -59533,6 +59505,7 @@
 ||sexgameforcouple.app^
 ||sexgameforcouples.com^
 ||sexgames.cc^
+||sexgames.cyou^
 ||sexgames.xxx^
 ||sexgamescc.com^
 ||sexgamesfree.site^
@@ -59700,7 +59673,6 @@
 ||sexhelp.ai^
 ||sexhelper.info^
 ||sexhen.com^
-||sexhentaii.blog^
 ||sexhentaisieunhan.com^
 ||sexhentaivl.com^
 ||sexhentaix.com^
@@ -59773,13 +59745,13 @@
 ||sexhot.blog^
 ||sexhot.club^
 ||sexhot.top^
-||sexhotgirl123.com^
 ||sexhottest.com^
 ||sexhoundlinks.com^
 ||sexhouse.be^
 ||sexhq.com^
 ||sexhq.me^
 ||sexhqmov.com^
+||sexhqmovies.com^
 ||sexhqporno.com^
 ||sexhqvideo.com^
 ||sexhub.dk^
@@ -59793,7 +59765,6 @@
 ||sexhut.ooo^
 ||sexhydra.xyz^
 ||sexi.beauty^
-||sexi.pics^
 ||sexi.pl^
 ||sexi.pw^
 ||sexi.qpon^
@@ -59802,7 +59773,6 @@
 ||sexi-model.ru^
 ||sexi-time.com^
 ||sexianuncios.com^
-||sexiaohai177.xyz^
 ||sexiaohai178.xyz^
 ||sexiaohai179.xyz^
 ||sexiaohai180.xyz^
@@ -59861,6 +59831,7 @@
 ||sexiluna22.click^
 ||sexiluna22.pro^
 ||sexiluna3.click^
+||sexiluna33.click^
 ||sexiluna43.click^
 ||sexilv.xyz^
 ||seximageband.com^
@@ -59869,7 +59840,6 @@
 ||sexin.berlin^
 ||sexinbook2.top^
 ||sexinchrist.com^
-||sexincolors.link^
 ||sexind.mobi^
 ||sexindianhub.com^
 ||sexindiantube.net^
@@ -59888,6 +59858,7 @@
 ||sexinfo101.com^
 ||sexingdoll.com^
 ||sexinhose.com^
+||sexininnsbruck.com^
 ||sexinj.xyz^
 ||sexinjective.xyz^
 ||sexinour60s.com^
@@ -59924,9 +59895,10 @@
 ||sexisoliduti.sbs^
 ||sexisoul.co^
 ||sexist.lol^
-||sexist.pro^
 ||sexistorii.com^
 ||sexists.homes^
+||sexistt.space^
+||sexit.cc^
 ||sexitoy.xyz^
 ||sexitricko.sk^
 ||sexitubes.com^
@@ -59934,6 +59906,7 @@
 ||sexiwatch.com^
 ||sexiwedding.com^
 ||sexiz.link^
+||sexiz.ru^
 ||sexj.org^
 ||sexj.us^
 ||sexjapan.jp^
@@ -60090,6 +60063,7 @@
 ||sexlclip.com^
 ||sexldo.xyz^
 ||sexleak.cc^
+||sexleakedviral.com^
 ||sexleasing.com^
 ||sexleasing.info^
 ||sexleasing.link^
@@ -60189,7 +60163,6 @@
 ||sexme.io^
 ||sexme.lat^
 ||sexme.lol^
-||sexme.site^
 ||sexmedia.us^
 ||sexmedia.xyz^
 ||sexmeets.uk^
@@ -60261,6 +60234,7 @@
 ||sexmovie.mobi^
 ||sexmovie.news^
 ||sexmoviearea.com^
+||sexmoviegirl.com^
 ||sexmovies.club^
 ||sexmovies.hu^
 ||sexmovies.tube^
@@ -60376,6 +60350,7 @@
 ||sexnoyabrsk.mobi^
 ||sexnrace.com^
 ||sexnrw.com^
+||sexnsexy.com^
 ||sexnsk.cc^
 ||sexnsk.live^
 ||sexnu.pro^
@@ -60435,6 +60410,7 @@
 ||sexoglasi.me^
 ||sexoglasnik.net^
 ||sexogolic.info^
+||sexogpt.com^
 ||sexogratis.app^
 ||sexogratis.blog^
 ||sexogratis.page^
@@ -60526,7 +60502,6 @@
 ||sexonbnb.com^
 ||sexoncamera.xyz^
 ||sexondisco.com^
-||sexondrugz.com^
 ||sexonkz.com^
 ||sexonline.blog^
 ||sexonline.wtf^
@@ -60579,7 +60554,6 @@
 ||sexorenburg.info^
 ||sexorigin.com^
 ||sexorigyn.xyz^
-||sexorion.com^
 ||sexorn.xyz^
 ||sexornextshop.com^
 ||sexoro.com^
@@ -60594,6 +60568,7 @@
 ||sexosinfronteras.com^
 ||sexosintabues30.com^
 ||sexosmosis.xyz^
+||sexosochi.com^
 ||sexosochi.guru^
 ||sexostav.com^
 ||sexosterlitamak.com^
@@ -60630,6 +60605,7 @@
 ||sexpacker.com^
 ||sexpaginas.xyz^
 ||sexpand.com^
+||sexparadise.net^
 ||sexparadise.xyz^
 ||sexparadisestore.com^
 ||sexparsec.xyz^
@@ -60678,6 +60654,7 @@
 ||sexphotos.pw^
 ||sexphude.pro^
 ||sexpic.info^
+||sexpickup.com^
 ||sexpics.me^
 ||sexpics.plus^
 ||sexpics24.com^
@@ -60708,8 +60685,6 @@
 ||sexplex.vip^
 ||sexplex.xyz^
 ||sexplexpremium.com^
-||sexploited.film^
-||sexploited.movie^
 ||sexploited.org^
 ||sexploitedfilm.com^
 ||sexploiting.com^
@@ -60878,6 +60853,7 @@
 ||sexrosa.com^
 ||sexrose.com^
 ||sexrostov.guru^
+||sexrs.top^
 ||sexrsr.xyz^
 ||sexrss.xyz^
 ||sexrsxx.xyz^
@@ -60885,11 +60861,13 @@
 ||sexru.click^
 ||sexruf.com^
 ||sexrufap.com^
+||sexrum.dk^
 ||sexrun.xyz^
 ||sexrura.pl^
 ||sexrush.xyz^
 ||sexrwas.xyz^
 ||sexrzn.guru^
+||sexs.mom^
 ||sexs.one^
 ||sexs-foto.click^
 ||sexs-foto.com^
@@ -60900,7 +60878,6 @@
 ||sexs-xxxl.com^
 ||sexsaas.com^
 ||sexsagar.com^
-||sexsage.com^
 ||sexsakura.xyz^
 ||sexsalami.com^
 ||sexsale.xyz^
@@ -60930,6 +60907,7 @@
 ||sexselector.com^
 ||sexsells.pro^
 ||sexsellstheatregroup.com^
+||sexsencial.com^
 ||sexsensor.xyz^
 ||sexsensuallove.shop^
 ||sexserver.ru^
@@ -60969,7 +60947,7 @@
 ||sexshop-dostavka.su^
 ||sexshop-novosibirsk.ru^
 ||sexshop-online.pl^
-||sexshop1.xyz^
+||sexshop-xl.ru^
 ||sexshop112.pl^
 ||sexshopanimate.com^
 ||sexshopavcilar.com^
@@ -60989,6 +60967,7 @@
 ||sexshopping.site^
 ||sexshopred.com^
 ||sexshoprosario.net^
+||sexshopsensacionlimon.com^
 ||sexshopsex.com^
 ||sexshopsigilo.live^
 ||sexshoptentacion.com^
@@ -61062,6 +61041,7 @@
 ||sexspell.xyz^
 ||sexspex.com^
 ||sexspham.info^
+||sexspielzeug.net^
 ||sexspielzeugladen.com^
 ||sexsplit.com^
 ||sexsponsorki.com^
@@ -61096,8 +61076,8 @@
 ||sexstories69.com^
 ||sexstoriespost.com^
 ||sexstoriestales.site^
+||sexstoriestoys.com^
 ||sexstorj.xyz^
-||sexstory.website^
 ||sexstoryinhindi.in^
 ||sexstoryking.com^
 ||sexstpt.xyz^
@@ -61192,7 +61172,6 @@
 ||sextathanhnhi.com^
 ||sextaticdance.com^
 ||sextay.net^
-||sextb.bet^
 ||sextb.date^
 ||sextb.live^
 ||sextb.net^
@@ -61437,7 +61416,6 @@
 ||sextoydreamfactory.com^
 ||sextoydynasty.com^
 ||sextoyfundepot.com^
-||sextoygalaxy.com^
 ||sextoygardenia.com^
 ||sextoyget.com^
 ||sextoygetting.com^
@@ -61624,7 +61602,6 @@
 ||sexual.show^
 ||sexual.toys^
 ||sexual-pain.com^
-||sexual-steam-generator-for-skesh-guaton-culiao.store^
 ||sexualabuse.news^
 ||sexualabuse.world^
 ||sexualabuse911.com^
@@ -61678,7 +61655,6 @@
 ||sexualhealing.store^
 ||sexualhealthcentre.world^
 ||sexualhealthdoc.online^
-||sexualhealthover40.com^
 ||sexualhealthreferrals.info^
 ||sexualhealthreferrals.net^
 ||sexualhealthreferrals.org^
@@ -61758,6 +61734,7 @@
 ||sexufa.red^
 ||sexug.com^
 ||sexugrinxck.info^
+||sexuhedywu.pro^
 ||sexuk.xyz^
 ||sexultra.com^
 ||sexuma.xyz^
@@ -61823,12 +61800,12 @@
 ||sexvideo.one^
 ||sexvideo.rodeo^
 ||sexvideo.shop^
+||sexvideo.tech^
 ||sexvideo.wtf^
 ||sexvideo10.com^
 ||sexvideo111.pro^
 ||sexvideo12.com^
 ||sexvideo24.com^
-||sexvideo4u.lol^
 ||sexvideochat.cam^
 ||sexvideohd.vip^
 ||sexvideos.best^
@@ -61842,6 +61819,7 @@
 ||sexvideos-gratis.com^
 ||sexvideos-hd.com^
 ||sexvideos-japanese.com^
+||sexvideos-matome.com^
 ||sexvideos-xxx.net^
 ||sexvideos2.net^
 ||sexvideosclip.com^
@@ -61956,7 +61934,6 @@
 ||sexvietsub.vip^
 ||sexvietsub.work^
 ||sexvietsub11.com^
-||sexvietsub2.blog^
 ||sexvietsub22.com^
 ||sexvietsub3s.com^
 ||sexvietsub5.com^
@@ -62064,6 +62041,7 @@
 ||sexwin.com^
 ||sexwinbaccarat.com^
 ||sexwinmachine.com^
+||sexwith.you^
 ||sexwithamateurs.com^
 ||sexwithanimalsvideos.com^
 ||sexwithbae.com^
@@ -62105,7 +62083,6 @@
 ||sexworkvienna.com^
 ||sexworld.info^
 ||sexworld.shop^
-||sexworld1.com^
 ||sexworld3d.com^
 ||sexwormhole.xyz^
 ||sexwrecks.com^
@@ -62121,7 +62098,6 @@
 ||sexx-xxxl.com^
 ||sexx18.com^
 ||sexx2015.com^
-||sexx69.blog^
 ||sexxafe.com^
 ||sexxantasy.com^
 ||sexxcoin.com^
@@ -62160,7 +62136,6 @@
 ||sexxtub.com^
 ||sexxtz.xyz^
 ||sexxugansk.life^
-||sexxusnexxus.com^
 ||sexxv.pro^
 ||sexxvg.xyz^
 ||sexxvolg.live^
@@ -62176,7 +62151,6 @@
 ||sexxxgif.com^
 ||sexxxhd.com^
 ||sexxxhd.xyz^
-||sexxxier.com^
 ||sexxxlife.com^
 ||sexxxlove.com^
 ||sexxxmurmansk.life^
@@ -62311,7 +62285,6 @@
 ||sexy24hr3.com^
 ||sexy35.com^
 ||sexy350.bio^
-||sexy350b.info^
 ||sexy350v1.com^
 ||sexy365a.com^
 ||sexy365b.com^
@@ -62320,7 +62293,6 @@
 ||sexy365e.com^
 ||sexy365f.com^
 ||sexy4arab.com^
-||sexy4dv.lat^
 ||sexy4u.tech^
 ||sexy4you.de^
 ||sexy60plus.com^
@@ -62443,13 +62415,8 @@
 ||sexybaby88.com^
 ||sexybabymovie.com^
 ||sexybaccarat-sa-casino.com^
-||sexybaccarat138.xyz^
 ||sexybaccarat168.com^
-||sexybaccarat24.com^
-||sexybaccarat365.com^
-||sexybaccarat369.com^
 ||sexybaccarat88s.net^
-||sexybaccaratcasino.com^
 ||sexybaccarats.live^
 ||sexybackend.com^
 ||sexybadger.xyz^
@@ -62469,12 +62436,10 @@
 ||sexybeast.online^
 ||sexybeast.xyz^
 ||sexybeastialityvideos.com^
-||sexybeautyvibe.com^
 ||sexybegin.nl^
 ||sexybelgium.com^
 ||sexybelgium.eu^
 ||sexybestbacarat.cloud^
-||sexybestbacarat.life^
 ||sexybestbacarat.social^
 ||sexybestbacarat.world^
 ||sexybet66.com^
@@ -62522,7 +62487,6 @@
 ||sexybuttpics.com^
 ||sexybynight.fr^
 ||sexybytch.com^
-||sexybyyoutm.com^
 ||sexyc98.xyz^
 ||sexycable.com^
 ||sexycac.xyz^
@@ -62673,7 +62637,6 @@
 ||sexyfantom.xyz^
 ||sexyfarm.xyz^
 ||sexyfash.com^
-||sexyfashionstore.com^
 ||sexyfat-women.com^
 ||sexyfemale.shop^
 ||sexyfemale1.shop^
@@ -62758,21 +62721,18 @@
 ||sexygame1688cc.com^
 ||sexygame1688dd.com^
 ||sexygame1688ee.com^
-||sexygame24.com^
 ||sexygame25.biz^
 ||sexygame25.co^
 ||sexygame25.com^
 ||sexygame25.info^
 ||sexygame25.net^
 ||sexygame25.org^
-||sexygame45.com^
 ||sexygame66.mn^
 ||sexygame666.games^
 ||sexygame666.shop^
 ||sexygame666.world^
 ||sexygame666f.com^
 ||sexygame88.net^
-||sexygame911.com^
 ||sexygame992.org^
 ||sexygame992-slot.com^
 ||sexygame992f.com^
@@ -62785,6 +62745,7 @@
 ||sexygarmentstore.com^
 ||sexygas.xyz^
 ||sexygay.men^
+||sexygays.cam^
 ||sexygelato.xyz^
 ||sexygg.xyz^
 ||sexyghst.xyz^
@@ -62809,7 +62770,6 @@
 ||sexygirlss.shop^
 ||sexygirlsvideos.com^
 ||sexygirlvideochat.com^
-||sexygk.com^
 ||sexyglmr.xyz^
 ||sexyglobal.xyz^
 ||sexygmt.xyz^
@@ -62847,7 +62807,6 @@
 ||sexyhive.xyz^
 ||sexyhkd.xyz^
 ||sexyhnt.xyz^
-||sexyho.art^
 ||sexyhomewife.com^
 ||sexyhomewives.com^
 ||sexyhop.xyz^
@@ -62910,9 +62869,6 @@
 ||sexykeep.xyz^
 ||sexykes.xyz^
 ||sexykines.com^
-||sexyking1688.com^
-||sexyking24.com^
-||sexyking88.com^
 ||sexykinic.xyz^
 ||sexykittenporn.com^
 ||sexyklay.xyz^
@@ -62940,6 +62896,7 @@
 ||sexylezzy.com^
 ||sexylib.com^
 ||sexyliciousedibles.com^
+||sexyliciousedibles.nl^
 ||sexylido.xyz^
 ||sexylife.eu^
 ||sexylife.fr^
@@ -62958,6 +62915,7 @@
 ||sexylive.nl^
 ||sexylivecams.nl^
 ||sexylog.one^
+||sexylook.shop^
 ||sexylosers.com^
 ||sexylover.info^
 ||sexylrc.xyz^
@@ -62997,6 +62955,7 @@
 ||sexyminum.com^
 ||sexymiota.xyz^
 ||sexymkr.xyz^
+||sexymn.com^
 ||sexymodernbull.com^
 ||sexymodest.com^
 ||sexymodestboutiqueshop.com^
@@ -63132,7 +63091,6 @@
 ||sexypuneescorts.com^
 ||sexypussy.tv^
 ||sexypussypic.com^
-||sexyputa.com^
 ||sexyqar.xyz^
 ||sexyqnt.xyz^
 ||sexyqtum.xyz^
@@ -63199,6 +63157,7 @@
 ||sexyshib.xyz^
 ||sexyshiden.xyz^
 ||sexyshivanisharma.com^
+||sexyshivers.com^
 ||sexyshmexy.xyz^
 ||sexyshoes.com^
 ||sexyshoes.eu^
@@ -63217,7 +63176,6 @@
 ||sexysimi.in^
 ||sexysingh.xyz^
 ||sexysingledad.com^
-||sexysinner.shop^
 ||sexysinners.com^
 ||sexysisx.com^
 ||sexysites.info^
@@ -63251,7 +63209,6 @@
 ||sexystar.xyz^
 ||sexystargate.xyz^
 ||sexystarknet.xyz^
-||sexystarlite.com^
 ||sexystars.online^
 ||sexystarsmanagement.com^
 ||sexystart.info^
@@ -63327,9 +63284,9 @@
 ||sexytop.xyz^
 ||sexytor.com^
 ||sexytornado.xyz^
-||sexytotov.lat^
 ||sexytoyfactory.com^
 ||sexytrading.xyz^
+||sexytraf.ru^
 ||sexytrains.com^
 ||sexytrannypics.com^
 ||sexytrb.xyz^
@@ -63377,6 +63334,7 @@
 ||sexyvideo.one^
 ||sexyvideo.pro^
 ||sexyvideocallapp.com^
+||sexyvideochat.fun^
 ||sexyvideogirl.xyz^
 ||sexyvideoindian.com^
 ||sexyvideotube.com^
@@ -63511,6 +63469,7 @@
 ||sfw.video^
 ||sfxporn.com^
 ||sgayd.com^
+||sgaye.info^
 ||sgayurveda.in^
 ||sgdporn.xyz^
 ||sgdsex.xyz^
@@ -63545,7 +63504,6 @@
 ||shaggyporn.net^
 ||shagle.com^
 ||shaglocalgirls.com^
-||shagshag.com^
 ||shagunbhala.in^
 ||shahidporn.space^
 ||shahnazraza.com^
@@ -63619,13 +63577,13 @@
 ||shegg.com^
 ||shegods.com^
 ||shehnaazkhan.com^
+||sheilahgayleart.com^
 ||sheis.gay^
 ||sheisman.com^
 ||sheisnerdy.com^
 ||sheisnovember.com^
 ||shekaris.gay^
 ||shekoudaily.com^
-||shelbybelle.com^
 ||shelltoys.com^
 ||shelovesblack.com^
 ||shemale.movie^
@@ -63910,6 +63868,7 @@
 ||shopsadults.com^
 ||shopsextoy69.com^
 ||shopsexworld.com^
+||shopsluttyscents.com^
 ||shopsocrazysexycool.com^
 ||shopstart.hu^
 ||shopthanggay.site^
@@ -63948,6 +63907,7 @@
 ||shpilivili.cc^
 ||shpilivili.org^
 ||shpok.cam^
+||shpxxx.com^
 ||shqiptarski.com^
 ||shradhajewellers.com^
 ||shreegayatriconsultant.top^
@@ -64273,7 +64233,6 @@
 ||site-rip.org^
 ||site-rose.com^
 ||site123.me^
-||sitebilisim.com^
 ||sitederencontrebelge.be^
 ||sitedesex.com^
 ||sitedusexe.com^
@@ -64364,7 +64323,6 @@
 ||skycorp.global^
 ||skyhomesgayrimenkul.site^
 ||skylarkenightingayle.com^
-||skylarsunisexsalon.in^
 ||skylermcginn.gay^
 ||skylinecouriersexpress.online^
 ||skymanga.work^
@@ -64420,6 +64378,7 @@
 ||slingandstones.com^
 ||slipandslide.xyz^
 ||slipshine.net^
+||sliv-base.ru^
 ||sliv-twitch.ru^
 ||sliv-xxx.ru^
 ||slivfoto.top^
@@ -64479,6 +64438,7 @@
 ||slutcelebration.com^
 ||slutcirkeln.se^
 ||slutclub.org^
+||slutcop.com^
 ||slutd.xyz^
 ||slutdesi.com^
 ||slutee.com^
@@ -64533,7 +64493,6 @@
 ||slutsacrossamerica.org^
 ||slutsandangels.com^
 ||slutscreampie.com^
-||slutseason111.com^
 ||slutsfan.com^
 ||slutsfromeurope.com^
 ||slutsfuck.com^
@@ -64605,7 +64564,7 @@
 ||slutyneigboursnearby.com^
 ||slutyscenes.com^
 ||slutytees.com^
-||slutzy.com^
+||slutzgonenutz.com^
 ||slwalzone.com^
 ||sly-club.com^
 ||slyd.in^
@@ -64745,6 +64704,7 @@
 ||smaxim.su^
 ||smaxim.xyz^
 ||smaxxx.com^
+||smbc-card.vip^
 ||smellslikeafish.com^
 ||smellslikescience.com^
 ||smexy.ai^
@@ -64881,6 +64841,7 @@
 ||sobrevivealaadultez.com^
 ||sobtomexxxx.org^
 ||socasadas.com^
+||sochi-sexshop.ru^
 ||sochixxx.info^
 ||social6.de^
 ||socialbdsm.com^
@@ -64958,6 +64919,7 @@
 ||solarisexchange.com^
 ||solarium.tv^
 ||soldesexpress.com^
+||solgasexpress.com^
 ||solidcams.com^
 ||soliditysensex.xyz^
 ||solitariosexuais.com^
@@ -64980,6 +64942,7 @@
 ||solosuck.com^
 ||solosydney.com^
 ||solotouch.com^
+||solovadorasex.info^
 ||soloveirdosconslutgroup.com^
 ||soloxamantes.com^
 ||solporn.xyz^
@@ -64993,9 +64956,8 @@
 ||solutionsexchange.website^
 ||solutionsexpress.us^
 ||solutionssmallbusinessexpo.com^
+||solventlessextractsllc.com^
 ||solverporn.xyz^
-||solvixxx.shop^
-||solvixxx.store^
 ||solxxx.xyz^
 ||somaescorts.com^
 ||somanyporn.com^
@@ -65116,7 +65078,6 @@
 ||sosalkino.space^
 ||sosalkino.tube^
 ||sosalkino.tv^
-||sosexdoll.jp^
 ||sosexecs.com^
 ||sosexit.shop^
 ||sosexpress.fr^
@@ -65147,7 +65108,6 @@
 ||sotemnovinhas.com^
 ||sotweturkporno.fun^
 ||soulcams.com^
-||souleroticspa.com^
 ||soulfulencounters.com^
 ||soulfulsex.love^
 ||soulfun.ai^
@@ -65171,6 +65131,7 @@
 ||sourcingrecruitment.info^
 ||sousedskeflirty.com^
 ||south32.com^
+||southamptonbusinessexpo.com^
 ||southbeauties.com^
 ||southdelhicallgirls.com^
 ||southdelhicallgirls.in^
@@ -65195,7 +65156,6 @@
 ||soymuy.gay^
 ||soyoungteens.com^
 ||soytuyo.com^
-||sozialsexpereit.com^
 ||sp-voronezh.ru^
 ||spa-gaya.com^
 ||spaansen.nl^
@@ -65273,7 +65233,6 @@
 ||specialsanya.com^
 ||specialsex.xyz^
 ||specialsexmovie.com^
-||speciesexpiration.shop^
 ||spectratix.com^
 ||spectreware.com^
 ||spectrumboutique.com^
@@ -65287,6 +65246,7 @@
 ||speedporn.top^
 ||speedracing.eu^
 ||speedsex.xyz^
+||speedwingsexpress.com^
 ||speedyporn.com^
 ||speedyporn.site^
 ||speedypush.com^
@@ -65328,16 +65288,17 @@
 ||spermint.ru^
 ||spermmania.com^
 ||spermnatal.com^
+||spermoon.buzz^
 ||spermotube.pro^
 ||spermotube.top^
 ||spermrace.fun^
+||spermselection.com^
 ||spermsensor.com^
 ||spermsorting.com^
 ||spermsuckers.com^
 ||spermswap.com^
 ||spermteen.com^
 ||spermwhaleonsui.xyz^
-||spermyoung.shop^
 ||spermyporn.com^
 ||spermysol.xyz^
 ||spettacolinews.it^
@@ -65423,6 +65384,7 @@
 ||sporny.net^
 ||sportbud.org^
 ||sportfitnessexpress.com^
+||sportsexercise.store^
 ||sportsexoskeleton.com^
 ||sportsexpand.com^
 ||sportsexpress.xyz^
@@ -65459,6 +65421,7 @@
 ||spunkyangels.com^
 ||spunkynymphos.com^
 ||spunkysex.com^
+||spursexpress.com^
 ||spxxx.top^
 ||spxxxtube.com^
 ||spxxxx.com^
@@ -65507,6 +65470,7 @@
 ||srigayathrijyotishalaya.info^
 ||srigayatribrahmanaabdikam.com^
 ||srigayatriinvestment.com^
+||srisailogisticsexpert.com^
 ||srishukla.in^
 ||sriti.in^
 ||srivedagayatritemple.org^
@@ -65551,6 +65515,7 @@
 ||sss-now.org^
 ||sssbet.com^
 ||sssex1.work^
+||sssexecutivetravel.com^
 ||sssexport.com^
 ||sssexxx.net^
 ||sssexy.shop^
@@ -65772,7 +65737,6 @@
 ||sterobac.com^
 ||stethosexpert.com^
 ||steuerlotsexa.com^
-||steuerweisex.com^
 ||stevejabba.com^
 ||stevemilfordinsurance.com^
 ||stewardsexpress.com^
@@ -65818,7 +65782,6 @@
 ||stopmasturbationnow.org^
 ||stoporn.com^
 ||stopostosex.com^
-||stoppornai.com^
 ||stoppornislam.com^
 ||stoppornly.com^
 ||stopporno.com^
@@ -65867,7 +65830,6 @@
 ||straponmyman.com^
 ||straponscreen.com^
 ||straponsfemdom.com^
-||straponsluts.com^
 ||strapontales.com^
 ||strategicadult.com^
 ||strategicbusinessexplorer.com^
@@ -66004,7 +65966,6 @@
 ||strp.chat^
 ||struggle-city.com^
 ||stsexpertadvisor-scam.com^
-||stthomasexcursions.com^
 ||uttargaya.sttnepal.com^
 ||stuartpowersis.gay^
 ||stuck4k.com^
@@ -66029,7 +65990,6 @@
 ||study-adult-education-ged-0uvq0v.live^
 ||study-adult-education-ged-19g2ep.live^
 ||study-adult-education-ged-1ihgpa.fyi^
-||study-adult-education-ged-1kyg33.zone^
 ||study-adult-education-ged-1kzyc0.fyi^
 ||study-adult-education-ged-1tvmdf.fyi^
 ||study-adult-education-ged-1v0122.world^
@@ -66113,7 +66073,6 @@
 ||study-adult-education-ged-k9o0ub.world^
 ||study-adult-education-ged-khuhpz.world^
 ||study-adult-education-ged-kos61k.live^
-||study-adult-education-ged-kp0pvf.world^
 ||study-adult-education-ged-ktka56.fyi^
 ||study-adult-education-ged-kvvs8e.fyi^
 ||study-adult-education-ged-kwy2sf.live^
@@ -66174,7 +66133,6 @@
 ||stunningmatures.com^
 ||stupidandsexy.com^
 ||stupidgay.com^
-||stuporn.com^
 ||stupriporno.com^
 ||sturtle.com^
 ||stuttgartcooking.de^
@@ -66246,6 +66204,7 @@
 ||suche-sex.com^
 ||suche6.ch^
 ||suchitraiyer.com^
+||suciostixxx.com^
 ||suckaboner.com^
 ||suckersfuckers.com^
 ||suckhoemoingay.store^
@@ -66256,6 +66215,8 @@
 ||suckmevr.com^
 ||sucsexfull.com^
 ||suctioncupsex.com^
+||sudaratstone.com^
+||suelosexpress.com^
 ||suen.gay^
 ||sufisays.com^
 ||sugababes.nl^
@@ -66467,6 +66428,7 @@
 ||suppornvc.space^
 ||support.xxx^
 ||support-venmo.com^
+||supxxx9.xyz^
 ||suratbabes.com^
 ||suratbeauties.com^
 ||suratcallgirl.in^
@@ -66517,7 +66479,6 @@
 ||sussexdeservessmartergrowth.com^
 ||sussexdraincleaning.com^
 ||sussexdronepilotsite.com^
-||sussexentcare.com^
 ||sussexflooring.co^
 ||sussexheritage.org^
 ||sussexheritageworkshops.com^
@@ -66583,6 +66544,7 @@
 ||svadult.dance^
 ||svalbardadventures.com^
 ||svalbardbooking.com^
+||svazstroyinvest.ru^
 ||svensk.xyz^
 ||sverigesdomstoldomslut570026.com^
 ||svetaci.info^
@@ -66687,6 +66649,7 @@
 ||sweetyroy.in^
 ||swegold.com^
 ||sweporn.store^
+||swiftcleanersexpert.com^
 ||swing-zone.com^
 ||swing33.ca^
 ||swing4ireland.com^
@@ -66730,6 +66693,7 @@
 ||swipeturbate.com^
 ||swipex.ph^
 ||swipey.ai^
+||swissexclusivetrading.com^
 ||swissexes.com^
 ||swissexpatplanning.online^
 ||swissextremequads.com^
@@ -66775,7 +66739,6 @@
 ||sxyland.com^
 ||sxypix.com^
 ||sxyporn.tv^
-||sxypornvideo.com^
 ||sxyprn.com^
 ||sxyprn.net^
 ||sxyprn.top^
@@ -66843,6 +66806,7 @@
 ||szexvideok.me^
 ||szexvital.hu^
 ||szexxx.com^
+||szgay7.com^
 ||szigg.net^
 ||szikla.hu^
 ||sziv.net^
@@ -66888,7 +66852,6 @@
 ||tabooflix.org^
 ||tabooflix.ws^
 ||taboofuck.net^
-||taboofucker.top^
 ||tabooheat.com^
 ||taboohome.com^
 ||tabooincest3d.com^
@@ -66955,7 +66918,6 @@
 ||tailoredweddingsexperience.sbs^
 ||taimadou.com^
 ||taingay.xyz^
-||taingay-g088.club^
 ||taingaydinao.online^
 ||taingayhomnay.online^
 ||taini.in^
@@ -66985,7 +66947,7 @@
 ||taksimkadin.com^
 ||taktaktak.com^
 ||taktube.net^
-||takumi-kagaya.info^
+||talantstroy.ru^
 ||taleja.com^
 ||talentedmilfs.com^
 ||talesfromthekreme.com^
@@ -67056,6 +67018,7 @@
 ||tamilsexcall.online^
 ||tamilsexkathai.net^
 ||tamilsexkathaigal.com^
+||tamilsexmms.com^
 ||tamilsexscandals.com^
 ||tamilsexstories.blog^
 ||tamilsexstories.cc^
@@ -67080,7 +67043,6 @@
 ||tampabaynude.com^
 ||tampabukkake.com^
 ||tampaescortmagazine.com^
-||tampasexshop.com^
 ||tampornoizle.website^
 ||tamsin.info^
 ||tamweel.ae^
@@ -67095,7 +67057,6 @@
 ||tango.me^
 ||tangonude.com^
 ||tangotime.com^
-||tangxvlog-adult.cn^
 ||tangxvlog-porn.com^
 ||taniaescorts.in^
 ||taniasharma.in^
@@ -67190,7 +67151,6 @@
 ||tastytrixie.com^
 ||tatar.ae^
 ||tatliescortlar.com^
-||tatlilargayrimenkul.com^
 ||tatporn.com^
 ||tatschmi.com^
 ||tatsuya-adult.com^
@@ -67223,6 +67183,7 @@
 ||tazzporn.com^
 ||tb-hosting.com^
 ||tbcommons.org^
+||tbepornstars.com^
 ||tbib.org^
 ||tbicare.eu^
 ||tblop.com^
@@ -67319,6 +67280,7 @@
 ||teen-porno.ru^
 ||teen-pussy.me^
 ||teen-pussy-tube.com^
+||teen-scandal.com^
 ||teen-scat.net^
 ||teen-sex.tv^
 ||teen-sex.video^
@@ -67352,6 +67314,7 @@
 ||teenager365.to^
 ||teenageranal.com^
 ||teenagerporner.com^
+||teenagersexvideos.com^
 ||teenagerv.com^
 ||teenagesextube.com^
 ||teenanalhd.com^
@@ -67381,7 +67344,6 @@
 ||teencunt.net^
 ||teencurves.com^
 ||teencuteporn.com^
-||teendarkporn.net^
 ||teendatingsite.net^
 ||teendreams.com^
 ||teendvdtube.com^
@@ -67401,6 +67363,7 @@
 ||teenfinder.com^
 ||teenfree.eu^
 ||teenfuck.party^
+||teenfuckers.com^
 ||teenfucking.org^
 ||teenfuckyeah.com^
 ||teengallery.pro^
@@ -67650,7 +67613,6 @@
 ||telefonsex.blog^
 ||telefonsex.show^
 ||telefonsex.team^
-||telefonsex.today^
 ||telefonsex-camtocam.cam^
 ||telefonsex-check.com^
 ||telefonsex-dansk.net^
@@ -67662,11 +67624,13 @@
 ||telefonsexcam.one^
 ||telefonsexhatti.com^
 ||telegra.ph^
+||telegram-cambodiasex.sbs^
 ||telegram-group.com^
 ||telegram-milf.fr^
 ||telegram-porn.com^
 ||telegram-porn.net^
 ||telegram-sex.com^
+||telegram-videosexpage.site^
 ||telegramchcn.com^
 ||telegramlinksgroup.xyz^
 ||telegramme-sexe.fr^
@@ -67784,7 +67748,6 @@
 ||teslaxxx.pw^
 ||tesstesst.nl^
 ||testbbquserxxxx0001.win^
-||testbdsm.com^
 ||testcoronavirus.shop^
 ||teste.gay^
 ||testersv4.gay^
@@ -67795,7 +67758,6 @@
 ||testxxx.click^
 ||tetasenmarte.com^
 ||tetatita.com^
-||tetaxxx.com^
 ||tetianabusinessexpert.com^
 ||tetona.tv^
 ||tetonas.best^
@@ -67821,7 +67783,6 @@
 ||tfporn.com^
 ||tfsexpress.us^
 ||tfuelporn.xyz^
-||tfxxx.ru^
 ||tg-forum.com^
 ||tgadult.today^
 ||tgal.in^
@@ -67992,13 +67953,13 @@
 ||theadultlifestyle.com^
 ||theadultmarket.com^
 ||theadultnerd.store^
-||theadultpiggybank.com^
 ||theadultsaretalking.com^
 ||theadultsescape.com^
 ||theadultsocialmedia.com^
 ||theadultstories.com^
 ||theadulttoyshop.com^
 ||theadulttoysstore.com^
+||theadultvibe.com^
 ||theaerocityescort.in^
 ||theagencysd.com^
 ||theamazing.net^
@@ -68017,11 +67978,13 @@
 ||theatfisgay.com^
 ||theatfisgay.online^
 ||theatlasexports.com^
+||theatomicmind.com^
 ||theatretabard.com^
 ||theav.xyz^
 ||theavadevine.com^
 ||theavporn.com^
 ||thebachelorpartyhookup.com^
+||thebadadults.com^
 ||thebadassbreastfeeder.com^
 ||thebadpeach.com^
 ||thebahamasexclusive.com^
@@ -68032,10 +67995,8 @@
 ||thebarchive.com^
 ||thebaumer.com^
 ||thebdsmlifestyle.com^
-||thebdsmtest.net^
 ||thebdsmxshop.com^
 ||thebeautythesis.com^
-||thebellsexperience.com^
 ||thebenefitsexpo.com^
 ||thebenshi.com^
 ||thebestceleb.com^
@@ -68093,7 +68054,6 @@
 ||thecamsites.com^
 ||thecandidforum-voyeur.ru^
 ||thecandidzone.com^
-||thecardsluts.com^
 ||thecartoonporntube.com^
 ||thecassiechronicles.com^
 ||thecasuallounge.ch^
@@ -68163,7 +68123,6 @@
 ||thedirtyskillets.com^
 ||thedirtyspicebag.com^
 ||thedirtyturn.com^
-||thedirtyu.com^
 ||thedirtyworm.com^
 ||thedirtywrench.com^
 ||thedoctoreadventures.com^
@@ -68258,6 +68217,7 @@
 ||thegay.yachts^
 ||thegay.zone^
 ||thegayaji.com^
+||thegayathri.shop^
 ||thegaybarshoppop.shop^
 ||thegaybrand.com^
 ||thegaybyproject.com^
@@ -68286,6 +68246,7 @@
 ||thegermans.gay^
 ||thegfporn.com^
 ||thegfporn2.com^
+||thegfporno.com^
 ||thegfpornx.com^
 ||thegilfhunter.com^
 ||thegirlsbathroom.com^
@@ -68333,6 +68294,7 @@
 ||thehotporn.net^
 ||thehotporn.org^
 ||thehourglassexperience.com^
+||thehouseoffetish.com^
 ||thehun.com^
 ||thehun.net^
 ||thehungergamesexplorer.com^
@@ -68517,6 +68479,7 @@
 ||theporndb.net^
 ||theporndeai.xyz^
 ||theporndirectory.store^
+||theporndjde.com^
 ||theporndude.com^
 ||theporndude.in^
 ||theporndude.onl^
@@ -68527,6 +68490,7 @@
 ||theporndude.yachts^
 ||theporndude-france.com^
 ||theporndudeaiporn.com^
+||thepornduede.com^
 ||theporner.website^
 ||thepornerleak.com^
 ||thepornfox.com^
@@ -68567,6 +68531,7 @@
 ||theprostitutes.cz^
 ||theprovinggroundsexperience.com^
 ||theprp.com^
+||thepurposexchange.com^
 ||thepuss.com^
 ||thequeen.gay^
 ||thequeens.club^
@@ -68628,6 +68593,7 @@
 ||thesexygirlsinlingerie.com^
 ||thesexynerdrevue.com^
 ||thesexysaxman.com^
+||thesexyschool.com^
 ||thesexyspinster.com^
 ||thesexystories.com^
 ||thesexyworld.com^
@@ -68688,7 +68654,6 @@
 ||thevelvetteen.com^
 ||thevendorsexhibition.com^
 ||thevidtube.com^
-||thevillaporn.com^
 ||thevintageporn.com^
 ||thevoyeurmania.com^
 ||thevoyeurtour.shop^
@@ -68763,6 +68728,7 @@
 ||thorny.xyz^
 ||thorny-expanse.com^
 ||thornybend.com^
+||thornycreationsatl.com^
 ||thornygoddess.com^
 ||thornyoakranch.com^
 ||thosewhodig.net^
@@ -69054,6 +69020,7 @@
 ||tiniporno.hu^
 ||tinisex.hu^
 ||tinjav.info^
+||tinmoitrongngay.com^
 ||tinnhanhngaymoi.blog^
 ||tintuc24hmoingay.online^
 ||tintuchangngay.org^
@@ -69178,6 +69145,7 @@
 ||tochterporn.com^
 ||todaatual.com^
 ||todayinmadonnahistory.com^
+||todaysvids.com^
 ||todayxxx.com^
 ||toddskaggswrites.com^
 ||todocamaras.com^
@@ -69208,6 +69176,7 @@
 ||tokimeki-s.com^
 ||tokioporn.com^
 ||tokiotoons.com^
+||tokoalatbantusex.com^
 ||tokokopigayo.com^
 ||toktokporn.com^
 ||tokyo-hot.com^
@@ -69281,7 +69250,6 @@
 ||toodirtytowash.com^
 ||tooerotic.com^
 ||toofab.com^
-||toogoodsafaristz.com^
 ||tooldream.live^
 ||toolike.fr^
 ||toolsex.com^
@@ -69320,7 +69288,6 @@
 ||top-porn-sites-18.com^
 ||top-sex-teens.com^
 ||top-sex-toys.shop^
-||top-sexshop.sk^
 ||top-shemale-vids.com^
 ||top-x-porn.com^
 ||top-xxx.pro^
@@ -69458,7 +69425,6 @@
 ||toporn.tv^
 ||topornamenthouse.com^
 ||toppenispills.info^
-||topporn.fun^
 ||topporn.me^
 ||topporn.store^
 ||topporncomics.cc^
@@ -69528,6 +69494,7 @@
 ||topsexpro.store^
 ||topsexpro1.shop^
 ||topsexproz.shop^
+||topsexshops.ru^
 ||topsextakers.com^
 ||topsexvideos.pro^
 ||topsexviet.app^
@@ -69589,6 +69556,7 @@
 ||toroporno.com^
 ||toroporno.ink^
 ||torporno.xyz^
+||torpporno.com^
 ||torrent-pirat.com^
 ||torrentgalaxy.to^
 ||torte-net.hu^
@@ -69657,7 +69625,6 @@
 ||toysexxxx.com^
 ||toysfor.gay^
 ||toysinchicks.com^
-||toystyle.net^
 ||toysvideotube.com^
 ||toyswindsoressex.com^
 ||toywithme.com^
@@ -69667,6 +69634,7 @@
 ||tporn.tube^
 ||tporn.xxx^
 ||tpornos.space^
+||tproporno.com^
 ||tpusgay.com^
 ||tqlcvn.org^
 ||tr3s.com^
@@ -69834,6 +69802,7 @@
 ||transexy.cc^
 ||transexya.com^
 ||transfap.to^
+||transfap.xxx^
 ||transfemme.com^
 ||transfermalagayprovincias.com^
 ||transfersexecutives.com^
@@ -69873,7 +69842,6 @@
 ||transpornvideo.com^
 ||transpornworld.com^
 ||transportesexcavacionesjr.com^
-||transportesexperience.com^
 ||transportesexpressdli.com^
 ||transsensual.com^
 ||transsensualporn.com^
@@ -69881,6 +69849,7 @@
 ||transsexual.wiki^
 ||transsexualdivas.com^
 ||transsexualmoviepost.com^
+||transsexuals.ru^
 ||transsexuelle.ws^
 ||transsexuelle-partnersuche.com^
 ||transtrav.com^
@@ -69951,6 +69920,7 @@
 ||treffegirls.com^
 ||treimer.gay^
 ||tremonaristo.gay^
+||trencin.online^
 ||trend-arabic.com^
 ||trend26.com^
 ||trendin.gay^
@@ -69969,12 +69939,12 @@
 ||trendyporn.com^
 ||trendyxxx.com^
 ||trendzz.com^
-||trenexbasex.com^
 ||trentovalario.gay^
 ||trenxxx.com^
 ||trenyng.ru^
 ||trescoquines.com^
 ||trescorts.com^
+||tressesexpress.com^
 ||trevorlee.gay^
 ||treysongz.com^
 ||tri-xxx-lordfillm.ru^
@@ -70239,7 +70209,6 @@
 ||tsmovies.com^
 ||tsontes-online.net^
 ||tsplayground.com^
-||tsporn.lol^
 ||tsporn.store^
 ||tspornotube.com^
 ||tspussyhunters.com^
@@ -70451,10 +70420,12 @@
 ||tubeporno.site^
 ||tubepornofilm.be^
 ||tubepornohd.com^
+||tubepornsars.com^
 ||tubepornsearch.com^
 ||tubepornstars.baby^
 ||tubepornstars.com^
 ||tubepornstars.tv^
+||tubepornstas.com^
 ||tubepornstreaming.com^
 ||tubepornvista.com^
 ||tubepornxl.com^
@@ -70513,6 +70484,7 @@
 ||tubevideoporn.com^
 ||tubevideoshd.xxx^
 ||tubevideosxxx.com^
+||tubevidsuhd.com^
 ||tubewagon.com^
 ||tubewankers.com^
 ||tubewap.net^
@@ -70559,9 +70531,11 @@
 ||tuboxxx.org^
 ||tubozavr.com^
 ||tubporn.space^
+||tubrpornstars.com^
 ||tubshd.com^
 ||tubster.net^
 ||s.tubtictic.com^
+||tubwpornstars.com^
 ||tubxporn.com^
 ||tucasinojoker.com^
 ||tucci-benucch.com^
@@ -70570,6 +70544,7 @@
 ||tudoporno.store^
 ||tudungporn.com^
 ||tudungporn.site^
+||tuepornstars.com^
 ||tuerotica.com^
 ||tugasex.wtf^
 ||tugaygul.com^
@@ -70581,7 +70556,6 @@
 ||tukif.love^
 ||tukif.porn^
 ||tukif.show^
-||tukif.top^
 ||tukif.yachts^
 ||tukif-porn.online^
 ||tukifporno.com^
@@ -70603,6 +70577,7 @@
 ||tumenxxx.xyz^
 ||tumporno.space^
 ||tumundofantastico.com^
+||tunapro.gay^
 ||tunasexhaust.com^
 ||tunceli.club^
 ||tunceliescort.net^
@@ -70701,6 +70676,7 @@
 ||turkporno-izle.space^
 ||turkporno1.cfd^
 ||turkporno1.website^
+||turkporno10.cfd^
 ||turkporno2.cfd^
 ||turkporno3.cfd^
 ||turkporno4.cfd^
@@ -70866,6 +70842,7 @@
 ||twinkpornshow.cc^
 ||twinkpornvideos.pro^
 ||twinkpornvideos.xxx^
+||twinkpornvideos2cn.com^
 ||twinkrough.com^
 ||twinksboy.com^
 ||twinksexual.com^
@@ -70878,7 +70855,6 @@
 ||twinkworldp.com^
 ||twinkxxxhotel.cc^
 ||twinkxxxvideos.xyz^
-||twintailedfoxxx.ru^
 ||twiporn.store^
 ||twispay.com^
 ||twistcams.com^
@@ -70902,6 +70878,7 @@
 ||twojav.com^
 ||twojsukcesexpert.pl^
 ||twomance.com^
+||twomastersexperience.com^
 ||twonfans.com^
 ||twpornstars.co^
 ||twpornstars.com^
@@ -70911,7 +70888,6 @@
 ||twxxx.net^
 ||twxxx.top^
 ||twynkworld.com^
-||txemigaya.com^
 ||txnhh.com^
 ||txnxxx.com^
 ||txxx.casa^
@@ -70944,6 +70920,7 @@
 ||txxxvideo.quest^
 ||txxxxvideos.com^
 ||tyakui.com^
+||tybepornstars.com^
 ||tybito.com^
 ||tyescorts.com^
 ||tyi-inc.com^
@@ -71025,6 +71002,7 @@
 ||ufasexygame11.com^
 ||ufaxxx.com^
 ||ufdolls.com^
+||ufetish.lt^
 ||uflash.tv^
 ||uflashporn.com^
 ||ufosexposed.com^
@@ -71262,7 +71240,6 @@
 ||undresslyai.tools^
 ||undressme.tools^
 ||undressninja.com^
-||undressporn.com^
 ||undresswith.ai^
 ||undresswith.tools^
 ||unduhporno.website^
@@ -71289,7 +71266,6 @@
 ||unijokes.com^
 ||union.fr^
 ||unionandfifth.com^
-||unioncrypto.vip^
 ||unipelfurs.com^
 ||uniporntube.com^
 ||uniqueadultdayhealthcareinc.org^
@@ -71311,6 +71287,7 @@
 ||unitedflings.com^
 ||unitedgaytube.net^
 ||unitedgenetic-india.com^
+||unitedsexyboyz.ru^
 ||unitedstatesexch.com^
 ||unitesstateds.gay^
 ||unitysensex.xyz^
@@ -71322,7 +71299,6 @@
 ||universexai.com^
 ||universexpression.fr^
 ||universitycumsluts.com^
-||universocursosexpress.com^
 ||universohentai.com^
 ||universosugar.com^
 ||bvoclingayas.univlms.com^
@@ -71346,7 +71322,6 @@
 ||unloxxx.store^
 ||unloxxx.vip^
 ||unloxxx.work^
-||unloxxx.xxx^
 ||unlucidaiporn.com^
 ||unrasiertemuschi.com^
 ||unrealfuck.com^
@@ -71444,7 +71419,6 @@
 ||urbanaxisexpresscourier.com^
 ||urbancrocspot.org^
 ||urbansocial.com^
-||urbantapasexperience.com^
 ||urbantxtteensexploringtechnology.shop^
 ||urbanup.com^
 ||urbanxawards.com^
@@ -71472,7 +71446,6 @@
 ||ursextube.com^
 ||urugays.xyz^
 ||urusexclusive.com^
-||urvashianand.com^
 ||urvy.org^
 ||urygaya.com^
 ||beeg.us.com^
@@ -71499,6 +71472,7 @@
 ||usakindirpornomobilizlesikis.store^
 ||usamailorderbrides.com^
 ||usandbath.com^
+||usanudist.com^
 ||usaphonesex.com^
 ||usaporn.online^
 ||usaporntv.com^
@@ -71547,7 +71521,6 @@
 ||usersporn.com^
 ||xhamster.uservoice.com^
 ||usesmallbusinessexpomedia.info^
-||usex.top^
 ||usex10labs.com^
 ||usex10labsai.com^
 ||usexamps.com^
@@ -71717,7 +71690,6 @@
 ||vagabondageboy.com^
 ||vagabondages.net^
 ||vagabundasdoorkut.net^
-||vagasexclusivas.site^
 ||vagasexclusivespe.com^
 ||vagaytion.com^
 ||vagina.nl^
@@ -71785,6 +71757,7 @@
 ||vancouverjobboard.ca^
 ||vandaagenmorgen.nl^
 ||vander.sex^
+||vander-sex.ru^
 ||vandoos.com^
 ||vanescorthot.com^
 ||vanessablue.com^
@@ -71815,7 +71788,7 @@
 ||varishangout.net^
 ||varshachowdary.com^
 ||varshaservice.com^
-||varzil.com^
+||varydelicious.gay^
 ||vas.pet^
 ||vase-eroticke-povidky.cz^
 ||vaseporno.store^
@@ -71859,6 +71832,7 @@
 ||vedagayatritemple.org^
 ||vedettesdelperu.com^
 ||vedikarani.com^
+||vedsex.fun^
 ||vedyshow.ru^
 ||veebs.org^
 ||veegaz.com^
@@ -71873,6 +71847,7 @@
 ||vegasmovs.org^
 ||vegasmpegs.com^
 ||vegatube.net^
+||vegaydavila.com^
 ||vegetalsexpills.com^
 ||vegporn.com^
 ||veilmachine.com^
@@ -71895,13 +71870,11 @@
 ||vendersexpress.com^
 ||vendettaverse.com^
 ||vends-ta-culotte.com^
-||vendsexplorer.com^
 ||venicevillasexperience.com^
 ||venicevillasexperience.it^
 ||venom-ch.com^
 ||ventasexpress.lat^
 ||venturo.gay^
-||venuesandvendorsexpress.com^
 ||venus-adult-news.com^
 ||venus-camgirls.com^
 ||venuscuckoldress.com^
@@ -71945,7 +71918,6 @@
 ||verified-support.com^
 ||verifyhim.us^
 ||veritasexecutivesecurity.com^
-||verkaufsexpertin360.com^
 ||verlagmartinkoch.at^
 ||vermangaspornl.com^
 ||vermangasporno.com^
@@ -72000,6 +71972,7 @@
 ||veryxxxxxhd.skin^
 ||veryxxxxxhd.top^
 ||vesnalapornik.com^
+||vespermediagroup.com^
 ||vespermgmt.com^
 ||vespermilanoberlin.com^
 ||vespermoon.xyz^
@@ -72081,6 +72054,7 @@
 ||victoriamilan.com^
 ||victoriamilan.no^
 ||victorian-erotica.org^
+||victoriasextoydelivery.ca^
 ||victoriaslittlesexualsecret.com^
 ||victoriasunisexbeautysalon.com^
 ||victoriavalexxx.com^
@@ -72196,6 +72170,7 @@
 ||videos-xxx-tube.com^
 ||videos-zoofilia.com^
 ||videos1002.com^
+||videos2sexe.com^
 ||videosamadores.blog^
 ||videosarabic.com^
 ||videosbag.com^
@@ -72228,6 +72203,7 @@
 ||videosfiltrados.com^
 ||videosflagrasamadores.com^
 ||videosforstatus.com^
+||videosgays.info^
 ||videosgays.net^
 ||videosgratis.tv^
 ||videosgratispornolatino.com^
@@ -72314,6 +72290,7 @@
 ||videozzzsite.club^
 ||videqs.cloud^
 ||videy.xxx^
+||videytv.pro^
 ||vidgay.fr^
 ||vidikierotika.com^
 ||vidioporno.org^
@@ -72371,7 +72348,6 @@
 ||vietsexhd.vip^
 ||vietsexnet.com^
 ||vietxxx.pro^
-||vietxxx2.com^
 ||vieuxmales.com^
 ||view.xxx^
 ||viewaskew.com^
@@ -72495,6 +72471,7 @@
 ||vipindependentescorts.com^
 ||vipindianescortsinmalaysia.com^
 ||vipissy.com^
+||vipistanbulescort.pro^
 ||vipki.info^
 ||vipkolkataescort.com^
 ||viplog.top^
@@ -72575,7 +72552,6 @@
 ||virgin-girls.net^
 ||virginiamilfriendly.com^
 ||virginmassage.com^
-||virginporn.store^
 ||virginpure.com^
 ||virgins.pl^
 ||virginsex.blog^
@@ -72778,6 +72754,7 @@
 ||pornogratis.vlog.br^
 ||xvideo.vlog.br^
 ||xvideos.vlog.br^
+||vlogxxx.com^
 ||vlsex.org^
 ||vlsexdam.blog^
 ||vlsexdam.net^
@@ -72819,6 +72796,7 @@
 ||vlxxtv.net^
 ||vlxxviet69.pro^
 ||vlxxx.pw^
+||vlxxx.vip^
 ||vlywlrlakyhvco.com^
 ||vm16.com^
 ||vmige.com^
@@ -73042,7 +73020,6 @@
 ||vrphub.com^
 ||vrpopcorn.com^
 ||vrporn.com^
-||vrporn.red^
 ||vrporn.ro^
 ||vrporn.website^
 ||vrpornapp.site^
@@ -73122,7 +73099,6 @@
 ||vuasex.net^
 ||vuelasw.com^
 ||vuikhoemoingay.com^
-||vujisexport.biz^
 ||vukajlija.com^
 ||vuku.icu^
 ||vulgarx.com^
@@ -73424,7 +73400,6 @@
 ||leesexton.web.id^
 ||linkbaru.web.id^
 ||sexammons.web.id^
-||sexdavis.web.id^
 ||wihigayameve.web.id^
 ||xnxxx.web.id^
 ||web-cam-girls.info^
@@ -73530,6 +73505,7 @@
 ||webcamsex247.com^
 ||webcamsexdater.cyou^
 ||webcamsexdating.cfd^
+||webcamsexeamateur.com^
 ||webcamsexlivefree.com^
 ||webcamsexporn.com^
 ||webcamsgirlsnude.com^
@@ -73637,7 +73613,6 @@
 ||weddingvowsexpert.beauty^
 ||wedgieporn.com^
 ||wedgietube.com^
-||wedidyoudirty.com^
 ||wedif.com^
 ||wedompls.org^
 ||weeabo0.xyz^
@@ -73647,7 +73622,6 @@
 ||weekendwrestling.com^
 ||weenewsex.com^
 ||weescorts.com^
-||weflash.com^
 ||wefppvl.org^
 ||wegay.org^
 ||wegotexposed.com^
@@ -73682,13 +73656,11 @@
 ||wellsexpert.com^
 ||wellsmedia.com^
 ||weloveboyz.com^
-||welovegay.porn^
 ||welovegaymen.com^
 ||welovepantyhose.com^
 ||weloveporn.website^
 ||welovepornography.com^
 ||weloveteengirls.com^
-||welovetube.com^
 ||welovewrinkles.com^
 ||welqum.com^
 ||wenaked.net^
@@ -73731,9 +73703,7 @@
 ||westpornhub.website^
 ||westportartscenter.org^
 ||westshorehomosexual.com^
-||westsussex.ai^
 ||westsussexfittedinteriors.com^
-||westsussexpadel.com^
 ||westsussexweddingvenues.com^
 ||wesweetie.com^
 ||wet-latinas.com^
@@ -73761,6 +73731,7 @@
 ||wetmaturevids.com^
 ||wetnjoy.in^
 ||wetnwildescorts.com^
+||wetporno.com^
 ||wetpussygames.com^
 ||wetpussygirls.com^
 ||wetpussylickers.com^
@@ -73981,7 +73952,6 @@
 ||wildsex.pl^
 ||wildsext.com^
 ||wildsexting.com^
-||wildsextube.pro^
 ||wildskirts.com^
 ||wildteenporn.com^
 ||wildteenvirgins.com^
@@ -73994,6 +73964,7 @@
 ||wilfmovies.com^
 ||willclarkusa.com^
 ||williamhiggins.com^
+||williamlemon.com^
 ||williamsvillebusinessexchange.com^
 ||willnot.be^
 ||willsmith.gay^
@@ -74008,6 +73979,7 @@
 ||windowspornhelp.website^
 ||windowspornsecurity.space^
 ||windsor.gay^
+||windsoressexmobilevet.ca^
 ||windsoressexrealestate.com^
 ||winedatingclub.com^
 ||winespiritsexperience.com^
@@ -74131,6 +74103,7 @@
 ||wonderlandsex.xyz^
 ||wonderlandxxx.xyz^
 ||wondersex.ru^
+||wondersexchange.com^
 ||wondersextoys.com^
 ||wongayu.com^
 ||wonporn.com^
@@ -74144,6 +74117,7 @@
 ||woodxxxcom.xyz^
 ||woodyallenpages.com^
 ||wooftree.gay^
+||wooingporn.com^
 ||wooplus.com^
 ||wooporn.xyz^
 ||woor.pl^
@@ -74251,6 +74225,7 @@
 ||wowporntube.net^
 ||wowpornz.top^
 ||wowsalesexpert.com^
+||wowsex.net^
 ||wowsexytimes.com^
 ||wowuncut.com^
 ||wowuncut.org^
@@ -74381,7 +74356,6 @@
 ||wyadultav.com^
 ||wyav.tv^
 ||wyldedesires.com^
-||wyldejaxxx.com^
 ||wyvernsex.com^
 ||wyylde.com^
 ||wzzhaopin.com^
@@ -74457,6 +74431,7 @@
 ||xaijo.com^
 ||xala.az^
 ||xalabahia.com^
+||xaldoxxx.com^
 ||xamateur.net^
 ||xamateurtube.com^
 ||xamclip.info^
@@ -74605,6 +74580,7 @@
 ||xemphimsex4.com^
 ||xemphimsex5.com^
 ||xemphimsex6.com^
+||xemphimsexhayhd.pro^
 ||xemphimsexx.com^
 ||xemphimsexx.xyz^
 ||xempire.com^
@@ -75320,7 +75296,6 @@
 ||xnxx-xxx.net^
 ||xnxx-xxx.org^
 ||xnxx-xxx.pro^
-||xnxx-xxx.win^
 ||xnxx-xxx.xyz^
 ||xnxx-xxx-movies.com^
 ||xnxx-xxx-videos.com^
@@ -75529,7 +75504,6 @@
 ||xnxxxxxarab.homes^
 ||xnxxxxxarab.lol^
 ||xnxxxxxarab.shop^
-||xnxxxxxxporn.shop^
 ||xnxxyouporn.com^
 ||xnxxz.org^
 ||xnxxzoo.pro^
@@ -75593,7 +75567,6 @@
 ||xporn.win^
 ||xporn.yachts^
 ||xporn-gifs.com^
-||xporn1.top^
 ||xpornass.com^
 ||xporncomics.com^
 ||xporncool.net^
@@ -75603,7 +75576,6 @@
 ||xpornhee.com^
 ||xpornhentai.store^
 ||xpornhub.org^
-||xpornhub3.top^
 ||xpornici.com^
 ||xpornium.net^
 ||xpornnetwork.com^
@@ -75694,7 +75666,6 @@
 ||xshemale24.com^
 ||xsijishe.com^
 ||xsin-hub.com^
-||xslut8.com^
 ||xslutx.pro^
 ||xsmb90ngay.net^
 ||xsnvshen.com^
@@ -75749,7 +75720,6 @@
 ||xtrategit.com^
 ||xtraxxx.com^
 ||xtremboy.tv^
-||xtremeadulttoys.com^
 ||xtremechat.com^
 ||xtremexxx.com^
 ||xtube.casa^
@@ -76042,6 +76012,7 @@
 ||xwetpics.com^
 ||xwolfpack.com^
 ||xwsexbit.com^
+||xwsexpro.com^
 ||xwsexus.com^
 ||xwsexx.com^
 ||xwsexxo.com^
@@ -76199,6 +76170,7 @@
 ||xxx.fr^
 ||xxx.hair^
 ||xxx.hamburg^
+||xxx.jewelry^
 ||xxx.observer^
 ||xxx.org^
 ||xxx.rent^
@@ -76271,7 +76243,6 @@
 ||xxx-ladyboys.com^
 ||xxx-leaked.online^
 ||xxx-live.webcam^
-||xxx-lordfilmi.ru^
 ||xxx-magic.com^
 ||xxx-match.com^
 ||xxx-mom.com^
@@ -76279,7 +76250,6 @@
 ||xxx-mpeg.com^
 ||xxx-ok.com^
 ||xxx-pic.com^
-||xxx-pop.com^
 ||xxx-porn.info^
 ||xxx-porn.lol^
 ||xxx-porn.quest^
@@ -76303,6 +76273,7 @@
 ||xxx-safew.com^
 ||xxx-scenes.com^
 ||xxx-seniors.com^
+||xxx-sesso-gratis.com^
 ||xxx-sex.fun^
 ||xxx-sex.one^
 ||xxx-sex.org^
@@ -76356,6 +76327,7 @@
 ||xxx-zoo-porn.site^
 ||xxx-zoofilia.com^
 ||xxx016.app^
+||xxx0524.com^
 ||xxx1.link^
 ||xxx10.vip^
 ||xxx11.shop^
@@ -76368,7 +76340,6 @@
 ||xxx18-sex.com^
 ||xxx18anal.com^
 ||xxx18hot.com^
-||xxx18hot.porn^
 ||xxx18teens.com^
 ||xxx18video.com^
 ||xxx1inch.xyz^
@@ -76397,7 +76368,6 @@
 ||xxx2sex.com^
 ||xxx2tube1.com^
 ||xxx2u.fans^
-||xxx2win.com^
 ||xxx380.com^
 ||xxx380.info^
 ||xxx380.link^
@@ -76414,7 +76384,6 @@
 ||xxx4u.org^
 ||xxx4y.top^
 ||xxx4you.es^
-||xxx55.xyz^
 ||xxx55porn.me^
 ||xxx5ggg.cc^
 ||xxx5the.com^
@@ -76466,14 +76435,12 @@
 ||xxxadd.com^
 ||xxxadultmag.com^
 ||xxxadultporn.com^
-||xxxadultpornxxx.com^
 ||xxxadulttorrent.org^
 ||xxxadultvideo.net^
 ||xxxadultxxx.com^
 ||xxxaed.xyz^
 ||xxxaest.xyz^
 ||xxxaf.com^
-||xxxaflamvideosaflamxxxx.com^
 ||xxxage.xyz^
 ||xxxagent.xyz^
 ||xxxagents.xyz^
@@ -76504,6 +76471,7 @@
 ||xxxanal-cams.ink^
 ||xxxanaldin.video^
 ||xxxanaldin.vip^
+||xxxanalfun.com^
 ||xxxanalweb.com^
 ||xxxanimesex.net^
 ||xxxankr.xyz^
@@ -76753,7 +76721,6 @@
 ||xxxcvx.xyz^
 ||xxxda.xyz^
 ||xxxdai.xyz^
-||xxxdam.com^
 ||xxxdan.asia^
 ||xxxdan.com^
 ||xxxdasi.net^
@@ -76809,7 +76776,6 @@
 ||xxxducks.com^
 ||xxxdude.net^
 ||xxxdune.xyz^
-||xxxdungeon.online^
 ||xxxdusk.xyz^
 ||xxxe474z.pro^
 ||xxxeater.com^
@@ -76912,7 +76878,6 @@
 ||xxxfrax.xyz^
 ||xxxfreak.com^
 ||xxxfree.bond^
-||xxxfree.store^
 ||xxxfree.top^
 ||xxxfree.watch^
 ||xxxfreedirect.com^
@@ -76976,7 +76941,6 @@
 ||xxxhamster.club^
 ||xxxhanex.cc^
 ||xxxhard.xyz^
-||xxxhardxnxx.com^
 ||xxxharmony.xyz^
 ||xxxhbar.xyz^
 ||xxxhd.center^
@@ -77052,7 +77016,6 @@
 ||xxxhotvideo.pro^
 ||xxxhq.me^
 ||xxxhr.com^
-||xxxhub.pro^
 ||xxxhub.stream^
 ||xxxhub.tv^
 ||xxxhub123.com^
@@ -77068,7 +77031,6 @@
 ||xxxicns.xyz^
 ||xxxicp.xyz^
 ||xxxidex.xyz^
-||xxxidol-sextape123.com^
 ||xxxidr.xyz^
 ||xxxii.xyz^
 ||xxxiiiiixo.asia^
@@ -77377,7 +77339,6 @@
 ||xxxonline60.pro^
 ||xxxont.xyz^
 ||xxxonxxx.com^
-||xxxoo.top^
 ||xxxooav-103.com^
 ||xxxooav8z214.xyz^
 ||xxxooo.xyz^
@@ -77443,7 +77404,6 @@
 ||xxxpier.com^
 ||xxxpijpen.nl^
 ||xxxpla.xyz^
-||xxxplati-247.com^
 ||xxxplayer.stream^
 ||xxxplus.media^
 ||xxxpoints.xyz^
@@ -77599,6 +77559,7 @@
 ||xxxsexhuis.nl^
 ||xxxsexiness.com^
 ||xxxsexpic.me^
+||xxxsexshare.com^
 ||xxxsexshare.xyz^
 ||xxxsexshop.ru^
 ||xxxsextube.tv^
@@ -77659,12 +77620,12 @@
 ||xxxspace.net^
 ||xxxspace.top^
 ||xxxspell.xyz^
+||xxxspice.com^
 ||xxxspot.top^
 ||xxxsrm.xyz^
 ||xxxssk.com^
 ||xxxstargate.xyz^
 ||xxxstarknet.xyz^
-||xxxstars.icu^
 ||xxxsteem.xyz^
 ||xxxstereo.com^
 ||xxxstoree.com^
@@ -77687,7 +77648,6 @@
 ||xxxsuperporn.com^
 ||xxxsuperporno.com^
 ||xxxsushi.xyz^
-||xxxswatch.com^
 ||xxxswrv.xyz^
 ||xxxsxp.xyz^
 ||xxxsxxx.com^
@@ -77714,7 +77674,6 @@
 ||xxxteentube.com^
 ||xxxteenvideos.cc^
 ||xxxteenyporn.com^
-||xxxtelefonoerotico.com^
 ||xxxtelefonoerotico.it^
 ||xxxtellor.xyz^
 ||xxxtentacion.com^
@@ -77730,9 +77689,7 @@
 ||xxxtg.website^
 ||xxxtg.xyz^
 ||xxxth.ai^
-||xxxthaf.com^
 ||xxxthaihd.com^
-||xxxthap.com^
 ||xxxthb.xyz^
 ||xxxthe7.com^
 ||xxxthefappening.com^
@@ -77750,7 +77707,6 @@
 ||xxxtik-france.com^
 ||xxxtime.app^
 ||xxxtime.ru^
-||xxxtips.com^
 ||xxxtko.xyz^
 ||xxxtlm.xyz^
 ||xxxto.cyou^
@@ -77784,7 +77740,6 @@
 ||xxxtscams.com^
 ||xxxtse.xyz^
 ||xxxtu.online^
-||xxxtu.space^
 ||xxxtub.net^
 ||xxxtube.best^
 ||xxxtube.com^
@@ -77864,7 +77819,6 @@
 ||xxxvideo.red^
 ||xxxvideo.rodeo^
 ||xxxvideo.sex^
-||xxxvideo.store^
 ||xxxvideo.to^
 ||xxxvideo.vip^
 ||xxxvideo.work^
@@ -77922,6 +77876,7 @@
 ||xxxvideosmix.com^
 ||xxxvideosone.com^
 ||xxxvideosporn.org^
+||xxxvideosxx.lat^
 ||xxxvideosxxx.org^
 ||xxxvideosz.com^
 ||xxxvideoszoo.com^
@@ -77998,6 +77953,7 @@
 ||xxxx4k.com^
 ||xxxx518.vip^
 ||xxxx525.com^
+||xxxx5716.shop^
 ||xxxx6805.com^
 ||xxxx693.com^
 ||xxxx8k.com^
@@ -78011,7 +77967,6 @@
 ||xxxxdddddbb.asia^
 ||xxxxdyw117.com^
 ||xxxxelarab.top^
-||xxxxenon.asia^
 ||xxxxes10.org^
 ||xxxxfacai02.com^
 ||xxxxhamster.org^
@@ -78041,7 +77996,6 @@
 ||xxxxtrapretty.com^
 ||xxxxtube-porn24.com^
 ||xxxxvg.xyz^
-||xxxxvideo.club^
 ||xxxxvideo.org^
 ||xxxxvideo.uno^
 ||xxxxvideoos.xyz^
@@ -78099,7 +78053,6 @@
 ||xxxxxxxxxxxxxxx.co^
 ||xxxxxxxxxz.com^
 ||xxxy.me^
-||xxxy406.top^
 ||xxxy8.com^
 ||xxxy8pg.com^
 ||xxxyaoi.app^
@@ -78119,6 +78072,7 @@
 ||xxxyumi.xyz^
 ||xxxyvisuals.com^
 ||xxxyy4.com^
+||xxxyyy.online^
 ||xxxz.tv^
 ||xxxz.work^
 ||xxxzar.xyz^
@@ -78294,6 +78248,7 @@
 ||yd-house82.com^
 ||ydhub13.net^
 ||yeaforums.com^
+||yeahcam.com^
 ||69seks.yeahh.com^
 ||gay-sex-hikayeleri-1.yeahh.com^
 ||yeahporn.top^
@@ -78374,7 +78329,6 @@
 ||yespornplease.com^
 ||yespornplease.de^
 ||yespornplease.es^
-||yespornplease.fi^
 ||yespornplease.fr^
 ||yespornplease.fun^
 ||yespornplease.it^
@@ -78395,7 +78349,6 @@
 ||yesvids.com^
 ||yeswegay.cfd^
 ||yeswegays.com^
-||yesweporn.com^
 ||yesweporn.net^
 ||yesweporn.org^
 ||yetiskinsexhatti.com^
@@ -78405,13 +78358,13 @@
 ||yeusex2.top^
 ||yeusex3.top^
 ||yevpatoria-sex24.ru^
+||yewan.gay^
 ||yezzclips.com^
 ||yfiporn.xyz^
 ||yfisex.xyz^
 ||yfixxx.xyz^
 ||yfyxxx.top^
 ||ygayyadinsaat.com^
-||ygdgayrimenkul.com^
 ||yggporn.xyz^
 ||yggsex.xyz^
 ||yggxxx.xyz^
@@ -78434,7 +78387,6 @@
 ||yiqii.gay^
 ||yiqikan.gay^
 ||yiqikanfqy.gay^
-||yiqikanm.gay^
 ||yitongkpp.gay^
 ||yjouporn.com^
 ||ykdgayrimenkul.com^
@@ -78477,7 +78429,6 @@
 ||yogayasa.net^
 ||yogayatra.de^
 ||yogayields.click^
-||yogayogal.info^
 ||yogayonder.site^
 ||yogitafun.com^
 ||yohaoo.com^
@@ -78529,9 +78480,8 @@
 ||youcontrolher.com^
 ||youcrazyx.com^
 ||youcuck.com^
-||youdirtydogbillerica.com^
-||youfans.xxx^
 ||youfap.mom^
+||youfetish.lt^
 ||youfuck.top^
 ||youfukt.com^
 ||yougayporn.bond^
@@ -78671,6 +78621,7 @@
 ||youporn-watch.com^
 ||youporn4u.com^
 ||youpornafrica.website^
+||youporncam.click^
 ||youpornchina.website^
 ||youporndeutsch.biz^
 ||youporndeutsch.co^
@@ -78703,14 +78654,13 @@
 ||youppie.net^
 ||your-daily-girl.com^
 ||your-erotic-stories.com^
+||your-ex.com^
 ||your-techteemsexpert.com^
 ||your-techteemsexperts.com^
 ||your69girls.com^
-||youradultadventuregame.com^
 ||youradultessentials.com^
 ||youradultpages.com^
 ||youradultstory.com^
-||youradultstorygame.com^
 ||youramateurporn.com^
 ||youramateurtube.com^
 ||youravhost.net^
@@ -78830,6 +78780,7 @@
 ||yozgatfurkannakliyat.com^
 ||yp69.net^
 ||ypanetwork.com^
+||ypnwgafnibslutdu.uk^
 ||yporn.lol^
 ||yporn.me^
 ||yporn.tv^
@@ -78849,6 +78800,7 @@
 ||ytemisexaro.com^
 ||ytro-rossii.ru^
 ||yuan.fit^
+||yubepornstars.com^
 ||yuchen.gay^
 ||yuckboyslive.com^
 ||yufap.com^
@@ -79030,6 +78982,7 @@
 ||zepitsu.sex^
 ||zeporn.live^
 ||zeren.gay^
+||zergayrimenkulonline.com^
 ||zergroupgayrimenkul.com^
 ||zeroadults.pl^
 ||zeroadultsverse.pl^
@@ -79049,7 +79002,6 @@
 ||zeussensex.xyz^
 ||zexut.com^
 ||zeytinburnuescortmanken.site^
-||zfsexx.com^
 ||zgayhg.com^
 ||zgayler.com^
 ||zgayw.com^
@@ -79110,7 +79062,6 @@
 ||zkwu.lol^
 ||zlata.de^
 ||zlatoust-sex24.ru^
-||zloeporn.net^
 ||zlovedoll.com^
 ||zlut.com^
 ||zmarsa.com^
@@ -79370,6 +79321,7 @@
 ||zxxxcx.com^
 ||zxxxsz.cc^
 ||zxxxx.cc^
+||zxxxxvideos.com^
 ||zyamy.com^
 ||zyntrixxx.xyz^
 ||zyxporn.website^

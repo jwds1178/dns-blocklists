@@ -4845,20 +4845,6 @@
       }
     },
     {
-      "PK": "gtexpsers.cc",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gtsepress.vip",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "guest.de",
       "action": {
         "do": 0,
@@ -5084,13 +5070,6 @@
     },
     {
       "PK": "hostland.pro",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "hostmeans.shop",
       "action": {
         "do": 0,
         "status": 1

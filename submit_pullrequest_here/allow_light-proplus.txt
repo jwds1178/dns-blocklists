@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# Queries device coverage and guarantee data to assist support teams
+supportmetrics.apple.com
+
 # https://github.com/hagezi/dns-blocklists/issues/2569
 a-fds.youborafds01.com
 

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 23:46 UTC
-# Version: 2025.1015.2346.40
+# Last modified: 16 Oct 2025 11:36 UTC
+# Version: 2025.1016.1136.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3423
+# Number of entries: 3417
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1353,8 +1353,6 @@ local=/us-ny.foxyfy.net/
 local=/us-sj.foxyfy.net/
 local=/fptdns.site/
 local=/dns.family.fraiss.at/
-local=/v7.frame-one.cc/
-local=/v8.frame-one.cc/
 local=/resolver.frank-ruan.com/
 local=/wandana.franklinfamily.au/
 local=/agent.frankutils.xyz/
@@ -1491,7 +1489,6 @@ local=/dns.gupthabrothers.in/
 local=/dns.gussguss.ovh/
 local=/dns.gutwe.in/
 local=/nas.guyifei.cn/
-local=/adguard.guyot.group/
 local=/hkns.gzelvis.com/
 local=/gztech.me/
 local=/dns.h0schi.cloud/
@@ -1614,14 +1611,11 @@ local=/dns.huseynov.work/
 local=/dns.huth.nu/
 local=/v2-1.huwenqiang.xyz/
 local=/ad.huyct.net/
-local=/dns.huyhoangit.net/
 local=/dns.huyizhou.com/
-local=/dns.huynd.click/
 local=/dns.hva.li/
 local=/dns.hwtwco.uk/
 local=/d.hxhd.cc/
 local=/dns.hyas.com/
-local=/dns.hypercute.eu/
 local=/hkg.hytec.org/
 local=/ur.hytec.org/
 local=/ns1.i-evolve.net/

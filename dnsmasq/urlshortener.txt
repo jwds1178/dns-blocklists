@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Oct 2025 22:29 UTC
-# Version: 2025.1015.2229.08
+# Last modified: 16 Oct 2025 10:26 UTC
+# Version: 2025.1016.1026.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7752
+# Number of entries: 7749
 #
 local=/0.gp/
 local=/00m.in/
@@ -2247,7 +2247,6 @@ local=/fscu.net/
 local=/fstgo.to/
 local=/fstrk.cc/
 local=/url-shortener.yc.fstrk.io/
-local=/fsu.ro/
 local=/fsv.tf/
 local=/on.ft.com/
 local=/ftim.eu/
@@ -2428,7 +2427,6 @@ local=/gmy.su/
 local=/gn.am/
 local=/gnam.me/
 local=/gnm.li/
-local=/gnute.team/
 local=/go.aws/
 local=/go.ford/
 local=/go.ly/
@@ -2718,7 +2716,6 @@ local=/huma.na/
 local=/huntscreens.com/
 local=/hurirk.net/
 local=/hurl.it/
-local=/hurl.me/
 local=/hurl.ws/
 local=/husband92.com/
 local=/hut.bz/

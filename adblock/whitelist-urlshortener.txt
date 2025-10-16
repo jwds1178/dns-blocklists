@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Oct 2025 22:29 UTC
-! Version: 2025.1015.2229.08
+! Last modified: 16 Oct 2025 10:26 UTC
+! Version: 2025.1016.1026.44
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2173,7 +2173,6 @@
 @@||fstgo.to^
 @@||fstrk.cc^
 @@||url-shortener.yc.fstrk.io^
-@@||fsu.ro^
 @@||fsv.tf^
 @@||on.ft.com^
 @@||ftim.eu^
@@ -2350,7 +2349,6 @@
 @@||gn.am^
 @@||gnam.me^
 @@||gnm.li^
-@@||gnute.team^
 @@||go.aws^
 @@||go.ford^
 @@||s.bnpb.go.id^
@@ -2629,7 +2627,6 @@
 @@||huntscreens.com^
 @@||hurirk.net^
 @@||hurl.it^
-@@||hurl.me^
 @@||hurl.ws^
 @@||husband92.com^
 @@||hut.bz^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760536020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760612400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Oct 2025 13:47 UTC
-; Version: 2025.1015.1347.51
+; Last modified: 16 Oct 2025 11:00 UTC
+; Version: 2025.1016.1100.12
 ; Syntax: RPZ
-; Number of entries: 2770
+; Number of entries: 2764
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -150,8 +150,6 @@ flu.cc CNAME .
 *.flu.cc CNAME .
 freehosting.cc CNAME .
 *.freehosting.cc CNAME .
-gtexpsers.cc CNAME .
-*.gtexpsers.cc CNAME .
 ibiz.cc CNAME .
 *.ibiz.cc CNAME .
 ispot.cc CNAME .
@@ -2490,8 +2488,6 @@ harise.shop CNAME .
 *.harise.shop CNAME .
 helpfri.shop CNAME .
 *.helpfri.shop CNAME .
-hostmeans.shop CNAME .
-*.hostmeans.shop CNAME .
 hotloss.shop CNAME .
 *.hotloss.shop CNAME .
 hundredtrue.shop CNAME .
@@ -2748,8 +2744,6 @@ bateicpoint.vip CNAME .
 *.bateicpoint.vip CNAME .
 bgydnb.vip CNAME .
 *.bgydnb.vip CNAME .
-gtsepress.vip CNAME .
-*.gtsepress.vip CNAME .
 imtokne.vip CNAME .
 *.imtokne.vip CNAME .
 webnode.vn CNAME .
