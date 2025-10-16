@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Oct 2025 10:26 UTC
-! Version: 2025.1016.1026.44
+! Last modified: 16 Oct 2025 22:27 UTC
+! Version: 2025.1016.2227.14
 ! Syntax: AdBlock
-! Number of entries: 7749
+! Number of entries: 7741
 !
 ||0.gp^
 ||00m.in^
@@ -3064,7 +3064,6 @@
 ||jz.rs^
 ||k-p.li^
 ||k-qr.com^
-||k2.ma^
 ||k2v.pro^
 ||k33.bz^
 ||k9.ms^
@@ -3090,7 +3089,6 @@
 ||kaz.sk^
 ||kbank.co^
 ||kbit.co^
-||kbitly.com^
 ||kck.st^
 ||slurl.keatsmedia.ca^
 ||keckcntr.com^
@@ -3210,7 +3208,6 @@
 ||kuku.lu^
 ||kulink.me^
 ||kuoqnt.com^
-||kurl.ru^
 ||kurly.it^
 ||kurv.gr^
 ||kurz.jetzt^
@@ -3387,12 +3384,10 @@
 ||link2.it^
 ||link2.pt^
 ||link24.kr^
-||link3s.net^
 ||link4.net^
 ||link4u.uk^
 ||linka.li^
 ||linkable.id^
-||linkable.to^
 ||linkaff.com^
 ||linkai.in^
 ||linkaku.homes^
@@ -3400,7 +3395,6 @@
 ||linkallstar.com^
 ||linkalp.com^
 ||linkapp.click^
-||linkasd.com^
 ||linkasli.pro^
 ||linkb.ee^
 ||linkbag.co^
@@ -3713,7 +3707,6 @@
 ||lprk.co^
 ||lr53r.com^
 ||lrl.li^
-||lrrahad200346.info^
 ||lru.jp^
 ||ls.st^
 ||go.lsb.nrw^
@@ -4236,7 +4229,6 @@
 ||nectarios.info^
 ||neexulro.net^
 ||nefeli.live^
-||nefix.de^
 ||neflixenomovies.com^
 ||nej.md^
 ||neonslug.com^

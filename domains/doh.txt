@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:36 UTC
-# Version: 2025.1016.1136.19
+# Last modified: 16 Oct 2025 23:37 UTC
+# Version: 2025.1016.2337.46
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3896
+# Number of entries: 3892
 #
 ss.0001.xyz
 003153.xyz
@@ -1296,6 +1296,7 @@ dns.doserver.top
 dot.pub
 ns1.dotls.org
 dns.dotnet.win
+family.dns.doubleangels.com
 agh.doubleatech.site
 douglaster.com
 dotserver.douyucdn.cn
@@ -2072,7 +2073,6 @@ jimmyshjj.top
 dns.jimwelanobong.com
 dns.jinwoo.dev
 srv5.jiripocta.cz
-hk.jiusi.one
 dns.jiyi.eu
 jkdns.me
 dns.jluo.app
@@ -2267,7 +2267,6 @@ externalmobiel.lekdijk.online
 lelux.fi
 dns.lepilleur.com
 dns.lermer.nl
-lesuo.top
 dns.levonet.sk
 lewsha.lol
 br2.lezainski.com
@@ -2425,7 +2424,6 @@ securenet.mhsystems.net
 next.miao.ninja
 dns.michelo.cl
 ss.microbaidu.com
-doh.micronets.in
 dns.midping.ir
 dns.mihalcea.eu
 agh.mihanentalpo.me
@@ -2442,7 +2440,6 @@ rwkdwpwsyv48.mikopono.nl
 ukns.milangas2.top
 dns.milkpie.one
 aitkcrev.minhduc.pw
-miniapp.global
 minilla.store
 guard.miracloud.fr
 miskoss.fun
@@ -2543,7 +2540,6 @@ che.myasustor.com
 justfor.myasustor.com
 nas-scheiben34.myasustor.com
 zanty123456.myasustor.com
-myatris.sbs
 adguard.myddns.org
 adguard-home.myddns.me
 mydevpn.eu

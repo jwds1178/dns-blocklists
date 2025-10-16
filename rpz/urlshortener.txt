@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760610360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760653620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 10:26 UTC
-; Version: 2025.1016.1026.44
+; Last modified: 16 Oct 2025 22:27 UTC
+; Version: 2025.1016.2227.14
 ; Syntax: RPZ
-; Number of entries: 15498
+; Number of entries: 15482
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3641,8 +3641,6 @@ sms.katapult.com CNAME .
 *.sms.katapult.com CNAME .
 katespadesneakpeek.com CNAME .
 *.katespadesneakpeek.com CNAME .
-kbitly.com CNAME .
-*.kbitly.com CNAME .
 keckcntr.com CNAME .
 *.keckcntr.com CNAME .
 kinky-pipes.com CNAME .
@@ -3715,8 +3713,6 @@ linkallstar.com CNAME .
 *.linkallstar.com CNAME .
 linkalp.com CNAME .
 *.linkalp.com CNAME .
-linkasd.com CNAME .
-*.linkasd.com CNAME .
 linkbeton.com CNAME .
 *.linkbeton.com CNAME .
 linkbirdy.com CNAME .
@@ -5835,8 +5831,6 @@ merky.de CNAME .
 *.merky.de CNAME .
 mzm1.de CNAME .
 *.mzm1.de CNAME .
-nefix.de CNAME .
-*.nefix.de CNAME .
 no404.de CNAME .
 *.no404.de CNAME .
 qrco.de CNAME .
@@ -7671,8 +7665,6 @@ linktexas.info CNAME .
 *.linktexas.info CNAME .
 liscr.info CNAME .
 *.liscr.info CNAME .
-lrrahad200346.info CNAME .
-*.lrrahad200346.info CNAME .
 maper.info CNAME .
 *.maper.info CNAME .
 markholtz.info CNAME .
@@ -10417,8 +10409,6 @@ dd.ma CNAME .
 *.dd.ma CNAME .
 ja.ma CNAME .
 *.ja.ma CNAME .
-k2.ma CNAME .
-*.k2.ma CNAME .
 mo.ma CNAME .
 *.mo.ma CNAME .
 poie.ma CNAME .
@@ -11669,8 +11659,6 @@ lillink.net CNAME .
 *.lillink.net CNAME .
 link1s.net CNAME .
 *.link1s.net CNAME .
-link3s.net CNAME .
-*.link3s.net CNAME .
 link4.net CNAME .
 *.link4.net CNAME .
 linkcut.net CNAME .
@@ -13237,8 +13225,6 @@ iplogger.ru CNAME .
 *.iplogger.ru CNAME .
 k9.ru CNAME .
 *.k9.ru CNAME .
-kurl.ru CNAME .
-*.kurl.ru CNAME .
 lilllil.ru CNAME .
 *.lilllil.ru CNAME .
 linkoo.ru CNAME .
@@ -14149,8 +14135,6 @@ lilnk.to CNAME .
 *.lilnk.to CNAME .
 lingkod.to CNAME .
 *.lingkod.to CNAME .
-linkable.to CNAME .
-*.linkable.to CNAME .
 linke.to CNAME .
 *.linke.to CNAME .
 linkfly.to CNAME .

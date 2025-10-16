@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:36 UTC
-# Version: 2025.1016.1136.19
+# Last modified: 16 Oct 2025 23:37 UTC
+# Version: 2025.1016.2337.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3417
+# Number of entries: 3413
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1092,6 +1092,7 @@ local=/dns.doserver.top/
 local=/dot.pub/
 local=/ns1.dotls.org/
 local=/dns.dotnet.win/
+local=/family.dns.doubleangels.com/
 local=/agh.doubleatech.site/
 local=/douglaster.com/
 local=/dotserver.douyucdn.cn/
@@ -1760,7 +1761,6 @@ local=/jimmyshjj.top/
 local=/dns.jimwelanobong.com/
 local=/dns.jinwoo.dev/
 local=/srv5.jiripocta.cz/
-local=/hk.jiusi.one/
 local=/dns.jiyi.eu/
 local=/jkdns.me/
 local=/dns.jluo.app/
@@ -1944,7 +1944,6 @@ local=/externalmobiel.lekdijk.online/
 local=/lelux.fi/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
-local=/lesuo.top/
 local=/dns.levonet.sk/
 local=/lewsha.lol/
 local=/br2.lezainski.com/
@@ -2096,7 +2095,6 @@ local=/securenet.mhsystems.net/
 local=/next.miao.ninja/
 local=/dns.michelo.cl/
 local=/ss.microbaidu.com/
-local=/doh.micronets.in/
 local=/dns.midping.ir/
 local=/dns.mihalcea.eu/
 local=/agh.mihanentalpo.me/
@@ -2110,7 +2108,6 @@ local=/rwkdwpwsyv48.mikopono.nl/
 local=/ukns.milangas2.top/
 local=/dns.milkpie.one/
 local=/aitkcrev.minhduc.pw/
-local=/miniapp.global/
 local=/minilla.store/
 local=/guard.miracloud.fr/
 local=/miskoss.fun/
@@ -2190,7 +2187,6 @@ local=/che.myasustor.com/
 local=/justfor.myasustor.com/
 local=/nas-scheiben34.myasustor.com/
 local=/zanty123456.myasustor.com/
-local=/myatris.sbs/
 local=/adguard.myddns.org/
 local=/adguard-home.myddns.me/
 local=/mydevpn.eu/

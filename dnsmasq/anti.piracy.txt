@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:30 UTC
-# Version: 2025.1016.1130.46
+# Last modified: 16 Oct 2025 23:32 UTC
+# Version: 2025.1016.2332.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11487
+# Number of entries: 11479
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5344,7 +5344,6 @@ local=/kickass.cm/
 local=/kickass.so/
 local=/kickass.to/
 local=/kickass.ws/
-local=/kickass2.ch/
 local=/kickass2.fun/
 local=/kickass2.org/
 local=/kickass2.xyz/
@@ -5586,7 +5585,6 @@ local=/tracker.kuroy.me/
 local=/ts.kurtubba.com/
 local=/kuyhaa.me/
 local=/kuyhaa-me.site/
-local=/kwik.si/
 local=/tr.kxmp.cf/
 local=/tr.kxmp.ml/
 local=/l33t-raws.org/
@@ -5927,7 +5925,6 @@ local=/malaysiabay.org/
 local=/mamahd.best/
 local=/mamahd.org/
 local=/mamahd.to/
-local=/mamahd.ws/
 local=/mameworld.info/
 local=/mamul.am/
 local=/manga-addict.fr/
@@ -5965,7 +5962,6 @@ local=/matrix-virovitica.com/
 local=/mawtoload.com/
 local=/max-rls.com/
 local=/max2013schweiz.club/
-local=/maxseries.top/
 local=/maxwarez.ru/
 local=/mayasoftbd.net/
 local=/mayi.tw/
@@ -6153,7 +6149,6 @@ local=/livetv.mirpur.online/
 local=/mirpurnetbd.com/
 local=/mirpurtech.com/
 local=/mirrorbay.org/
-local=/mirrorbay.top/
 local=/miru.watch/
 local=/miruro.com/
 local=/miruro.tv/
@@ -6219,7 +6214,6 @@ local=/moddedguru.com/
 local=/moddedspotify.link/
 local=/modder.me/
 local=/moddroid.com/
-local=/moddroid.io/
 local=/moddude.com/
 local=/moded1.com/
 local=/modestme.site/
@@ -6387,7 +6381,6 @@ local=/moviesm4u.net/
 local=/moviesmania.info/
 local=/moviesmobile.net/
 local=/moviesmod.dev/
-local=/moviesmod.email/
 local=/moviesmod.plus/
 local=/moviesmod.space/
 local=/moviesnipipay.me/
@@ -6719,7 +6712,6 @@ local=/networkstress.xyz/
 local=/networkstresser.com/
 local=/networkstresser.net/
 local=/neu-pro.com/
-local=/neuf.xyz/
 local=/neufneuf.space/
 local=/neuvertonung.de/
 local=/neverland.ws/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760614560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760657820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 11:36 UTC
-; Version: 2025.1016.1136.19
+; Last modified: 16 Oct 2025 23:37 UTC
+; Version: 2025.1016.2337.46
 ; Syntax: RPZ
-; Number of entries: 6834
+; Number of entries: 6826
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1047,6 +1047,8 @@ doh.us.dnswarden.com CNAME .
 *.doh.us.dnswarden.com CNAME .
 dnswebvsn.com CNAME .
 *.dnswebvsn.com CNAME .
+family.dns.doubleangels.com CNAME .
+*.family.dns.doubleangels.com CNAME .
 douglaster.com CNAME .
 *.douglaster.com CNAME .
 de-adguard.dr3ff1c13nt.com CNAME .
@@ -2803,8 +2805,6 @@ cloud.198.games CNAME .
 *.cloud.198.games CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
-miniapp.global CNAME .
-*.miniapp.global CNAME .
 8888.google CNAME .
 *.8888.google CNAME .
 dns.google CNAME .
@@ -3033,8 +3033,6 @@ dns.kapite.in CNAME .
 *.dns.kapite.in CNAME .
 dns.mailcastle.in CNAME .
 *.dns.mailcastle.in CNAME .
-doh.micronets.in CNAME .
-*.doh.micronets.in CNAME .
 h.ra3.in CNAME .
 *.h.ra3.in CNAME .
 dns.skrep.in CNAME .
@@ -4601,8 +4599,6 @@ dns.hoian.one CNAME .
 *.dns.hoian.one CNAME .
 ag.iyn.one CNAME .
 *.ag.iyn.one CNAME .
-hk.jiusi.one CNAME .
-*.hk.jiusi.one CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
 server01.karl.one CNAME .
@@ -5891,8 +5887,6 @@ doh.sb CNAME .
 *.doh.sb CNAME .
 dns.butterfly87.sbs CNAME .
 *.dns.butterfly87.sbs CNAME .
-myatris.sbs CNAME .
-*.myatris.sbs CNAME .
 dns.tbs6920.sbs CNAME .
 *.dns.tbs6920.sbs CNAME .
 dns.haka.se CNAME .
@@ -6173,8 +6167,6 @@ blog.kimiblock.top CNAME .
 *.2024.laijy.top CNAME .
 lboxtv.top CNAME .
 *.lboxtv.top CNAME .
-lesuo.top CNAME .
-*.lesuo.top CNAME .
 xm.ln7371.top CNAME .
 *.xm.ln7371.top CNAME .
 an.loliconapp.top CNAME .

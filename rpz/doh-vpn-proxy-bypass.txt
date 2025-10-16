@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760614560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760657880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 11:36 UTC
-; Version: 2025.1016.1136.46
+; Last modified: 16 Oct 2025 23:38 UTC
+; Version: 2025.1016.2338.11
 ; Syntax: RPZ
-; Number of entries: 12406
+; Number of entries: 12386
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1897,6 +1897,8 @@ dnswebvsn.com CNAME .
 *.dnswebvsn.com CNAME .
 dotvpn.com CNAME .
 *.dotvpn.com CNAME .
+family.dns.doubleangels.com CNAME .
+*.family.dns.doubleangels.com CNAME .
 douglaster.com CNAME .
 *.douglaster.com CNAME .
 downloadvpnfree.com CNAME .
@@ -2793,8 +2795,6 @@ dns.kugoapps.com CNAME .
 *.dns.kugoapps.com CNAME .
 adguard.kujoe.com CNAME .
 *.adguard.kujoe.com CNAME .
-kyoheitensai.com CNAME .
-*.kyoheitensai.com CNAME .
 lablancer.com CNAME .
 *.lablancer.com CNAME .
 www-proxy.ladifsoftware.com CNAME .
@@ -2809,14 +2809,6 @@ dns.lauraeguido.com CNAME .
 *.dns.lauraeguido.com CNAME .
 adguard.laurenlaufman.com CNAME .
 *.adguard.laurenlaufman.com CNAME .
-inboxdayo.laviewddns.com CNAME .
-*.inboxdayo.laviewddns.com CNAME .
-inboxproxy.laviewddns.com CNAME .
-*.inboxproxy.laviewddns.com CNAME .
-korededouda.laviewddns.com CNAME .
-*.korededouda.laviewddns.com CNAME .
-taihenomatasesimasita.laviewddns.com CNAME .
-*.taihenomatasesimasita.laviewddns.com CNAME .
 dns.lavir.com CNAME .
 *.dns.lavir.com CNAME .
 iterator.lazada.com CNAME .
@@ -5365,8 +5357,6 @@ genscorp.es CNAME .
 *.genscorp.es CNAME .
 getproxi.es CNAME .
 *.getproxi.es CNAME .
-lowlow.jellyfl1x.es CNAME .
-*.lowlow.jellyfl1x.es CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
 sacarino.es CNAME .
@@ -5803,8 +5793,6 @@ hellotaka.wiki.gd CNAME .
 *.hellotaka.wiki.gd CNAME .
 doh.futa.gg CNAME .
 *.doh.futa.gg CNAME .
-miniapp.global CNAME .
-*.miniapp.global CNAME .
 ipprotectionauth.goog CNAME .
 *.ipprotectionauth.goog CNAME .
 8888.google CNAME .
@@ -6129,8 +6117,6 @@ dns.kapite.in CNAME .
 *.dns.kapite.in CNAME .
 dns.mailcastle.in CNAME .
 *.dns.mailcastle.in CNAME .
-doh.micronets.in CNAME .
-*.doh.micronets.in CNAME .
 mywebproxy.in CNAME .
 *.mywebproxy.in CNAME .
 proxite.in CNAME .
@@ -9057,8 +9043,6 @@ dns.hoian.one CNAME .
 *.dns.hoian.one CNAME .
 ag.iyn.one CNAME .
 *.ag.iyn.one CNAME .
-hk.jiusi.one CNAME .
-*.hk.jiusi.one CNAME .
 dns.karl.one CNAME .
 *.dns.karl.one CNAME .
 server01.karl.one CNAME .
@@ -10917,8 +10901,6 @@ doh.sb CNAME .
 *.doh.sb CNAME .
 dns.butterfly87.sbs CNAME .
 *.dns.butterfly87.sbs CNAME .
-myatris.sbs CNAME .
-*.myatris.sbs CNAME .
 dns.tbs6920.sbs CNAME .
 *.dns.tbs6920.sbs CNAME .
 b-dns.se CNAME .
@@ -11355,8 +11337,6 @@ blog.kimiblock.top CNAME .
 *.2024.laijy.top CNAME .
 lboxtv.top CNAME .
 *.lboxtv.top CNAME .
-lesuo.top CNAME .
-*.lesuo.top CNAME .
 litevpn.top CNAME .
 *.litevpn.top CNAME .
 xm.ln7371.top CNAME .

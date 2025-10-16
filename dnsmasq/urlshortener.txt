@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 10:26 UTC
-# Version: 2025.1016.1026.44
+# Last modified: 16 Oct 2025 22:27 UTC
+# Version: 2025.1016.2227.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 7749
+# Number of entries: 7741
 #
 local=/0.gp/
 local=/00m.in/
@@ -3063,7 +3063,6 @@ local=/jxxl.live/
 local=/jz.rs/
 local=/k-p.li/
 local=/k-qr.com/
-local=/k2.ma/
 local=/k2v.pro/
 local=/k33.bz/
 local=/k9.ms/
@@ -3089,7 +3088,6 @@ local=/katzr.net/
 local=/kaz.sk/
 local=/kbank.co/
 local=/kbit.co/
-local=/kbitly.com/
 local=/kck.st/
 local=/slurl.keatsmedia.ca/
 local=/keckcntr.com/
@@ -3209,7 +3207,6 @@ local=/kuik.li/
 local=/kuku.lu/
 local=/kulink.me/
 local=/kuoqnt.com/
-local=/kurl.ru/
 local=/kurly.it/
 local=/kurv.gr/
 local=/kurz.jetzt/
@@ -3386,12 +3383,10 @@ local=/link1s.top/
 local=/link2.it/
 local=/link2.pt/
 local=/link24.kr/
-local=/link3s.net/
 local=/link4.net/
 local=/link4u.uk/
 local=/linka.li/
 local=/linkable.id/
-local=/linkable.to/
 local=/linkaff.com/
 local=/linkai.in/
 local=/linkaku.homes/
@@ -3399,7 +3394,6 @@ local=/linkaku.pro/
 local=/linkallstar.com/
 local=/linkalp.com/
 local=/linkapp.click/
-local=/linkasd.com/
 local=/linkasli.pro/
 local=/linkb.ee/
 local=/linkbag.co/
@@ -3712,7 +3706,6 @@ local=/lph.la/
 local=/lprk.co/
 local=/lr53r.com/
 local=/lrl.li/
-local=/lrrahad200346.info/
 local=/lru.jp/
 local=/ls.st/
 local=/go.lsb.nrw/
@@ -4235,7 +4228,6 @@ local=/nearurl.com/
 local=/nectarios.info/
 local=/neexulro.net/
 local=/nefeli.live/
-local=/nefix.de/
 local=/neflixenomovies.com/
 local=/nej.md/
 local=/neonslug.com/

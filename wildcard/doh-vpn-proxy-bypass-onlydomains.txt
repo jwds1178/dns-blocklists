@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:36 UTC
-# Version: 2025.1016.1136.46
+# Last modified: 16 Oct 2025 23:38 UTC
+# Version: 2025.1016.2338.11
 # Syntax: Domains (without subdomains)
-# Number of entries: 6203
+# Number of entries: 6193
 #
 ss.0001.xyz
 003153.xyz
@@ -1723,6 +1723,7 @@ dot.pub
 ns1.dotls.org
 dns.dotnet.win
 dotvpn.com
+family.dns.doubleangels.com
 agh.doubleatech.site
 doublehop.me
 douglaster.com
@@ -2925,7 +2926,6 @@ aghome.jcconnell.com
 dns.jcdn.site
 jcdns.fun
 dns.jd.com
-lowlow.jellyfl1x.es
 jellyvpn.com
 doh.jeroenhd.nl
 host.jerry-lee.uk
@@ -2943,7 +2943,6 @@ jimmyshjj.top
 dns.jimwelanobong.com
 dns.jinwoo.dev
 srv5.jiripocta.cz
-hk.jiusi.one
 dns.jiyi.eu
 jkdns.me
 dns.jluo.app
@@ -3133,7 +3132,6 @@ dns.kxy.ink
 dn.kyay006.cn
 joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org
 henry-and-evan-cant-rizz.kyleton.org
-kyoheitensai.com
 agh.kyusang.win
 dns.kzrz.pl
 dns.l337.site
@@ -3165,10 +3163,6 @@ dns.lauraeguido.com
 adguard.laurenlaufman.com
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
-inboxdayo.laviewddns.com
-inboxproxy.laviewddns.com
-korededouda.laviewddns.com
-taihenomatasesimasita.laviewddns.com
 dns.lavir.com
 iterator.lazada.com
 lboxtv.top
@@ -3192,7 +3186,6 @@ externalmobiel.lekdijk.online
 lelux.fi
 dns.lepilleur.com
 dns.lermer.nl
-lesuo.top
 letsvpn.world
 dns.levonet.sk
 lewsha.lol
@@ -3409,7 +3402,6 @@ securenet.mhsystems.net
 next.miao.ninja
 dns.michelo.cl
 ss.microbaidu.com
-doh.micronets.in
 microvpn.com
 dns.midping.ir
 www-proxy.migastep.com
@@ -3427,7 +3419,6 @@ dns.milkpie.one
 craftmaine.mine.bz
 hihihi.minecraftnoob.com
 aitkcrev.minhduc.pw
-miniapp.global
 minilla.store
 miniprox.com
 miniprox.info
@@ -3532,7 +3523,6 @@ che.myasustor.com
 justfor.myasustor.com
 nas-scheiben34.myasustor.com
 zanty123456.myasustor.com
-myatris.sbs
 mycelium.site
 abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com
 example.myclarevision.com

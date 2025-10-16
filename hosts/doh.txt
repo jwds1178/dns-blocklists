@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:36 UTC
-# Version: 2025.1016.1136.19
+# Last modified: 16 Oct 2025 23:37 UTC
+# Version: 2025.1016.2337.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3896
+# Number of entries: 3892
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1296,6 +1296,7 @@
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
+0.0.0.0 family.dns.doubleangels.com
 0.0.0.0 agh.doubleatech.site
 0.0.0.0 douglaster.com
 0.0.0.0 dotserver.douyucdn.cn
@@ -2072,7 +2073,6 @@
 0.0.0.0 dns.jimwelanobong.com
 0.0.0.0 dns.jinwoo.dev
 0.0.0.0 srv5.jiripocta.cz
-0.0.0.0 hk.jiusi.one
 0.0.0.0 dns.jiyi.eu
 0.0.0.0 jkdns.me
 0.0.0.0 dns.jluo.app
@@ -2267,7 +2267,6 @@
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
-0.0.0.0 lesuo.top
 0.0.0.0 dns.levonet.sk
 0.0.0.0 lewsha.lol
 0.0.0.0 br2.lezainski.com
@@ -2425,7 +2424,6 @@
 0.0.0.0 next.miao.ninja
 0.0.0.0 dns.michelo.cl
 0.0.0.0 ss.microbaidu.com
-0.0.0.0 doh.micronets.in
 0.0.0.0 dns.midping.ir
 0.0.0.0 dns.mihalcea.eu
 0.0.0.0 agh.mihanentalpo.me
@@ -2442,7 +2440,6 @@
 0.0.0.0 ukns.milangas2.top
 0.0.0.0 dns.milkpie.one
 0.0.0.0 aitkcrev.minhduc.pw
-0.0.0.0 miniapp.global
 0.0.0.0 minilla.store
 0.0.0.0 guard.miracloud.fr
 0.0.0.0 miskoss.fun
@@ -2543,7 +2540,6 @@
 0.0.0.0 justfor.myasustor.com
 0.0.0.0 nas-scheiben34.myasustor.com
 0.0.0.0 zanty123456.myasustor.com
-0.0.0.0 myatris.sbs
 0.0.0.0 adguard.myddns.org
 0.0.0.0 adguard-home.myddns.me
 0.0.0.0 mydevpn.eu

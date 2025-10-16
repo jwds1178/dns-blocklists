@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:36 UTC
-# Version: 2025.1016.1136.46
+# Last modified: 16 Oct 2025 23:38 UTC
+# Version: 2025.1016.2338.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6203
+# Number of entries: 6193
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1723,6 +1723,7 @@ local=/dot.pub/
 local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/dotvpn.com/
+local=/family.dns.doubleangels.com/
 local=/agh.doubleatech.site/
 local=/doublehop.me/
 local=/douglaster.com/
@@ -2925,7 +2926,6 @@ local=/aghome.jcconnell.com/
 local=/dns.jcdn.site/
 local=/jcdns.fun/
 local=/dns.jd.com/
-local=/lowlow.jellyfl1x.es/
 local=/jellyvpn.com/
 local=/doh.jeroenhd.nl/
 local=/host.jerry-lee.uk/
@@ -2943,7 +2943,6 @@ local=/jimmyshjj.top/
 local=/dns.jimwelanobong.com/
 local=/dns.jinwoo.dev/
 local=/srv5.jiripocta.cz/
-local=/hk.jiusi.one/
 local=/dns.jiyi.eu/
 local=/jkdns.me/
 local=/dns.jluo.app/
@@ -3133,7 +3132,6 @@ local=/dns.kxy.ink/
 local=/dn.kyay006.cn/
 local=/joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org/
 local=/henry-and-evan-cant-rizz.kyleton.org/
-local=/kyoheitensai.com/
 local=/agh.kyusang.win/
 local=/dns.kzrz.pl/
 local=/dns.l337.site/
@@ -3165,10 +3163,6 @@ local=/dns.lauraeguido.com/
 local=/adguard.laurenlaufman.com/
 local=/eu1.dns.lavate.ch/
 local=/us1.dns.lavate.ch/
-local=/inboxdayo.laviewddns.com/
-local=/inboxproxy.laviewddns.com/
-local=/korededouda.laviewddns.com/
-local=/taihenomatasesimasita.laviewddns.com/
 local=/dns.lavir.com/
 local=/iterator.lazada.com/
 local=/lboxtv.top/
@@ -3192,7 +3186,6 @@ local=/externalmobiel.lekdijk.online/
 local=/lelux.fi/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
-local=/lesuo.top/
 local=/letsvpn.world/
 local=/dns.levonet.sk/
 local=/lewsha.lol/
@@ -3409,7 +3402,6 @@ local=/securenet.mhsystems.net/
 local=/next.miao.ninja/
 local=/dns.michelo.cl/
 local=/ss.microbaidu.com/
-local=/doh.micronets.in/
 local=/microvpn.com/
 local=/dns.midping.ir/
 local=/www-proxy.migastep.com/
@@ -3427,7 +3419,6 @@ local=/dns.milkpie.one/
 local=/craftmaine.mine.bz/
 local=/hihihi.minecraftnoob.com/
 local=/aitkcrev.minhduc.pw/
-local=/miniapp.global/
 local=/minilla.store/
 local=/miniprox.com/
 local=/miniprox.info/
@@ -3532,7 +3523,6 @@ local=/che.myasustor.com/
 local=/justfor.myasustor.com/
 local=/nas-scheiben34.myasustor.com/
 local=/zanty123456.myasustor.com/
-local=/myatris.sbs/
 local=/mycelium.site/
 local=/abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com/
 local=/example.myclarevision.com/

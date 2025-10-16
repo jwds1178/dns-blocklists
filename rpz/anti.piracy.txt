@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760614200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760657520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 11:30 UTC
-; Version: 2025.1016.1130.46
+; Last modified: 16 Oct 2025 23:32 UTC
+; Version: 2025.1016.2332.19
 ; Syntax: RPZ
-; Number of entries: 22974
+; Number of entries: 22958
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1738,8 +1738,6 @@ hdmovie2.ch CNAME .
 *.hdmovie2.ch CNAME .
 isohunt.ch CNAME .
 *.isohunt.ch CNAME .
-kickass2.ch CNAME .
-*.kickass2.ch CNAME .
 levidia.ch CNAME .
 *.levidia.ch CNAME .
 librezerba.ch CNAME .
@@ -8858,8 +8856,6 @@ altadefinizione01.email CNAME .
 *.altadefinizione01.email CNAME .
 movies123.email CNAME .
 *.movies123.email CNAME .
-moviesmod.email CNAME .
-*.moviesmod.email CNAME .
 putlockers.email CNAME .
 *.putlockers.email CNAME .
 yesmovies.email CNAME .
@@ -10724,8 +10720,6 @@ magnetoo.io CNAME .
 *.magnetoo.io CNAME .
 mangapoisk.io CNAME .
 *.mangapoisk.io CNAME .
-moddroid.io CNAME .
-*.moddroid.io CNAME .
 modilimitado.io CNAME .
 *.modilimitado.io CNAME .
 movieninja.io CNAME .
@@ -19140,8 +19134,6 @@ kimcartoon.si CNAME .
 *.kimcartoon.si CNAME .
 kinox.si CNAME .
 *.kinox.si CNAME .
-kwik.si CNAME .
-*.kwik.si CNAME .
 megakino.si CNAME .
 *.megakino.si CNAME .
 nyaa.si CNAME .
@@ -20716,14 +20708,10 @@ linkr.top CNAME .
 *.linkr.top CNAME .
 mathanosto.top CNAME .
 *.mathanosto.top CNAME .
-maxseries.top CNAME .
-*.maxseries.top CNAME .
 megrez.top CNAME .
 *.megrez.top CNAME .
 mip2p.top CNAME .
 *.mip2p.top CNAME .
-mirrorbay.top CNAME .
-*.mirrorbay.top CNAME .
 motv.top CNAME .
 *.motv.top CNAME .
 movies123.top CNAME .
@@ -22374,8 +22362,6 @@ losmovies.ws CNAME .
 *.losmovies.ws CNAME .
 macx.ws CNAME .
 *.macx.ws CNAME .
-mamahd.ws CNAME .
-*.mamahd.ws CNAME .
 megakino.ws CNAME .
 *.megakino.ws CNAME .
 mkvcage.ws CNAME .
@@ -22766,8 +22752,6 @@ nbastreams.xyz CNAME .
 *.nbastreams.xyz CNAME .
 networkstress.xyz CNAME .
 *.networkstress.xyz CNAME .
-neuf.xyz CNAME .
-*.neuf.xyz CNAME .
 noblockaabbdd-xcktb.xyz CNAME .
 *.noblockaabbdd-xcktb.xyz CNAME .
 nzbgrabit.xyz CNAME .
