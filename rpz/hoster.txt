@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760612400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760699040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 11:00 UTC
-; Version: 2025.1016.1100.12
+; Last modified: 17 Oct 2025 11:04 UTC
+; Version: 2025.1017.1104.23
 ; Syntax: RPZ
-; Number of entries: 2764
+; Number of entries: 2758
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2506,8 +2506,6 @@ nikoha.shop CNAME .
 *.nikoha.shop CNAME .
 nokojp.shop CNAME .
 *.nokojp.shop CNAME .
-nyccards.shop CNAME .
-*.nyccards.shop CNAME .
 nyccenter.shop CNAME .
 *.nyccenter.shop CNAME .
 officialcity.shop CNAME .
@@ -2516,8 +2514,6 @@ okistore.shop CNAME .
 *.okistore.shop CNAME .
 onlineweb.shop CNAME .
 *.onlineweb.shop CNAME .
-orangeusa.shop CNAME .
-*.orangeusa.shop CNAME .
 pizzakeep.shop CNAME .
 *.pizzakeep.shop CNAME .
 rentweek.shop CNAME .
@@ -2664,8 +2660,6 @@ moneyash.top CNAME .
 *.moneyash.top CNAME .
 moneylower.top CNAME .
 *.moneylower.top CNAME .
-pl-oferta-id2387942371.top CNAME .
-*.pl-oferta-id2387942371.top CNAME .
 safwhatsapp.top CNAME .
 *.safwhatsapp.top CNAME .
 spaceplay.top CNAME .

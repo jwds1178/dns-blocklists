@@ -5,8 +5,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Oct 2025 22:13 UTC
-! Version: 2025.1016.2213.24
+! Last modified: 17 Oct 2025 10:14 UTC
+! Version: 2025.1017.1014.18
 ! Syntax: AdBlock
 ! Number of entries: 844
 !
@@ -17,6 +17,7 @@
 ||t.6sc.co^
 ||7eer.net^
 ||bestbuy.7tiv.net^
+||redirect.prod.experiment.routing.cloudfront.aws.a2z.com^
 ||px.a8.net^
 ||trk.mg.aadvantageeshopping.com^
 ||ab1n.net^
@@ -509,7 +510,6 @@
 ||mkto-ab690011.com^
 ||mkto-ab690019.com^
 ||mkto-ab690062.com^
-||mkto-ab690180.com^
 ||mkto-abj0022.com^
 ||mkto-abm0229.com^
 ||mkto-cs0007.com^

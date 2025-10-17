@@ -1,5 +1,8 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# Videos on various sites, e.g. https://time.com/collection/video/
+c.amazon-adsystem.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7309
 cn.find.api.micloud.xiaomi.net
 eu.find.api.micloud.xiaomi.net

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 22:27 UTC
-# Version: 2025.1016.2227.14
+# Last modified: 17 Oct 2025 10:29 UTC
+# Version: 2025.1017.1029.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 7741
+# Number of entries: 7739
 #
 *.0.gp
 *.00m.in
@@ -4639,7 +4639,6 @@
 *.pia.sh
 *.pic.gd
 *.pich.in
-*.picklink.me
 *.picsee.co
 *.picsee.io
 *.pieceof.link
@@ -4982,7 +4981,6 @@
 *.rcknr.io
 *.rcl.ink
 *.rcld.io
-*.rcsurvey.live
 *.rd.gt
 *.rd-client.com
 *.rdar.li

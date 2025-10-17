@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 23:37 UTC
-# Version: 2025.1016.2337.46
+# Last modified: 17 Oct 2025 11:41 UTC
+# Version: 2025.1017.1141.23
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3892
+# Number of entries: 3875
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2746,14 +2746,12 @@
 0.0.0.0 dns.novg.net
 0.0.0.0 dns.npe.bz
 0.0.0.0 adguard.npglocal.com
-0.0.0.0 dns.npsolution.it
 0.0.0.0 ns.cd
 0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
 0.0.0.0 ns3.link
 0.0.0.0 dnscache0.ns71.net
-0.0.0.0 nsown.com
 0.0.0.0 dns.ntcrz.ru
 0.0.0.0 dns.ntr.lol
 0.0.0.0 ntwrkh.pro
@@ -2848,7 +2846,6 @@
 0.0.0.0 dns.otezz.net
 0.0.0.0 dns.ours.luxe
 0.0.0.0 dns.ourvau.lt
-0.0.0.0 outdoorchair.site
 0.0.0.0 vps-1f675aa1.vps.ovh.us
 0.0.0.0 1a.ns.ozer.im
 0.0.0.0 1b.ns.ozer.im
@@ -2897,28 +2894,14 @@
 0.0.0.0 dns.phillipjberry.net
 0.0.0.0 philqoo.com
 0.0.0.0 dns.philqoo.com
-0.0.0.0 doh.centraleu.pi-dns.com
-0.0.0.0 dot.centraleu.pi-dns.com
 0.0.0.0 doh.pi-dns.com
-0.0.0.0 doh.eastas.pi-dns.com
-0.0.0.0 dot.eastas.pi-dns.com
-0.0.0.0 doh.eastau.pi-dns.com
-0.0.0.0 dot.eastau.pi-dns.com
-0.0.0.0 doh.eastus.pi-dns.com
-0.0.0.0 dot.eastus.pi-dns.com
-0.0.0.0 doh.northeu.pi-dns.com
-0.0.0.0 dot.northeu.pi-dns.com
 0.0.0.0 doh.westeu.pi-dns.com
-0.0.0.0 doh.westus.pi-dns.com
-0.0.0.0 dot.westus.pi-dns.com
 0.0.0.0 adg.pidns.de
 0.0.0.0 adguard.piekacz.pl
 0.0.0.0 dns.pierzchlewicz.pl
 0.0.0.0 dns.pieterdherde.com
 0.0.0.0 dns1.pietjacobs.be
 0.0.0.0 dns.pine-home.de
-0.0.0.0 pingbi.xyz
-0.0.0.0 www.pingbi.xyz
 0.0.0.0 pioko.net
 0.0.0.0 dns.pizzari.me
 0.0.0.0 doh.plaawan.uk

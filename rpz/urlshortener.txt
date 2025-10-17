@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760653620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760696940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 22:27 UTC
-; Version: 2025.1016.2227.14
+; Last modified: 17 Oct 2025 10:29 UTC
+; Version: 2025.1017.1029.04
 ; Syntax: RPZ
-; Number of entries: 15482
+; Number of entries: 15478
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -10045,8 +10045,6 @@ premierbet.live CNAME .
 *.premierbet.live CNAME .
 protogen.live CNAME .
 *.protogen.live CNAME .
-rcsurvey.live CNAME .
-*.rcsurvey.live CNAME .
 redditsp2pcredit.live CNAME .
 *.redditsp2pcredit.live CNAME .
 rouletteonline.live CNAME .
@@ -10911,8 +10909,6 @@ pasir.me CNAME .
 *.pasir.me CNAME .
 peerwith.me CNAME .
 *.peerwith.me CNAME .
-picklink.me CNAME .
-*.picklink.me CNAME .
 pixelfy.me CNAME .
 *.pixelfy.me CNAME .
 pixly.me CNAME .

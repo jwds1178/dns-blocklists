@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Oct 2025 22:25 UTC
-! Version: 2025.1016.2225.29
+! Last modified: 17 Oct 2025 10:27 UTC
+! Version: 2025.1017.1027.16
 ! Syntax: AdBlock
-! Number of entries: 14235
+! Number of entries: 14220
 !
 ||01broker.com^
 ||01crypto.com^
@@ -208,6 +208,7 @@
 ||aeg-solutions.com^
 ||aegidien-apotheke.de^
 ||aegis-at.com^
+||aegisxs.com^
 ||aehesis.de^
 ||aekcapital.ltd^
 ||store.aeotec.com^
@@ -418,6 +419,7 @@
 ||alpenrose-mode.com^
 ||alphabetk.com^
 ||alphabetw.com^
+||alphaforgood.com^
 ||alphagamers.de^
 ||alphaletedeutschland.de^
 ||alphaleteosterreich.at^
@@ -1691,6 +1693,7 @@
 ||blumen420de.top^
 ||blumenkstenzorn.com^
 ||blumenladen.de^
+||blumira.shop^
 ||blundstone-osterreich.at^
 ||blushysilk.com^
 ||trd.blyxultra.com^
@@ -4157,6 +4160,7 @@
 ||explicitcargo.com^
 ||explicitp.com^
 ||expochains.com^
+||lahop.exportfly.baby^
 ||expositioy.com^
 ||expres-store.com^
 ||express-inv.com^
@@ -4479,6 +4483,7 @@
 ||fiorenz.com^
 ||firalo.de^
 ||firat-handel24.de^
+||firat-shopping.de^
 ||firegemss.com^
 ||firewood-versand.de^
 ||firma-leitner.at^
@@ -6500,6 +6505,7 @@
 ||installateur-profis24.at^
 ||installateur-top.at^
 ||instantlyfinanceddealsdaily.com^
+||instantsavingevent.com^
 ||instawirbel.de^
 ||institutem.com^
 ||instructionk.com^
@@ -7814,6 +7820,7 @@
 ||lumendecor.de^
 ||lumentes.com^
 ||lumenz24.de^
+||lumetrix-ai.com^
 ||luminairedeals.com^
 ||luminara-mode.de^
 ||luminaraofficial.de^
@@ -8792,6 +8799,7 @@
 ||kleinzdef.myshopify.com^
 ||konigsmarkt-2.myshopify.com^
 ||kvp0fw-hi.myshopify.com^
+||lafolie88.myshopify.com^
 ||lafsev.myshopify.com^
 ||laplaceo.myshopify.com^
 ||larendo-store.myshopify.com^
@@ -9131,17 +9139,14 @@
 ||nordbeinordost.de^
 ||nordic-app.de^
 ||nordicci.de^
-||nordicdrop.de^
 ||nordicglimmer.com^
 ||nordicra.de^
 ||nordik-container.com^
 ||nordikb.com^
 ||nordoutlets.com^
-||nordrei-handel24.de^
 ||nordspur.de^
 ||nordstolz.com^
 ||nordvian.com^
-||nordyen.de^
 ||nordyen-de.com^
 ||norethelabel.com^
 ||norfolkhotels24.com^
@@ -9182,7 +9187,6 @@
 ||web.novacryptmax.com^
 ||novadeal.de^
 ||novafinanz.de^
-||novakgroup.online^
 ||novamoda.de^
 ||novana-berlin.de^
 ||novarixtrader.net^
@@ -9257,7 +9261,6 @@
 ||odlorabatt.com^
 ||odmorvila.com^
 ||oel-direkt.de^
-||oelbest.de^
 ||oelgo.de^
 ||oelheizprofi.de^
 ||oelheizpunkt.de^
@@ -9318,7 +9321,6 @@
 ||oil-profits.com^
 ||oilbold.com^
 ||oildirekt24.de^
-||oilheizung.de^
 ||oilparadies.de^
 ||oilprofit.io^
 ||oins.shop^
@@ -9410,17 +9412,14 @@
 ||onlineforyou.net^
 ||onlinehealthworldtrust.com^
 ||onlinekamagra.com^
-||onlinekamagrastore.org^
 ||onlinekmnwi.com^
 ||onlinekuche.com^
 ||app.onlinelebenslauf.com^
 ||onlinemaripe.com^
 ||onlinemessershop.com^
-||onlineoutletie.cc^
 ||onlinepharmx.com^
 ||onlinepharmz.com^
 ||onlinereorg.com^
-||onlinernews.click^
 ||onlinetopgarden.com^
 ||onlineusbike.com^
 ||onlinewerkzeugzubehor.com^
@@ -9492,7 +9491,6 @@
 ||opzx.de^
 ||orange-ltd.org^
 ||orba24.de^
-||orbanicsport.com^
 ||order-cs.eu^
 ||orderbuycheap.com^
 ||ordergunmagazinesonline.com^
@@ -9604,10 +9602,8 @@
 ||outlet-schoenen.nl^
 ||outlet-shimano.com^
 ||outlet-sparcoofficial.com^
-||outletadidas.com^
 ||outletarcteryx.com^
 ||outletautoparts.com^
-||outletberlinpremium.store^
 ||outletbodycare.com^
 ||outletchristmasgifts.com^
 ||outletdance.com^
@@ -9715,7 +9711,6 @@
 ||parfumundkosmetik.com^
 ||parisinpink.com^
 ||parkdesignhome.com^
-||parkside-tienda.com^
 ||parkside-uk.com^
 ||parksldezmeu.com^
 ||part-time-work-de.online^
@@ -9807,7 +9802,6 @@
 ||perfect-booty.de^
 ||perfect-pilots.com^
 ||perfectaccessories.shop^
-||perfectcess.shop^
 ||perfectsalah.nl^
 ||perfecttoolshop.com^
 ||perfumeowner.com^
@@ -9844,7 +9838,6 @@
 ||pettnicey.com^
 ||petworld-plus.com^
 ||petyfy.com^
-||petzleu.shop^
 ||pexotera.com^
 ||peyarpark.com^
 ||pfaff-brennholz.com^
@@ -9883,7 +9876,6 @@
 ||philosophyk.com^
 ||phoenix-elektro.com^
 ||phoenix-market.com^
-||phonekong.com^
 ||phonesrefurb.com^
 ||phoneway.mobi^
 ||phontix.store^
@@ -9919,12 +9911,11 @@
 ||pillz888.org^
 ||pilule-france.com^
 ||pimdy.com^
-||pincmcrelli.shop^
 ||pinewoodsell.com^
-||pingpong-sale.com^
 ||pinguid.xyz^
 ||pinkkola.com^
 ||pinkofcloud.com^
+||pinkowien.at^
 ||pinkpalmpuff-deutschland.de^
 ||pintaro.de^
 ||pipz.xyz^
@@ -10170,7 +10161,6 @@
 ||pro-ben.de^
 ||pro-binary.com^
 ||pro-containers.de^
-||pro-kredit-service.de^
 ||pro-kreditfinanz.de^
 ||pro-talentsycner.online^
 ||pro-trends.co^
@@ -10184,14 +10174,12 @@
 ||prodiviagroup.com^
 ||produceshop.de^
 ||productioy.com^
-||productsfabric.com^
 ||produit-structure.com^
 ||produktretter.at^
 ||produtosachados.digital^
 ||proevery.com^
 ||profibikes.de^
 ||proficienct.com^
-||profindit.pro^
 ||profinus.cc^
 ||profit-bee.org^
 ||profititerra.co^
@@ -10241,7 +10229,6 @@
 ||prozesswerk.digital^
 ||prs-installateur.at^
 ||psality.com^
-||psychobunnydeutschland.com^
 ||ptdaily.eu^
 ||pthanse-versand.de^
 ||pthipv.com^
@@ -10305,7 +10292,6 @@
 ||qnesz.shop^
 ||qnxxlg.shop^
 ||qolasam.com^
-||qovlaty.com^
 ||qredhaus.de^
 ||quaally.shop^
 ||quadrals.de^
@@ -10370,7 +10356,6 @@
 ||rabattlampen.com^
 ||rabattleuchten.de^
 ||rabattlloyd.de^
-||rabattloewe.de^
 ||rabattschuh.com^
 ||rabattskiausrustung.com^
 ||rabattsport.de^
@@ -10410,7 +10395,6 @@
 ||rajputemporium.com^
 ||rakaa24.de^
 ||rakasti.de^
-||ralf-modehaus.de^
 ||ralfanhanger.com^
 ||raluphluxury.com^
 ||ramsesmarket.com^
@@ -10561,7 +10545,6 @@
 ||remorcas.com^
 ||remorquesdunords.com^
 ||remote-arbeiten.com^
-||remote-arbeittwork.com^
 ||remote-arbeittworkde.com^
 ||remote-arbeittworrde.com^
 ||remote-arbeittworvde.com^
@@ -10616,6 +10599,7 @@
 ||retailbbq.com^
 ||retailchemy.com^
 ||retentionh.com^
+||retreature.com^
 ||retrogamingshop.de^
 ||retrostages.de^
 ||retrotrikots.de^
@@ -10714,7 +10698,6 @@
 ||robelshoes.at^
 ||robertoserafini.store^
 ||robertosthelabel.com^
-||robinlipari.shop^
 ||robo-center.com^
 ||robo-fx.co^
 ||robo-wienburg.com^
@@ -10742,6 +10725,7 @@
 ||rockwithyou.de^
 ||rocolee.com^
 ||roctec-europe.com^
+||rod-wheels.de^
 ||rodaalhandel.com^
 ||rodetis.com^
 ||roeck-performance.at^
@@ -10822,8 +10806,6 @@
 ||rra-time.com^
 ||rromaakt.de^
 ||rrsstore.com^
-||rsc-handel23.de^
-||rspasian.com^
 ||rtieej.buzz^
 ||rub-guben.de^
 ||rubberweekly.com^
@@ -11637,6 +11619,7 @@
 ||solutioncrypto.com^
 ||solutiscrdt.com^
 ||solventus-shop.de^
+||solvexpulse-53-ai.org^
 ||somareh.de^
 ||somatesav.com^
 ||sommeraufdemland.de^
@@ -12617,6 +12600,7 @@
 ||tkonline.shop^
 ||tktxkaufen.de^
 ||tlinkxde.works^
+||tm-preisvergleich.de^
 ||tnewsrefresh.com^
 ||tntroyal.com^
 ||tobias-leben.de^
@@ -13333,6 +13317,7 @@
 ||versandpharma.com^
 ||versanel.shop^
 ||versatileus-women.com^
+||verschiedeneoutdoor.com^
 ||versuni-germany.shop^
 ||versys.net^
 ||vertexfy.com^

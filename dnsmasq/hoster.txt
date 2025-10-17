@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:00 UTC
-# Version: 2025.1016.1100.12
+# Last modified: 17 Oct 2025 11:04 UTC
+# Version: 2025.1017.1104.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1382
+# Number of entries: 1379
 #
 local=/000a.de/
 local=/000space.com/
@@ -966,7 +966,6 @@ local=/nokojp.shop/
 local=/now.lc/
 local=/npx.de/
 local=/nut.cc/
-local=/nyccards.shop/
 local=/nyccenter.shop/
 local=/o.gp/
 local=/o-f.com/
@@ -992,7 +991,6 @@ local=/onlineweb.shop/
 local=/onlinewebshop.net/
 local=/only4u.eu/
 local=/onmbl.com/
-local=/orangeusa.shop/
 local=/24.org.es/
 local=/orgsites.com/
 local=/over-blog.com/
@@ -1028,7 +1026,6 @@ local=/pk.gp/
 local=/pktriot.net/
 local=/pl.de/
 local=/pl.gp/
-local=/pl-oferta-id2387942371.top/
 local=/planet.tl/
 local=/plesk.page/
 local=/pnsiayfas.net/

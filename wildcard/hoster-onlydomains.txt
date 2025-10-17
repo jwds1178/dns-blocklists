@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 11:00 UTC
-# Version: 2025.1016.1100.12
+# Last modified: 17 Oct 2025 11:04 UTC
+# Version: 2025.1017.1104.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 1382
+# Number of entries: 1379
 #
 000a.de
 000space.com
@@ -966,7 +966,6 @@ nokojp.shop
 now.lc
 npx.de
 nut.cc
-nyccards.shop
 nyccenter.shop
 o.gp
 o-f.com
@@ -992,7 +991,6 @@ onlineweb.shop
 onlinewebshop.net
 only4u.eu
 onmbl.com
-orangeusa.shop
 24.org.es
 orgsites.com
 over-blog.com
@@ -1028,7 +1026,6 @@ pk.gp
 pktriot.net
 pl.de
 pl.gp
-pl-oferta-id2387942371.top
 planet.tl
 plesk.page
 pnsiayfas.net

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760657880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760701260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Oct 2025 23:38 UTC
-; Version: 2025.1016.2338.11
+; Last modified: 17 Oct 2025 11:41 UTC
+; Version: 2025.1017.1141.49
 ; Syntax: RPZ
-; Number of entries: 12386
+; Number of entries: 12346
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -3129,8 +3129,6 @@ x.ns1net.com CNAME .
 *.x.ns1net.com CNAME .
 ns3.com CNAME .
 *.ns3.com CNAME .
-nsown.com CNAME .
-*.nsown.com CNAME .
 nsv4w.com CNAME .
 *.nsv4w.com CNAME .
 nucleusvpn.com CNAME .
@@ -3303,34 +3301,10 @@ phpbido.com CNAME .
 *.phpbido.com CNAME .
 phproxysite.com CNAME .
 *.phproxysite.com CNAME .
-doh.centraleu.pi-dns.com CNAME .
-*.doh.centraleu.pi-dns.com CNAME .
-dot.centraleu.pi-dns.com CNAME .
-*.dot.centraleu.pi-dns.com CNAME .
 doh.pi-dns.com CNAME .
 *.doh.pi-dns.com CNAME .
-doh.eastas.pi-dns.com CNAME .
-*.doh.eastas.pi-dns.com CNAME .
-dot.eastas.pi-dns.com CNAME .
-*.dot.eastas.pi-dns.com CNAME .
-doh.eastau.pi-dns.com CNAME .
-*.doh.eastau.pi-dns.com CNAME .
-dot.eastau.pi-dns.com CNAME .
-*.dot.eastau.pi-dns.com CNAME .
-doh.eastus.pi-dns.com CNAME .
-*.doh.eastus.pi-dns.com CNAME .
-dot.eastus.pi-dns.com CNAME .
-*.dot.eastus.pi-dns.com CNAME .
-doh.northeu.pi-dns.com CNAME .
-*.doh.northeu.pi-dns.com CNAME .
-dot.northeu.pi-dns.com CNAME .
-*.dot.northeu.pi-dns.com CNAME .
 doh.westeu.pi-dns.com CNAME .
 *.doh.westeu.pi-dns.com CNAME .
-doh.westus.pi-dns.com CNAME .
-*.doh.westus.pi-dns.com CNAME .
-dot.westus.pi-dns.com CNAME .
-*.dot.westus.pi-dns.com CNAME .
 piaproxy.com CNAME .
 *.piaproxy.com CNAME .
 dns.pieterdherde.com CNAME .
@@ -3435,8 +3409,6 @@ proxify.com CNAME .
 *.proxify.com CNAME .
 proxiware.com CNAME .
 *.proxiware.com CNAME .
-proxmecallmenames.com CNAME .
-*.proxmecallmenames.com CNAME .
 proxmesomethingdirty.com CNAME .
 *.proxmesomethingdirty.com CNAME .
 proxmyass.com CNAME .
@@ -3475,8 +3447,6 @@ proxy-youtube.com CNAME .
 *.proxy-youtube.com CNAME .
 proxy0101.com CNAME .
 *.proxy0101.com CNAME .
-proxy2link.com CNAME .
-*.proxy2link.com CNAME .
 proxy4free.com CNAME .
 *.proxy4free.com CNAME .
 proxy62.com CNAME .
@@ -3573,8 +3543,6 @@ proxyvpnserver.com CNAME .
 *.proxyvpnserver.com CNAME .
 proxyway.com CNAME .
 *.proxyway.com CNAME .
-proxywebtunnel.com CNAME .
-*.proxywebtunnel.com CNAME .
 psiphon3.com CNAME .
 *.psiphon3.com CNAME .
 ptoserver.com CNAME .
@@ -3679,8 +3647,6 @@ rotvpn.com CNAME .
 *.rotvpn.com CNAME .
 o.rsaikat.com CNAME .
 *.o.rsaikat.com CNAME .
-rushproxy.com CNAME .
-*.rushproxy.com CNAME .
 agh-yz.russel053.com CNAME .
 *.agh-yz.russel053.com CNAME .
 drs.rustsword.com CNAME .
@@ -6721,8 +6687,6 @@ dns.neeb.it CNAME .
 *.dns.neeb.it CNAME .
 doh.luigi.nexific.it CNAME .
 *.doh.luigi.nexific.it CNAME .
-dns.npsolution.it CNAME .
-*.dns.npsolution.it CNAME .
 adguard.pangerl.it CNAME .
 *.adguard.pangerl.it CNAME .
 dns.repressoh.it CNAME .
@@ -11017,8 +10981,6 @@ mycelium.site CNAME .
 *.mycelium.site CNAME .
 oscnl.site CNAME .
 *.oscnl.site CNAME .
-outdoorchair.site CNAME .
-*.outdoorchair.site CNAME .
 check.peer2profit.site CNAME .
 *.check.peer2profit.site CNAME .
 proxycroxy.site CNAME .
@@ -12283,8 +12245,6 @@ loan.paymdm.xyz CNAME .
 *.loan.paymdm.xyz CNAME .
 pepetio.xyz CNAME .
 *.pepetio.xyz CNAME .
-pingbi.xyz CNAME .
-*.pingbi.xyz CNAME .
 pinkproxy.xyz CNAME .
 *.pinkproxy.xyz CNAME .
 pm1239-bd.xyz CNAME .

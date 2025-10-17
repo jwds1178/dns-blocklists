@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Oct 2025 23:37 UTC
-# Version: 2025.1016.2337.46
+# Last modified: 17 Oct 2025 11:41 UTC
+# Version: 2025.1017.1141.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3413
+# Number of entries: 3397
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2366,14 +2366,12 @@ local=/us.novali.date/
 local=/dns.novg.net/
 local=/dns.npe.bz/
 local=/adguard.npglocal.com/
-local=/dns.npsolution.it/
 local=/ns.cd/
 local=/xpen.ns01.info/
 local=/x.ns1net.com/
 local=/ns3.com/
 local=/ns3.link/
 local=/dnscache0.ns71.net/
-local=/nsown.com/
 local=/dns.ntcrz.ru/
 local=/dns.ntr.lol/
 local=/ntwrkh.pro/
@@ -2461,7 +2459,6 @@ local=/adguard4.ota.moe/
 local=/dns.otezz.net/
 local=/dns.ours.luxe/
 local=/dns.ourvau.lt/
-local=/outdoorchair.site/
 local=/vps-1f675aa1.vps.ovh.us/
 local=/1a.ns.ozer.im/
 local=/1b.ns.ozer.im/
@@ -2507,27 +2504,14 @@ local=/dns.pgnhatrang.com/
 local=/phantom3c.net/
 local=/dns.phillipjberry.net/
 local=/philqoo.com/
-local=/doh.centraleu.pi-dns.com/
-local=/dot.centraleu.pi-dns.com/
 local=/doh.pi-dns.com/
-local=/doh.eastas.pi-dns.com/
-local=/dot.eastas.pi-dns.com/
-local=/doh.eastau.pi-dns.com/
-local=/dot.eastau.pi-dns.com/
-local=/doh.eastus.pi-dns.com/
-local=/dot.eastus.pi-dns.com/
-local=/doh.northeu.pi-dns.com/
-local=/dot.northeu.pi-dns.com/
 local=/doh.westeu.pi-dns.com/
-local=/doh.westus.pi-dns.com/
-local=/dot.westus.pi-dns.com/
 local=/adg.pidns.de/
 local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
 local=/dns.pieterdherde.com/
 local=/dns1.pietjacobs.be/
 local=/dns.pine-home.de/
-local=/pingbi.xyz/
 local=/pioko.net/
 local=/dns.pizzari.me/
 local=/doh.plaawan.uk/
