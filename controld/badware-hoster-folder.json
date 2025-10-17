@@ -6665,13 +6665,6 @@
       }
     },
     {
-      "PK": "nyccards.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "nyccenter.shop",
       "action": {
         "do": 0,
@@ -6848,13 +6841,6 @@
     },
     {
       "PK": "onmbl.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "orangeusa.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -7079,13 +7065,6 @@
     },
     {
       "PK": "pktriot.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pl-oferta-id2387942371.top",
       "action": {
         "do": 0,
         "status": 1
