@@ -3843,6 +3843,13 @@
       }
     },
     {
+      "PK": "mnr.world",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.moda",
       "action": {
         "do": 0,
