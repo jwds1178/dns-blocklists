@@ -309,21 +309,7 @@
       }
     },
     {
-      "PK": "browser-sdk-in.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "browser-sdk-ru.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "browser-sdk-us.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1

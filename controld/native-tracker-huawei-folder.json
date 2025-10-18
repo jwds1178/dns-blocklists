@@ -855,13 +855,6 @@
       }
     },
     {
-      "PK": "ubacollect-drcn.cloud.dbankcloud.co",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "uba.huaweicloud.com",
       "action": {
         "do": 0,

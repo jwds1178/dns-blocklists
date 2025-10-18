@@ -99,13 +99,6 @@
       }
     },
     {
-      "PK": "bat.bing.com",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "browser.events.data.microsoft.com",
       "action": {
         "do": 1,

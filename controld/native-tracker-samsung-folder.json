@@ -743,13 +743,6 @@
       }
     },
     {
-      "PK": "samsungemea.everestengagement.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "samsungeucdm.demdex.net",
       "action": {
         "do": 0,
@@ -765,13 +758,6 @@
     },
     {
       "PK": "samsungeu.demdex.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "samsungeu.everestengagement.com",
       "action": {
         "do": 0,
         "status": 1
@@ -926,13 +912,6 @@
     },
     {
       "PK": "samsungmena.tt.omtrdc.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "samsungmy.everestengagement.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1114,13 +1093,6 @@
       }
     },
     {
-      "PK": "samsungsg.everestengagement.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "samsungsingapore.api.useinsider.com",
       "action": {
         "do": 0,
@@ -1150,13 +1122,6 @@
     },
     {
       "PK": "samsungth.api.useinsider.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "samsungth.everestengagement.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1219,13 +1184,6 @@
       }
     },
     {
-      "PK": "samsungusa.everestengagement.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "samsungus.tt.omtrdc.net",
       "action": {
         "do": 0,
@@ -1234,13 +1192,6 @@
     },
     {
       "PK": "samsungvn.api.useinsider.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "samsungvn.everestengagement.com",
       "action": {
         "do": 0,
         "status": 1

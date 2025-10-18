@@ -2150,13 +2150,6 @@
       }
     },
     {
-      "PK": "jpg5.su",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "jpg6.su",
       "action": {
         "do": 1,
@@ -2235,6 +2228,13 @@
     },
     {
       "PK": "kite.trade",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "kizuki.lol",
       "action": {
         "do": 1,
         "status": 1
