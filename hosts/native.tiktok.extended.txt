@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Oct 2025 20:04 UTC
-# Version: 2025.1009.2004.07
+# Last modified: 17 Oct 2025 22:56 UTC
+# Version: 2025.1017.2256.50
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 470
+# Number of entries: 425
 #
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
@@ -97,19 +97,8 @@
 0.0.0.0 12691274.ads.tiktok.com
 0.0.0.0 url2696.ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
-0.0.0.0 ads-crm.tiktok.com
 0.0.0.0 ads-frontier.tiktok.com
-0.0.0.0 ads-imapi.tiktok.com
-0.0.0.0 ads-measurement.tiktok.com
-0.0.0.0 ads-ru.tiktok.com
-0.0.0.0 ads-service.tiktok.com
-0.0.0.0 12691274.ads-service.tiktok.com
-0.0.0.0 em7903.ads-service.tiktok.com
-0.0.0.0 url4077.ads-service.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
-0.0.0.0 ads-useast2a.tiktok.com
-0.0.0.0 ads-va.tiktok.com
-0.0.0.0 ads-ws.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com
 0.0.0.0 analytics-attribution-va.tiktok.com
@@ -125,11 +114,7 @@
 0.0.0.0 analytics16-normal.tiktok.com
 0.0.0.0 analytics16-normal-alisg.tiktok.com
 0.0.0.0 business-api.tiktok.com
-0.0.0.0 ads.in.tiktok.com
 0.0.0.0 location.tiktok.com
-0.0.0.0 location-i18n.tiktok.com
-0.0.0.0 location-sg.tiktok.com
-0.0.0.0 location-va.tiktok.com
 0.0.0.0 mcs-i18n.tiktok.com
 0.0.0.0 mcs-sg.tiktok.com
 0.0.0.0 mcs-va.tiktok.com
@@ -143,40 +128,25 @@
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics-exp.us.tiktok.com
 0.0.0.0 analytics-ttp2.us.tiktok.com
-0.0.0.0 location.us.tiktok.com
 0.0.0.0 mcs.us.tiktok.com
 0.0.0.0 mcs-ttp2.us.tiktok.com
 0.0.0.0 mssdk.us.tiktok.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
-0.0.0.0 ad-format.tiktokv.us
-0.0.0.0 ad-format-i18n.tiktokv.com
-0.0.0.0 ad-format-sg.tiktokv.com
-0.0.0.0 ad-format-ttp2.tiktokv.us
-0.0.0.0 ad-i18n.tiktokv.com
 0.0.0.0 ad-instantpage.tiktokv.us
-0.0.0.0 ad-instantpage-i18n.tiktokv.com
-0.0.0.0 ad-instantpage-ie.tiktokv.eu
-0.0.0.0 ad-instantpage-ru.tiktokv.com
 0.0.0.0 ad-instantpage-sg.tiktokv.com
 0.0.0.0 ad-instantpage-ttp2.tiktokv.eu
 0.0.0.0 ad-instantpage-ttp2.tiktokv.us
 0.0.0.0 ad-instantpage-va.tiktokv.com
-0.0.0.0 ad-sg.tiktokv.com
-0.0.0.0 ad-ttp2.tiktokv.eu
-0.0.0.0 ad-ttp2.tiktokv.us
-0.0.0.0 ad-va.tiktokv.com
 0.0.0.0 adinstantpage16-normal-useastred.tiktokv.eu
 0.0.0.0 frontier.tiktokv.com
 0.0.0.0 frontier.tiktokv.us
 0.0.0.0 live-video-log16-normal-alisg.tiktokv.com
 0.0.0.0 location.tiktokv.com
-0.0.0.0 location.tiktokv.us
 0.0.0.0 location-i18n.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com
 0.0.0.0 location-v6.tiktokv.com
-0.0.0.0 location-v6.tiktokv.eu
 0.0.0.0 location-v6.tiktokv.us
 0.0.0.0 location-v6-i18n.tiktokv.com
 0.0.0.0 location-v6-ru.tiktokv.com
@@ -185,7 +155,6 @@
 0.0.0.0 location-v6-ttp2.tiktokv.us
 0.0.0.0 location-v6-va.tiktokv.com
 0.0.0.0 location-va.tiktokv.com
-0.0.0.0 locationv16-normal-useastred.tiktokv.eu
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log.tiktokv.us
 0.0.0.0 log-i18n.tiktokv.com
@@ -202,7 +171,6 @@
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 log16-normal-c-useast2a.tiktokv.com
 0.0.0.0 log16-normal-delay-alisg.tiktokv.com
-0.0.0.0 log16-normal-ie.tiktokv.eu
 0.0.0.0 log16-normal-ind.tiktokv.com
 0.0.0.0 log16-normal-no1a.tiktokv.eu
 0.0.0.0 log16-normal-useast1a.tiktokv.com
@@ -221,7 +189,6 @@
 0.0.0.0 log19-applog-useast2a.tiktokv.com
 0.0.0.0 log19-normal.tiktokv.com
 0.0.0.0 log19-normal-alisg.tiktokv.com
-0.0.0.0 log19-normal-no1a.tiktokv.eu
 0.0.0.0 log19-normal-useast1a.tiktokv.com
 0.0.0.0 log19-normal-useast2a.tiktokv.com
 0.0.0.0 log22-applog-useast1a.tiktokv.com
@@ -281,7 +248,6 @@
 0.0.0.0 mon16-normal-alisg.tiktokv.com
 0.0.0.0 mon16-normal-c-useast1a.tiktokv.com
 0.0.0.0 mon16-normal-c-useast2a.tiktokv.com
-0.0.0.0 mon16-normal-ie.tiktokv.eu
 0.0.0.0 mon16-normal-no1a.tiktokv.eu
 0.0.0.0 mon16-normal-useast1a.tiktokv.com
 0.0.0.0 mon16-normal-useast5.tiktokv.us
@@ -293,14 +259,12 @@
 0.0.0.0 mon19-normal.tiktokv.com
 0.0.0.0 mon19-normal-alisg.tiktokv.com
 0.0.0.0 mon19-normal-useast1a.tiktokv.com
-0.0.0.0 mon19-normal-zr-alisg.tiktokv.com
 0.0.0.0 mon22-normal.tiktokv.com
 0.0.0.0 mon22-normal-alisg.tiktokv.com
 0.0.0.0 mon22-normal-useast1a.tiktokv.com
 0.0.0.0 mon31-normal.tiktokv.com
 0.0.0.0 mon31-normal-alisg.tiktokv.com
 0.0.0.0 mon31-normal-useast1a.tiktokv.com
-0.0.0.0 mon31-normal-zr-useast1a.tiktokv.com
 0.0.0.0 mon32-normal.tiktokv.com
 0.0.0.0 mon32-normal-alisg.tiktokv.com
 0.0.0.0 mon32-normal-useast1a.tiktokv.com
@@ -342,9 +306,7 @@
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
-0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-va.tiktokv.com
-0.0.0.0 rtc-logger16-normal-useastred.tiktokv.eu
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 rtlog-i18n.tiktokv.com
 0.0.0.0 rtlog-phx.tiktokv.com
@@ -359,7 +321,6 @@
 0.0.0.0 rtlog16-applog-useast2a.tiktokv.com
 0.0.0.0 rtlog16-normal.tiktokv.com
 0.0.0.0 rtlog16-normal-alisg.tiktokv.com
-0.0.0.0 rtlog16-normal-ie.tiktokv.eu
 0.0.0.0 rtlog16-normal-ind.tiktokv.com
 0.0.0.0 rtlog16-normal-no1a.tiktokv.eu
 0.0.0.0 rtlog16-normal-useast1a.tiktokv.com
@@ -425,10 +386,6 @@
 0.0.0.0 tnc31-platform-useast1a.tiktokv.com
 0.0.0.0 tnc31-platform-useast2a.tiktokv.com
 0.0.0.0 tnc58-platform-ycru.tiktokv.com
-0.0.0.0 ad-format.us.tiktokv.com
-0.0.0.0 ad-format-ttp2.us.tiktokv.com
-0.0.0.0 ad-instantpage.us.tiktokv.com
-0.0.0.0 ad-instantpage-ttp2.us.tiktokv.com
 0.0.0.0 location.us.tiktokv.com
 0.0.0.0 location-ttp2.us.tiktokv.com
 0.0.0.0 log.us.tiktokv.com
@@ -459,8 +416,6 @@
 0.0.0.0 xlog-va-useast2a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast2a.tiktokv.com
-0.0.0.0 xlog16-normal-no1a.tiktokv.eu
-0.0.0.0 xlog16-normal-useast5.tiktokv.us
 0.0.0.0 xlog16-platform-ycru.tiktokv.com
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
 0.0.0.0 log-snssdk.tiktokv-us.com

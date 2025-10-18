@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# Slow loading of the top images (tiles) in the new Windows 11 App Store
+bat.bing.com
+
 # https://github.com/hagezi/dns-blocklists/issues/6664
 # https://github.com/hagezi/dns-blocklists/issues/7579
 fscdn.eppo.cloud

@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Sep 2025 19:23 UTC
-# Version: 2025.0919.1923.59
+# Last modified: 17 Oct 2025 22:59 UTC
+# Version: 2025.1017.2259.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 354
+# Number of entries: 352
 #
 *.calculator-api-fr.allawnos.com
 *.calculator-api-in.allawnos.com
@@ -304,9 +305,7 @@
 *.browser-api-vn.heytapmobile.com
 *.browser-api-za.heytapmobile.com
 *.browser-sdk-fr.heytapmobile.com
-*.browser-sdk-in.heytapmobile.com
 *.browser-sdk-ru.heytapmobile.com
-*.browser-sdk-us.heytapmobile.com
 *.browserfiles.heytapmobile.com
 *.api-gl.cdo.heytapmobile.com
 *.api-id.cdo.heytapmobile.com

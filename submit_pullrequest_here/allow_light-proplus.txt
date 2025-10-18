@@ -99,9 +99,6 @@ te.ip-prod.aws-cbc.cloud
 # Brave crypto
 basicattentiontoken.org
 
-# Slow loading of the top images (tiles) in the new Windows 11 App Store
-bat.bing.com
-
 # https://github.com/hagezi/dns-blocklists/issues/3621
 api.applicationinsights.io
 api.loganalytics.io

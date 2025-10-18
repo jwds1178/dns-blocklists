@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 23:17 UTC
-# Version: 2025.1010.2317.02
+# Last modified: 17 Oct 2025 23:01 UTC
+# Version: 2025.1017.2301.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 263
+# Number of entries: 256
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -85,13 +85,6 @@
 0.0.0.0 akcjasamsung.e-kei.pl
 0.0.0.0 samsung-akcja.e-kei.pl
 0.0.0.0 samsung.ecorebates.com
-0.0.0.0 samsungemea.everestengagement.com
-0.0.0.0 samsungeu.everestengagement.com
-0.0.0.0 samsungmy.everestengagement.com
-0.0.0.0 samsungsg.everestengagement.com
-0.0.0.0 samsungth.everestengagement.com
-0.0.0.0 samsungusa.everestengagement.com
-0.0.0.0 samsungvn.everestengagement.com
 0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 ehg-samsungusa.hitbox.com
 0.0.0.0 conn-v2.samsung.japps.cn

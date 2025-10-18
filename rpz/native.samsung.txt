@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760138220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760742060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Samsung Tracker DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Oct 2025 23:17 UTC
-; Version: 2025.1010.2317.02
+; Last modified: 17 Oct 2025 23:01 UTC
+; Version: 2025.1017.2301.20
 ; Syntax: RPZ
-; Number of entries: 408
+; Number of entries: 394
 ;
 h4g3z1-native.samsung.web.app CNAME .
 *.h4g3z1-native.samsung.web.app CNAME .
@@ -46,20 +46,6 @@ download-samsung.dtignite.com CNAME .
 *.download-samsung.dtignite.com CNAME .
 samsung.ecorebates.com CNAME .
 *.samsung.ecorebates.com CNAME .
-samsungemea.everestengagement.com CNAME .
-*.samsungemea.everestengagement.com CNAME .
-samsungeu.everestengagement.com CNAME .
-*.samsungeu.everestengagement.com CNAME .
-samsungmy.everestengagement.com CNAME .
-*.samsungmy.everestengagement.com CNAME .
-samsungsg.everestengagement.com CNAME .
-*.samsungsg.everestengagement.com CNAME .
-samsungth.everestengagement.com CNAME .
-*.samsungth.everestengagement.com CNAME .
-samsungusa.everestengagement.com CNAME .
-*.samsungusa.everestengagement.com CNAME .
-samsungvn.everestengagement.com CNAME .
-*.samsungvn.everestengagement.com CNAME .
 samsung.telemetry.eyeo.com CNAME .
 *.samsung.telemetry.eyeo.com CNAME .
 ehg-samsungusa.hitbox.com CNAME .

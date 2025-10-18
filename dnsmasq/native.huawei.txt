@@ -3,15 +3,15 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Sep 2025 18:55 UTC
-# Version: 2025.0908.1855.37
+# Last modified: 17 Oct 2025 22:55 UTC
+# Version: 2025.1017.2255.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 123
+# Number of entries: 122
 #
 local=/browsercfg-drcn.cloud.dbankcloud.cn/
 local=/ubacollect-drcn.cloud.dbankcloud.cn/
-local=/ubacollect-drcn.cloud.dbankcloud.co/
 local=/metrics-dre.data.dbankcloud.cn/
 local=/metrics1.data.dbankcloud.cn/
 local=/dnkeeper.dbankcloud.com/

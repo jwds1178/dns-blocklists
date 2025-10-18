@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 11:41 UTC
-# Version: 2025.1017.1141.49
+# Last modified: 17 Oct 2025 22:47 UTC
+# Version: 2025.1017.2247.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6173
+# Number of entries: 6166
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4640,7 +4640,6 @@ local=/dns.sainternet.xyz/
 local=/vpn.sakhwow.ru/
 local=/samj.codes/
 local=/lime.samonte.ovh/
-local=/samsdns1943.net/
 local=/cloud.samutz.com/
 local=/sandmining.us/
 local=/sandparticles.us/
@@ -4727,7 +4726,6 @@ local=/seed.st/
 local=/seed4.me/
 local=/seedboxes.cc/
 local=/dns.seekfor.top/
-local=/doge.seel.cl/
 local=/seeproxy.me/
 local=/dns.seia.io/
 local=/dns.seiffert.me/
@@ -4835,7 +4833,6 @@ local=/siteunblocked.org/
 local=/siteunblocked.space/
 local=/siteunblocked.website/
 local=/siteunblocked.xyz/
-local=/siteunlock2you.com/
 local=/sitework.info/
 local=/moto.adg.siudzinski.net/
 local=/sams.adg.siudzinski.net/
@@ -5171,7 +5168,6 @@ local=/family.dns.teknoholistik.com/
 local=/dns.teknologiku.com/
 local=/dns.telekom.de/
 local=/d51538618.access.telenet.be/
-local=/ab.teleportbot.org/
 local=/guard.telesterion.de/
 local=/telex.app/
 local=/telleport.me/
@@ -5193,7 +5189,6 @@ local=/adguard.tetnet.net/
 local=/cloud.tezoi.com/
 local=/thankvpn.com/
 local=/the-cloak.com/
-local=/thebestproxy.info/
 local=/thebestvpn.com/
 local=/dns.thebuckners.org/
 local=/theclickcheck.com/
@@ -5236,7 +5231,6 @@ local=/theproxya.com/
 local=/theproxya.net/
 local=/theproxya.org/
 local=/theproxyer.com/
-local=/theproxyfull.com/
 local=/theproxyguide.com/
 local=/theproxysite.org/
 local=/theproxyultra.com/
@@ -5276,7 +5270,6 @@ local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
 local=/dns1.timothy-dev.com/
 local=/timurpoyraz.com/
-local=/doge.tinf.cl/
 local=/tinfoil-is-ass.xyz/
 local=/dns.tipsy.coffee/
 local=/tisocks.net/

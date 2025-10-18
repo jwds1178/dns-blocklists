@@ -3,15 +3,15 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Sep 2025 18:55 UTC
-# Version: 2025.0908.1855.37
+# Last modified: 17 Oct 2025 22:55 UTC
+# Version: 2025.1017.2255.24
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 156
+# Number of entries: 155
 #
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 ubacollect-drcn.cloud.dbankcloud.cn
-0.0.0.0 ubacollect-drcn.cloud.dbankcloud.co
 0.0.0.0 metrics-dre.data.dbankcloud.cn
 0.0.0.0 metrics1.data.dbankcloud.cn
 0.0.0.0 dnkeeper.dbankcloud.com

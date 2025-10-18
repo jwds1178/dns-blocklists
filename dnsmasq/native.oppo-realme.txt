@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Sep 2025 19:23 UTC
-# Version: 2025.0919.1923.59
+# Last modified: 17 Oct 2025 22:59 UTC
+# Version: 2025.1017.2259.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 354
+# Number of entries: 352
 #
 local=/calculator-api-fr.allawnos.com/
 local=/calculator-api-in.allawnos.com/
@@ -304,9 +305,7 @@ local=/browser-api-us.heytapmobile.com/
 local=/browser-api-vn.heytapmobile.com/
 local=/browser-api-za.heytapmobile.com/
 local=/browser-sdk-fr.heytapmobile.com/
-local=/browser-sdk-in.heytapmobile.com/
 local=/browser-sdk-ru.heytapmobile.com/
-local=/browser-sdk-us.heytapmobile.com/
 local=/browserfiles.heytapmobile.com/
 local=/api-gl.cdo.heytapmobile.com/
 local=/api-id.cdo.heytapmobile.com/

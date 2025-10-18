@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Oct 2025 10:27 UTC
-! Version: 2025.1017.1027.16
+! Last modified: 17 Oct 2025 23:02 UTC
+! Version: 2025.1017.2302.22
 ! Syntax: AdBlock
-! Number of entries: 14220
+! Number of entries: 14187
 !
 ||01broker.com^
 ||01crypto.com^
@@ -330,6 +330,7 @@
 ||algopro.us^
 ||algoproversion.com^
 ||algorates.com^
+||alheritiere-brennholz.com^
 ||aliands.com^
 ||alianey-hair.com^
 ||alice-outlet.com^
@@ -2403,7 +2404,6 @@
 ||clickgadgets.club^
 ||clicklamp.com^
 ||clickworker.de^
-||climatetrade.com^
 ||climbersequip.com^
 ||climbinglimit.com^
 ||cliniqueloccitane.com^
@@ -10929,7 +10929,6 @@
 ||salesupsurf.com^
 ||salewabootsnz.com^
 ||salewaoutlet.at^
-||salewawanderschuhe.de^
 ||salewentools.com^
 ||saleworkshopequip.com^
 ||salezipp.com^
@@ -10937,7 +10936,6 @@
 ||salfeld-agentur.de^
 ||salmingcolombia.com^
 ||salomon-deutschland.de^
-||salomon-osterreich.at^
 ||salomon-speedcross.com^
 ||salomondeutschlandsale.de^
 ||salomonfinland.com^
@@ -10996,7 +10994,6 @@
 ||saopauloautopeca.com^
 ||saphirvogel.de^
 ||sapientfinancial.ltd^
-||sara-berlin.com^
 ||sarahmo.de^
 ||sarahravengb.com^
 ||saramaud.com^
@@ -11105,7 +11102,6 @@
 ||schrankede.com^
 ||schreibtischecouchtische.com^
 ||schreibundstilonline.shop^
-||schroder-dusseldorf.de^
 ||schroeer23.de^
 ||schuhegiesswein.com^
 ||schuhegunstignice.de^
@@ -11115,7 +11111,6 @@
 ||schuhheimat.com^
 ||schuhschritte.com^
 ||schulte-boutique.de^
-||schuster-wien.at^
 ||schusters-handel.de^
 ||schutz-mode.de^
 ||schwab-outlet.de^
@@ -11132,7 +11127,6 @@
 ||scilulustore.com^
 ||scootbike.de^
 ||scooter-chip.de^
-||scopesaccessories.com^
 ||scorecope.com^
 ||scottsummer.shop^
 ||screenacy.co^
@@ -11190,7 +11184,6 @@
 ||sellercenter.shop^
 ||sellingkitchen.com^
 ||sellnano.de^
-||selphymade.de^
 ||sem-solar.de^
 ||semahomesale.com^
 ||seminariovirtual.org^
@@ -11277,7 +11270,6 @@
 ||shirem.com^
 ||shirtsandpolosde.com^
 ||shirtspolos.com^
-||shj-shipping.de^
 ||shmdesigns.com^
 ||shoe-designers.com^
 ||shoe-onsale.com^
@@ -11290,7 +11282,6 @@
 ||shoesoutlet.shop^
 ||shoesprada.de^
 ||shoessitepro.com^
-||shoessports-shop.com^
 ||shoesusoutlet.com^
 ||shoesusretail.com^
 ||shoesvalley.cn^
@@ -11337,11 +11328,9 @@
 ||shopexbr.com^
 ||shopfaciloja.com^
 ||shopfashion2023.com^
-||shopfasts.shop^
 ||shopfishermansworld.com^
 ||shopfloragalora.com^
 ||shopgamefishing.com^
-||shopgrillssales.com^
 ||shopguterwein.com^
 ||shophaushaltswaren.com^
 ||shophometool.com^
@@ -11417,7 +11406,6 @@
 ||siegert-handel.de^
 ||sieker-versand.de^
 ||sierke24.de^
-||sifs-finance.de^
 ||sigmura.com^
 ||siko-handel.de^
 ||silbergipfel.de^
@@ -11562,7 +11550,6 @@
 ||sofasundsessel.com^
 ||sofie-boutiques.de^
 ||sofologic.de^
-||sofort-kreditt.com^
 ||sofort-registerauszug24.de^
 ||sofortfinanz.com^
 ||soft-handel.de^
@@ -11674,7 +11661,6 @@
 ||spd-mossautal.de^
 ||specializeg.com^
 ||specialmenswear.com^
-||specialpurchasepoint.com^
 ||specialselling.com^
 ||specialtytraderssale.shop^
 ||specificalln.com^
@@ -11703,7 +11689,6 @@
 ||spielzeug-wunderwelt.com^
 ||spielzeugeneu.de^
 ||spielzeugopapop.shop^
-||spielzeugschmie.com^
 ||spielzeugsde.com^
 ||spielzeugsport.com^
 ||spielzeugtonie.com^
@@ -11789,7 +11774,6 @@
 ||stadtplan-local.com^
 ||stadtrand.store^
 ||stahlwandpoolde.com^
-||stamer-hofmann.de^
 ||stammbuchshop.shop^
 ||stammeskleidung.de^
 ||stammholz.com^
@@ -11835,7 +11819,6 @@
 ||steelite-au.com^
 ||stehaufe.de^
 ||steiffen.shop^
-||steinberg-modehaus.de^
 ||steinbrink-verkauf.de^
 ||steiner-wien.at^
 ||steinersalzburg.at^
@@ -11912,7 +11895,6 @@
 ||qvc.store.com^
 ||store-airplane.com^
 ||store-awnings.com^
-||store-bonds.com^
 ||store-cycle.com^
 ||store-farmranch.com^
 ||store-furnishing.com^
@@ -12157,7 +12139,6 @@
 ||swissmain.com^
 ||swisspartners-ag.com^
 ||swissstand.com^
-||swissvendo.ch^
 ||swisswatche.com^
 ||switchesangebote.de^
 ||swivy.de^
@@ -12289,7 +12270,6 @@
 ||techhouse.store^
 ||techitel.de^
 ||technik-fuchs.de^
-||technik-reparatur.at^
 ||technik-schnaeppchen-shop.de^
 ||technikambiente-gmbh.de^
 ||techniklager.com^
@@ -12374,7 +12354,6 @@
 ||teva-osterreich.at^
 ||teva-polska.com^
 ||tevaberlin.de^
-||tevaecohub.com^
 ||tevafi.com^
 ||tevahelsinki.com^
 ||tevanni.com^
@@ -12507,10 +12486,8 @@
 ||thomannofficiall.com^
 ||thomannonlinestore.com^
 ||thomannz.shop^
-||thomas-electronic.shop^
 ||thomascarolyn.com^
 ||thomaswalderberlin.com^
-||thomusic.shop^
 ||thongish.store^
 ||thorogooddeutschland.com^
 ||thorogooddeutschland.de^
@@ -12532,7 +12509,6 @@
 ||thulereisen.de^
 ||thuletour.de^
 ||thursdayboots.at^
-||thursdayboots.de^
 ||thursdayboots-de.com^
 ||thursdayboots-osterreich.at^
 ||thursdaybootsdeutschland.com^
@@ -12547,7 +12523,6 @@
 ||tierbedarfshop.com^
 ||tierfreundeonline.com^
 ||tierfuttergeschaft.com^
-||tierhandlungszuchter.com^
 ||tiernahrungoutlet.com^
 ||tierpflegeprodukte.com^
 ||tierra500.com^
@@ -12643,8 +12618,6 @@
 ||tonies-rabatt.com^
 ||tonies-sonderangebot.com^
 ||tonies-spezialangebot.com^
-||toniwi.com^
-||tonstus-neuss.de^
 ||tool-discount.com^
 ||toolandmaintenance.com^
 ||toolburndy.com^
@@ -12652,7 +12625,6 @@
 ||toolep.com^
 ||toolfield-limit.com^
 ||toolhouseoffer.com^
-||toolisspro.com^
 ||toolproonsale.com^
 ||toolreliable.com^
 ||toolsde.com^
@@ -12666,7 +12638,6 @@
 ||tooltoall.com^
 ||toolwd.com^
 ||toolworldwide.com^
-||toonzshop.at^
 ||top-apotheke.at^
 ||top-apotheke.net^
 ||top-ausstattung.de^
@@ -12844,7 +12815,6 @@
 ||trendshoppingcenter.com^
 ||trendsmodern.com^
 ||trendspremium.store^
-||trendtakt.de^
 ||trendvik.com^
 ||trendvilla.de^
 ||trendy-berlin.de^
@@ -12871,7 +12841,6 @@
 ||trockenesholz.de^
 ||troiphveilla.de^
 ||troll-kinderladen.com^
-||trollelifemarket.com^
 ||tropical-rain-forest.net^
 ||tropical-tides.com^
 ||tropicaltopics.com^
@@ -12921,14 +12890,12 @@
 ||ttl-logistik.de^
 ||tttrilliant-fx.net^
 ||tucnea.com^
-||tudio.de^
 ||tuftex-balloons.com^
 ||tuinbalkon.com^
 ||tunepart.com^
 ||tuninglinie.de^
 ||tupforward.com^
 ||tupperware-de.shop^
-||tupperware-uaeonline.com^
 ||tupperwarestores.com^
 ||turbolidlcraft.com^
 ||turboplanter.at^

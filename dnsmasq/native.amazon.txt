@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Oct 2025 23:09 UTC
-# Version: 2025.1010.2309.31
+# Last modified: 17 Oct 2025 22:53 UTC
+# Version: 2025.1017.2253.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 323
+# Number of entries: 313
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.co.uk/
@@ -25,17 +25,14 @@ local=/aax-audio.amazon-adsystem.com/
 local=/aax-cpm.amazon-adsystem.com/
 local=/aax-dtb-cf.amazon-adsystem.amazon.com/
 local=/aax-dtb-cf.amazon-adsystem.com/
-local=/aax-dtb-legacy.amazon-adsystem.amazon.com/
 local=/aax-dtb-legacy.amazon-adsystem.com/
 local=/aax-dtb-mobile-bids-geo.amazon-adsystem.com/
-local=/aax-dtb-mobile-cf.amazon-adsystem.amazon.com/
 local=/aax-dtb-mobile-events.amazon-adsystem.com/
 local=/aax-dtb-mobile-geo.amazon-adsystem.amazon.com/
 local=/aax-dtb-mobile-geo.amazon-adsystem.com/
 local=/aax-dtb-mobile.amazon-adsystem.com/
 local=/aax-dtb-web-bids-geo.amazon-adsystem.com/
 local=/aax-dtb-web-geo.amazon-adsystem.com/
-local=/aax-dtb-web.amazon-adsystem.amazon.com/
 local=/aax-dtb-web.amazon-adsystem.com/
 local=/aax-eu-dtb-mobile-events.amazon-adsystem.com/
 local=/aax-eu-dtb-mobile.amazon-adsystem.com/
@@ -55,7 +52,6 @@ local=/aax-ott-sdk.amazon-adsystem.amazon.com/
 local=/aax-ott-sdk.amazon-adsystem.com/
 local=/aax-ott.amazon-adsystem.amazon.com/
 local=/aax-ott.amazon-adsystem.com/
-local=/aax-us-cpm.amazon-adsystem.amazon.com/
 local=/aax-us-east-1-ott.amazon-adsystem.amazon.com/
 local=/aax-us-east-dtb-mobile.amazon-adsystem.com/
 local=/aax-us-east-dtb.amazon-adsystem.com/
@@ -88,7 +84,6 @@ local=/aax-vx-eu-eu-west-1.amazon-adsystem.com/
 local=/aax-vx-fe-us-west-2.amazon-adsystem.com/
 local=/aax-vx-us-us-east-1.amazon-adsystem.com/
 local=/aax-vx-us-us-west-2.amazon-adsystem.com/
-local=/aax.amazon-adsystem.amazon.com/
 local=/aax.amazon-adsystem.com/
 local=/ads-setu-proxy-eu.amazon.com/
 local=/advertising-api-eu.amazon.com/
@@ -134,7 +129,6 @@ local=/assoc-msdk-us.amazon-adsystem.com/
 local=/at-beta.amazon-adsystem.com/
 local=/at-gamma-us-east.amazon-adsystem.com/
 local=/at-us-east.amazon-adsystem.com/
-local=/ateu.amazon-adsystem.com/
 local=/atfe.amazon-adsystem.com/
 local=/atue.amazon-adsystem.com/
 local=/aviary.amazon.co.jp/
@@ -217,7 +211,6 @@ local=/maws-aax-apse-rtb-adx.amazon-adsystem.com/
 local=/maws-aax-apse-rtb.amazon-adsystem.com/
 local=/maws-aax-eu-rtb-adx.amazon-adsystem.com/
 local=/maws-aax-eu-rtb.amazon-adsystem.com/
-local=/maws-aax-fe-sin.amazon-adsystem.com/
 local=/maws-aax-us-east-rtb-adx.amazon-adsystem.com/
 local=/maws-aax-us-east-rtb.amazon-adsystem.com/
 local=/maws-aax-us-east-test4.amazon-adsystem.com/
@@ -312,9 +305,6 @@ local=/vfw-us-west-gamma.amazon-adsystem.com/
 local=/vfw-us-west.amazon-adsystem.com/
 local=/vfw-us.amazon-adsystem.com/
 local=/vfw.amazon-adsystem.com/
-local=/vfwm-us.amazon-adsystem.com/
-local=/vfwm.amazon-adsystem.com/
-local=/vfws.amazon-adsystem.com/
 local=/video-ads.a2z.com/
 local=/vq-eu-west-1.amazon-adsystem.com/
 local=/vq-fe-us-west-2.amazon-adsystem.com/

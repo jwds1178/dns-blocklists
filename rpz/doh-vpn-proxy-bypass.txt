@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760701260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760741220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Oct 2025 11:41 UTC
-; Version: 2025.1017.1141.49
+; Last modified: 17 Oct 2025 22:47 UTC
+; Version: 2025.1017.2247.18
 ; Syntax: RPZ
-; Number of entries: 12346
+; Number of entries: 12332
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -697,12 +697,8 @@ dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
 vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 *.vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
-doge.seel.cl CNAME .
-*.doge.seel.cl CNAME .
 start.succeed.cl CNAME .
 *.start.succeed.cl CNAME .
-doge.tinf.cl CNAME .
-*.doge.tinf.cl CNAME .
 shop.woodworker.cl CNAME .
 *.shop.woodworker.cl CNAME .
 baconmania.click CNAME .
@@ -3789,8 +3785,6 @@ sitenable.com CNAME .
 *.sitenable.com CNAME .
 sitesunblocked.com CNAME .
 *.sitesunblocked.com CNAME .
-siteunlock2you.com CNAME .
-*.siteunlock2you.com CNAME .
 skipns.com CNAME .
 *.skipns.com CNAME .
 skydragoness.com CNAME .
@@ -4055,8 +4049,6 @@ theproxya.com CNAME .
 *.theproxya.com CNAME .
 theproxyer.com CNAME .
 *.theproxyer.com CNAME .
-theproxyfull.com CNAME .
-*.theproxyfull.com CNAME .
 theproxyguide.com CNAME .
 *.theproxyguide.com CNAME .
 theproxyultra.com CNAME .
@@ -6343,8 +6335,6 @@ surfbytes.info CNAME .
 *.surfbytes.info CNAME .
 vpn.technicule.info CNAME .
 *.vpn.technicule.info CNAME .
-thebestproxy.info CNAME .
-*.thebestproxy.info CNAME .
 login.thegalleryofart.info CNAME .
 *.login.thegalleryofart.info CNAME .
 theproxy2.info CNAME .
@@ -8491,8 +8481,6 @@ safersurfing.net CNAME .
 *.safersurfing.net CNAME .
 safetysurf.net CNAME .
 *.safetysurf.net CNAME .
-samsdns1943.net CNAME .
-*.samsdns1943.net CNAME .
 dns.sarakas.net CNAME .
 *.dns.sarakas.net CNAME .
 dns1.sarakas.net CNAME .
@@ -9793,8 +9781,6 @@ dn5.talesam.org CNAME .
 *.dn5.talesam.org CNAME .
 dns1.techeasy.org CNAME .
 *.dns1.techeasy.org CNAME .
-ab.teleportbot.org CNAME .
-*.ab.teleportbot.org CNAME .
 au.teradns.org CNAME .
 *.au.teradns.org CNAME .
 de.teradns.org CNAME .

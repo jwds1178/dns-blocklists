@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 11:41 UTC
-# Version: 2025.1017.1141.23
+# Last modified: 17 Oct 2025 22:47 UTC
+# Version: 2025.1017.2247.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3875
+# Number of entries: 3873
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3178,7 +3178,6 @@
 0.0.0.0 unfiltered.dns.sainternet.xyz
 0.0.0.0 vpn.sakhwow.ru
 0.0.0.0 lime.samonte.ovh
-0.0.0.0 samsdns1943.net
 0.0.0.0 cloud.samutz.com
 0.0.0.0 dns.saneaki.com
 0.0.0.0 router.sapib.ca
@@ -3455,7 +3454,6 @@
 0.0.0.0 dns.teknologiku.com
 0.0.0.0 dns.telekom.de
 0.0.0.0 d51538618.access.telenet.be
-0.0.0.0 ab.teleportbot.org
 0.0.0.0 guard.telesterion.de
 0.0.0.0 telex.app
 0.0.0.0 sg.telex.app

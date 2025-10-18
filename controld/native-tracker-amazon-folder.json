@@ -64,13 +64,6 @@
       }
     },
     {
-      "PK": "aax.amazon-adsystem.amazon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "aax.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -127,13 +120,6 @@
       }
     },
     {
-      "PK": "aax-dtb-legacy.amazon-adsystem.amazon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "aax-dtb-legacy.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -155,13 +141,6 @@
       }
     },
     {
-      "PK": "aax-dtb-mobile-cf.amazon-adsystem.amazon.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "aax-dtb-mobile-events.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -177,13 +156,6 @@
     },
     {
       "PK": "aax-dtb-mobile-geo.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aax-dtb-web.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -345,13 +317,6 @@
     },
     {
       "PK": "aax-us.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "aax-us-cpm.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -856,13 +821,6 @@
     },
     {
       "PK": "at-beta.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ateu.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1451,13 +1409,6 @@
     },
     {
       "PK": "maws-aax-eu-rtb.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "maws-aax-fe-sin.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2088,27 +2039,6 @@
     },
     {
       "PK": "vfw-gamma.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vfwm.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vfwm-us.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "vfws.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

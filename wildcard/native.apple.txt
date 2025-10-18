@@ -3,11 +3,12 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:53 UTC
-# Version: 2025.0612.1253.57
+# Last modified: 17 Oct 2025 22:53 UTC
+# Version: 2025.1017.2253.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 108
+# Number of entries: 94
 #
 *.cstat.g.aaplimg.com
 *.diagassets.g.aaplimg.com
@@ -41,7 +42,6 @@
 *.advp.apple.com
 *.api-adservices.apple.com
 *.books-analytics-events.apple.com
-*.camfx-analytics-events.apple.com
 *.cstat.apple.com
 *.cstat-origin.apple.com
 *.databeacon.apple.com
@@ -55,14 +55,7 @@
 *.iadsdk.apple.com
 *.iadworkbench.apple.com
 *.idiagnostics.apple.com
-*.idiagnostics-devices-mdn.apple.com
-*.idiagnostics-devices-qa.apple.com
-*.idiagnostics-devices-reno.apple.com
-*.idiagnostics-ft.apple.com
-*.idiagnostics-it2.apple.com
 *.idiagnostics-mdn1.apple.com
-*.idiagnostics-qa.apple.com
-*.idiagnostics-reno.apple.com
 *.internalcheck.apple.com
 *.iphonesubmissions.apple.com
 *.iphonesubmissions-old.apple.com
@@ -80,19 +73,13 @@
 *.phonesubmissions.apple.com
 *.prd-usw2-requestattribution-iad.apple.com
 *.proxy-skadnetwork.apple.com
-*.qa-iad.apple.com
 *.radarsubmissions.apple.com
-*.sdkintg-iad.apple.com
-*.sdkintgiad.apple.com
 *.searchads.apple.com
 *.securemetrics.apple.com
 *.securemvt.apple.com
 *.fbs.smoot.apple.com
-*.stg-iad.apple.com
 *.stocks-analytics-events.apple.com
 *.supportmetrics.apple.com
-*.uxintg-iad.apple.com
-*.uxintgiad.apple.com
 *.weather-analytics-events.apple.com
 *.xp.apple.com
 *.xp-cdn.apple.com
