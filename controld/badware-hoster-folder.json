@@ -1688,6 +1688,13 @@
       }
     },
     {
+      "PK": "blogcudinti.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "blogg.de",
       "action": {
         "do": 0,
@@ -2004,6 +2011,13 @@
     },
     {
       "PK": "blogspot.dk",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "blogspot.es",
       "action": {
         "do": 0,
         "status": 1
@@ -3621,6 +3635,13 @@
     },
     {
       "PK": "ecrater.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "editorx.io",
       "action": {
         "do": 0,
         "status": 1

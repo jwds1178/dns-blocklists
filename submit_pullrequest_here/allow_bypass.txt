@@ -46,6 +46,7 @@ vpn.surf
 wireguard.com
 xeovo.com
 youtube.com
+stunnel.org
 
 # Apple Intelligence, Siri
 apple-relay.*

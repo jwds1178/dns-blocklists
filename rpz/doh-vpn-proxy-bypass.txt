@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760741220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760787780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Oct 2025 22:47 UTC
-; Version: 2025.1017.2247.18
+; Last modified: 18 Oct 2025 11:43 UTC
+; Version: 2025.1018.1143.33
 ; Syntax: RPZ
-; Number of entries: 12332
+; Number of entries: 12304
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -325,12 +325,8 @@ unblock3d.biz CNAME .
 *.unblock3d.biz CNAME .
 unblockbook.biz CNAME .
 *.unblockbook.biz CNAME .
-unblocked.biz CNAME .
-*.unblocked.biz CNAME .
 unblocked2.biz CNAME .
 *.unblocked2.biz CNAME .
-unblockedsite.biz CNAME .
-*.unblockedsite.biz CNAME .
 unblocksite.biz CNAME .
 *.unblocksite.biz CNAME .
 unblockweb.biz CNAME .
@@ -835,8 +831,6 @@ dns.soldier.terumi.club CNAME .
 *.dns.soldier.terumi.club CNAME .
 theproxy.club CNAME .
 *.theproxy.club CNAME .
-unblock2.club CNAME .
-*.unblock2.club CNAME .
 unblockedsite.club CNAME .
 *.unblockedsite.club CNAME .
 unblockit.club CNAME .
@@ -4169,8 +4163,6 @@ doh.ultradns.com CNAME .
 *.doh.ultradns.com CNAME .
 ultrafastproxy.com CNAME .
 *.ultrafastproxy.com CNAME .
-ultraproxyweb.com CNAME .
-*.ultraproxyweb.com CNAME .
 ultravpn.com CNAME .
 *.ultravpn.com CNAME .
 dns.umbrella.com CNAME .
@@ -4217,8 +4209,6 @@ unblockedscene.com CNAME .
 *.unblockedscene.com CNAME .
 unblockedschool.com CNAME .
 *.unblockedschool.com CNAME .
-unblockedsiteroute.com CNAME .
-*.unblockedsiteroute.com CNAME .
 unblockedv4.com CNAME .
 *.unblockedv4.com CNAME .
 unblockedwarez.com CNAME .
@@ -4479,20 +4469,12 @@ weboproxy.com CNAME .
 *.weboproxy.com CNAME .
 webproxy.com CNAME .
 *.webproxy.com CNAME .
-webproxyagent.com CNAME .
-*.webproxyagent.com CNAME .
-webproxyinc.com CNAME .
-*.webproxyinc.com CNAME .
 webproxyusa.com CNAME .
 *.webproxyusa.com CNAME .
-webrunnerproxy.com CNAME .
-*.webrunnerproxy.com CNAME .
 websitebypass.com CNAME .
 *.websitebypass.com CNAME .
 websynchrony.com CNAME .
 *.websynchrony.com CNAME .
-webtunnelproxy.com CNAME .
-*.webtunnelproxy.com CNAME .
 webtunnelx.com CNAME .
 *.webtunnelx.com CNAME .
 webxify.com CNAME .
@@ -4653,8 +4635,6 @@ zerotier.com CNAME .
 *.zerotier.com CNAME .
 oraclejp01.zerotorez.com CNAME .
 *.oraclejp01.zerotorez.com CNAME .
-zerotunnel.com CNAME .
-*.zerotunnel.com CNAME .
 zerovpn-app.com CNAME .
 *.zerovpn-app.com CNAME .
 res.zijji.com CNAME .
@@ -6717,8 +6697,6 @@ surfshark.jp CNAME .
 *.surfshark.jp CNAME .
 vpngate2.jp CNAME .
 *.vpngate2.jp CNAME .
-kvps01.xvps.jp CNAME .
-*.kvps01.xvps.jp CNAME .
 xie.ke CNAME .
 *.xie.ke CNAME .
 dns.cctld.kg CNAME .
@@ -7209,8 +7187,6 @@ uvpn.me CNAME .
 *.uvpn.me CNAME .
 dns2.vinc.me CNAME .
 *.dns2.vinc.me CNAME .
-volik.me CNAME .
-*.volik.me CNAME .
 vpnme.me CNAME .
 *.vpnme.me CNAME .
 vpnsecure.me CNAME .
@@ -8677,8 +8653,6 @@ ultimateproxy.net CNAME .
 *.ultimateproxy.net CNAME .
 ultrafun.net CNAME .
 *.ultrafun.net CNAME .
-unblockblocked.net CNAME .
-*.unblockblocked.net CNAME .
 unblocked2.net CNAME .
 *.unblocked2.net CNAME .
 unblockedonline.net CNAME .
@@ -9767,8 +9741,6 @@ dns.stormycloud.org CNAME .
 *.dns.stormycloud.org CNAME .
 strassmair.org CNAME .
 *.strassmair.org CNAME .
-stunnel.org CNAME .
-*.stunnel.org CNAME .
 doh.suche.org CNAME .
 *.doh.suche.org CNAME .
 super123.org CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760744400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760785440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Oct 2025 23:40 UTC
-; Version: 2025.1017.2340.41
+; Last modified: 18 Oct 2025 11:04 UTC
+; Version: 2025.1018.1104.38
 ; Syntax: RPZ
-; Number of entries: 2756
+; Number of entries: 2762
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -376,6 +376,8 @@ blog.com CNAME .
 *.blog.com CNAME .
 blogcu.com CNAME .
 *.blogcu.com CNAME .
+blogcudinti.com CNAME .
+*.blogcudinti.com CNAME .
 blogginger.com CNAME .
 *.blogginger.com CNAME .
 blogia.com CNAME .
@@ -1320,6 +1322,8 @@ blogspot.com.ee CNAME .
 *.blogspot.com.ee CNAME .
 blogspot.com.eg CNAME .
 *.blogspot.com.eg CNAME .
+blogspot.es CNAME .
+*.blogspot.es CNAME .
 blogspot.com.es CNAME .
 *.blogspot.com.es CNAME .
 24.org.es CNAME .
@@ -1670,6 +1674,8 @@ seite.info CNAME .
 *.8b.io CNAME .
 boxmode.io CNAME .
 *.boxmode.io CNAME .
+editorx.io CNAME .
+*.editorx.io CNAME .
 qzz.io CNAME .
 *.qzz.io CNAME .
 dcr.sehlat.io CNAME .

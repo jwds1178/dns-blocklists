@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1760741280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1760783160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Oct 2025 22:48 UTC
-; Version: 2025.1017.2248.22
+; Last modified: 18 Oct 2025 10:26 UTC
+; Version: 2025.1018.1026.36
 ; Syntax: RPZ
-; Number of entries: 16044
+; Number of entries: 16032
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -251,8 +251,6 @@ pd.am CNAME .
 *.pd.am CNAME .
 viaja.am CNAME .
 *.viaja.am CNAME .
-vl.am CNAME .
-*.vl.am CNAME .
 vvt.am CNAME .
 *.vvt.am CNAME .
 10bt.app CNAME .
@@ -1451,8 +1449,6 @@ uos.cc CNAME .
 *.uos.cc CNAME .
 urlbox.cc CNAME .
 *.urlbox.cc CNAME .
-urlf.cc CNAME .
-*.urlf.cc CNAME .
 urlme.cc CNAME .
 *.urlme.cc CNAME .
 urlsshares.cc CNAME .
@@ -2493,8 +2489,6 @@ wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
 *.wm0.co CNAME .
-wndrfl.co CNAME .
-*.wndrfl.co CNAME .
 wp1.co CNAME .
 *.wp1.co CNAME .
 wrctr.co CNAME .
@@ -4295,8 +4289,6 @@ naik-terus.com CNAME .
 *.naik-terus.com CNAME .
 nakdetail.com CNAME .
 *.nakdetail.com CNAME .
-nanuba.com CNAME .
-*.nanuba.com CNAME .
 narrowurl.com CNAME .
 *.narrowurl.com CNAME .
 on.natgeo.com CNAME .
@@ -5463,8 +5455,6 @@ url8x.com CNAME .
 *.url8x.com CNAME .
 url9xx.com CNAME .
 *.url9xx.com CNAME .
-urladda.com CNAME .
-*.urladda.com CNAME .
 urlah.com CNAME .
 *.urlah.com CNAME .
 urlao.com CNAME .
@@ -10293,8 +10283,6 @@ urlmy.link CNAME .
 *.urlmy.link CNAME .
 urlshorten.link CNAME .
 *.urlshorten.link CNAME .
-urlshrt.link CNAME .
-*.urlshrt.link CNAME .
 urlsmall.link CNAME .
 *.urlsmall.link CNAME .
 usetiny.link CNAME .

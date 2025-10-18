@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:47 UTC
-# Version: 2025.1017.2247.56
+# Last modified: 18 Oct 2025 11:43 UTC
+# Version: 2025.1018.1143.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3873
+# Number of entries: 3871
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3649,7 +3649,6 @@
 0.0.0.0 dns.vmisch.tech
 0.0.0.0 dns.vod11.xyz
 0.0.0.0 httpdns.volcengineapi.com
-0.0.0.0 volik.me
 0.0.0.0 dns.volsap.ovh
 0.0.0.0 vpn0109.voodonline.fr
 0.0.0.0 vorlif.org
@@ -3785,7 +3784,6 @@
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
 0.0.0.0 dns.xv.fi
-0.0.0.0 kvps01.xvps.jp
 0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.xydustc.me

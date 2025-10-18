@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 10:14 UTC
-# Version: 2025.1017.1014.18
+# Last modified: 18 Oct 2025 10:12 UTC
+# Version: 2025.1018.1012.59
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1050
+# Number of entries: 1062
 #
 l.1mp.ru
 t.1und1.de
@@ -299,6 +299,7 @@ casale-match.dotomi.com
 cj.dotomi.com
 cpe.dotomi.com
 ad.cpe.dotomi.com
+bigo-us-west.ad.cpe.dotomi.com
 direct.ad.cpe.dotomi.com
 event.ad.cpe.dotomi.com
 hb.ad.cpe.dotomi.com
@@ -331,6 +332,7 @@ suite11.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite22.emarsys.net
+suite24.emarsys.net
 suite27.emarsys.net
 suite29.emarsys.net
 suite30.emarsys.net
@@ -338,6 +340,7 @@ suite32.emarsys.net
 suite33.emarsys.net
 suite38.emarsys.net
 suite40.emarsys.net
+suite40-cf.emarsys.net
 suite45.emarsys.net
 suite46.emarsys.net
 suite54.emarsys.net
@@ -418,13 +421,16 @@ bounce.s50.exacttarget.com
 image.s50.exacttarget.com
 mc.s50.exacttarget.com
 members.s50.exacttarget.com
+reply.s50.exacttarget.com
 s51.exacttarget.com
 bounce.s51.exacttarget.com
 click.s51.exacttarget.com
 mc.s51.exacttarget.com
+members.s51.exacttarget.com
 s6.exacttarget.com
 image.s6.exacttarget.com
 inbound.s6.exacttarget.com
+inbound-reply.s6.exacttarget.com
 mc.s6.exacttarget.com
 members.s6.exacttarget.com
 origin-click.s6.exacttarget.com
@@ -514,6 +520,7 @@ href.li
 sites.hscoscdn-eu1.net
 139754362.sites.hscoscdn-eu1.net
 group0.sites.hscoscdn-eu1.net
+143338098.group0.sites.hscoscdn-eu1.net
 sites.hscoscdn-na2.net
 group0.sites.hscoscdn-na2.net
 sites.hscoscdn00.net
@@ -692,6 +699,7 @@ mkto-ab310115.com
 mkto-ab330197.com
 mkto-ab340022.com
 mkto-ab420081.com
+mkto-ab440098.com
 mkto-ab470148.com
 mkto-ab480059.com
 mkto-ab520004.com
@@ -728,6 +736,8 @@ mkto-sj140007.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com
+mkto-sj200192.com
+mkto-sj210107.com
 mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj270080.com
@@ -735,6 +745,7 @@ mkto-sj310061.com
 mkto-sj310186.com
 mkto-sj320047.com
 mkto-sj330006.com
+mkto-sj340004.com
 mkto-sj360076.com
 mkto-sj360142.com
 mkto-test.com
@@ -852,6 +863,7 @@ r6lccqnab.cc.rs6.net
 rav5ithbb.cc.rs6.net
 rdevbseab.cc.rs6.net
 rfgvnv6ab.cc.rs6.net
+rfn9k5jab.cc.rs6.net
 rfnptk8ab.cc.rs6.net
 ripon4tab.cc.rs6.net
 rjpz4ucab.cc.rs6.net

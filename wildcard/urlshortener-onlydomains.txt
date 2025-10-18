@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:48 UTC
-# Version: 2025.1017.2248.22
+# Last modified: 18 Oct 2025 10:26 UTC
+# Version: 2025.1018.1026.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 8022
+# Number of entries: 8016
 #
 0.gp
 00m.in
@@ -4366,7 +4366,6 @@ name.ly
 links.nanoleaf.me
 nanourl.in
 nanourl.org
-nanuba.com
 narrowurl.com
 go.nasa.gov
 on.natgeo.com
@@ -6996,7 +6995,6 @@ url88.online
 url8x.com
 url9xx.com
 urla.ru
-urladda.com
 urlah.com
 urlao.com
 urlb.io
@@ -7023,7 +7021,6 @@ urlenco.de
 urlers.com
 urless.com
 urlexpander.org
-urlf.cc
 urlfile.xyz
 urlfirm.com
 urlflea.com
@@ -7121,7 +7118,6 @@ urlshortly.com
 urlshortner.org
 urlshortnerpassive.com
 urlshortx.com
-urlshrt.link
 urlshtr.com
 urlsmall.com
 urlsmall.link
@@ -7407,7 +7403,6 @@ vivoldi.com
 vix.cx
 vk.cc
 vk.sv
-vl.am
 vla.lu
 vlink.cz
 vlnq.in
@@ -7648,7 +7643,6 @@ wm0.co
 wmg.click
 wmojo.com
 wn.nr
-wndrfl.co
 wndt.nl
 wns-academy.live
 wo.ws

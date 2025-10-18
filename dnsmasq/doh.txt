@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:47 UTC
-# Version: 2025.1017.2247.56
+# Last modified: 18 Oct 2025 11:43 UTC
+# Version: 2025.1018.1143.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3395
+# Number of entries: 3393
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3190,7 +3190,6 @@ local=/dns.vlo.cc/
 local=/dns.vmisch.tech/
 local=/dns.vod11.xyz/
 local=/httpdns.volcengineapi.com/
-local=/volik.me/
 local=/dns.volsap.ovh/
 local=/vpn0109.voodonline.fr/
 local=/vorlif.org/
@@ -3314,7 +3313,6 @@ local=/look.xshentx.org/
 local=/dns.xuming.studio/
 local=/dns.xusqui.com/
 local=/dns.xv.fi/
-local=/kvps01.xvps.jp/
 local=/dns.xwdmw.xyz/
 local=/v2.xx3210766.live/
 local=/dns.xydustc.me/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:47 UTC
-# Version: 2025.1017.2247.18
+# Last modified: 18 Oct 2025 11:43 UTC
+# Version: 2025.1018.1143.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6166
+# Number of entries: 6152
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -5021,7 +5021,6 @@ local=/dns.struchkov.dev/
 local=/structoriumwings.ru/
 local=/dns.stud.cloud/
 local=/studysurf.com/
-local=/stunnel.org/
 local=/stupidproxy.com/
 local=/la-doh.stuptech.com/
 local=/doh.sublime9.xyz/
@@ -5414,7 +5413,6 @@ local=/doh.ultradns.com/
 local=/ultrafastproxy.com/
 local=/ultrafun.net/
 local=/ultraproxy.biz/
-local=/ultraproxyweb.com/
 local=/ultrasurf.es/
 local=/ultrasurf.us/
 local=/ultravpn.com/
@@ -5434,7 +5432,6 @@ local=/unblock-sites.com/
 local=/unblock-us.com/
 local=/unblock-websites.com/
 local=/unblock123.com/
-local=/unblock2.club/
 local=/unblock2.pw/
 local=/unblock2.site/
 local=/unblock2.space/
@@ -5448,13 +5445,11 @@ local=/unblockaccess.com/
 local=/unblockadultsites.com/
 local=/unblockandsurf.com/
 local=/unblockanything.com/
-local=/unblockblocked.net/
 local=/unblockbook.biz/
 local=/unblockdirect.com/
 local=/unblocked.ac/
 local=/unblocked.africa/
 local=/unblocked.asia/
-local=/unblocked.biz/
 local=/unblocked.black/
 local=/unblocked.buzz/
 local=/unblocked.cloud/
@@ -5497,14 +5492,12 @@ local=/unblockedproxy.info/
 local=/unblockedproxy.us/
 local=/unblockedscene.com/
 local=/unblockedschool.com/
-local=/unblockedsite.biz/
 local=/unblockedsite.club/
 local=/unblockedsite.fun/
 local=/unblockedsite.info/
 local=/unblockedsite.net/
 local=/unblockedsite.pw/
 local=/unblockedsite.xyz/
-local=/unblockedsiteroute.com/
 local=/unblockedsites.net/
 local=/unblockedsites.org/
 local=/unblockedstreaming.net/
@@ -5712,7 +5705,6 @@ local=/dns.vmisch.tech/
 local=/vobas.com/
 local=/dns.vod11.xyz/
 local=/httpdns.volcengineapi.com/
-local=/volik.me/
 local=/dns.volsap.ovh/
 local=/vonvpn.com/
 local=/vpn0109.voodonline.fr/
@@ -5886,12 +5878,9 @@ local=/webproxy.com/
 local=/webproxy.online/
 local=/webproxy.to/
 local=/webproxy.us/
-local=/webproxyagent.com/
 local=/webproxyfree.net/
-local=/webproxyinc.com/
 local=/webproxyusa.com/
 local=/shark-pan.webredirect.org/
-local=/webrunnerproxy.com/
 local=/webshare.io/
 local=/janvet.website.pl/
 local=/websitebypass.com/
@@ -5903,7 +5892,6 @@ local=/webtester.cc/
 local=/zuhause.webteufel.net/
 local=/webteufel-it.solutions/
 local=/webtunnel.org/
-local=/webtunnelproxy.com/
 local=/webtunnelx.com/
 local=/webxify.com/
 local=/webypass.info/
@@ -6036,7 +6024,6 @@ local=/dns.xusqui.com/
 local=/dns.xv.fi/
 local=/xvbelink.com/
 local=/xvpn.io/
-local=/kvps01.xvps.jp/
 local=/dns.xwdmw.xyz/
 local=/v2.xx3210766.live/
 local=/dns.xydustc.me/
@@ -6132,7 +6119,6 @@ local=/zenvpn.net/
 local=/adguard-kartoffel.zernico.de/
 local=/zerotier.com/
 local=/oraclejp01.zerotorez.com/
-local=/zerotunnel.com/
 local=/zerovpn-app.com/
 local=/zexusdigital.online/
 local=/dns.zfsystem.tech/

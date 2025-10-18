@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Oct 2025 22:48 UTC
-! Version: 2025.1017.2248.22
+! Last modified: 18 Oct 2025 10:26 UTC
+! Version: 2025.1018.1026.36
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -3810,7 +3810,6 @@
 @@||magaus.co^
 @@||magaus.net^
 @@||magaus.org^
-@@||magaus.xyz^
 @@||maha77.site^
 @@||maicowa.xyz^
 @@||mainaku.life^
@@ -4228,7 +4227,6 @@
 @@||links.nanoleaf.me^
 @@||nanourl.in^
 @@||nanourl.org^
-@@||nanuba.com^
 @@||narrowurl.com^
 @@||go.nasa.gov^
 @@||on.natgeo.com^
@@ -6790,7 +6788,6 @@
 @@||url8x.com^
 @@||url9xx.com^
 @@||urla.ru^
-@@||urladda.com^
 @@||urlah.com^
 @@||urlao.com^
 @@||urlb.io^
@@ -6817,7 +6814,6 @@
 @@||urlers.com^
 @@||urless.com^
 @@||urlexpander.org^
-@@||urlf.cc^
 @@||urlfile.xyz^
 @@||urlfirm.com^
 @@||urlflea.com^
@@ -6912,7 +6908,6 @@
 @@||urlshortner.org^
 @@||urlshortnerpassive.com^
 @@||urlshortx.com^
-@@||urlshrt.link^
 @@||urlshtr.com^
 @@||urlsmall.com^
 @@||urlsmall.link^
@@ -7195,7 +7190,6 @@
 @@||vivoldi.com^
 @@||vk.cc^
 @@||vk.sv^
-@@||vl.am^
 @@||vla.lu^
 @@||vlink.cz^
 @@||vlnq.in^
@@ -7408,7 +7402,6 @@
 @@||wmg.click^
 @@||wmojo.com^
 @@||wn.nr^
-@@||wndrfl.co^
 @@||wndt.nl^
 @@||wns-academy.live^
 @@||wo.ws^

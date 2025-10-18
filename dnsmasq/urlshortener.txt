@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Oct 2025 22:48 UTC
-# Version: 2025.1017.2248.22
+# Last modified: 18 Oct 2025 10:26 UTC
+# Version: 2025.1018.1026.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8022
+# Number of entries: 8016
 #
 local=/0.gp/
 local=/00m.in/
@@ -4366,7 +4366,6 @@ local=/name.ly/
 local=/links.nanoleaf.me/
 local=/nanourl.in/
 local=/nanourl.org/
-local=/nanuba.com/
 local=/narrowurl.com/
 local=/go.nasa.gov/
 local=/on.natgeo.com/
@@ -6996,7 +6995,6 @@ local=/url88.online/
 local=/url8x.com/
 local=/url9xx.com/
 local=/urla.ru/
-local=/urladda.com/
 local=/urlah.com/
 local=/urlao.com/
 local=/urlb.io/
@@ -7023,7 +7021,6 @@ local=/urlenco.de/
 local=/urlers.com/
 local=/urless.com/
 local=/urlexpander.org/
-local=/urlf.cc/
 local=/urlfile.xyz/
 local=/urlfirm.com/
 local=/urlflea.com/
@@ -7121,7 +7118,6 @@ local=/urlshortly.com/
 local=/urlshortner.org/
 local=/urlshortnerpassive.com/
 local=/urlshortx.com/
-local=/urlshrt.link/
 local=/urlshtr.com/
 local=/urlsmall.com/
 local=/urlsmall.link/
@@ -7407,7 +7403,6 @@ local=/vivoldi.com/
 local=/vix.cx/
 local=/vk.cc/
 local=/vk.sv/
-local=/vl.am/
 local=/vla.lu/
 local=/vlink.cz/
 local=/vlnq.in/
@@ -7648,7 +7643,6 @@ local=/wm0.co/
 local=/wmg.click/
 local=/wmojo.com/
 local=/wn.nr/
-local=/wndrfl.co/
 local=/wndt.nl/
 local=/wns-academy.live/
 local=/wo.ws/
